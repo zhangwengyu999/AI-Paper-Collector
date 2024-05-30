@@ -1,0 +1,3164 @@
+[
+    {
+        "paper_name": "Proceedings of the 2020 International Conference on Management of Data, SIGMOD Conference 2020, online conference [Portland, OR, USA], June 14-19, 2020",
+        "paper_url": "https://dl.acm.org/doi/10.1145/3318464",
+        "paper_authors": [
+            "David Maier",
+            "Rachel Pottinger",
+            "AnHai Doan",
+            "Wang-Chiew Tan",
+            "Abdussalam Alawini",
+            "Hung Q. Ngo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Systems and ML: When the Sum is Greater than Its Parts",
+        "paper_url": "https://doi.org/10.1145/3318464.3393817",
+        "paper_authors": [
+            "Ion Stoica"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Recommending Deployment Strategies for Collaborative Tasks",
+        "paper_url": "https://doi.org/10.1145/3318464.3389719",
+        "paper_authors": [
+            "Dong Wei",
+            "Senjuti Basu Roy",
+            "Sihem Amer-Yahia"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Human-in-the-loop Outlier Detection",
+        "paper_url": "https://doi.org/10.1145/3318464.3389772",
+        "paper_authors": [
+            "Chengliang Chai",
+            "Lei Cao",
+            "Guoliang Li",
+            "Jian Li",
+            "Yuyu Luo",
+            "Samuel Madden"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "QUAD: Quadratic-Bound-based Kernel Density Visualization",
+        "paper_url": "https://doi.org/10.1145/3318464.3380561",
+        "paper_authors": [
+            "Tsz Nam Chan",
+            "Reynold Cheng",
+            "Man Lung Yiu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ShapeSearch: A Flexible and Efficient System for Shape-based Exploration of Trendlines",
+        "paper_url": "https://doi.org/10.1145/3318464.3389722",
+        "paper_authors": [
+            "Tarique Siddiqui",
+            "Paul Luh",
+            "Zesheng Wang",
+            "Karrie Karahalios",
+            "Aditya G. Parameswaran"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Marviq: Quality-Aware Geospatial Visualization of Range-Selection Queries Using Materialization",
+        "paper_url": "https://doi.org/10.1145/3318464.3389730",
+        "paper_authors": [
+            "Liming Dong",
+            "Qiushi Bai",
+            "Taewoo Kim",
+            "Taiji Chen",
+            "Weidong Liu",
+            "Chen Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Transactional Causal Consistency for Serverless Computing",
+        "paper_url": "https://doi.org/10.1145/3318464.3389710",
+        "paper_authors": [
+            "Chenggang Wu",
+            "Vikram Sreekanti",
+            "Joseph M. Hellerstein"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cost Models for Big Data Query Processing: Learning, Retrofitting, and Our Findings",
+        "paper_url": "https://doi.org/10.1145/3318464.3380584",
+        "paper_authors": [
+            "Tarique Siddiqui",
+            "Alekh Jindal",
+            "Shi Qiao",
+            "Hiren Patel",
+            "Wangchao Le"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Lambada: Interactive Data Analytics on Cold Data Using Serverless Cloud Infrastructure",
+        "paper_url": "https://doi.org/10.1145/3318464.3389758",
+        "paper_authors": [
+            "Ingo M\u00fcller",
+            "Renato Marroqu\u00edn",
+            "Gustavo Alonso"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Starling: A Scalable Query Engine on Cloud Functions",
+        "paper_url": "https://doi.org/10.1145/3318464.3380609",
+        "paper_authors": [
+            "Matthew Perron",
+            "Raul Castro Fernandez",
+            "David J. DeWitt",
+            "Samuel Madden"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning a Partitioning Advisor for Cloud Databases",
+        "paper_url": "https://doi.org/10.1145/3318464.3389704",
+        "paper_authors": [
+            "Benjamin Hilprecht",
+            "Carsten Binnig",
+            "Uwe R\u00f6hm"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DB4ML - An In-Memory Database Kernel with Machine Learning Support",
+        "paper_url": "https://doi.org/10.1145/3318464.3380575",
+        "paper_authors": [
+            "Matthias Jasny",
+            "Tobias Ziegler",
+            "Tim Kraska",
+            "Uwe R\u00f6hm",
+            "Carsten Binnig"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Active Learning for ML Enhanced Database Systems",
+        "paper_url": "https://doi.org/10.1145/3318464.3389768",
+        "paper_authors": [
+            "Lin Ma",
+            "Bailu Ding",
+            "Sudipto Das",
+            "Adith Swaminathan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Qd-tree: Learning Data Layouts for Big Data Analytics",
+        "paper_url": "https://doi.org/10.1145/3318464.3389770",
+        "paper_authors": [
+            "Zongheng Yang",
+            "Badrish Chandramouli",
+            "Chi Wang",
+            "Johannes Gehrke",
+            "Yinan Li",
+            "Umar Farooq Minhas",
+            "Per-\u00c5ke Larson",
+            "Donald Kossmann",
+            "Rajeev Acharya"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Facilitating SQL Query Composition and Analysis",
+        "paper_url": "https://doi.org/10.1145/3318464.3380602",
+        "paper_authors": [
+            "Zainab Zolaktaf",
+            "Mostafa Milani",
+            "Rachel Pottinger"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MONSOON: Multi-Step Optimization and Execution of Queries with Partially Obscured Predicates",
+        "paper_url": "https://doi.org/10.1145/3318464.3389728",
+        "paper_authors": [
+            "Sourav Sikdar",
+            "Chris Jermaine"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Causal Relational Learning",
+        "paper_url": "https://doi.org/10.1145/3318464.3389759",
+        "paper_authors": [
+            "Babak Salimi",
+            "Harsh Parikh",
+            "Moe Kayali",
+            "Lise Getoor",
+            "Sudeepa Roy",
+            "Dan Suciu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sample Debiasing in the Themis Open World Database System",
+        "paper_url": "https://doi.org/10.1145/3318464.3380606",
+        "paper_authors": [
+            "Laurel J. Orr",
+            "Magdalena Balazinska",
+            "Dan Suciu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Stochastic Package Queries in Probabilistic Databases",
+        "paper_url": "https://doi.org/10.1145/3318464.3389765",
+        "paper_authors": [
+            "Matteo Brucato",
+            "Nishant Yadav",
+            "Azza Abouzied",
+            "Peter J. Haas",
+            "Alexandra Meliou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast and Reliable Missing Data Contingency Analysis with Predicate-Constraints",
+        "paper_url": "https://doi.org/10.1145/3318464.3389785",
+        "paper_authors": [
+            "Xi Liang",
+            "Zechao Shang",
+            "Sanjay Krishnan",
+            "Aaron J. Elmore",
+            "Michael J. Franklin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mining Approximate Acyclic Schemes from Relations",
+        "paper_url": "https://doi.org/10.1145/3318464.3380573",
+        "paper_authors": [
+            "Batya Kenig",
+            "Pranay Mundra",
+            "Guna Prasaad",
+            "Babak Salimi",
+            "Dan Suciu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AliCoCo: Alibaba E-commerce Cognitive Concept Net",
+        "paper_url": "https://doi.org/10.1145/3318464.3386132",
+        "paper_authors": [
+            "Xusheng Luo",
+            "Luxin Liu",
+            "Yonghua Yang",
+            "Le Bo",
+            "Yuanpeng Cao",
+            "Jinghang Wu",
+            "Qiang Li",
+            "Keping Yang",
+            "Kenny Q. Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A1: A Distributed In-Memory Graph Database",
+        "paper_url": "https://doi.org/10.1145/3318464.3386135",
+        "paper_authors": [
+            "Chiranjeeb Buragohain",
+            "Knut Magne Risvik",
+            "Paul Brett",
+            "Miguel Castro",
+            "Wonhee Cho",
+            "Joshua Cowhig",
+            "Nikolas Gloy",
+            "Karthik Kalyanaraman",
+            "Richendra Khanna",
+            "John Pao",
+            "Matthew Renzelmann",
+            "Alex Shamis",
+            "Timothy Tan",
+            "Shuheng Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "IBM Db2 Graph: Supporting Synergistic and Retrofittable Graph Queries Inside IBM Db2",
+        "paper_url": "https://doi.org/10.1145/3318464.3386138",
+        "paper_authors": [
+            "Yuanyuan Tian",
+            "En Liang Xu",
+            "Wei Zhao",
+            "Mir Hamid Pirahesh",
+            "Suijun Tong",
+            "Wen Sun",
+            "Thomas Kolanko",
+            "Md. Shahidul Haque Apu",
+            "Huijuan Peng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Ontology-Based Conversation System for Knowledge Bases",
+        "paper_url": "https://doi.org/10.1145/3318464.3386139",
+        "paper_authors": [
+            "Abdul Quamar",
+            "Chuan Lei",
+            "Dorian Miller",
+            "Fatma Ozcan",
+            "Jeffrey T. Kreulen",
+            "Robert J. Moore",
+            "Vasilis Efthymiou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Aggregation Support for Modern Graph Analytics in TigerGraph",
+        "paper_url": "https://doi.org/10.1145/3318464.3386144",
+        "paper_authors": [
+            "Alin Deutsch",
+            "Yu Xu",
+            "Mingxi Wu",
+            "Victor E. Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GIANT: Scalable Creation of a Web-scale Ontology",
+        "paper_url": "https://doi.org/10.1145/3318464.3386145",
+        "paper_authors": [
+            "Bang Liu",
+            "Weidong Guo",
+            "Di Niu",
+            "Jinwen Luo",
+            "Chaoyue Wang",
+            "Zhen Wen",
+            "Yu Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Next 5 Years: What Opportunities Should the Database Community Seize to Maximize its Impact?",
+        "paper_url": "https://doi.org/10.1145/3318464.3394837",
+        "paper_authors": [
+            "Magda Balazinska",
+            "Surajit Chaudhuri",
+            "Anastasia Ailamaki",
+            "Juliana Freire",
+            "Sailesh Krishnamurthy",
+            "Michael Stonebraker"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Equivalence-Invariant Algebraic Provenance for Hyperplane Update Queries",
+        "paper_url": "https://doi.org/10.1145/3318464.3380578",
+        "paper_authors": [
+            "Pierre Bourhis",
+            "Daniel Deutch",
+            "Yuval Moskovitch"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Causality-Guided Adaptive Interventional Debugging",
+        "paper_url": "https://doi.org/10.1145/3318464.3389694",
+        "paper_authors": [
+            "Anna Fariha",
+            "Suman Nath",
+            "Alexandra Meliou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PrIU: A Provenance-Based Approach for Incrementally Updating Regression Models",
+        "paper_url": "https://doi.org/10.1145/3318464.3380571",
+        "paper_authors": [
+            "Yinjun Wu",
+            "Val Tannen",
+            "Susan B. Davidson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BugDoc: Algorithms to Debug Computational Processes",
+        "paper_url": "https://doi.org/10.1145/3318464.3389763",
+        "paper_authors": [
+            "Raoni Louren\u00e7o",
+            "Juliana Freire",
+            "Dennis E. Shasha"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Computing Local Sensitivities of Counting Queries with Joins",
+        "paper_url": "https://doi.org/10.1145/3318464.3389762",
+        "paper_authors": [
+            "Yuchao Tao",
+            "Xi He",
+            "Ashwin Machanavajjhala",
+            "Sudeepa Roy"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Long-lived Transactions Made Less Harmful",
+        "paper_url": "https://doi.org/10.1145/3318464.3389714",
+        "paper_authors": [
+            "Jong-Bin Kim",
+            "Hyunsoo Cho",
+            "Kihwang Kim",
+            "Jaeseon Yu",
+            "Sooyong Kang",
+            "Hyungsoo Jung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Chiller: Contention-centric Transaction Execution and Data Partitioning for Modern Networks",
+        "paper_url": "https://doi.org/10.1145/3318464.3389724",
+        "paper_authors": [
+            "Erfan Zamanian",
+            "Julian Shun",
+            "Carsten Binnig",
+            "Tim Kraska"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Handling Highly Contended OLTP Workloads Using Fast Dynamic Partitioning",
+        "paper_url": "https://doi.org/10.1145/3318464.3389764",
+        "paper_authors": [
+            "Guna Prasaad",
+            "Alvin Cheung",
+            "Dan Suciu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Transactional Perspective on Execute-order-validate Blockchains",
+        "paper_url": "https://doi.org/10.1145/3318464.3389693",
+        "paper_authors": [
+            "Pingcheng Ruan",
+            "Dumitrel Loghin",
+            "Quang-Trung Ta",
+            "Meihui Zhang",
+            "Gang Chen",
+            "Beng Chin Ooi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Aggify: Lifting the Curse of Cursor Loops using Custom Aggregates",
+        "paper_url": "https://doi.org/10.1145/3318464.3389736",
+        "paper_authors": [
+            "Surabhi Gupta",
+            "Sanket Purandare",
+            "Karthik Ramachandra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Querying Shared Data with Security Heterogeneity",
+        "paper_url": "https://doi.org/10.1145/3318464.3389784",
+        "paper_authors": [
+            "Yang Cao",
+            "Wenfei Fan",
+            "Yanghao Wang",
+            "Ke Yi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SAGMA: Secure Aggregation Grouped by Multiple Attributes",
+        "paper_url": "https://doi.org/10.1145/3318464.3380569",
+        "paper_authors": [
+            "Timon Hackenjos",
+            "Florian Hahn",
+            "Florian Kerschbaum"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Crypt?: Crypto-Assisted Differential Privacy on Untrusted Servers",
+        "paper_url": "https://doi.org/10.1145/3318464.3380596",
+        "paper_authors": [
+            "Amrita Roy Chowdhury",
+            "Chenghong Wang",
+            "Xi He",
+            "Ashwin Machanavajjhala",
+            "Somesh Jha"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Estimating Numerical Distributions under Local Differential Privacy",
+        "paper_url": "https://doi.org/10.1145/3318464.3389700",
+        "paper_authors": [
+            "Zitao Li",
+            "Tianhao Wang",
+            "Milan Lopuha\u00e4-Zwakenberg",
+            "Ninghui Li",
+            "Boris Skoric"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FalconDB: Blockchain-based Collaborative Database",
+        "paper_url": "https://doi.org/10.1145/3318464.3380594",
+        "paper_authors": [
+            "Yanqing Peng",
+            "Min Du",
+            "Feifei Li",
+            "Raymond Cheng",
+            "Dawn Song"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exact Single-Source SimRank Computation on Large Graphs",
+        "paper_url": "https://doi.org/10.1145/3318464.3389781",
+        "paper_authors": [
+            "Hanzhi Wang",
+            "Zhewei Wei",
+            "Ye Yuan",
+            "Xiaoyong Du",
+            "Ji-Rong Wen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Distributed Processing of k Shortest Path Queries over Dynamic Road Networks",
+        "paper_url": "https://doi.org/10.1145/3318464.3389735",
+        "paper_authors": [
+            "Ziqiang Yu",
+            "Xiaohui Yu",
+            "Nick Koudas",
+            "Yang Liu",
+            "Yifan Li",
+            "Yueting Chen",
+            "Dingyu Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On the Optimization of Recursive Relational Queries: Application to Graph Queries",
+        "paper_url": "https://doi.org/10.1145/3318464.3380567",
+        "paper_authors": [
+            "Louis Jachiet",
+            "Pierre Genev\u00e8s",
+            "Nils Gesbert",
+            "Nabil Laya\u00efda"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pensieve: Skewness-Aware Version Switching for Efficient Graph Processing",
+        "paper_url": "https://doi.org/10.1145/3318464.3380590",
+        "paper_authors": [
+            "Tangwei Ying",
+            "Hanhua Chen",
+            "Hai Jin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Extending Graph Patterns with Conditions",
+        "paper_url": "https://doi.org/10.1145/3318464.3380585",
+        "paper_authors": [
+            "Grace Fan",
+            "Wenfei Fan",
+            "Yuanhao Li",
+            "Ping Lu",
+            "Chao Tian",
+            "Jingren Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Elastic Machine Learning Algorithms in Amazon SageMaker",
+        "paper_url": "https://doi.org/10.1145/3318464.3386126",
+        "paper_authors": [
+            "Edo Liberty",
+            "Zohar S. Karnin",
+            "Bing Xiang",
+            "Laurence Rouesnel",
+            "Baris Coskun",
+            "Ramesh Nallapati",
+            "Julio Delgado",
+            "Amir Sadoughi",
+            "Yury Astashonok",
+            "Piali Das",
+            "Can Balioglu",
+            "Saswata Chakravarty",
+            "Madhav Jha",
+            "Philip Gautier",
+            "David Arpin",
+            "Tim Januschowski",
+            "Valentin Flunkert",
+            "Yuyang Wang",
+            "Jan Gasthaus",
+            "Lorenzo Stella",
+            "Syama Sundar Rangapuram",
+            "David Salinas",
+            "Sebastian Schelter",
+            "Alex Smola"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Timon: A Timestamped Event Database for Efficient Telemetry Data Processing and Analytics",
+        "paper_url": "https://doi.org/10.1145/3318464.3386136",
+        "paper_authors": [
+            "Wei Cao",
+            "Yusong Gao",
+            "Feifei Li",
+            "Sheng Wang",
+            "Bingchen Lin",
+            "Ke Xu",
+            "Xiaojie Feng",
+            "Yucong Wang",
+            "Zhenjun Liu",
+            "Gejin Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Vertica-ML: Distributed Machine Learning in Vertica Database",
+        "paper_url": "https://doi.org/10.1145/3318464.3386137",
+        "paper_authors": [
+            "Arash Fard",
+            "Anh Le",
+            "George Larionov",
+            "Waqas Dhillon",
+            "Chuck Bear"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Database Workload Capacity Planning using Time Series Analysis and Machine Learning",
+        "paper_url": "https://doi.org/10.1145/3318464.3386140",
+        "paper_authors": [
+            "Antony S. Higginson",
+            "Mihaela Dediu",
+            "Octavian Arsene",
+            "Norman W. Paton",
+            "Suzanne M. Embury"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Machine Learning Bazaar: Harnessing the ML Ecosystem for Effective System Development",
+        "paper_url": "https://doi.org/10.1145/3318464.3386146",
+        "paper_authors": [
+            "Micah J. Smith",
+            "Carles Sala",
+            "James Max Kanter",
+            "Kalyan Veeramachaneni"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "When the Web is your Data Lake: Creating a Search Engine for Datasets on the Web",
+        "paper_url": "https://doi.org/10.1145/3318464.3393815",
+        "paper_authors": [
+            "Natasha F. Noy"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Challenge of Building Effective, Enterprise-scale Data Lakes",
+        "paper_url": "https://doi.org/10.1145/3318464.3393816",
+        "paper_authors": [
+            "Awez Syed"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cleaning Denial Constraint Violations through Relaxation",
+        "paper_url": "https://doi.org/10.1145/3318464.3389775",
+        "paper_authors": [
+            "Stella Giannakopoulou",
+            "Manos Karpathiotakis",
+            "Anastasia Ailamaki"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On Multiple Semantics for Declarative Database Repairs",
+        "paper_url": "https://doi.org/10.1145/3318464.3389721",
+        "paper_authors": [
+            "Amir Gilad",
+            "Daniel Deutch",
+            "Sudeepa Roy"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Discovery Algorithms for Embedded Functional Dependencies",
+        "paper_url": "https://doi.org/10.1145/3318464.3389786",
+        "paper_authors": [
+            "Ziheng Wei",
+            "Sven Hartmann",
+            "Sebastian Link"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SCODED: Statistical Constraint Oriented Data Error Detection",
+        "paper_url": "https://doi.org/10.1145/3318464.3380568",
+        "paper_authors": [
+            "Jing Nathan Yan",
+            "Oliver Schulte",
+            "Mohan Zhang",
+            "Jiannan Wang",
+            "Reynold Cheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Statistical Perspective on Discovering Functional Dependencies in Noisy Data",
+        "paper_url": "https://doi.org/10.1145/3318464.3389749",
+        "paper_authors": [
+            "Yunjia Zhang",
+            "Zhihan Guo",
+            "Theodoros Rekatsinas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rethinking Logging, Checkpoints, and Recovery for High-Performance Storage Engines",
+        "paper_url": "https://doi.org/10.1145/3318464.3389716",
+        "paper_authors": [
+            "Michael Haubenschild",
+            "Caetano Sauer",
+            "Thomas Neumann",
+            "Viktor Leis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Lethe: A Tunable Delete-Aware LSM Engine",
+        "paper_url": "https://doi.org/10.1145/3318464.3389757",
+        "paper_authors": [
+            "Subhadeep Sarkar",
+            "Tarikul Islam Papon",
+            "Dimitris Staratzis",
+            "Manos Athanassoulis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BinDex: A Two-Layered Index for Fast and Robust Scans",
+        "paper_url": "https://doi.org/10.1145/3318464.3380563",
+        "paper_authors": [
+            "Linwei Li",
+            "Kai Zhang",
+            "Jiading Guo",
+            "Wen He",
+            "Zhenying He",
+            "Yinan Jing",
+            "Weili Han",
+            "X. Sean Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Analysis of Indexing Structures for Immutable Data",
+        "paper_url": "https://doi.org/10.1145/3318464.3389773",
+        "paper_authors": [
+            "Cong Yue",
+            "Zhongle Xie",
+            "Meihui Zhang",
+            "Gang Chen",
+            "Beng Chin Ooi",
+            "Sheng Wang",
+            "Xiaokui Xiao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tree-Encoded Bitmaps",
+        "paper_url": "https://doi.org/10.1145/3318464.3380588",
+        "paper_authors": [
+            "Harald Lang",
+            "Alexander Beischl",
+            "Viktor Leis",
+            "Peter A. Boncz",
+            "Thomas Neumann",
+            "Alfons Kemper"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ALEX: An Updatable Adaptive Learned Index",
+        "paper_url": "https://doi.org/10.1145/3318464.3389711",
+        "paper_authors": [
+            "Jialin Ding",
+            "Umar Farooq Minhas",
+            "Jia Yu",
+            "Chi Wang",
+            "Jaeyoung Do",
+            "Yinan Li",
+            "Hantian Zhang",
+            "Badrish Chandramouli",
+            "Johannes Gehrke",
+            "Donald Kossmann",
+            "David B. Lomet",
+            "Tim Kraska"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Multi-Dimensional Indexes",
+        "paper_url": "https://doi.org/10.1145/3318464.3380579",
+        "paper_authors": [
+            "Vikram Nathan",
+            "Jialin Ding",
+            "Mohammad Alizadeh",
+            "Tim Kraska"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Case for a Learned Sorting Algorithm",
+        "paper_url": "https://doi.org/10.1145/3318464.3389752",
+        "paper_authors": [
+            "Ani Kristo",
+            "Kapil Vaidya",
+            "Ugur \u00c7etintemel",
+            "Sanchit Misra",
+            "Tim Kraska"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "QuickSel: Quick Selectivity Learning with Mixture Models",
+        "paper_url": "https://doi.org/10.1145/3318464.3389727",
+        "paper_authors": [
+            "Yongjoo Park",
+            "Shucheng Zhong",
+            "Barzan Mozafari"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Learning Models for Selectivity Estimation of Multi-Attribute Queries",
+        "paper_url": "https://doi.org/10.1145/3318464.3389741",
+        "paper_authors": [
+            "Shohedul Hasan",
+            "Saravanan Thirumuruganathan",
+            "Jees Augustine",
+            "Nick Koudas",
+            "Gautam Das"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Algorithms for Densest Subgraph Discovery on Large Directed Graphs",
+        "paper_url": "https://doi.org/10.1145/3318464.3389697",
+        "paper_authors": [
+            "Chenhao Ma",
+            "Yixiang Fang",
+            "Reynold Cheng",
+            "Laks V. S. Lakshmanan",
+            "Wenjie Zhang",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GPU-Accelerated Subgraph Enumeration on Partitioned Graphs",
+        "paper_url": "https://doi.org/10.1145/3318464.3389699",
+        "paper_authors": [
+            "Wentian Guo",
+            "Yuchen Li",
+            "Mo Sha",
+            "Bingsheng He",
+            "Xiaokui Xiao",
+            "Kian-Lee Tan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "In-Memory Subgraph Matching: An In-depth Study",
+        "paper_url": "https://doi.org/10.1145/3318464.3380581",
+        "paper_authors": [
+            "Shixuan Sun",
+            "Qiong Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "G-CARE: A Framework for Performance Benchmarking of Cardinality Estimation Techniques for Subgraph Matching",
+        "paper_url": "https://doi.org/10.1145/3318464.3389702",
+        "paper_authors": [
+            "Yeonsu Park",
+            "Seongyun Ko",
+            "Sourav S. Bhowmick",
+            "Kyoungmin Kim",
+            "Kijae Hong",
+            "Wook-Shin Han"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Approximate Pattern Matching in Massive Graphs with Precision and Recall Guarantees",
+        "paper_url": "https://doi.org/10.1145/3318464.3380566",
+        "paper_authors": [
+            "Tahsin Reza",
+            "Matei Ripeanu",
+            "Geoffrey Sanders",
+            "Roger Pearce"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Comprehensive Benchmark Framework for Active Learning Methods in Entity Matching",
+        "paper_url": "https://doi.org/10.1145/3318464.3380597",
+        "paper_authors": [
+            "Venkata Vamsikrishna Meduri",
+            "Lucian Popa",
+            "Prithviraj Sen",
+            "Mohamed Sarwat"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ZeroER: Entity Resolution using Zero Labeled Examples",
+        "paper_url": "https://doi.org/10.1145/3318464.3389743",
+        "paper_authors": [
+            "Renzhi Wu",
+            "Sanya Chaba",
+            "Saurabh Sawlani",
+            "Xu Chu",
+            "Saravanan Thirumuruganathan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Interpretable and Learnable Risk Analysis for Entity Resolution",
+        "paper_url": "https://doi.org/10.1145/3318464.3380572",
+        "paper_authors": [
+            "Zhaoqiang Chen",
+            "Qun Chen",
+            "Boyi Hou",
+            "Zhanhuai Li",
+            "Guoliang Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SLIM: Scalable Linkage of Mobility Data",
+        "paper_url": "https://doi.org/10.1145/3318464.3389761",
+        "paper_authors": [
+            "Fuat Basik",
+            "Hakan Ferhatosmanoglu",
+            "Bugra Gedik"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Monotonic Cardinality Estimation of Similarity Selection: A Deep Learning Approach",
+        "paper_url": "https://doi.org/10.1145/3318464.3380570",
+        "paper_authors": [
+            "Yaoshu Wang",
+            "Chuan Xiao",
+            "Jianbin Qin",
+            "Xin Cao",
+            "Yifang Sun",
+            "Wei Wang",
+            "Makoto Onizuka"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Join Project Query Evaluation using Matrix Multiplication",
+        "paper_url": "https://doi.org/10.1145/3318464.3380607",
+        "paper_authors": [
+            "Shaleen Deep",
+            "Xiao Hu",
+            "Paraschos Koutris"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Maintaining Acyclic Foreign-Key Joins under Updates",
+        "paper_url": "https://doi.org/10.1145/3318464.3380586",
+        "paper_authors": [
+            "Qichen Wang",
+            "Ke Yi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Thrifty Query Execution via Incrementability",
+        "paper_url": "https://doi.org/10.1145/3318464.3389756",
+        "paper_authors": [
+            "Dixin Tang",
+            "Zechao Shang",
+            "Aaron J. Elmore",
+            "Sanjay Krishnan",
+            "Michael J. Franklin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Method for Optimizing Opaque Filter Queries",
+        "paper_url": "https://doi.org/10.1145/3318464.3389766",
+        "paper_authors": [
+            "Wenjia He",
+            "Michael R. Anderson",
+            "Maxwell Strome",
+            "Michael J. Cafarella"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Functional-Style SQL UDFs With a Capital 'F'",
+        "paper_url": "https://doi.org/10.1145/3318464.3389707",
+        "paper_authors": [
+            "Christian Duta",
+            "Torsten Grust"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning to Validate the Predictions of Black Box Classifiers on Unseen Data",
+        "paper_url": "https://doi.org/10.1145/3318464.3380604",
+        "paper_authors": [
+            "Sebastian Schelter",
+            "Tammo Rukat",
+            "Felix Bie\u00dfmann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Over Dirty Data Without Cleaning",
+        "paper_url": "https://doi.org/10.1145/3318464.3389708",
+        "paper_authors": [
+            "Jose Picado",
+            "John Davis",
+            "Arash Termehchy",
+            "Ga Young Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Complaint-driven Training Data Debugging for Query 2.0",
+        "paper_url": "https://doi.org/10.1145/3318464.3389696",
+        "paper_authors": [
+            "Weiyuan Wu",
+            "Lampros Flokas",
+            "Eugene Wu",
+            "Jiannan Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks",
+        "paper_url": "https://doi.org/10.1145/3318464.3389742",
+        "paper_authors": [
+            "Riccardo Cappuzzo",
+            "Paolo Papotti",
+            "Saravanan Thirumuruganathan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Minimization of Classifier Construction Cost for Search Queries",
+        "paper_url": "https://doi.org/10.1145/3318464.3389755",
+        "paper_authors": [
+            "Shay Gershtein",
+            "Tova Milo",
+            "Gefen Morami",
+            "Slava Novgorodov"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scaling Up Distance Labeling on Graphs with Core-Periphery Properties",
+        "paper_url": "https://doi.org/10.1145/3318464.3389748",
+        "paper_authors": [
+            "Wentao Li",
+            "Miao Qiao",
+            "Lu Qin",
+            "Ying Zhang",
+            "Lijun Chang",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Factorized Graph Representations for Semi-Supervised Learning from Sparse Data",
+        "paper_url": "https://doi.org/10.1145/3318464.3380577",
+        "paper_authors": [
+            "Krishna Kumar P.",
+            "Paul Langton",
+            "Wolfgang Gatterbauer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reliable Data Distillation on Graph Convolutional Network",
+        "paper_url": "https://doi.org/10.1145/3318464.3389706",
+        "paper_authors": [
+            "Wentao Zhang",
+            "Xupeng Miao",
+            "Yingxia Shao",
+            "Jiawei Jiang",
+            "Lei Chen",
+            "Olivier Ruas",
+            "Bin Cui"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Regular Path Query Evaluation on Streaming Graphs",
+        "paper_url": "https://doi.org/10.1145/3318464.3389733",
+        "paper_authors": [
+            "Anil Pacaci",
+            "Angela Bonifati",
+            "M. Tamer \u00d6zsu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Timely Reporting of Heavy Hitters using External Memory",
+        "paper_url": "https://doi.org/10.1145/3318464.3380598",
+        "paper_authors": [
+            "Prashant Pandey",
+            "Shikha Singh",
+            "Michael A. Bender",
+            "Jonathan W. Berry",
+            "Martin Farach-Colton",
+            "Rob Johnson",
+            "Thomas M. Kroeger",
+            "Cynthia A. Phillips"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Framework for Emulating Database Operations in Cloud Data Warehouses",
+        "paper_url": "https://doi.org/10.1145/3318464.3386128",
+        "paper_authors": [
+            "Mohamed A. Soliman",
+            "Lyublena Antova",
+            "Marc Sugiyama",
+            "Michael Duller",
+            "Amirhossein Aleyasen",
+            "Gourab Mitra",
+            "Ehab Abdelhamid",
+            "Mark Morcos",
+            "Michele Gage",
+            "Dmitri Korablev",
+            "Florian M. Waas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Taurus Database: How to be Fast, Available, and Frugal in the Cloud",
+        "paper_url": "https://doi.org/10.1145/3318464.3386129",
+        "paper_authors": [
+            "Alex Depoutovitch",
+            "Chong Chen",
+            "Jin Chen",
+            "Paul Larson",
+            "Shu Lin",
+            "Jack Ng",
+            "Wenlin Cui",
+            "Qiang Liu",
+            "Wei Huang",
+            "Yong Xiao",
+            "Yongjun He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reliability Analytics for Cloud Based Distributed Databases",
+        "paper_url": "https://doi.org/10.1145/3318464.3386130",
+        "paper_authors": [
+            "Mathieu B. Demarne",
+            "Jim Gramling",
+            "Tomer Verona",
+            "Miso Cilimdzic"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CockroachDB: The Resilient Geo-Distributed SQL Database",
+        "paper_url": "https://doi.org/10.1145/3318464.3386134",
+        "paper_authors": [
+            "Rebecca Taft",
+            "Irfan Sharif",
+            "Andrei Matei",
+            "Nathan VanBenschoten",
+            "Jordan Lewis",
+            "Tobias Grieger",
+            "Kai Niemi",
+            "Andy Woods",
+            "Anne Birzin",
+            "Raphael Poss",
+            "Paul Bardea",
+            "Amruta Ranade",
+            "Ben Darnell",
+            "Bram Gruneir",
+            "Justin Jaffray",
+            "Lucy Zhang",
+            "Peter Mattis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Azure SQL Database Always Encrypted",
+        "paper_url": "https://doi.org/10.1145/3318464.3386141",
+        "paper_authors": [
+            "Panagiotis Antonopoulos",
+            "Arvind Arasu",
+            "Kunal D. Singh",
+            "Ken Eguro",
+            "Nitish Gupta",
+            "Rajat Jain",
+            "Raghav Kaushik",
+            "Hanuma Kodavalla",
+            "Donald Kossmann",
+            "Nikolas Ogg",
+            "Ravi Ramamurthy",
+            "Jakub Szymaszek",
+            "Jeffrey Trimmer",
+            "Kapil Vaswani",
+            "Ramarathnam Venkatesan",
+            "Mike Zwilling"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automatically Generating Data Exploration Sessions Using Deep Reinforcement Learning",
+        "paper_url": "https://doi.org/10.1145/3318464.3389779",
+        "paper_authors": [
+            "Ori Bar El",
+            "Tova Milo",
+            "Amit Somech"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Auto-Suggest: Learning-to-Recommend Data Preparation Steps Using Data Science Notebooks",
+        "paper_url": "https://doi.org/10.1145/3318464.3389738",
+        "paper_authors": [
+            "Cong Yan",
+            "Yeye He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "IDEBench: A Benchmark for Interactive Data Exploration",
+        "paper_url": "https://doi.org/10.1145/3318464.3380574",
+        "paper_authors": [
+            "Philipp Eichmann",
+            "Emanuel Zgraggen",
+            "Carsten Binnig",
+            "Tim Kraska"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Database Benchmarking for Supporting Real-Time Interactive Querying of Large Data",
+        "paper_url": "https://doi.org/10.1145/3318464.3389732",
+        "paper_authors": [
+            "Leilani Battle",
+            "Philipp Eichmann",
+            "Marco Angelini",
+            "Tiziana Catarci",
+            "Giuseppe Santucci",
+            "Yukun Zheng",
+            "Carsten Binnig",
+            "Jean-Daniel Fekete",
+            "Dominik Moritz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Benchmarking Spreadsheet Systems",
+        "paper_url": "https://doi.org/10.1145/3318464.3389782",
+        "paper_authors": [
+            "Sajjadur Rahman",
+            "Kelly Mack",
+            "Mangesh Bendre",
+            "Ruilin Zhang",
+            "Karrie Karahalios",
+            "Aditya G. Parameswaran"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Order-Preserving Key Compression for In-Memory Search Trees",
+        "paper_url": "https://doi.org/10.1145/3318464.3380583",
+        "paper_authors": [
+            "Huanchen Zhang",
+            "Xiaoxuan Liu",
+            "David G. Andersen",
+            "Michael Kaminsky",
+            "Kimberly Keeton",
+            "Andrew Pavlo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Study of the Fundamental Performance Characteristics of GPUs and CPUs for Database Analytics",
+        "paper_url": "https://doi.org/10.1145/3318464.3380595",
+        "paper_authors": [
+            "Anil Shanbhag",
+            "Samuel Madden",
+            "Xiangyao Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pump Up the Volume: Processing Large Data on GPUs with Fast Interconnects",
+        "paper_url": "https://doi.org/10.1145/3318464.3389705",
+        "paper_authors": [
+            "Clemens Lutz",
+            "Sebastian Bre\u00df",
+            "Steffen Zeuch",
+            "Tilmann Rabl",
+            "Volker Markl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Performance of Main Memory Data Structures by Configuration",
+        "paper_url": "https://doi.org/10.1145/3318464.3389725",
+        "paper_authors": [
+            "Tiemo Bang",
+            "Ismail Oukid",
+            "Norman May",
+            "Ilia Petrov",
+            "Carsten Binnig"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Black or White? How to Develop an AutoTuner for Memory-based Analytics",
+        "paper_url": "https://doi.org/10.1145/3318464.3380591",
+        "paper_authors": [
+            "Mayuresh Kunjir",
+            "Shivnath Babu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Vista: Optimized System for Declarative Feature Transfer from Deep CNNs at Scale",
+        "paper_url": "https://doi.org/10.1145/3318464.3389709",
+        "paper_authors": [
+            "Supun Nakandala",
+            "Arun Kumar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimizing Machine Learning Workloads in Collaborative Environments",
+        "paper_url": "https://doi.org/10.1145/3318464.3389715",
+        "paper_authors": [
+            "Behrouz Derakhshan",
+            "Alireza Rezaei Mahdiraji",
+            "Ziawasch Abedjan",
+            "Tilmann Rabl",
+            "Volker Markl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GOGGLES: Automatic Image Labeling with Affinity Coding",
+        "paper_url": "https://doi.org/10.1145/3318464.3380592",
+        "paper_authors": [
+            "Nilaksh Das",
+            "Sanya Chaba",
+            "Renzhi Wu",
+            "Sakshi Gandhi",
+            "Duen Horng Chau",
+            "Xu Chu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DeepSqueeze: Deep Semantic Compression for Tabular Data",
+        "paper_url": "https://doi.org/10.1145/3318464.3389734",
+        "paper_authors": [
+            "Amir Ilkhechi",
+            "Andrew Crotty",
+            "Alex Galakatos",
+            "Yicong Mao",
+            "Grace Fan",
+            "Xiran Shi",
+            "Ugur \u00c7etintemel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TRACER: A Framework for Facilitating Accurate and Interpretable Analytics for High Stakes Applications",
+        "paper_url": "https://doi.org/10.1145/3318464.3389720",
+        "paper_authors": [
+            "Kaiping Zheng",
+            "Shaofeng Cai",
+            "Horng Ruey Chua",
+            "Wei Wang",
+            "Kee Yuan Ngiam",
+            "Beng Chin Ooi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Application Driven Graph Partitioning",
+        "paper_url": "https://doi.org/10.1145/3318464.3389745",
+        "paper_authors": [
+            "Wenfei Fan",
+            "Ruochun Jin",
+            "Muyang Liu",
+            "Ping Lu",
+            "Xiaojian Luo",
+            "Ruiqi Xu",
+            "Qiang Yin",
+            "Wenyuan Yu",
+            "Jingren Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Progressive Top-K Nearest Neighbors Search in Large Road Networks",
+        "paper_url": "https://doi.org/10.1145/3318464.3389746",
+        "paper_authors": [
+            "Dian Ouyang",
+            "Dong Wen",
+            "Lu Qin",
+            "Lijun Chang",
+            "Ying Zhang",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Memory-Aware Framework for Efficient Second-Order Random Walk on Large Graphs",
+        "paper_url": "https://doi.org/10.1145/3318464.3380562",
+        "paper_authors": [
+            "Yingxia Shao",
+            "Shiyue Huang",
+            "Xupeng Miao",
+            "Bin Cui",
+            "Lei Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hub Labeling for Shortest Path Counting",
+        "paper_url": "https://doi.org/10.1145/3318464.3389737",
+        "paper_authors": [
+            "Yikai Zhang",
+            "Jeffrey Xu Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CHASSIS: Conformity Meets Online Information Diffusion",
+        "paper_url": "https://doi.org/10.1145/3318464.3389780",
+        "paper_authors": [
+            "Hui Li",
+            "Hui Li",
+            "Sourav S. Bhowmick"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Architecture-Intact Oracle for Fastest Path and Time Queries on Dynamic Spatial Networks",
+        "paper_url": "https://doi.org/10.1145/3318464.3389718",
+        "paper_authors": [
+            "Victor Junqiu Wei",
+            "Raymond Chi-Wing Wong",
+            "Cheng Long"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Data Series Progressive Similarity Search with Probabilistic Quality Guarantees",
+        "paper_url": "https://doi.org/10.1145/3318464.3389751",
+        "paper_authors": [
+            "Anna Gogolou",
+            "Theophanis Tsandilas",
+            "Karima Echihabi",
+            "Anastasia Bezerianos",
+            "Themis Palpanas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A GPU-friendly Geometric Data Model and Algebra for Spatial Queries",
+        "paper_url": "https://doi.org/10.1145/3318464.3389774",
+        "paper_authors": [
+            "Harish Doraiswamy",
+            "Juliana Freire"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Debunking Four Long-Standing Misconceptions of Time-Series Distance Measures",
+        "paper_url": "https://doi.org/10.1145/3318464.3389760",
+        "paper_authors": [
+            "John Paparrizos",
+            "Chunwei Liu",
+            "Aaron J. Elmore",
+            "Michael J. Franklin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MIRIS: Fast Object Track Queries in Video",
+        "paper_url": "https://doi.org/10.1145/3318464.3389692",
+        "paper_authors": [
+            "Favyen Bastani",
+            "Songtao He",
+            "Arjun Balasingam",
+            "Karthik Gopalakrishnan",
+            "Mohammad Alizadeh",
+            "Hari Balakrishnan",
+            "Michael J. Cafarella",
+            "Tim Kraska",
+            "Sam Madden"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ACM SIGMOD Jim Gray Dissertation Award W Talk",
+        "paper_url": "https://doi.org/10.1145/3318464.3394026",
+        "paper_authors": [
+            "Jose M. Faleiro"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Effective Data Versioning for Collaborative Data Analytics",
+        "paper_url": "https://doi.org/10.1145/3318464.3394027",
+        "paper_authors": [
+            "Silu Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Organizing Data Lakes for Navigation",
+        "paper_url": "https://doi.org/10.1145/3318464.3380605",
+        "paper_authors": [
+            "Fatemeh Nargesian",
+            "Ken Q. Pu",
+            "Erkang Zhu",
+            "Bahar Ghadiri Bashardoost",
+            "Ren\u00e9e J. Miller"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Finding Related Tables in Data Lakes for Interactive Data Science",
+        "paper_url": "https://doi.org/10.1145/3318464.3389726",
+        "paper_authors": [
+            "Yi Zhang",
+            "Zachary G. Ives"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Web Data Extraction using Hybrid Program Synthesis: A Combination of Top-down and Bottom-up Inference",
+        "paper_url": "https://doi.org/10.1145/3318464.3380608",
+        "paper_authors": [
+            "Mohammad Raza",
+            "Sumit Gulwani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SPARQL Rewriting: Towards Desired Results",
+        "paper_url": "https://doi.org/10.1145/3318464.3389695",
+        "paper_authors": [
+            "Xun Jian",
+            "Yue Wang",
+            "Xiayu Lei",
+            "Libin Zheng",
+            "Lei Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study",
+        "paper_url": "https://doi.org/10.1145/3318464.3380599",
+        "paper_authors": [
+            "Farahnaz Akrami",
+            "Mohammed Samiul Saeef",
+            "Qingheng Zhang",
+            "Wei Hu",
+            "Chengkai Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bitvector-aware Query Optimization for Decision Support Queries",
+        "paper_url": "https://doi.org/10.1145/3318464.3389769",
+        "paper_authors": [
+            "Bailu Ding",
+            "Surajit Chaudhuri",
+            "Vivek R. Narasayya"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Join Synopsis Maintenance for Data Warehouse",
+        "paper_url": "https://doi.org/10.1145/3318464.3389717",
+        "paper_authors": [
+            "Zhuoyue Zhao",
+            "Feifei Li",
+            "Yuxi Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive HTAP through Elastic Resource Scheduling",
+        "paper_url": "https://doi.org/10.1145/3318464.3389783",
+        "paper_authors": [
+            "Aunn Raza",
+            "Periklis Chrysogelos",
+            "Angelos-Christos G. Anadiotis",
+            "Anastasia Ailamaki"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SPRINTER: A Fast n-ary Join Query Processing Method for Complex OLAP Queries",
+        "paper_url": "https://doi.org/10.1145/3318464.3380565",
+        "paper_authors": [
+            "Yoon-Min Nam",
+            "Donghyoung Han",
+            "Min-Soo Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rosetta: A Robust Space-Time Optimized Range Filter for Key-Value Stores",
+        "paper_url": "https://doi.org/10.1145/3318464.3389731",
+        "paper_authors": [
+            "Siqiang Luo",
+            "Subarna Chatterjee",
+            "Rafael Ketsetsidis",
+            "Niv Dayan",
+            "Wilson Qin",
+            "Stratos Idreos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RID: Deduplicating Snapshot Computations",
+        "paper_url": "https://doi.org/10.1145/3318464.3380580",
+        "paper_authors": [
+            "Nikos Tsikoudis",
+            "Liuba Shrira"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Architecting a Query Compiler for Spatial Workloads",
+        "paper_url": "https://doi.org/10.1145/3318464.3389701",
+        "paper_authors": [
+            "Ruby Y. Tahboub",
+            "Tiark Rompf"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LISA: A Learned Index Structure for Spatial Data",
+        "paper_url": "https://doi.org/10.1145/3318464.3389703",
+        "paper_authors": [
+            "Pengfei Li",
+            "Hua Lu",
+            "Qian Zheng",
+            "Long Yang",
+            "Gang Pan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Effective Travel Time Estimation: When Historical Trajectories over Road Networks Matter",
+        "paper_url": "https://doi.org/10.1145/3318464.3389771",
+        "paper_authors": [
+            "Haitao Yuan",
+            "Guoliang Li",
+            "Zhifeng Bao",
+            "Ling Feng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Solution Distribution of Influence Maximization: A High-level Experimental Study on Three Algorithmic Approaches",
+        "paper_url": "https://doi.org/10.1145/3318464.3380564",
+        "paper_authors": [
+            "Naoto Ohsaka"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Influence Maximization Revisited: Efficient Reverse Reachable Set Generation with Bound Tightened",
+        "paper_url": "https://doi.org/10.1145/3318464.3389740",
+        "paper_authors": [
+            "Qintian Guo",
+            "Sibo Wang",
+            "Zhewei Wei",
+            "Ming Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Truss-based Community Search over Large Directed Graphs",
+        "paper_url": "https://doi.org/10.1145/3318464.3380587",
+        "paper_authors": [
+            "Qing Liu",
+            "Minjun Zhao",
+            "Xin Huang",
+            "Jianliang Xu",
+            "Yunjun Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Densely Connected User Community and Location Cluster Search in Location-Based Social Networks",
+        "paper_url": "https://doi.org/10.1145/3318464.3380603",
+        "paper_authors": [
+            "Junghoon Kim",
+            "Tao Guo",
+            "Kaiyu Feng",
+            "Gao Cong",
+            "Arijit Khan",
+            "Farhana Murtaza Choudhury"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Global Reinforcement of Social Networks: The Anchored Coreness Problem",
+        "paper_url": "https://doi.org/10.1145/3318464.3389744",
+        "paper_authors": [
+            "Qingyuan Linghu",
+            "Fan Zhang",
+            "Xuemin Lin",
+            "Wenjie Zhang",
+            "Ying Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Confidentiality Support over Financial Grade Consortium Blockchain",
+        "paper_url": "https://doi.org/10.1145/3318464.3386127",
+        "paper_authors": [
+            "Ying Yan",
+            "Changzheng Wei",
+            "Xuepeng Guo",
+            "Xuming Lu",
+            "Xiaofu Zheng",
+            "Qi Liu",
+            "Chenhui Zhou",
+            "Xuyang Song",
+            "Boran Zhao",
+            "Hui Zhang",
+            "Guofei Jiang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PASE: PostgreSQL Ultra-High-Dimensional Approximate Nearest Neighbor Search Extension",
+        "paper_url": "https://doi.org/10.1145/3318464.3386131",
+        "paper_authors": [
+            "Wen Yang",
+            "Tao Li",
+            "Gai Fang",
+            "Hong Wei"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Making Search Engines Faster by Lowering the Cost of Querying Business Rules Through FPGAs",
+        "paper_url": "https://doi.org/10.1145/3318464.3386133",
+        "paper_authors": [
+            "Fabio Maschi",
+            "Muhsen Owaida",
+            "Gustavo Alonso",
+            "Matteo Casalino",
+            "Anthony Hock-Koon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spur: Mitigating Slow Instances in Large-Scale Streaming Pipelines",
+        "paper_url": "https://doi.org/10.1145/3318464.3386142",
+        "paper_authors": [
+            "Ke Wang",
+            "Avrilia Floratou",
+            "Ashvin Agrawal",
+            "Daniel Musgrave"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Entity Matching in the Wild: A Consistent and Versatile Framework to Unify Data in Industrial Applications",
+        "paper_url": "https://doi.org/10.1145/3318464.3386143",
+        "paper_authors": [
+            "Yan Yan",
+            "Stephen Meyles",
+            "Aria Haghighi",
+            "Dan Suciu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "QueryVis: Logic-based Diagrams help Users Understand Complicated SQL Queries Faster",
+        "paper_url": "https://doi.org/10.1145/3318464.3389767",
+        "paper_authors": [
+            "Aristotelis Leventidis",
+            "Jiahui Zhang",
+            "Cody Dunne",
+            "Wolfgang Gatterbauer",
+            "H. V. Jagadish",
+            "Mirek Riedewald"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Duoquest: A Dual-Specification System for Expressive SQL Queries",
+        "paper_url": "https://doi.org/10.1145/3318464.3389776",
+        "paper_authors": [
+            "Christopher Baik",
+            "Zhongjun Jin",
+            "Michael J. Cafarella",
+            "H. V. Jagadish"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SQLCheck: Automated Detection and Diagnosis of SQL Anti-Patterns",
+        "paper_url": "https://doi.org/10.1145/3318464.3389754",
+        "paper_authors": [
+            "Prashanth Dintyala",
+            "Arpit Narechania",
+            "Joy Arulraj"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DBPal: A Fully Pluggable NL2SQL Training Pipeline",
+        "paper_url": "https://doi.org/10.1145/3318464.3380589",
+        "paper_authors": [
+            "Nathaniel Weir",
+            "Prasetya Ajie Utama",
+            "Alex Galakatos",
+            "Andrew Crotty",
+            "Amir Ilkhechi",
+            "Shekar Ramaswamy",
+            "Rohin Bhushan",
+            "Nadja Geisler",
+            "Benjamin H\u00e4ttasch",
+            "Steffen Eger",
+            "Ugur \u00c7etintemel",
+            "Carsten Binnig"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data",
+        "paper_url": "https://doi.org/10.1145/3318464.3389777",
+        "paper_authors": [
+            "Vraj Shah",
+            "Side Li",
+            "Arun Kumar",
+            "Lawrence K. Saul"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Near-Optimal Distributed Band-Joins through Recursive Partitioning",
+        "paper_url": "https://doi.org/10.1145/3318464.3389750",
+        "paper_authors": [
+            "Rundong Li",
+            "Wolfgang Gatterbauer",
+            "Mirek Riedewald"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ChronoCache: Predictive and Adaptive Mid-Tier Query Result Caching",
+        "paper_url": "https://doi.org/10.1145/3318464.3380593",
+        "paper_authors": [
+            "Brad Glasbergen",
+            "Kyle Langendoen",
+            "Michael Abebe",
+            "Khuzaima Daudjee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cheetah: Accelerating Database Queries with Switch Pruning",
+        "paper_url": "https://doi.org/10.1145/3318464.3389698",
+        "paper_authors": [
+            "Muhammad Tirmazi",
+            "Ran Ben Basat",
+            "Jiaqi Gao",
+            "Minlan Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "External Merge Sort for Top-K Queries: Eager input filtering guided by histograms",
+        "paper_url": "https://doi.org/10.1145/3318464.3389729",
+        "paper_authors": [
+            "Yannis Chronis",
+            "Thanh Do",
+            "Goetz Graefe",
+            "Keith Peters"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automating Incremental and Asynchronous Evaluation for Recursive Aggregate Data Processing",
+        "paper_url": "https://doi.org/10.1145/3318464.3389712",
+        "paper_authors": [
+            "Qiange Wang",
+            "Yanfeng Zhang",
+            "Hao Wang",
+            "Liang Geng",
+            "Rubao Lee",
+            "Xiaodong Zhang",
+            "Ge Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Prompt: Dynamic Data-Partitioning for Distributed Micro-batch Stream Processing Systems",
+        "paper_url": "https://doi.org/10.1145/3318464.3389713",
+        "paper_authors": [
+            "Ahmed S. Abdelhamid",
+            "Ahmed R. Mahmood",
+            "Anas Daghistani",
+            "Walid G. Aref"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rhino: Efficient Management of Very Large Distributed State for Stream Processing Engines",
+        "paper_url": "https://doi.org/10.1145/3318464.3389723",
+        "paper_authors": [
+            "Bonaventura Del Monte",
+            "Steffen Zeuch",
+            "Tilmann Rabl",
+            "Volker Markl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Grizzly: Efficient Stream Processing Through Adaptive Query Compilation",
+        "paper_url": "https://doi.org/10.1145/3318464.3389739",
+        "paper_authors": [
+            "Philipp M. Grulich",
+            "Sebastian Bre\u00df",
+            "Steffen Zeuch",
+            "Jonas Traub",
+            "Janis von Bleichert",
+            "Zongxiong Chen",
+            "Tilmann Rabl",
+            "Volker Markl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LightSaber: Efficient Window Aggregation on Multi-core Processors",
+        "paper_url": "https://doi.org/10.1145/3318464.3389753",
+        "paper_authors": [
+            "Georgios Theodorakis",
+            "Alexandros Koliousis",
+            "Peter R. Pietzuch",
+            "Holger Pirk"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Parallel Index-based Stream Join on a Multicore CPU",
+        "paper_url": "https://doi.org/10.1145/3318464.3380576",
+        "paper_authors": [
+            "Amirhesam Shahvarani",
+            "Hans-Arno Jacobsen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Approximate Nearest Neighbor Search through Learned Adaptive Early Termination",
+        "paper_url": "https://doi.org/10.1145/3318464.3380600",
+        "paper_authors": [
+            "Conglong Li",
+            "Minjia Zhang",
+            "David G. Andersen",
+            "Yuxiong He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Theoretically-Efficient and Practical Parallel DBSCAN",
+        "paper_url": "https://doi.org/10.1145/3318464.3380582",
+        "paper_authors": [
+            "Yiqiu Wang",
+            "Yan Gu",
+            "Julian Shun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Relational Matrix Algebra and its Implementation in a Column Store",
+        "paper_url": "https://doi.org/10.1145/3318464.3389747",
+        "paper_authors": [
+            "Oksana Dolmatova",
+            "Nikolaus Augsten",
+            "Michael H. B\u00f6hlen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Locality-Sensitive Hashing Scheme based on Longest Circular Co-Substring",
+        "paper_url": "https://doi.org/10.1145/3318464.3389778",
+        "paper_authors": [
+            "Yifan Lei",
+            "Qiang Huang",
+            "Mohan S. Kankanhalli",
+            "Anthony K. H. Tung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Continuously Adaptive Similarity Search",
+        "paper_url": "https://doi.org/10.1145/3318464.3380601",
+        "paper_authors": [
+            "Huayi Zhang",
+            "Lei Cao",
+            "Yizhou Yan",
+            "Samuel Madden",
+            "Elke A. Rundensteiner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automating Exploratory Data Analysis via Machine Learning: An Overview",
+        "paper_url": "https://doi.org/10.1145/3318464.3383126",
+        "paper_authors": [
+            "Tova Milo",
+            "Amit Somech"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Crowdsourcing Practice for Efficient Data Labeling: Aggregation, Incremental Relabeling, and Pricing",
+        "paper_url": "https://doi.org/10.1145/3318464.3383127",
+        "paper_authors": [
+            "Alexey Drutsa",
+            "Valentina Fedorova",
+            "Dmitry Ustalov",
+            "Olga Megorskaya",
+            "Evfrosiniya Zerminova",
+            "Daria Baidakova"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "State of the Art and Open Challenges in Natural Language Interfaces to Data",
+        "paper_url": "https://doi.org/10.1145/3318464.3383128",
+        "paper_authors": [
+            "Fatma Ozcan",
+            "Abdul Quamar",
+            "Jaydeep Sen",
+            "Chuan Lei",
+            "Vasilis Efthymiou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SIGMOD 2020 Tutorial on Fairness and Bias in Peer Review and Other Sociotechnical Intelligent Systems",
+        "paper_url": "https://doi.org/10.1145/3318464.3383129",
+        "paper_authors": [
+            "Nihar B. Shah",
+            "Zachary C. Lipton"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Le Taureau: Deconstructing the Serverless Landscape & A Look Forward",
+        "paper_url": "https://doi.org/10.1145/3318464.3383130",
+        "paper_authors": [
+            "Anurag Khandelwal",
+            "Arun Kejariwal",
+            "Karthikeyan Ramasamy"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Beyond Analytics: The Evolution of Stream Processing Systems",
+        "paper_url": "https://doi.org/10.1145/3318464.3383131",
+        "paper_authors": [
+            "Paris Carbone",
+            "Marios Fragkoulis",
+            "Vasiliki Kalavri",
+            "Asterios Katsifodimos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimal Join Algorithms Meet Top-k",
+        "paper_url": "https://doi.org/10.1145/3318464.3383132",
+        "paper_authors": [
+            "Nikolaos Tziavelis",
+            "Wolfgang Gatterbauer",
+            "Mirek Riedewald"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Key-Value Storage Engines",
+        "paper_url": "https://doi.org/10.1145/3318464.3383133",
+        "paper_authors": [
+            "Stratos Idreos",
+            "Mark Callaghan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RASQL: A Powerful Language and its System for Big Data Applications",
+        "paper_url": "https://doi.org/10.1145/3318464.3384677",
+        "paper_authors": [
+            "Jin Wang",
+            "Guorui Xiao",
+            "Jiaqi Gu",
+            "Jiacheng Wu",
+            "Carlo Zaniolo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PL/SQL Without the PL",
+        "paper_url": "https://doi.org/10.1145/3318464.3384678",
+        "paper_authors": [
+            "Denis Hirn",
+            "Torsten Grust"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Analysis of Database Search Systems with THOR",
+        "paper_url": "https://doi.org/10.1145/3318464.3384679",
+        "paper_authors": [
+            "Theofilos Belmpas",
+            "Orest Gkini",
+            "Georgia Koutrika"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BOOMER: A Tool for Blending Visual P-Homomorphic Queries on Large Networks",
+        "paper_url": "https://doi.org/10.1145/3318464.3384680",
+        "paper_authors": [
+            "Yinglong Song",
+            "Huey-Eng Chua",
+            "Sourav S. Bhowmick",
+            "Byron Choi",
+            "Shuigeng Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AURORA: Data-driven Construction of Visual Graph Query Interfaces for Graph Databases",
+        "paper_url": "https://doi.org/10.1145/3318464.3384681",
+        "paper_authors": [
+            "Sourav S. Bhowmick",
+            "Kai Huang",
+            "Huey-Eng Chua",
+            "Zifeng Yuan",
+            "Byron Choi",
+            "Shuigeng Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "vChain: A Blockchain System Ensuring Query Integrity",
+        "paper_url": "https://doi.org/10.1145/3318464.3384682",
+        "paper_authors": [
+            "Haixin Wang",
+            "Cheng Xu",
+            "Ce Zhang",
+            "Jianliang Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AUDITOR: A System Designed for Automatic Discovery of Complex Integrity Constraints in Relational Databases",
+        "paper_url": "https://doi.org/10.1145/3318464.3384683",
+        "paper_authors": [
+            "Wentao Hu",
+            "Dongxiang Zhang",
+            "Dawei Jiang",
+            "Sai Wu",
+            "Ke Chen",
+            "Kian-Lee Tan",
+            "Gang Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SHARQL: Shape Analysis of Recursive SPARQL Queries",
+        "paper_url": "https://doi.org/10.1145/3318464.3384684",
+        "paper_authors": [
+            "Angela Bonifati",
+            "Wim Martens",
+            "Thomas Timm"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "High Performance Distributed OLAP on Property Graphs with Grasper",
+        "paper_url": "https://doi.org/10.1145/3318464.3384685",
+        "paper_authors": [
+            "Hongzhi Chen",
+            "Bowen Wu",
+            "Shiyuan Deng",
+            "Chenghuan Huang",
+            "Changji Li",
+            "Yichao Li",
+            "James Cheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ProcAnalyzer: Effective Code Analyzer for Tuning Imperative Programs in SAP HANA",
+        "paper_url": "https://doi.org/10.1145/3318464.3384686",
+        "paper_authors": [
+            "Kisung Park",
+            "Taeyoung Jeong",
+            "Chanho Jeong",
+            "Jaeha Lee",
+            "Dong-Hun Lee",
+            "Young-Koo Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LATTE: Visual Construction of Smart Contracts",
+        "paper_url": "https://doi.org/10.1145/3318464.3384687",
+        "paper_authors": [
+            "Sean Tan",
+            "Sourav S. Bhowmick",
+            "Huey-Eng Chua",
+            "Xiaokui Xiao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PROUD: PaRallel OUtlier Detection for Streams",
+        "paper_url": "https://doi.org/10.1145/3318464.3384688",
+        "paper_authors": [
+            "Theodoros Toliopoulos",
+            "Christos Bellas",
+            "Anastasios Gounaris",
+            "Apostolos Papadopoulos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MithraCoverage: A System for Investigating Population Bias for Intersectional Fairness",
+        "paper_url": "https://doi.org/10.1145/3318464.3384689",
+        "paper_authors": [
+            "Zhongjun Jin",
+            "Mengjing Xu",
+            "Chenkai Sun",
+            "Abolfazl Asudeh",
+            "H. V. Jagadish"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MC3: A System for Minimization of Classifier Construction Cost",
+        "paper_url": "https://doi.org/10.1145/3318464.3384690",
+        "paper_authors": [
+            "Shay Gershtein",
+            "Tova Milo",
+            "Gefen Morami",
+            "Slava Novgorodov"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sentinel: Understanding Data Systems",
+        "paper_url": "https://doi.org/10.1145/3318464.3384691",
+        "paper_authors": [
+            "Brad Glasbergen",
+            "Michael Abebe",
+            "Khuzaima Daudjee",
+            "Daniel Vogel",
+            "Jian Zhao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BugDoc: A System for Debugging Computational Pipelines",
+        "paper_url": "https://doi.org/10.1145/3318464.3384692",
+        "paper_authors": [
+            "Raoni Louren\u00e7o",
+            "Juliana Freire",
+            "Dennis E. Shasha"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TQVS: Temporal Queries over Video Streams in Action",
+        "paper_url": "https://doi.org/10.1145/3318464.3384693",
+        "paper_authors": [
+            "Yueting Chen",
+            "Xiaohui Yu",
+            "Nick Koudas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ExTuNe: Explaining Tuple Non-conformance",
+        "paper_url": "https://doi.org/10.1145/3318464.3384694",
+        "paper_authors": [
+            "Anna Fariha",
+            "Ashish Tiwari",
+            "Arjun Radhakrishna",
+            "Sumit Gulwani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Interactively Discovering and Ranking Desired Tuples without Writing SQL Queries",
+        "paper_url": "https://doi.org/10.1145/3318464.3384695",
+        "paper_authors": [
+            "Xuedi Qin",
+            "Chengliang Chai",
+            "Yuyu Luo",
+            "Nan Tang",
+            "Guoliang Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Synner: Generating Realistic Synthetic Data",
+        "paper_url": "https://doi.org/10.1145/3318464.3384696",
+        "paper_authors": [
+            "Miro Mannino",
+            "Azza Abouzied"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "InCognitoMatch: Cognitive-aware Matching via Crowdsourcing",
+        "paper_url": "https://doi.org/10.1145/3318464.3384697",
+        "paper_authors": [
+            "Roee Shraga",
+            "Coral Scharf",
+            "Rakefet Ackerman",
+            "Avigdor Gal"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CoClean: Collaborative Data Cleaning",
+        "paper_url": "https://doi.org/10.1145/3318464.3384698",
+        "paper_authors": [
+            "Mashaal Musleh",
+            "Mourad Ouzzani",
+            "Nan Tang",
+            "AnHai Doan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "STAR: A Distributed Stream Warehouse System for Spatial Data",
+        "paper_url": "https://doi.org/10.1145/3318464.3384699",
+        "paper_authors": [
+            "Zhida Chen",
+            "Gao Cong",
+            "Walid G. Aref"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "T-REx: Table Repair Explanations",
+        "paper_url": "https://doi.org/10.1145/3318464.3384700",
+        "paper_authors": [
+            "Daniel Deutch",
+            "Nave Frost",
+            "Amir Gilad",
+            "Oren Sheffer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SVQ++: Querying for Object Interactions in Video Streams",
+        "paper_url": "https://doi.org/10.1145/3318464.3384701",
+        "paper_authors": [
+            "Daren Chao",
+            "Nick Koudas",
+            "Ioannis Xarchakos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "F-IVM: Learning over Fast-Evolving Relational Data",
+        "paper_url": "https://doi.org/10.1145/3318464.3384702",
+        "paper_authors": [
+            "Milos Nikolic",
+            "Haozhe Zhang",
+            "Ahmet Kara",
+            "Dan Olteanu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CoMing: A Real-time Co-Movement Mining System for Streaming Trajectories",
+        "paper_url": "https://doi.org/10.1145/3318464.3384703",
+        "paper_authors": [
+            "Ziquan Fang",
+            "Yunjun Gao",
+            "Lu Pan",
+            "Lu Chen",
+            "Xiaoye Miao",
+            "Christian S. Jensen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unified Spatial Analytics from Heterogeneous Sources with Amazon Redshift",
+        "paper_url": "https://doi.org/10.1145/3318464.3384704",
+        "paper_authors": [
+            "Nemanja Boric",
+            "Hinnerk Gildhoff",
+            "Menelaos Karavelas",
+            "Ippokratis Pandis",
+            "Ioanna Tsalouchidou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Big Data Series Analytics Using TARDIS and its Exploitation in Geospatial Applications",
+        "paper_url": "https://doi.org/10.1145/3318464.3384705",
+        "paper_authors": [
+            "Liang Zhang",
+            "Noura Alghamdi",
+            "Mohamed Y. Eltabakh",
+            "Elke A. Rundensteiner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CDFShop: Exploring and Optimizing Learned Index Structures",
+        "paper_url": "https://doi.org/10.1145/3318464.3384706",
+        "paper_authors": [
+            "Ryan Marcus",
+            "Emily Zhang",
+            "Tim Kraska"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TensorFlow Data Validation: Data Analysis and Validation in Continuous ML Pipelines",
+        "paper_url": "https://doi.org/10.1145/3318464.3384707",
+        "paper_authors": [
+            "Emily Caveness",
+            "Paul Suganthan G. C.",
+            "Zhuo Peng",
+            "Neoklis Polyzotis",
+            "Sudip Roy",
+            "Martin Zinkevich"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Grosbeak: A Data Warehouse Supporting Resource-Aware Incremental Computing",
+        "paper_url": "https://doi.org/10.1145/3318464.3384708",
+        "paper_authors": [
+            "Zuozhi Wang",
+            "Kai Zeng",
+            "Botong Huang",
+            "Wei Chen",
+            "Xiaozong Cui",
+            "Bo Wang",
+            "Ji Liu",
+            "Liya Fan",
+            "Dachuan Qu",
+            "Zhenyu Hou",
+            "Tao Guan",
+            "Chen Li",
+            "Jingren Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Demonstration of BitGourmet: Data Analysis via Deterministic Approximation",
+        "paper_url": "https://doi.org/10.1145/3318464.3384709",
+        "paper_authors": [
+            "Saehan Jo",
+            "Immanuel Trummer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bring Your Own Data to X-PLAIN",
+        "paper_url": "https://doi.org/10.1145/3318464.3384710",
+        "paper_authors": [
+            "Eliana Pastor",
+            "Elena Baralis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Physical Visualization Design",
+        "paper_url": "https://doi.org/10.1145/3318464.3384711",
+        "paper_authors": [
+            "Lana Ramjit",
+            "Zhaoning Kong",
+            "Ravi Netravali",
+            "Eugene Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Demonstration of Chestnut: An In-memory Data Layout Designer for Database Applications",
+        "paper_url": "https://doi.org/10.1145/3318464.3384712",
+        "paper_authors": [
+            "Mingwei Samuel",
+            "Cong Yan",
+            "Alvin Cheung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Breaking Down Memory Walls in LSM-based Storage Systems",
+        "paper_url": "https://doi.org/10.1145/3318464.3384399",
+        "paper_authors": [
+            "Chen Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Context-Free Path Querying via Matrix Equations",
+        "paper_url": "https://doi.org/10.1145/3318464.3384400",
+        "paper_authors": [
+            "Yuliya Susanina"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Simulation-based Approximate Graph Pattern Matching",
+        "paper_url": "https://doi.org/10.1145/3318464.3384401",
+        "paper_authors": [
+            "Xiaoshuang Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "High-Dimensional Vector Similarity Search: From Time Series to Deep Network Embeddings",
+        "paper_url": "https://doi.org/10.1145/3318464.3384402",
+        "paper_authors": [
+            "Karima Echihabi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rethinking Message Brokers on RDMA and NVM",
+        "paper_url": "https://doi.org/10.1145/3318464.3384403",
+        "paper_authors": [
+            "Hendrik Makait"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Monte Carlo Tree Search for Generating Interactive Data Analysis Interfaces",
+        "paper_url": "https://doi.org/10.1145/3318464.3384404",
+        "paper_authors": [
+            "Yiru Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Continuous Prefetch for Interactive Data Applications",
+        "paper_url": "https://doi.org/10.1145/3318464.3384405",
+        "paper_authors": [
+            "Haneen Mohammed"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Re-evaluating the Performance Trade-offs for Hash-Based Multi-Join Queries",
+        "paper_url": "https://doi.org/10.1145/3318464.3384406",
+        "paper_authors": [
+            "Shiva Jahangiri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Interactive View Recommendation",
+        "paper_url": "https://doi.org/10.1145/3318464.3384407",
+        "paper_authors": [
+            "Xiaozhong Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "From Worst-Case to Average-Case Analysis: Accurate Latency Predictions for Key-Value Storage Engines",
+        "paper_url": "https://doi.org/10.1145/3318464.3384408",
+        "paper_authors": [
+            "Meena Jagadeesan",
+            "Garrett Tanzer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards the Scheduling of Vertex-constrained Multi Subgraph Matching Query",
+        "paper_url": "https://doi.org/10.1145/3318464.3384409",
+        "paper_authors": [
+            "Kongzhang Hao",
+            "Longbin Lai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Serverless Query Processing on a Budget",
+        "paper_url": "https://doi.org/10.1145/3318464.3384410",
+        "paper_authors": [
+            "William W. Ma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Workload-Aware Column Imprints",
+        "paper_url": "https://doi.org/10.1145/3318464.3384411",
+        "paper_authors": [
+            "Noah Slavitch"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Scalable UDTFs in Noria",
+        "paper_url": "https://doi.org/10.1145/3318464.3384412",
+        "paper_authors": [
+            "Justus Adam"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Column Partition and Permutation for Run Length Encoding in Columnar Databases",
+        "paper_url": "https://doi.org/10.1145/3318464.3384413",
+        "paper_authors": [
+            "Jia Shi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Supporting Database Constraints in Synthetic Data Generation based on Generative Adversarial Networks",
+        "paper_url": "https://doi.org/10.1145/3318464.3384414",
+        "paper_authors": [
+            "Wanxin Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Evaluation of Methods of Compressing Doubles",
+        "paper_url": "https://doi.org/10.1145/3318464.3384415",
+        "paper_authors": [
+            "Jacob Spiegel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MemFlow: Memory-Aware Distributed Deep Learning",
+        "paper_url": "https://doi.org/10.1145/3318464.3384416",
+        "paper_authors": [
+            "Neil Band"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "JSON Schema Matching: Empirical Observations",
+        "paper_url": "https://doi.org/10.1145/3318464.3384417",
+        "paper_authors": [
+            "Kunal Waghray"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

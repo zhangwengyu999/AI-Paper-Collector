@@ -1,0 +1,1033 @@
+[
+    {
+        "paper_name": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2021 - 24th International Conference, Strasbourg, France, September 27 - October 1, 2021, Proceedings, Part VIII",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3",
+        "paper_authors": [
+            "Marleen de Bruijne",
+            "Philippe C. Cattin",
+            "St\u00e9phane Cotin",
+            "Nicolas Padoy",
+            "Stefanie Speidel",
+            "Yefeng Zheng",
+            "Caroline Essert"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Relational Subsets Knowledge Distillation for Long-Tailed Retinal Diseases Recognition",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_1",
+        "paper_authors": [
+            "Lie Ju",
+            "Xin Wang",
+            "Lin Wang",
+            "Tongliang Liu",
+            "Xin Zhao",
+            "Tom Drummond",
+            "Dwarikanath Mahapatra",
+            "Zongyuan Ge"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cross-Domain Depth Estimation Network for 3D Vessel Reconstruction in OCT Angiography",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_2",
+        "paper_authors": [
+            "Shuai Yu",
+            "Yonghuai Liu",
+            "Jiong Zhang",
+            "Jianyang Xie",
+            "Yalin Zheng",
+            "Jiang Liu",
+            "Yitian Zhao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Distinguishing Differences Matters: Focal Contrastive Network for Peripheral Anterior Synechiae Recognition",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_3",
+        "paper_authors": [
+            "Yifan Yang",
+            "Huihui Fang",
+            "Qing Du",
+            "Fei Li",
+            "Xiulan Zhang",
+            "Mingkui Tan",
+            "Yanwu Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs Using a Novel Multi-scale Generative Adversarial Network",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_4",
+        "paper_authors": [
+            "Sharif Amit Kamran",
+            "Khondker Fariha Hossain",
+            "Alireza Tavakkoli",
+            "Stewart Lee Zuckerbrod",
+            "Kenton M. Sanders",
+            "Salah A. Baker"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_5",
+        "paper_authors": [
+            "Shuang Yu",
+            "Kai Ma",
+            "Qi Bi",
+            "Cheng Bian",
+            "Munan Ning",
+            "Nanjun He",
+            "Yuexiang Li",
+            "Hanruo Liu",
+            "Yefeng Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Local-Global Dual Perception Based Deep Multiple Instance Learning for Retinal Disease Classification",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_6",
+        "paper_authors": [
+            "Qi Bi",
+            "Shuang Yu",
+            "Wei Ji",
+            "Cheng Bian",
+            "Lijun Gong",
+            "Hanruo Liu",
+            "Kai Ma",
+            "Yefeng Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BSDA-Net: A Boundary Shape and Distance Aware Joint Learning Framework for Segmenting and Classifying OCTA Images",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_7",
+        "paper_authors": [
+            "Li Lin",
+            "Zhonghua Wang",
+            "Jiewei Wu",
+            "Yijin Huang",
+            "Junyan Lyu",
+            "Pujin Cheng",
+            "Jiong Wu",
+            "Xiaoying Tang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LensID: A CNN-RNN-Based Framework Towards Lens Irregularity Detection in Cataract Surgery Videos",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_8",
+        "paper_authors": [
+            "Negin Ghamsarian",
+            "Mario Taschwer",
+            "Doris Putzgruber-Adamitsch",
+            "Stephanie Sarny",
+            "Yosuf El-Shabrawi",
+            "Klaus Schoeffmann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "I-SECRET: Importance-Guided Fundus Image Enhancement via Semi-supervised Contrastive Constraining",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_9",
+        "paper_authors": [
+            "Pujin Cheng",
+            "Li Lin",
+            "Yijin Huang",
+            "Junyan Lyu",
+            "Xiaoying Tang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Few-Shot Transfer Learning for Hereditary Retinal Diseases Recognition",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_10",
+        "paper_authors": [
+            "Siwei Mai",
+            "Qian Li",
+            "Qi Zhao",
+            "Mingchen Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Simultaneous Alignment and Surface Regression Using Hybrid 2D-3D Networks for 3D Coherent Layer Segmentation of Retina OCT Images",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_11",
+        "paper_authors": [
+            "Hong Liu",
+            "Dong Wei",
+            "Donghuan Lu",
+            "Yuexiang Li",
+            "Kai Ma",
+            "Liansheng Wang",
+            "Yefeng Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GQ-GCN: Group Quadratic Graph Convolutional Network for Classification of Histopathological Images",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_12",
+        "paper_authors": [
+            "Zhiyang Gao",
+            "Jun Shi",
+            "Jun Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Nuclei Grading of Clear Cell Renal Cell Carcinoma in Histopathological Image by Composite High-Resolution Network",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_13",
+        "paper_authors": [
+            "Zeyu Gao",
+            "Jiangbo Shi",
+            "Xianli Zhang",
+            "Yang Li",
+            "Haichuan Zhang",
+            "Jialun Wu",
+            "Chunbao Wang",
+            "Deyu Meng",
+            "Chen Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Prototypical Models for Classifying High-Risk Atypical Breast Lesions",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_14",
+        "paper_authors": [
+            "Akash Parvatikar",
+            "Om Choudhary",
+            "Arvind Ramanathan",
+            "Rebekah Jenkins",
+            "Olga Navolotskaia",
+            "Gloria Carter",
+            "Akif Burak Tosun",
+            "Jeffrey L. Fine",
+            "S. Chakra Chennubhotla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hierarchical Attention Guided Framework for Multi-resolution Collaborative Whole Slide Image Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_15",
+        "paper_authors": [
+            "Jiangpeng Yan",
+            "Hanbo Chen",
+            "Kang Wang",
+            "Yan Ji",
+            "Yuyao Zhu",
+            "Jingjing Li",
+            "Dong Xie",
+            "Zhe Xu",
+            "Junzhou Huang",
+            "Shuqun Cheng",
+            "Xiu Li",
+            "Jianhua Yao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hierarchical Phenotyping and Graph Modeling of Spatial Architecture in Lymphoid Neoplasms",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_16",
+        "paper_authors": [
+            "Pingjun Chen",
+            "Muhammad Aminu",
+            "Siba El Hussein",
+            "Joseph D. Khoury",
+            "Jia Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Computational Geometry Approach for Modeling Neuronal Fiber Pathways",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_17",
+        "paper_authors": [
+            "S. Shailja",
+            "Angela Zhang",
+            "B. S. Manjunath"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TransPath: Transformer-Based Self-supervised Learning for Histopathological Image Classification",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_18",
+        "paper_authors": [
+            "Xiyue Wang",
+            "Sen Yang",
+            "Jun Zhang",
+            "Minghui Wang",
+            "Jing Zhang",
+            "Junzhou Huang",
+            "Wei Yang",
+            "Xiao Han"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "From Pixel to Whole Slide: Automatic Detection of Microvascular Invasion in Hepatocellular Carcinoma on Histopathological Image via Cascaded Networks",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_19",
+        "paper_authors": [
+            "Hanbo Chen",
+            "Kang Wang",
+            "Yuyao Zhu",
+            "Jiangpeng Yan",
+            "Yan Ji",
+            "Jingjing Li",
+            "Dong Xie",
+            "Junzhou Huang",
+            "Shuqun Cheng",
+            "Jianhua Yao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DT-MIL: Deformable Transformer for Multi-instance Learning on Histopathological Image",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_20",
+        "paper_authors": [
+            "Hang Li",
+            "Fan Yang",
+            "Yu Zhao",
+            "Xiaohan Xing",
+            "Jun Zhang",
+            "Mingxuan Gao",
+            "Junzhou Huang",
+            "Liansheng Wang",
+            "Jianhua Yao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Early Detection of Liver Fibrosis Using Graph Convolutional Networks",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_21",
+        "paper_authors": [
+            "Marta Wojciechowska",
+            "Stefano Malacrino",
+            "Natalia Garcia Martin",
+            "Hamid Fehri",
+            "Jens Rittscher"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hierarchical Graph Pathomic Network for Progression Free Survival Prediction",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_22",
+        "paper_authors": [
+            "Zichen Wang",
+            "Jiayun Li",
+            "Zhufeng Pan",
+            "Wenyuan Li",
+            "Anthony E. Sisk",
+            "Huihui Ye",
+            "William Speier",
+            "Corey W. Arnold"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Increasing Consistency of Evoked Response in Thalamic Nuclei During Repetitive Burst Stimulation of Peripheral Nerve in Humans",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_23",
+        "paper_authors": [
+            "Jessica S. L. Vidmark",
+            "Estefania Hernandez-Martin",
+            "Terence D. Sanger"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Weakly Supervised Pan-Cancer Segmentation Tool",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_24",
+        "paper_authors": [
+            "Marvin Lerousseau",
+            "Marion Classe",
+            "Enzo Battistella",
+            "Th\u00e9o Estienne",
+            "Th\u00e9ophraste Henry",
+            "Amaury Leroy",
+            "Roger Sun",
+            "Maria Vakalopoulou",
+            "Jean-Yves Scoazec",
+            "Eric Deutsch",
+            "Nikos Paragios"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Structure-Preserving Multi-domain Stain Color Augmentation Using Style-Transfer with Disentangled Representations",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_25",
+        "paper_authors": [
+            "Sophia J. Wagner",
+            "Nadieh Khalili",
+            "Raghav Sharma",
+            "Melanie Boxberg",
+            "Carsten Marr",
+            "Walter de Back",
+            "Tingying Peng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MetaCon: Meta Contrastive Learning for Microsatellite Instability Detection",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_26",
+        "paper_authors": [
+            "Yuqing Liu",
+            "Weiwen Wang",
+            "Chuan-Xian Ren",
+            "Dao-Qing Dai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generalizing Nucleus Recognition Model in Multi-source Ki67 Immunohistochemistry Stained Images via Domain-Specific Pruning",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_27",
+        "paper_authors": [
+            "Jiatong Cai",
+            "Chenglu Zhu",
+            "Can Cui",
+            "Honglin Li",
+            "Tong Wu",
+            "Shichuan Zhang",
+            "Lin Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cells are Actors: Social Network Analysis with Classical ML for SOTA Histology Image Classification",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_28",
+        "paper_authors": [
+            "Neda Zamanitajeddin",
+            "Mostafa Jahanifar",
+            "Nasir M. Rajpoot"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Instance-Based Vision Transformer for Subtyping of Papillary Renal Cell Carcinoma in Histopathological Image",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_29",
+        "paper_authors": [
+            "Zeyu Gao",
+            "Bangyang Hong",
+            "Xianli Zhang",
+            "Yang Li",
+            "Chang Jia",
+            "Jialun Wu",
+            "Chunbao Wang",
+            "Deyu Meng",
+            "Chen Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hybrid Supervision Learning for Pathology Whole Slide Image Classification",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_30",
+        "paper_authors": [
+            "Jiahui Li",
+            "Wen Chen",
+            "Xiaodi Huang",
+            "Shuang Yang",
+            "Zhiqiang Hu",
+            "Qi Duan",
+            "Dimitris N. Metaxas",
+            "Hongsheng Li",
+            "Shaoting Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MorphSet: Improving Renal Histopathology Case Assessment Through Learned Prognostic Vectors",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_31",
+        "paper_authors": [
+            "Pietro Antonio Cicalese",
+            "Syed Asad Rizvi",
+            "Victor Wang",
+            "Sai Patibandla",
+            "Pengyu Yuan",
+            "Samira Zare",
+            "Katharina Moos",
+            "Ibrahim Batal",
+            "Marian Clahsen-van Groningen",
+            "Candice Roufosse",
+            "Jan U. Becker",
+            "Chandra Mohan",
+            "Hien Van Nguyen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Accounting for Dependencies in Deep Learning Based Multiple Instance Learning for Whole Slide Imaging",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_32",
+        "paper_authors": [
+            "Andriy Myronenko",
+            "Ziyue Xu",
+            "Dong Yang",
+            "Holger R. Roth",
+            "Daguang Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Whole Slide Images are 2D Point Clouds: Context-Aware Survival Prediction Using Patch-Based Graph Convolutional Networks",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_33",
+        "paper_authors": [
+            "Richard J. Chen",
+            "Ming Y. Lu",
+            "Muhammad Shaban",
+            "Chengkuan Chen",
+            "Tiffany Y. Chen",
+            "Drew F. K. Williamson",
+            "Faisal Mahmood"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pay Attention with Focus: A Novel Learning Scheme for Classification of Whole Slide Images",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_34",
+        "paper_authors": [
+            "Shivam Kalra",
+            "Mohammed Adnan",
+            "Sobhan Hemati",
+            "Taher Dehkharghanian",
+            "Shahryar Rahnamayan",
+            "Hamid R. Tizhoosh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Developmental Stage Classification of Embryos Using Two-Stream Neural Network with Linear-Chain Conditional Random Field",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_35",
+        "paper_authors": [
+            "Stanislav Lukyanenko",
+            "Won-Dong Jang",
+            "Donglai Wei",
+            "Robbert Struyven",
+            "Yoon Kim",
+            "Brian D. Leahy",
+            "Helen Y. Yang",
+            "Alexander M. Rush",
+            "Dalit Ben-Yosef",
+            "Daniel Needleman",
+            "Hanspeter Pfister"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semi-supervised Cell Detection in Time-Lapse Images Using Temporal Consistency",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_36",
+        "paper_authors": [
+            "Kazuya Nishimura",
+            "Hyeonwoo Cho",
+            "Ryoma Bise"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cell Detection in Domain Shift Problem Using Pseudo-Cell-Position Heatmap",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_37",
+        "paper_authors": [
+            "Hyeonwoo Cho",
+            "Kazuya Nishimura",
+            "Kazuhide Watanabe",
+            "Ryoma Bise"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "2D Histology Meets 3D Topology: Cytoarchitectonic Brain Mapping with Graph Neural Networks",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_38",
+        "paper_authors": [
+            "Christian Schiffer",
+            "Stefan Harmeling",
+            "Katrin Amunts",
+            "Timo Dickscheid"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Annotation-Efficient Cell Counting",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_39",
+        "paper_authors": [
+            "Zuhui Wang",
+            "Zhaozheng Yin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Deep Learning Bidirectional Temporal Tracking Algorithm for Automated Blood Cell Counting from Non-invasive Capillaroscopy Videos",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_40",
+        "paper_authors": [
+            "Luojie Huang",
+            "Gregory N. McKay",
+            "Nicholas J. Durr"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cell Detection from Imperfect Annotation by Pseudo Label Selection Using P-classification",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_41",
+        "paper_authors": [
+            "Kazuma Fujii",
+            "Daiki Suehiro",
+            "Kazuya Nishimura",
+            "Ryoma Bise"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Neuron Stitching for Connectomics",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_42",
+        "paper_authors": [
+            "Xiaoyu Liu",
+            "Yueyi Zhang",
+            "Zhiwei Xiong",
+            "Chang Chen",
+            "Wei Huang",
+            "Xuejin Chen",
+            "Feng Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CA2.5-Net Nuclei Segmentation Framework with a Microscopy Cell Benchmark Collection",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_43",
+        "paper_authors": [
+            "Jinghan Huang",
+            "Yiqing Shen",
+            "Dinggang Shen",
+            "Jing Ke"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automated Malaria Cells Detection from Blood Smears Under Severe Class Imbalance via Importance-Aware Balanced Group Softmax",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_44",
+        "paper_authors": [
+            "Canfeng Lin",
+            "Huisi Wu",
+            "Zhenkun Wen",
+            "Jing Qin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Non-parametric Vignetting Correction for Sparse Spatial Transcriptomics Images",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_45",
+        "paper_authors": [
+            "Bovey Y. Rao",
+            "Alexis M. Peterson",
+            "Elena K. Kandror",
+            "Stephanie Herrlinger",
+            "Attila Losonczy",
+            "Liam Paninski",
+            "Abbas H. Rizvi",
+            "Erdem Varol"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-StyleGAN: Towards Image-Based Simulation of Time-Lapse Live-Cell Microscopy",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_46",
+        "paper_authors": [
+            "Christoph Reich",
+            "Tim Prangemeier",
+            "Christian Wildner",
+            "Heinz Koeppl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Reinforcement Exemplar Learning for Annotation Refinement",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_47",
+        "paper_authors": [
+            "Yuexiang Li",
+            "Nanjun He",
+            "Sixiang Peng",
+            "Kai Ma",
+            "Yefeng Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Instance-Aware Feature Alignment for Cross-Domain Cell Nuclei Detection in Histopathology Images",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_48",
+        "paper_authors": [
+            "Zhi Wang",
+            "Xiaoya Zhu",
+            "Lei Su",
+            "Gang Meng",
+            "Junsheng Zhang",
+            "Ao Li",
+            "Minghui Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Positive-Unlabeled Learning for Cell Detection in Histopathology Images with Incomplete Annotations",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_49",
+        "paper_authors": [
+            "Zipei Zhao",
+            "Fengqian Pang",
+            "Zhiwen Liu",
+            "Chuyang Ye"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GloFlow: Whole Slide Image Stitching from Video Using Optical Flow and Global Image Alignment",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_50",
+        "paper_authors": [
+            "Viswesh Krishna",
+            "Anirudh Joshi",
+            "Damir Vrabac",
+            "Philip L. Bulterys",
+            "Eric Yang",
+            "Sebastian Fernandez-Pol",
+            "Andrew Y. Ng",
+            "Pranav Rajpurkar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-modal Multi-instance Learning Using Weakly Correlated Histopathological Images and Tabular Clinical Information",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_51",
+        "paper_authors": [
+            "Hang Li",
+            "Fan Yang",
+            "Xiaohan Xing",
+            "Yu Zhao",
+            "Jun Zhang",
+            "Yueping Liu",
+            "Mengxue Han",
+            "Junzhou Huang",
+            "Liansheng Wang",
+            "Jianhua Yao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Ranking Loss: A Ranking-Based Deep Neural Network for Colorectal Cancer Grading in Pathology Images",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_52",
+        "paper_authors": [
+            "Trinh Thi Le Vuong",
+            "Kyungeun Kim",
+            "Boram Song",
+            "Jin Tae Kwak"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatial Attention-Based Deep Learning System for Breast Cancer Pathological Complete Response Prediction with Serial Histopathology Images in Multiple Stains",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_53",
+        "paper_authors": [
+            "Hongyi Duanmu",
+            "Shristi Bhattarai",
+            "Hongxiao Li",
+            "Chia Cheng Cheng",
+            "Fusheng Wang",
+            "George Teodoro",
+            "Emiel A. M. Janssen",
+            "Keerthi Gogineni",
+            "Preeti Subhedar",
+            "Ritu Aneja",
+            "Jun Kong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Integration of Patch Features Through Self-supervised Learning and Transformer for Survival Analysis on Whole Slide Images",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_54",
+        "paper_authors": [
+            "Ziwang Huang",
+            "Hua Chai",
+            "Ruoqi Wang",
+            "Haitao Wang",
+            "Yuedong Yang",
+            "Hejun Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Contrastive Learning Based Stain Normalization Across Multiple Tumor in Histopathology",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_55",
+        "paper_authors": [
+            "Jing Ke",
+            "Yiqing Shen",
+            "Xiaoyao Liang",
+            "Dinggang Shen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semi-supervised Adversarial Learning for Stain Normalisation in Histopathology Images",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_56",
+        "paper_authors": [
+            "Cong Cong",
+            "Sidong Liu",
+            "Antonio Di Ieva",
+            "Maurice Pagnucco",
+            "Shlomo Berkovsky",
+            "Yang Song"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Visual Features by Colorization for Slide-Consistent Survival Prediction from Whole Slide Images",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_57",
+        "paper_authors": [
+            "Lei Fan",
+            "Arcot Sowmya",
+            "Erik Meijering",
+            "Yang Song"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Learning of Cancer Tissue Representations",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_58",
+        "paper_authors": [
+            "Adalberto Claudio Quiros",
+            "Nicolas Coudray",
+            "Anna Yeaton",
+            "Wisuwat Sunhem",
+            "Roderick Murray-Smith",
+            "Aristotelis Tsirigos",
+            "Ke Yuan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Multi-attribute Controllable Generative Model for Histopathology Image Synthesis",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_59",
+        "paper_authors": [
+            "Jiarong Ye",
+            "Yuan Xue",
+            "Peter Liu",
+            "Richard Zaino",
+            "Keith C. Cheng",
+            "Xiaolei Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "USCL: Pretraining Deep Ultrasound Image Diagnosis Model Through Video Contrastive Representation Learning",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_60",
+        "paper_authors": [
+            "Yixiong Chen",
+            "Chunhui Zhang",
+            "Li Liu",
+            "Cheng Feng",
+            "Changfeng Dong",
+            "Yongfang Luo",
+            "Xiang Wan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Identifying Quantitative and Explanatory Tumor Indexes from Dynamic Contrast Enhanced Ultrasound",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_61",
+        "paper_authors": [
+            "Peng Wan",
+            "Chunrui Liu",
+            "Fang Chen",
+            "Jing Qin",
+            "Daoqiang Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Weakly-Supervised Ultrasound Video Segmentation with Minimal Annotations",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_62",
+        "paper_authors": [
+            "Ruiheng Chang",
+            "Dong Wang",
+            "Haiyan Guo",
+            "Jia Ding",
+            "Liwei Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Content-Preserving Unpaired Translation from Simulated to Realistic Ultrasound Images",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_63",
+        "paper_authors": [
+            "Devavrat Tomar",
+            "Lin Zhang",
+            "Tiziano Portenier",
+            "Orcun Goksel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Visual-Assisted Probe Movement Guidance for Obstetric Ultrasound Scanning Using Landmark Retrieval",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_64",
+        "paper_authors": [
+            "Cheng Zhao",
+            "Richard Droste",
+            "Lior Drukker",
+            "Aris T. Papageorghiou",
+            "J. Alison Noble"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Training Deep Networks for Prostate Cancer Diagnosis Using Coarse Histopathological Labels",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_65",
+        "paper_authors": [
+            "Golara Javadi",
+            "Samareh Samadi",
+            "Sharareh Bayat",
+            "Samira Sojoudi",
+            "Antonio Hurtado",
+            "Silvia D. Chang",
+            "Peter C. Black",
+            "Parvin Mousavi",
+            "Purang Abolmaesumi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rethinking Ultrasound Augmentation: A Physics-Inspired Approach",
+        "paper_url": "https://doi.org/10.1007/978-3-030-87237-3_66",
+        "paper_authors": [
+            "Maria Tirindelli",
+            "Christine Eilers",
+            "Walter Simson",
+            "Magdalini Paschali",
+            "Mohammad Farid Azampour",
+            "Nassir Navab"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

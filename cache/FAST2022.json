@@ -1,0 +1,410 @@
+[
+    {
+        "paper_name": "20th USENIX Conference on File and Storage Technologies, FAST 2022, Santa Clara, CA, USA, February 22-24, 2022",
+        "paper_url": "https://www.usenix.org/conference/fast22",
+        "paper_authors": [
+            "Dean Hildebrand",
+            "Donald E. Porter"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "25 Years of Storage Research and Education: A Retrospective",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/keynote",
+        "paper_authors": [
+            "Remzi H. Arpaci-Dusseau"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "NyxCache: Flexible and Efficient Multi-tenant Persistent Memory Caching",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/wu",
+        "paper_authors": [
+            "Kan Wu",
+            "Kaiwei Tu",
+            "Yuvraj Patel",
+            "Rathijit Sen",
+            "Kwanghyun Park",
+            "Andrea C. Arpaci-Dusseau",
+            "Remzi H. Arpaci-Dusseau"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "HTMFS: Strong Consistency Comes for Free with Hardware Transactional Memory in Persistent Memory File Systems",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/yi-htmfs",
+        "paper_authors": [
+            "Jifei Yi",
+            "Mingkai Dong",
+            "Fangnuo Wu",
+            "Haibo Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ctFS: Replacing File Indexing with Hardware Memory Translation through Contiguous File Allocation for Persistent Memory",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/li",
+        "paper_authors": [
+            "Ruibin Li",
+            "Xiang Ren",
+            "Xu Zhao",
+            "Siwei He",
+            "Michael Stumm",
+            "Ding Yuan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/zhang-ming",
+        "paper_authors": [
+            "Ming Zhang",
+            "Yu Hua",
+            "Pengfei Zuo",
+            "Lurong Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Closing the B+-tree vs. LSM-tree Write Amplification Gap on Modern Storage Hardware with Built-in Transparent Compression",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/qiao",
+        "paper_authors": [
+            "Yifan Qiao",
+            "Xubin Chen",
+            "Ning Zheng",
+            "Jiangpeng Li",
+            "Yang Liu",
+            "Tong Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TVStore: Automatically Bounding Time Series Storage via Time-Varying Compression",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/an",
+        "paper_authors": [
+            "Yanzhe An",
+            "Yue Su",
+            "Yuqing Zhu",
+            "Jianmin Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Removing Double-Logging with Passive Data Persistence in LSM-tree based Relational Databases",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/huang",
+        "paper_authors": [
+            "Kecheng Huang",
+            "Zhaoyan Shen",
+            "Zhiping Jia",
+            "Zili Shao",
+            "Feng Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving the Reliability of Next Generation SSDs using WOM-v Codes",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/jaffer",
+        "paper_authors": [
+            "Shehbaz Jaffer",
+            "Kaveh Mahdaviani",
+            "Bianca Schroeder"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GuardedErase: Extending SSD Lifetimes by Protecting Weak Wordlines",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/hong",
+        "paper_authors": [
+            "Duwon Hong",
+            "Myungsuk Kim",
+            "Geonhee Cho",
+            "Dusol Lee",
+            "Jihong Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/kwon",
+        "paper_authors": [
+            "Miryeong Kwon",
+            "Donghyun Gouk",
+            "Sangwon Lee",
+            "Myoungsoo Jung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Operational Characteristics of SSDs in Enterprise Storage Systems: A Large-Scale Field Study",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/maneas",
+        "paper_authors": [
+            "Stathis Maneas",
+            "Kaveh Mahdaviani",
+            "Tim Emami",
+            "Bianca Schroeder"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hydra : Resilient and Highly Available Remote Memory",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/lee",
+        "paper_authors": [
+            "Youngmoon Lee",
+            "Hasan Al Maruf",
+            "Mosharaf Chowdhury",
+            "Asaf Cidon",
+            "Kang G. Shin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MT^2: Memory Bandwidth Regulation on Hybrid NVM/DRAM Platforms",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/yi-mt2",
+        "paper_authors": [
+            "Jifei Yi",
+            "Benchao Dong",
+            "Mingkai Dong",
+            "Ruizhe Tong",
+            "Haibo Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Aurogon: Taming Aborts in All Phases for Distributed In-Memory Transactions",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/jiang",
+        "paper_authors": [
+            "Tianyang Jiang",
+            "Guangyan Zhang",
+            "Zhiyue Li",
+            "Weimin Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DedupSearch: Two-Phase Deduplication Aware Keyword Search",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/elias",
+        "paper_authors": [
+            "Nadav Elias",
+            "Philip Shilane",
+            "Sarai Sheinvald",
+            "Gala Yadgar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DeepSketch: A New Machine Learning-Based Reference Search Technique for Post-Deduplication Delta Compression",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/park",
+        "paper_authors": [
+            "Jisung Park",
+            "Jeonggyun Kim",
+            "Yeseong Kim",
+            "Sungjin Lee",
+            "Onur Mutlu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The what, The from, and The to: The Migration Games in Deduplicated Systems",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/kisous",
+        "paper_authors": [
+            "Roei Kisous",
+            "Ariel Kolikant",
+            "Abhinav Duggal",
+            "Sarai Sheinvald",
+            "Gala Yadgar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DUPEFS: Leaking Data Over the Network With Filesystem Deduplication Side Channels",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/bacs",
+        "paper_authors": [
+            "Andrei Bacs",
+            "Saidgani Musaev",
+            "Kaveh Razavi",
+            "Cristiano Giuffrida",
+            "Herbert Bos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FusionFS: Fusing I/O Operations using CISCOps in Firmware File Systems",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/zhang-jian",
+        "paper_authors": [
+            "Jian Zhang",
+            "Yujie Ren",
+            "Sudarsun Kannan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "InfiniFS: An Efficient Metadata Service for Large-Scale Distributed Filesystems",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/lv",
+        "paper_authors": [
+            "Wenhao Lv",
+            "Youyou Lu",
+            "Yiming Zhang",
+            "Peile Duan",
+            "Jiwu Shu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ScaleXFS: Getting scalability of XFS back on the ring",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/kim-dohyun",
+        "paper_authors": [
+            "Dohyun Kim",
+            "Kwangwon Min",
+            "Joontaek Oh",
+            "Youjip Won"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "exF2FS: Transaction Support in Log-Structured Filesystem",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/oh",
+        "paper_authors": [
+            "Joontaek Oh",
+            "Sion Ji",
+            "Yongjin Kim",
+            "Youjip Won"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Log-Structured Merge Tree-aware Message Authentication Scheme for Persistent Key-Value Stores",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/kim-igjae",
+        "paper_authors": [
+            "Ig-Jae Kim",
+            "J. Hyun Kim",
+            "Minu Chung",
+            "Hyungon Moon",
+            "Sam H. Noh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Practicably Boosting the Processing Performance of BFS-like Algorithms on Semi-External Graph System via I/O-Efficient Graph Ordering",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/yang",
+        "paper_authors": [
+            "Tsun-Yu Yang",
+            "Yuhong Liang",
+            "Ming-Chang Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DEPART: Replica Decoupling for Distributed Key-Value Storage",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/zhang-qiang",
+        "paper_authors": [
+            "Qiang Zhang",
+            "Yongkun Li",
+            "Patrick P. C. Lee",
+            "Yinlong Xu",
+            "Si Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PAIO: General, Portable I/O Optimizations With Minor Application Modifications",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/macedo",
+        "paper_authors": [
+            "Ricardo Macedo",
+            "Yusuke Tanimura",
+            "Jason Haga",
+            "Vijay Chidambaram",
+            "Jos\u00e9 Pereira",
+            "Jo\u00e3o Paulo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Separating Data via Block Invalidation Time Inference for Write Amplification Reduction in Log-Structured Storage",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/wang",
+        "paper_authors": [
+            "Qiuping Wang",
+            "Jinhong Li",
+            "Patrick P. C. Lee",
+            "Tao Ouyang",
+            "Chao Shi",
+            "Lilong Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CacheSifter: Sifting Cache Files for Boosted Mobile Performance and Lifetime",
+        "paper_url": "https://www.usenix.org/conference/fast22/presentation/liang",
+        "paper_authors": [
+            "Yu Liang",
+            "Riwei Pan",
+            "Tianyu Ren",
+            "Yufei Cui",
+            "Rachata Ausavarungnirun",
+            "Xianzhang Chen",
+            "Changlong Li",
+            "Tei-Wei Kuo",
+            "Chun Jason Xue"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

@@ -1,0 +1,1192 @@
+[
+    {
+        "paper_name": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2020 - 23rd International Conference, Lima, Peru, October 4-8, 2020, Proceedings, Part VII",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3",
+        "paper_authors": [
+            "Anne L. Martel",
+            "Purang Abolmaesumi",
+            "Danail Stoyanov",
+            "Diana Mateus",
+            "Maria A. Zuluaga",
+            "S. Kevin Zhou",
+            "Daniel Racoceanu",
+            "Leo Joskowicz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A New Metric for Characterizing Dynamic Redundancy of Dense Brain Chronnectome and Its Application to Early Detection of Alzheimer's Disease",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_1",
+        "paper_authors": [
+            "Maryam Ghanbari",
+            "Li-Ming Hsu",
+            "Zhen Zhou",
+            "Amir Ghanbari",
+            "Zhanhao Mo",
+            "Pew-Thian Yap",
+            "Han Zhang",
+            "Dinggang Shen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Computational Framework for Dissociating Development-Related from Individually Variable Flexibility in Regional Modularity Assignment in Early Infancy",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_2",
+        "paper_authors": [
+            "Mayssa Soussia",
+            "Xuyun Wen",
+            "Zhen Zhou",
+            "Bing Jin",
+            "Tae-Eui Kam",
+            "Li-Ming Hsu",
+            "Zhengwang Wu",
+            "Gang Li",
+            "Li Wang",
+            "Islem Rekik",
+            "Weili Lin",
+            "Dinggang Shen",
+            "Han Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Domain-Invariant Prior Knowledge Guided Attention Networks for Robust Skull Stripping of Developing Macaque Brains",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_3",
+        "paper_authors": [
+            "Tao Zhong",
+            "Yu Zhang",
+            "Fenqiang Zhao",
+            "Yuchen Pei",
+            "Lufan Liao",
+            "Zhenyuan Ning",
+            "Li Wang",
+            "Dinggang Shen",
+            "Gang Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Parkinson's Disease Detection from fMRI-Derived Brainstem Regional Functional Connectivity Networks",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_4",
+        "paper_authors": [
+            "Nandinee Fariah Haq",
+            "Jiayue Cai",
+            "Tianze Yu",
+            "Martin J. McKeown",
+            "Z. Jane Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Persistent Feature Analysis of Multimodal Brain Networks Using Generalized Fused Lasso for EMCI Identification",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_5",
+        "paper_authors": [
+            "Jin Li",
+            "Chenyuan Bian",
+            "Dandan Chen",
+            "Xianglian Meng",
+            "Haoran Luo",
+            "Hong Liang",
+            "Li Shen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Recovering Brain Structural Connectivity from Functional Connectivity via Multi-GCN Based Generative Adversarial Network",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_6",
+        "paper_authors": [
+            "Lu Zhang",
+            "Li Wang",
+            "Dajiang Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "From Connectomic to Task-Evoked Fingerprints: Individualized Prediction of Task Contrasts from Resting-State Functional Connectivity",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_7",
+        "paper_authors": [
+            "Gia H. Ngo",
+            "Meenakshi Khosla",
+            "Keith Jamison",
+            "Amy Kuceyeski",
+            "Mert R. Sabuncu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Disentangled Intensive Triplet Autoencoder for Infant Functional Connectome Fingerprinting",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_8",
+        "paper_authors": [
+            "Dan Hu",
+            "Fan Wang",
+            "Han Zhang",
+            "Zhengwang Wu",
+            "Li Wang",
+            "Weili Lin",
+            "Gang Li",
+            "Dinggang Shen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "COVLET: Covariance-Based Wavelet-Like Transform for Statistical Analysis of Brain Characteristics in Children",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_9",
+        "paper_authors": [
+            "Fan Yang",
+            "Amal Isaiah",
+            "Won Hwa Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Species-Shared and -Specific Structural Connections Revealed by Dirty Multi-task Regression",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_10",
+        "paper_authors": [
+            "Tuo Zhang",
+            "Zhibin He",
+            "Xi Jiang",
+            "Lei Guo",
+            "Xiaoping Hu",
+            "Tianming Liu",
+            "Lei Du"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Self-weighted Multi-task Learning for Subjective Cognitive Decline Diagnosis",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_11",
+        "paper_authors": [
+            "Nina Cheng",
+            "Alejandro Frangi",
+            "Zhiguo Zhang",
+            "Denao Deng",
+            "Lihua Zhao",
+            "Tianfu Wang",
+            "Yichen Wei",
+            "Bihan Yu",
+            "Wei Mai",
+            "Gaoxiong Duan",
+            "Xiucheng Nong",
+            "Chong Li",
+            "Jiahui Su",
+            "Baiying Lei"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unified Brain Network with Functional and Structural Data",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_12",
+        "paper_authors": [
+            "Jing Yang",
+            "Qi Zhu",
+            "Rui Zhang",
+            "Jiashuang Huang",
+            "Daoqiang Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Integrating Similarity Awareness and Adaptive Calibration in Graph Convolution Network to Predict Disease",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_13",
+        "paper_authors": [
+            "Xuegang Song",
+            "Alejandro F. Frangi",
+            "Xiaohua Xiao",
+            "Jiuwen Cao",
+            "Tianfu Wang",
+            "Baiying Lei"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Infant Cognitive Scores Prediction with Multi-stream Attention-Based Temporal Path Signature Features",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_14",
+        "paper_authors": [
+            "Xin Zhang",
+            "Jiale Cheng",
+            "Hao Ni",
+            "Chenyang Li",
+            "Xiangmin Xu",
+            "Zhengwang Wu",
+            "Li Wang",
+            "Weili Lin",
+            "Dinggang Shen",
+            "Gang Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Masked Multi-Task Network for Case-Level Intracranial Hemorrhage Classification in Brain CT Volumes",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_15",
+        "paper_authors": [
+            "Dongang Wang",
+            "Chenyu Wang",
+            "Lynette Masters",
+            "Michael Barnett"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Graph Normalizer: A Geometric Deep Learning Approach for Estimating Connectional Brain Templates",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_16",
+        "paper_authors": [
+            "Mustafa Burak Gurbuz",
+            "Islem Rekik"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Supervised Multi-topology Network Cross-Diffusion for Population-Driven Brain Network Atlas Estimation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_17",
+        "paper_authors": [
+            "Islem Mhiri",
+            "Mohamed Ali Mahjoub",
+            "Islem Rekik"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Partial Volume Segmentation of Brain MRI Scans of Any Resolution and Contrast",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_18",
+        "paper_authors": [
+            "Benjamin Billot",
+            "Eleanor D. Robinson",
+            "Adrian V. Dalca",
+            "Juan Eugenio Iglesias"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BDB-Net: Boundary-Enhanced Dual Branch Network for Whole Brain Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_19",
+        "paper_authors": [
+            "Yu Zhang",
+            "Bo Liu",
+            "Yinuo Wang",
+            "Zhengzhou Gao",
+            "Xiangzhi Bai",
+            "Fugen Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Brain Age Estimation from MRI Using a Two-Stage Cascade Network with Ranking Loss",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_20",
+        "paper_authors": [
+            "Ziyang Liu",
+            "Jian Cheng",
+            "Haogang Zhu",
+            "Jicong Zhang",
+            "Tao Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Context-Aware Refinement Network Incorporating Structural Connectivity Prior for Brain Midline Delineation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_21",
+        "paper_authors": [
+            "Shen Wang",
+            "Kongming Liang",
+            "Yiming Li",
+            "Yizhou Yu",
+            "Yizhou Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimizing Visual Cortex Parameterization with Error-Tolerant Teichm\u00fcller Map in Retinotopic Mapping",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_22",
+        "paper_authors": [
+            "Yanshuai Tu",
+            "Duyan Ta",
+            "Zhonglin Lu",
+            "Yalin Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-scale Enhanced Graph Convolutional Network for Early Mild Cognitive Impairment Detection",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_23",
+        "paper_authors": [
+            "Shuangzhi Yu",
+            "Shuqiang Wang",
+            "Xiaohua Xiao",
+            "Jiuwen Cao",
+            "Guanghui Yue",
+            "Dongdong Liu",
+            "Tianfu Wang",
+            "Yanwu Xu",
+            "Baiying Lei"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Construction of Spatiotemporal Infant Cortical Surface Functional Templates",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_24",
+        "paper_authors": [
+            "Ying Huang",
+            "Fan Wang",
+            "Zhengwang Wu",
+            "Zengsi Chen",
+            "Han Zhang",
+            "Li Wang",
+            "Weili Lin",
+            "Dinggang Shen",
+            "Gang Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tract Dictionary Learning for Fast and Robust Recognition of Fiber Bundles",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_25",
+        "paper_authors": [
+            "Ye Wu",
+            "Yoonmi Hong",
+            "Sahar Ahmad",
+            "Weili Lin",
+            "Dinggang Shen",
+            "Pew-Thian Yap"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Globally Optimized Super-Resolution of Diffusion MRI Data via Fiber Continuity",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_26",
+        "paper_authors": [
+            "Ye Wu",
+            "Yoonmi Hong",
+            "Sahar Ahmad",
+            "Wei-Tang Chang",
+            "Weili Lin",
+            "Dinggang Shen",
+            "Pew-Thian Yap"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "White Matter Tract Segmentation with Self-supervised Learning",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_27",
+        "paper_authors": [
+            "Qi Lu",
+            "Yuxing Li",
+            "Chuyang Ye"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Estimating Tissue Microstructure with Undersampled Diffusion Data via Graph Convolutional Neural Networks",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_28",
+        "paper_authors": [
+            "Geng Chen",
+            "Yoonmi Hong",
+            "Yongqin Zhang",
+            "Jaeil Kim",
+            "Khoi Minh Huynh",
+            "Jiquan Ma",
+            "Weili Lin",
+            "Dinggang Shen",
+            "Pew-Thian Yap"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tractogram Filtering of Anatomically Non-plausible Fibers with Geometric Deep Learning",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_29",
+        "paper_authors": [
+            "Pietro Astolfi",
+            "Ruben Verhagen",
+            "Laurent Petit",
+            "Emanuele Olivetti",
+            "Jonathan Masci",
+            "Davide Boscaini",
+            "Paolo Avesani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsupervised Deep Learning for Susceptibility Distortion Correction in Connectome Imaging",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_30",
+        "paper_authors": [
+            "Yuchuan Qiao",
+            "Yonggang Shi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hierarchical Geodesic Modeling on the Diffusion Orientation Distribution Function for Longitudinal DW-MRI Analysis",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_31",
+        "paper_authors": [
+            "Heejong Kim",
+            "Sungmin Hong",
+            "Martin Styner",
+            "Joseph Piven",
+            "Kelly N. Botteron",
+            "Guido Gerig"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TRAKO: Efficient Transmission of Tractography Data for Visualization",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_32",
+        "paper_authors": [
+            "Daniel Haehn",
+            "Loraine Franke",
+            "Fan Zhang",
+            "Suheyla Cetin Karayumak",
+            "Steve Pieper",
+            "Lauren J. O'Donnell",
+            "Yogesh Rathi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatial Semantic-Preserving Latent Space Learning for Accelerated DWI Diagnostic Report Generation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_33",
+        "paper_authors": [
+            "Aydan Gasimova",
+            "Gavin Seegoolam",
+            "Liang Chen",
+            "Paul Bentley",
+            "Daniel Rueckert"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Trajectories from Distribution-Valued Functional Curves: A Unified Wasserstein Framework",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_34",
+        "paper_authors": [
+            "Anuja Sharma",
+            "Guido Gerig"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Characterizing Intra-soma Diffusion with Spherical Mean Spectrum Imaging",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_35",
+        "paper_authors": [
+            "Khoi Minh Huynh",
+            "Ye Wu",
+            "Kim-Han Thung",
+            "Sahar Ahmad",
+            "Hoyt Patrick Taylor IV",
+            "Dinggang Shen",
+            "Pew-Thian Yap"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Estimating Common Harmonic Waves of Brain Networks on Stiefel Manifold",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_36",
+        "paper_authors": [
+            "Jiazhou Chen",
+            "Guoqiang Han",
+            "Hongmin Cai",
+            "Junbo Ma",
+            "Minjeong Kim",
+            "Paul J. Laurienti",
+            "Guorong Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Neural Architecture Search for Optimization of Spatial-Temporal Brain Network Decomposition",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_37",
+        "paper_authors": [
+            "Qing Li",
+            "Wei Zhang",
+            "Jinglei Lv",
+            "Xia Wu",
+            "Tianming Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Attention-Guided Deep Graph Neural Network for Longitudinal Alzheimer's Disease Analysis",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_38",
+        "paper_authors": [
+            "Junbo Ma",
+            "Xiaofeng Zhu",
+            "Defu Yang",
+            "Jiazhou Chen",
+            "Guorong Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Enriched Representation Learning in Resting-State fMRI for Early MCI Diagnosis",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_39",
+        "paper_authors": [
+            "Eunjin Jeon",
+            "Eunsong Kang",
+            "Jiyeon Lee",
+            "Jaein Lee",
+            "Tae-Eui Kam",
+            "Heung-Il Suk"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Whole MILC: Generalizing Learned Dynamics Across Tasks, Datasets, and Populations",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_40",
+        "paper_authors": [
+            "Usman Mahmood",
+            "Md Mahfuzur Rahman",
+            "Alex Fedorov",
+            "Noah Lewis",
+            "Zening Fu",
+            "Vince D. Calhoun",
+            "Sergey M. Plis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Physics-Informed Geometric Learning Model for Pathological Tau Spread in Alzheimer's Disease",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_41",
+        "paper_authors": [
+            "Tzu-An Song",
+            "Samadrita Roy Chowdhury",
+            "Fan Yang",
+            "Heidi I. L. Jacobs",
+            "Jorge Sepulcre",
+            "Van J. Wedeen",
+            "Keith A. Johnson",
+            "Joyita Dutta"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Deep Pattern Recognition Approach for Inferring Respiratory Volume Fluctuations from fMRI Data",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_42",
+        "paper_authors": [
+            "Roza G. Bayrak",
+            "Jorge A. Salas",
+            "Yuankai Huo",
+            "Catie Chang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Deep-Generative Hybrid Model to Integrate Multimodal and Dynamic Connectivity for Predicting Spectrum-Level Deficits in Autism",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_43",
+        "paper_authors": [
+            "Niharika Shimona D'Souza",
+            "Mary Beth Nebel",
+            "Deana Crocetti",
+            "Nicholas F. Wymbs",
+            "Joshua Robinson",
+            "Stewart Mostofsky",
+            "Archana Venkataraman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Poincar\u00e9 Embedding Reveals Edge-Based Functional Networks of the Brain",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_44",
+        "paper_authors": [
+            "Siyuan Gao",
+            "Gal Mishne",
+            "Dustin Scheinost"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Constrained Network-Based Statistic: A New Level of Inference for Neuroimaging",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_45",
+        "paper_authors": [
+            "Stephanie Noble",
+            "Dustin Scheinost"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Personal Representations from fMRI by Predicting Neurofeedback Performance",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_46",
+        "paper_authors": [
+            "Jhonathan Osin",
+            "Lior Wolf",
+            "Guy Gurevitch",
+            "Nimrod Jakob Keynan",
+            "Tom Fruchtman-Steinbok",
+            "Ayelet Or-Borichev",
+            "Talma Hendler"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A 3D Convolutional Encapsulated Long Short-Term Memory (3DConv-LSTM) Model for Denoising fMRI Data",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_47",
+        "paper_authors": [
+            "Chongyue Zhao",
+            "Hongming Li",
+            "Zhicheng Jiao",
+            "Tianming Du",
+            "Yong Fan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Detecting Changes of Functional Connectivity by Dynamic Graph Embedding Learning",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_48",
+        "paper_authors": [
+            "Yi Lin",
+            "Jia Hou",
+            "Paul J. Laurienti",
+            "Guorong Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Discovering Functional Brain Networks with 3D Residual Autoencoder (ResAE)",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_49",
+        "paper_authors": [
+            "Qinglin Dong",
+            "Ning Qiang",
+            "Jinglei Lv",
+            "Xiang Li",
+            "Tianming Liu",
+            "Quanzheng Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatiotemporal Attention Autoencoder (STAAE) for ADHD Classification",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_50",
+        "paper_authors": [
+            "Qinglin Dong",
+            "Ning Qiang",
+            "Jinglei Lv",
+            "Xiang Li",
+            "Tianming Liu",
+            "Quanzheng Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Global Diffeomorphic Phase Alignment of Time-Series from Resting-State fMRI Data",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_51",
+        "paper_authors": [
+            "David S. Lee",
+            "Ashish Sahib",
+            "Katherine L. Narr",
+            "Elvis Nunez",
+            "Shantanu H. Joshi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatio-Temporal Graph Convolution for Resting-State fMRI Analysis",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_52",
+        "paper_authors": [
+            "Soham Gadgil",
+            "Qingyu Zhao",
+            "Adolf Pfefferbaum",
+            "Edith V. Sullivan",
+            "Ehsan Adeli",
+            "Kilian M. Pohl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Shared Neural Encoding Model for the Prediction of Subject-Specific fMRI Response",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_53",
+        "paper_authors": [
+            "Meenakshi Khosla",
+            "Gia H. Ngo",
+            "Keith Jamison",
+            "Amy Kuceyeski",
+            "Mert R. Sabuncu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Topology-Aware Generative Adversarial Network for Joint Prediction of Multiple Brain Graphs from a Single Brain Graph",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_54",
+        "paper_authors": [
+            "Alaa Bessadok",
+            "Mohamed Ali Mahjoub",
+            "Islem Rekik"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Edge-Variational Graph Convolutional Networks for Uncertainty-Aware Disease Prediction",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_55",
+        "paper_authors": [
+            "Yongxiang Huang",
+            "Albert C. S. Chung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fisher-Rao Regularized Transport Analysis of the Glymphatic System and Waste Drainage",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_56",
+        "paper_authors": [
+            "Rena Elkin",
+            "Saad Nadeem",
+            "Hedok Lee",
+            "Helene Benveniste",
+            "Allen R. Tannenbaum"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Joint Neuroimage Synthesis and Representation Learning for Conversion Prediction of Subjective Cognitive Decline",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_57",
+        "paper_authors": [
+            "Yunbi Liu",
+            "Yongsheng Pan",
+            "Wei Yang",
+            "Zhenyuan Ning",
+            "Ling Yue",
+            "Mingxia Liu",
+            "Dinggang Shen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Differentiable Deconvolution for Improved Stroke Perfusion Analysis",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_58",
+        "paper_authors": [
+            "Ezequiel de la Rosa",
+            "David Robben",
+            "Diana Maria Sima",
+            "Jan S. Kirschke",
+            "Bjoern H. Menze"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatial Similarity-Aware Learning and Fused Deep Polynomial Network for Detection of Obsessive-Compulsive Disorder",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_59",
+        "paper_authors": [
+            "Peng Yang",
+            "Qiong Yang",
+            "Wei Zheng",
+            "Li Shen",
+            "Tianfu Wang",
+            "Ziwen Peng",
+            "Baiying Lei"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Representation Learning for Multimodal Brain Networks",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_60",
+        "paper_authors": [
+            "Wen Zhang",
+            "Liang Zhan",
+            "Paul M. Thompson",
+            "Yalin Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pooling Regularized Graph Neural Network for fMRI Biomarker Analysis",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_61",
+        "paper_authors": [
+            "Xiaoxiao Li",
+            "Yuan Zhou",
+            "Nicha C. Dvornek",
+            "Muhan Zhang",
+            "Juntang Zhuang",
+            "Pamela Ventola",
+            "James S. Duncan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Patch-Based Abnormality Maps for Improved Deep Learning-Based Classification of Huntington's Disease",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_62",
+        "paper_authors": [
+            "Kilian Hett",
+            "R\u00e9mi Giraud",
+            "Hans J. Johnson",
+            "Jane S. Paulsen",
+            "Jeffrey D. Long",
+            "Ipek Oguz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Deep Spatial Context Guided Framework for Infant Brain Subcortical Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_63",
+        "paper_authors": [
+            "Liangjun Chen",
+            "Zhengwang Wu",
+            "Dan Hu",
+            "Ya Wang",
+            "Zhanhao Mo",
+            "Li Wang",
+            "Weili Lin",
+            "Dinggang Shen",
+            "Gang Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Modelling the Distribution of 3D Brain MRI Using a 2D Slice VAE",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_64",
+        "paper_authors": [
+            "Anna Volokitin",
+            "Ertunc Erdil",
+            "Neerav Karani",
+            "Kerem Can Tezcan",
+            "Xiaoran Chen",
+            "Luc Van Gool",
+            "Ender Konukoglu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatial Component Analysis to Mitigate Multiple Testing in Voxel-Based Analysis",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_65",
+        "paper_authors": [
+            "Samuel Gerber",
+            "Marc Niethammer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MAGIC: Multi-scale Heterogeneity Analysis and Clustering for Brain Diseases",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_66",
+        "paper_authors": [
+            "Junhao Wen",
+            "Erdem Varol",
+            "Ganesh B. Chand",
+            "Aristeidis Sotiras",
+            "Christos Davatzikos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PIANO: Perfusion Imaging via Advection-Diffusion",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_67",
+        "paper_authors": [
+            "Peirong Liu",
+            "Yueh Z. Lee",
+            "Stephen R. Aylward",
+            "Marc Niethammer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hierarchical Bayesian Regression for Multi-site Normative Modeling of Neuroimaging Data",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_68",
+        "paper_authors": [
+            "Seyed Mostafa Kia",
+            "Hester Huijsdens",
+            "Richard Dinga",
+            "Thomas Wolfers",
+            "Maarten Mennes",
+            "Ole A. Andreassen",
+            "Lars T. Westlye",
+            "Christian F. Beckmann",
+            "Andre F. Marquand"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Image-Level Harmonization of Multi-site Data Using Image-and-Spatial Transformer Networks",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_69",
+        "paper_authors": [
+            "Robert Robinson",
+            "Qi Dou",
+            "Daniel Coelho de Castro",
+            "Konstantinos Kamnitsas",
+            "Marius de Groot",
+            "Ronald M. Summers",
+            "Daniel Rueckert",
+            "Ben Glocker"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Disentangled Latent Space for Cross-Site MRI Harmonization",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_70",
+        "paper_authors": [
+            "Blake E. Dewey",
+            "Lianrui Zuo",
+            "Aaron Carass",
+            "Yufan He",
+            "Yihao Liu",
+            "Ellen M. Mowry",
+            "Scott D. Newsome",
+            "Jiwon Oh",
+            "Peter A. Calabresi",
+            "Jerry L. Prince"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automated Acquisition Planning for Magnetic Resonance Spectroscopy in Brain Cancer",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_71",
+        "paper_authors": [
+            "Patrick J. Bolan",
+            "Francesca Branzoli",
+            "Anna Luisa Di Stefano",
+            "Lucia Nichelli",
+            "Romain Valabr\u00e8gue",
+            "Sara L. Saunders",
+            "Mehmet Ak\u00e7akaya",
+            "Marc Sanson",
+            "St\u00e9phane Leh\u00e9ricy",
+            "Malgorzata Marjanska"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Simultaneous Denoising and Motion Estimation for Low-Dose Gated PET Using a Siamese Adversarial Network with Gate-to-Gate Consistency Learning",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_72",
+        "paper_authors": [
+            "Bo Zhou",
+            "Yu-Jung Tsai",
+            "Chi Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Lymph Node Gross Tumor Volume Detection and Segmentation via Distance-Based Gating Using 3D CT/PET Imaging in Radiotherapy",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_73",
+        "paper_authors": [
+            "Zhuotun Zhu",
+            "Dakai Jin",
+            "Ke Yan",
+            "Tsung-Ying Ho",
+            "Xianghua Ye",
+            "Dazhou Guo",
+            "Chun-Hung Chao",
+            "Jing Xiao",
+            "Alan L. Yuille",
+            "Le Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-modality Information Fusion for Radiomics-Based Neural Architecture Search",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_74",
+        "paper_authors": [
+            "Yige Peng",
+            "Lei Bi",
+            "Michael J. Fulham",
+            "Dagan Feng",
+            "Jinman Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Lymph Node Gross Tumor Volume Detection in Oncology Imaging via Relationship Learning Using Graph Neural Network",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_75",
+        "paper_authors": [
+            "Chun-Hung Chao",
+            "Zhuotun Zhu",
+            "Dazhou Guo",
+            "Ke Yan",
+            "Tsung-Ying Ho",
+            "Jinzheng Cai",
+            "Adam P. Harrison",
+            "Xianghua Ye",
+            "Jing Xiao",
+            "Alan L. Yuille",
+            "Min Sun",
+            "Le Lu",
+            "Dakai Jin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rethinking PET Image Reconstruction: Ultra-Low-Dose, Sinogram and Deep Learning",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_76",
+        "paper_authors": [
+            "Qiupeng Feng",
+            "Huafeng Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Clinically Translatable Direct Patlak Reconstruction from Dynamic PET with Motion Correction Using Convolutional Neural Network",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_77",
+        "paper_authors": [
+            "Nuobei Xie",
+            "Kuang Gong",
+            "Ning Guo",
+            "ZhiXing Qin",
+            "Jianan Cui",
+            "Zhifang Wu",
+            "Huafeng Liu",
+            "Quanzheng Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Collimatorless Scintigraphy for Imaging Extremely Low Activity Targeted Alpha Therapy (TAT) with Weighted Robust Least Squares (WRLS)",
+        "paper_url": "https://doi.org/10.1007/978-3-030-59728-3_78",
+        "paper_authors": [
+            "Yifan Zheng",
+            "Yoonsuk Huh",
+            "Qianqian Su",
+            "Jiaming Wang",
+            "Yunduan Lin",
+            "Kai Vetter",
+            "Youngho Seo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

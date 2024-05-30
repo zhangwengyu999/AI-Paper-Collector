@@ -1,0 +1,1389 @@
+[
+    {
+        "paper_name": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2019 - 22nd International Conference, Shenzhen, China, October 13-17, 2019, Proceedings, Part VI",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7",
+        "paper_authors": [
+            "Dinggang Shen",
+            "Tianming Liu",
+            "Terry M. Peters",
+            "Lawrence H. Staib",
+            "Caroline Essert",
+            "Sean Zhou",
+            "Pew-Thian Yap",
+            "Ali R. Khan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-scale Coarse-to-Fine Segmentation for Screening Pancreatic Ductal Adenocarcinoma",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_1",
+        "paper_authors": [
+            "Zhuotun Zhu",
+            "Yingda Xia",
+            "Lingxi Xie",
+            "Elliot K. Fishman",
+            "Alan L. Yuille"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MVP-Net: Multi-view FPN with Position-Aware Attention for Deep Universal Lesion Detection",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_2",
+        "paper_authors": [
+            "Zihao Li",
+            "Shu Zhang",
+            "Junge Zhang",
+            "Kaiqi Huang",
+            "Yizhou Wang",
+            "Yizhou Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatial-Frequency Non-local Convolutional LSTM Network for pRCC Classification",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_3",
+        "paper_authors": [
+            "Yu Zhao",
+            "Yuan Liu",
+            "Yansheng Kan",
+            "Anjany Sekuboyina",
+            "Diana Waldmannstetter",
+            "Hongwei Li",
+            "Xiaobin Hu",
+            "Xiaozhi Zhao",
+            "Kuangyu Shi",
+            "Bjoern H. Menze"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BCD-Net for Low-Dose CT Reconstruction: Acceleration, Convergence, and Generalization",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_4",
+        "paper_authors": [
+            "Il Yong Chun",
+            "Xuehang Zheng",
+            "Yong Long",
+            "Jeffrey A. Fessler"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Abdominal Adipose Tissue Segmentation in MRI with Double Loss Function Collaborative Learning",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_5",
+        "paper_authors": [
+            "Siyuan Pan",
+            "Xuhong Hou",
+            "Huating Li",
+            "Bin Sheng",
+            "Ruogu Fang",
+            "Yuxin Xue",
+            "Weiping Jia",
+            "Jing Qin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Closing the Gap Between Deep and Conventional Image Registration Using Probabilistic Dense Displacement Networks",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_6",
+        "paper_authors": [
+            "Mattias P. Heinrich"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generating Pareto Optimal Dose Distributions for Radiation Therapy Treatment Planning",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_7",
+        "paper_authors": [
+            "Dan Nguyen",
+            "Azar Sadeghnejad-Barkousaraie",
+            "Chenyang Shen",
+            "Xun Jia",
+            "Steve B. Jiang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PAN: Projective Adversarial Network for Medical Image Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_8",
+        "paper_authors": [
+            "Naji Khosravan",
+            "Aliasghar Mortazi",
+            "Michael B. Wallace",
+            "Ulas Bagci"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generative Mask Pyramid Network for CT/CBCT Metal Artifact Reduction with Joint Projection-Sinogram Correction",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_9",
+        "paper_authors": [
+            "Haofu Liao",
+            "Wei-An Lin",
+            "Zhimin Huo",
+            "Levon Vogelsang",
+            "William J. Sehnert",
+            "Shaohua Kevin Zhou",
+            "Jiebo Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-class Gradient Harmonized Dice Loss with Application to Knee MR Image Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_10",
+        "paper_authors": [
+            "Qin Liu",
+            "Xiongfeng Tang",
+            "Deming Guo",
+            "Yanguo Qin",
+            "Pengfei Jia",
+            "Yiqiang Zhan",
+            "Xiang Zhou",
+            "Dijia Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LSRC: A Long-Short Range Context-Fusing Framework for Automatic 3D Vertebra Localization",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_11",
+        "paper_authors": [
+            "Jintai Chen",
+            "Yanjie Wang",
+            "Ruoqian Guo",
+            "Bohan Yu",
+            "Tingting Chen",
+            "Wenzhe Wang",
+            "Ruiwei Feng",
+            "Danny Z. Chen",
+            "Jian Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Contextual Deep Regression Network for Volume Estimation in Orbital CT",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_12",
+        "paper_authors": [
+            "Shikha Chaganti",
+            "Camilo Bermudez",
+            "Louise A. Mawn",
+            "Thomas A. Lasko",
+            "Bennett A. Landman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-scale GANs for Memory-efficient Generation of High Resolution Medical Images",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_13",
+        "paper_authors": [
+            "Hristina Uzunova",
+            "Jan Ehrhardt",
+            "Fabian Jacob",
+            "Alex Frydrychowicz",
+            "Heinz Handels"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Learning Based Metal Artifacts Reduction in Post-operative Cochlear Implant CT Imaging",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_14",
+        "paper_authors": [
+            "Zihao Wang",
+            "Clair Vandersteen",
+            "Thomas Demarcy",
+            "Dan Gnansia",
+            "Charles Raffaelli",
+            "Nicolas Guevara",
+            "Herv\u00e9 Delingette"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ImHistNet: Learnable Image Histogram Based DNN with Application to Noninvasive Determination of Carcinoma Grades in CT Scans",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_15",
+        "paper_authors": [
+            "Mohammad Arafat Hussain",
+            "Ghassan Hamarneh",
+            "Rafeef Garbi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DPA-DenseBiasNet: Semi-supervised 3D Fine Renal Artery Segmentation with Dense Biased Network and Deep Priori Anatomy",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_16",
+        "paper_authors": [
+            "Yuting He",
+            "Guanyu Yang",
+            "Yang Chen",
+            "Youyong Kong",
+            "Jiasong Wu",
+            "Lijun Tang",
+            "Xiaomei Zhu",
+            "Jean-Louis Dillenseger",
+            "Pengfei Shao",
+            "Shaobo Zhang",
+            "Huazhong Shu",
+            "Jean-Louis Coatrieux",
+            "Shuo Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semi-supervised Segmentation of Liver Using Adversarial Learning with Deep Atlas Prior",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_17",
+        "paper_authors": [
+            "Han Zheng",
+            "Lanfen Lin",
+            "Hongjie Hu",
+            "Qiaowei Zhang",
+            "Qingqing Chen",
+            "Yutaro Iwamoto",
+            "Xianhua Han",
+            "Yen-Wei Chen",
+            "Ruofeng Tong",
+            "Jian Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pairwise Semantic Segmentation via Conjugate Fully Convolutional Network",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_18",
+        "paper_authors": [
+            "Renzhen Wang",
+            "Shilei Cao",
+            "Kai Ma",
+            "Deyu Meng",
+            "Yefeng Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsupervised Deformable Image Registration Using Cycle-Consistent CNN",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_19",
+        "paper_authors": [
+            "Boah Kim",
+            "Jieun Kim",
+            "June-Goo Lee",
+            "Dong Hwan Kim",
+            "Seong Ho Park",
+            "Jong Chul Ye"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Volumetric Attention for 3D Medical Image Segmentation and Detection",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_20",
+        "paper_authors": [
+            "Xudong Wang",
+            "Shizhong Han",
+            "Yunqiang Chen",
+            "Dashan Gao",
+            "Nuno Vasconcelos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Deep Lesion Detection Using 3D Contextual and Spatial Attention",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_21",
+        "paper_authors": [
+            "Qingyi Tao",
+            "Zongyuan Ge",
+            "Jianfei Cai",
+            "Jianxiong Yin",
+            "Simon See"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MULAN: Multitask Universal Lesion Analysis Network for Joint Lesion Detection, Tagging, and Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_22",
+        "paper_authors": [
+            "Ke Yan",
+            "Youbao Tang",
+            "Yifan Peng",
+            "Veit Sandfort",
+            "Mohammadhadi Bagheri",
+            "Zhiyong Lu",
+            "Ronald M. Summers"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Artifact Disentanglement Network for Unsupervised Metal Artifact Reduction",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_23",
+        "paper_authors": [
+            "Haofu Liao",
+            "Wei-An Lin",
+            "Jianbo Yuan",
+            "Shaohua Kevin Zhou",
+            "Jiebo Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AirwayNet: A Voxel-Connectivity Aware Approach for Accurate Airway Segmentation Using Convolutional Neural Networks",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_24",
+        "paper_authors": [
+            "Yulei Qin",
+            "Mingjian Chen",
+            "Hao Zheng",
+            "Yun Gu",
+            "Mali Shen",
+            "Jie Yang",
+            "Xiaolin Huang",
+            "Yue-Min Zhu",
+            "Guang-Zhong Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Integrating Cross-modality Hallucinated MRI with CT to Aid Mediastinal Lung Tumor Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_25",
+        "paper_authors": [
+            "Jue Jiang",
+            "Jason Hu",
+            "Neelam Tyagi",
+            "Andreas Rimner",
+            "Sean L. Berry",
+            "Joseph O. Deasy",
+            "Harini Veeraraghavan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bronchus Segmentation and Classification by Neural Networks and Linear Programming",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_26",
+        "paper_authors": [
+            "Tianyi Zhao",
+            "Zhaozheng Yin",
+            "Jiao Wang",
+            "Dashan Gao",
+            "Yunqiang Chen",
+            "Yunxiang Mao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsupervised Segmentation of Micro-CT Images of Lung Cancer Specimen Using Deep Generative Models",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_27",
+        "paper_authors": [
+            "Takayasu Moriya",
+            "Hirohisa Oda",
+            "Midori Mitarai",
+            "Shota Nakamura",
+            "Holger R. Roth",
+            "Masahiro Oda",
+            "Kensaku Mori"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Normal Appearance Autoencoder for Lung Cancer Detection and Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_28",
+        "paper_authors": [
+            "Mehdi Astaraki",
+            "Iuliana Toma-Dasu",
+            "\u00d6rjan Smedby",
+            "Chunliang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "mlVIRNET: Multilevel Variational Image Registration Network",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_29",
+        "paper_authors": [
+            "Alessa Hering",
+            "Bram van Ginneken",
+            "Stefan Heldmann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "NoduleNet: Decoupled False Positive Reduction for Pulmonary Nodule Detection and Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_30",
+        "paper_authors": [
+            "Hao Tang",
+            "Chupeng Zhang",
+            "Xiaohui Xie"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Encoding CT Anatomy Knowledge for Unpaired Chest X-ray Image Decomposition",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_31",
+        "paper_authors": [
+            "Zeju Li",
+            "Han Li",
+            "Hu Han",
+            "Gonglei Shi",
+            "Jiannan Wang",
+            "Shaohua Kevin Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Targeting Precision with Data Augmented Samples in Deep Learning",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_32",
+        "paper_authors": [
+            "Pietro Nardelli",
+            "Ra\u00fal San Jos\u00e9 Est\u00e9par"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pulmonary Vessel Segmentation Based on Orthogonal Fused U-Net++ of Chest CT Images",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_33",
+        "paper_authors": [
+            "Hejie Cui",
+            "Xinglong Liu",
+            "Ning Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Attentive CT Lesion Detection Using Deep Pyramid Inference with Multi-scale Booster",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_34",
+        "paper_authors": [
+            "Qingbin Shao",
+            "Lijun Gong",
+            "Kai Ma",
+            "Hualuo Liu",
+            "Yefeng Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Variational Networks with Exponential Weighting for Learning Computed Tomography",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_35",
+        "paper_authors": [
+            "Valeriy Vishnevskiy",
+            "Richard Rau",
+            "Orcun Goksel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "R ^2 2 -Net: Recurrent and Recursive Network for Sparse-View CT Artifacts Removal",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_36",
+        "paper_authors": [
+            "Tiancheng Shen",
+            "Xia Li",
+            "Zhisheng Zhong",
+            "Jianlong Wu",
+            "Zhouchen Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Stereo-Correlation and Noise-Distribution Aware ResVoxGAN for Dense Slices Reconstruction and Noise Reduction in Thick Low-Dose CT",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_37",
+        "paper_authors": [
+            "Rongjun Ge",
+            "Guanyu Yang",
+            "Chenchu Xu",
+            "Yang Chen",
+            "Limin Luo",
+            "Shuo Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Harnessing 2D Networks and 3D Features for Automated Pancreas Segmentation from Volumetric CT Images",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_38",
+        "paper_authors": [
+            "Huai Chen",
+            "Xiuying Wang",
+            "Yijie Huang",
+            "Xiyi Wu",
+            "Yizhou Yu",
+            "Lisheng Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tubular Structure Segmentation Using Spatial Fully Connected Network with Radial Distance Loss for 3D Medical Images",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_39",
+        "paper_authors": [
+            "Chenglong Wang",
+            "Yuichiro Hayashi",
+            "Masahiro Oda",
+            "Hayato Itoh",
+            "Takayuki Kitasaka",
+            "Alejandro F. Frangi",
+            "Kensaku Mori"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bronchial Cartilage Assessment with Model-Based GAN Regressor",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_40",
+        "paper_authors": [
+            "Pietro Nardelli",
+            "George R. Washko",
+            "Ra\u00fal San Jos\u00e9 Est\u00e9par"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Optimization for Joint Registration and Segmentation in Prostate CT Radiotherapy",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_41",
+        "paper_authors": [
+            "Mohamed S. Elmahdy",
+            "Jelmer M. Wolterink",
+            "Hessam Sokooti",
+            "Ivana Isgum",
+            "Marius Staring"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Probabilistic Point Cloud Reconstructions for Vertebral Shape Analysis",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_42",
+        "paper_authors": [
+            "Anjany Sekuboyina",
+            "Markus Rempfler",
+            "Alexander Valentinitsch",
+            "Maximilian L\u00f6ffler",
+            "Jan S. Kirschke",
+            "Bjoern H. Menze"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automatically Localizing a Large Set of Spatially Correlated Key Points: A Case Study in Spine Imaging",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_43",
+        "paper_authors": [
+            "Alexander Oliver Mader",
+            "Cristian Lorenz",
+            "Jens von Berg",
+            "Carsten Meyer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Permutohedral Attention Module for Efficient Non-local Neural Networks",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_44",
+        "paper_authors": [
+            "Samuel Joutard",
+            "Reuben Dorent",
+            "Amanda Isaac",
+            "S\u00e9bastien Ourselin",
+            "Tom Vercauteren",
+            "Marc Modat"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving RetinaNet for CT Lesion Detection with Dense Masks from Weak RECIST Labels",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_45",
+        "paper_authors": [
+            "Martin Zlocha",
+            "Qi Dou",
+            "Ben Glocker"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PRSNet: Part Relation and Selection Network for Bone Age Assessment",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_46",
+        "paper_authors": [
+            "Yuanfeng Ji",
+            "Hao Chen",
+            "Dan Lin",
+            "Xiaohua Wu",
+            "Di Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mask Embedding for Realistic High-Resolution Medical Image Synthesis",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_47",
+        "paper_authors": [
+            "Yinhao Ren",
+            "Zhe Zhu",
+            "Yingzhou Li",
+            "Dehan Kong",
+            "Rui Hou",
+            "Lars J. Grimm",
+            "Jeffrey R. Marks",
+            "Joseph Y. Lo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TUNA-Net: Task-Oriented UNsupervised Adversarial Network for Disease Recognition in Cross-domain Chest X-rays",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_48",
+        "paper_authors": [
+            "Yuxing Tang",
+            "Youbao Tang",
+            "Veit Sandfort",
+            "Jing Xiao",
+            "Ronald M. Summers"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Misshapen Pelvis Landmark Detection by Spatial Local Correlation Mining for Diagnosing Developmental Dysplasia of the Hip",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_49",
+        "paper_authors": [
+            "Chuanbin Liu",
+            "Hongtao Xie",
+            "Sicheng Zhang",
+            "Jingyuan Xu",
+            "Jun Sun",
+            "Yongdong Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Policy Gradient for Deep Learning Image Augmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_50",
+        "paper_authors": [
+            "Kaiyang Cheng",
+            "Claudia Iriondo",
+            "Francesco Caliv\u00e1",
+            "Justin Krogue",
+            "Sharmila Majumdar",
+            "Valentina Pedoia"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Weakly Supervised Universal Fracture Detection in Pelvic X-Rays",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_51",
+        "paper_authors": [
+            "Yirui Wang",
+            "Le Lu",
+            "Chi-Tung Cheng",
+            "Dakai Jin",
+            "Adam P. Harrison",
+            "Jing Xiao",
+            "Chien-Hung Liao",
+            "Shun Miao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning from Suspected Target: Bootstrapping Performance for Breast Cancer Detection in Mammography",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_52",
+        "paper_authors": [
+            "Li Xiao",
+            "Cheng Zhu",
+            "Junjun Liu",
+            "Chunlong Luo",
+            "Peifang Liu",
+            "Yi Zhao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "From Unilateral to Bilateral Learning: Detecting Mammogram Masses with Contrasted Bilateral Network",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_53",
+        "paper_authors": [
+            "Yuhang Liu",
+            "Zhen Zhou",
+            "Shu Zhang",
+            "Ling Luo",
+            "Qianyi Zhang",
+            "Fandong Zhang",
+            "Xiuli Li",
+            "Yizhou Wang",
+            "Yizhou Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Signed Laplacian Deep Learning with Adversarial Augmentation for Improved Mammography Diagnosis",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_54",
+        "paper_authors": [
+            "Heyi Li",
+            "Dongdong Chen",
+            "William H. Nailon",
+            "Mike E. Davies",
+            "David I. Laurenson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Uncertainty Measurements for the Reliable Classification of Mammograms",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_55",
+        "paper_authors": [
+            "Mickael Tardy",
+            "Bruno Scheffer",
+            "Diana Mateus"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GraphX $$^\\mathbf{\\small NET } -$$ -Chest X-Ray Classification Under Extreme Minimal Supervision",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_56",
+        "paper_authors": [
+            "Angelica I. Avil\u00e9s-Rivero",
+            "Nicolas Papadakis",
+            "Ruoteng Li",
+            "Philip Sellars",
+            "Qingnan Fan",
+            "Robby T. Tan",
+            "Carola-Bibiane Sch\u00f6nlieb"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "3DFPN-HS ^2 2 : 3D Feature Pyramid Network Based High Sensitivity and Specificity Pulmonary Nodule Detection",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_57",
+        "paper_authors": [
+            "Jingya Liu",
+            "Liangliang Cao",
+            "Oguz Akin",
+            "Yingli Tian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automated Detection and Type Classification of Central Venous Catheters in Chest X-Rays",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_58",
+        "paper_authors": [
+            "Vaishnavi Subramanian",
+            "Hongzhi Wang",
+            "Joy T. Wu",
+            "Ken C. L. Wong",
+            "Arjun Sharma",
+            "Tanveer F. Syeda-Mahmood"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hand Pose Estimation for Pediatric Bone Age Assessment",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_59",
+        "paper_authors": [
+            "Mar\u00eda Escobar",
+            "Cristina Gonz\u00e1lez",
+            "Felipe Torres",
+            "Laura Alexandra Daza",
+            "Gustavo Triana",
+            "Pablo Arbel\u00e1ez"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Attention-Guided Deep Regression Model for Landmark Detection in Cephalograms",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_60",
+        "paper_authors": [
+            "Zhusi Zhong",
+            "Jie Li",
+            "Zhenxi Zhang",
+            "Zhicheng Jiao",
+            "Xinbo Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning-Based X-Ray Image Denoising Utilizing Model-Based Image Simulations",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_61",
+        "paper_authors": [
+            "Sai Gokul Hariharan",
+            "Christian Kaethner",
+            "Norbert Strobel",
+            "Markus Kowarschik",
+            "Shadi Albarqouni",
+            "Rebecca Fahrig",
+            "Nassir Navab"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LVC-Net: Medical Image Segmentation with Noisy Label Based on Local Visual Cues",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_62",
+        "paper_authors": [
+            "Yucheng Shu",
+            "Xiao Wu",
+            "Weisheng Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cone-Beam Computed Tomography (CBCT) Segmentation by Adversarial Learning Domain Adaptation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_63",
+        "paper_authors": [
+            "Xiaoqian Jia",
+            "Sicheng Wang",
+            "Xiao Liang",
+            "Anjali Balagopal",
+            "Dan Nguyen",
+            "Ming Yang",
+            "Zhangyang Wang",
+            "Jim Xiuquan Ji",
+            "Xiaoning Qian",
+            "Steve B. Jiang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pick-and-Learn: Automatic Quality Evaluation for Noisy-Labeled Image Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_64",
+        "paper_authors": [
+            "Haidong Zhu",
+            "Jialin Shi",
+            "Ji Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Anatomical Priors for Image Segmentation via Post-processing with Denoising Autoencoders",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_65",
+        "paper_authors": [
+            "Agostina J. Larrazabal",
+            "C\u00e9sar Ernesto Mart\u00ednez",
+            "Enzo Ferrante"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Simultaneous Lung Field Detection and Segmentation for Pediatric Chest Radiographs",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_66",
+        "paper_authors": [
+            "Wei Zhang",
+            "Guanbin Li",
+            "Fuyu Wang",
+            "Longjiang E",
+            "Yizhou Yu",
+            "Liang Lin",
+            "Huiying Liang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Esophageal Clinical Target Volume Delineation Using Encoded 3D Spatial Context of Tumors, Lymph Nodes, and Organs At Risk",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_67",
+        "paper_authors": [
+            "Dakai Jin",
+            "Dazhou Guo",
+            "Tsung-Ying Ho",
+            "Adam P. Harrison",
+            "Jing Xiao",
+            "Chen-Kan Tseng",
+            "Le Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Weakly Supervised Segmentation Framework with Uncertainty: A Study on Pneumothorax Segmentation in Chest X-ray",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_68",
+        "paper_authors": [
+            "Xi Ouyang",
+            "Zhong Xue",
+            "Yiqiang Zhan",
+            "Xiang Sean Zhou",
+            "Qingfeng Wang",
+            "Ying Zhou",
+            "Qian Wang",
+            "Jie-Zhi Cheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-task Localization and Segmentation for X-Ray Guided Planning in Knee Surgery",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_69",
+        "paper_authors": [
+            "Florian Kordon",
+            "Peter Fischer",
+            "Maxim Privalov",
+            "Benedict Swartman",
+            "Marc Schnetzke",
+            "Jochen Franke",
+            "Ruxandra Lasowski",
+            "Andreas K. Maier",
+            "Holger Kunze"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Fully Automatic X-Ray to CT Registration",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_70",
+        "paper_authors": [
+            "Javier Esteban",
+            "Matthias Grimm",
+            "Mathias Unberath",
+            "Guillaume Zahnd",
+            "Nassir Navab"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive Image-Feature Learning for Disease Classification Using Inductive Graph Networks",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_71",
+        "paper_authors": [
+            "Hendrik Burwinkel",
+            "Anees Kazi",
+            "Gerome Vivar",
+            "Shadi Albarqouni",
+            "Guillaume Zahnd",
+            "Nassir Navab",
+            "Seyed-Ahmad Ahmadi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "How to Learn from Unlabeled Volume Data: Self-supervised 3D Context Feature Learning",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_72",
+        "paper_authors": [
+            "Maximilian Blendowski",
+            "Hannes Nickisch",
+            "Mattias P. Heinrich"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Probabilistic Radiomics: Ambiguous Diagnosis with Controllable Shape Analysis",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_73",
+        "paper_authors": [
+            "Jiancheng Yang",
+            "Rongyao Fang",
+            "Bingbing Ni",
+            "Yamin Li",
+            "Yi Xu",
+            "Linguo Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Extract Bone Parts Without Human Prior: End-to-end Convolutional Neural Network for Pediatric Bone Age Assessment",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_74",
+        "paper_authors": [
+            "Chuanbin Liu",
+            "Hongtao Xie",
+            "Yizhi Liu",
+            "Zheng-Jun Zha",
+            "Fanchao Lin",
+            "Yongdong Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Quantifying and Leveraging Classification Uncertainty for Chest Radiograph Assessment",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_75",
+        "paper_authors": [
+            "Florin C. Ghesu",
+            "Bogdan Georgescu",
+            "Eli Gibson",
+            "Sebastian G\u00fcndel",
+            "Mannudeep K. Kalra",
+            "Ramandeep Singh",
+            "Subba R. Digumarthy",
+            "Sasa Grbic",
+            "Dorin Comaniciu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Regression Training for Visualizing the Progression of Chronic Obstructive Pulmonary Disease with Chest X-Rays",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_76",
+        "paper_authors": [
+            "Ricardo Bigolin Lanfredi",
+            "Joyce D. Schroeder",
+            "Clement Vachet",
+            "Tolga Tasdizen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Medical-based Deep Curriculum Learning for Improved Fracture Classification",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_77",
+        "paper_authors": [
+            "Amelia Jim\u00e9nez-S\u00e1nchez",
+            "Diana Mateus",
+            "Sonja Kirchhoff",
+            "Chlodwig Kirchhoff",
+            "Peter Biberthaler",
+            "Nassir Navab",
+            "Miguel \u00c1ngel Gonz\u00e1lez Ballester",
+            "Gemma Piella"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Realistic Breast Mass Generation Through BIRADS Category",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_78",
+        "paper_authors": [
+            "Hakmin Lee",
+            "Seong Tae Kim",
+            "Jae-Hyeok Lee",
+            "Yong Man Ro"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning from Longitudinal Mammography Studies",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_79",
+        "paper_authors": [
+            "Shaked Perek",
+            "Lior Ness",
+            "Mika Amit",
+            "Ella Barkan",
+            "Guy Amit"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automatic Radiology Report Generation Based on Multi-view Image Fusion and Medical Concept Enrichment",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_80",
+        "paper_authors": [
+            "Jianbo Yuan",
+            "Haofu Liao",
+            "Rui Luo",
+            "Jiebo Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-label Thoracic Disease Image Classification with Cross-Attention Networks",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_81",
+        "paper_authors": [
+            "Congbo Ma",
+            "Hu Wang",
+            "Steven C. H. Hoi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "InfoMask: Masked Variational Latent Representation to Localize Chest Disease",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_82",
+        "paper_authors": [
+            "Saeid Asgari Taghanaki",
+            "Mohammad Havaei",
+            "Tess Berthier",
+            "Francis Dutil",
+            "Lisa Di-Jorio",
+            "Ghassan Hamarneh",
+            "Yoshua Bengio"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Longitudinal Change Detection on Chest X-rays Using Geometric Correlation Maps",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_83",
+        "paper_authors": [
+            "Dong Yul Oh",
+            "Jihang Kim",
+            "Kyong Joon Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Pulmonary Pathology Translation for Pairwise Chest X-Ray Data Augmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_84",
+        "paper_authors": [
+            "Yunyan Xing",
+            "Zongyuan Ge",
+            "Rui Zeng",
+            "Dwarikanath Mahapatra",
+            "Jarrel Seah",
+            "Meng Law",
+            "Tom Drummond"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semi-supervised Learning by Disentangling and Self-ensembling over Stochastic Latent Space",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_85",
+        "paper_authors": [
+            "Prashnna Kumar Gyawali",
+            "Zhiyuan Li",
+            "Sandesh Ghimire",
+            "Linwei Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Automated Cobb Angle Estimation Method Using Convolutional Neural Network with Area Limitation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_86",
+        "paper_authors": [
+            "Kailai Zhang",
+            "Nanfang Xu",
+            "Guosheng Yang",
+            "Ji Wu",
+            "Xiangling Fu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Endotracheal Tube Detection and Segmentation in Chest Radiographs Using Synthetic Data",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_87",
+        "paper_authors": [
+            "Maayan Frid-Adar",
+            "Rula Amer",
+            "Hayit Greenspan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Interpretable Features via Adversarially Robust Optimization",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_88",
+        "paper_authors": [
+            "Ashkan Khakzar",
+            "Shadi Albarqouni",
+            "Nassir Navab"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Synthesize Mammogram from Digital Breast Tomosynthesis with Gradient Guided cGANs",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_89",
+        "paper_authors": [
+            "Gongfa Jiang",
+            "Yao Lu",
+            "Jun Wei",
+            "Yuesheng Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semi-supervised Medical Image Segmentation via Learning Consistency Under Transformations",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_90",
+        "paper_authors": [
+            "Gerda Bortsova",
+            "Florian Dubost",
+            "Laurens Hogeweg",
+            "Ioannis Katramados",
+            "Marleen de Bruijne"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improved Inference via Deep Input Transfer",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_91",
+        "paper_authors": [
+            "Saeid Asgari Taghanaki",
+            "Kumar Abhishek",
+            "Ghassan Hamarneh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Neural Architecture Search for Adversarial Medical Image Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_92",
+        "paper_authors": [
+            "Nanqing Dong",
+            "Min Xu",
+            "Xiaodan Liang",
+            "Yiliang Jiang",
+            "Wei Dai",
+            "Eric P. Xing"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MeshSNet: Deep Multi-scale Mesh Feature Learning for End-to-End Tooth Labeling on 3D Dental Surfaces",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_93",
+        "paper_authors": [
+            "Chunfeng Lian",
+            "Li Wang",
+            "Tai-Hsien Wu",
+            "Mingxia Liu",
+            "Francisca Dur\u00e1n",
+            "Ching-Chang Ko",
+            "Dinggang Shen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Robustness of Medical Image Diagnosis with Denoising Convolutional Neural Networks",
+        "paper_url": "https://doi.org/10.1007/978-3-030-32226-7_94",
+        "paper_authors": [
+            "Feifei Xue",
+            "Jin Peng",
+            "Ruixuan Wang",
+            "Qiong Zhang",
+            "Wei-Shi Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

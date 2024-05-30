@@ -1,0 +1,745 @@
+[
+    {
+        "paper_name": "Pretrained Embeddings for Stance Detection with Hierarchical Capsule Network on Social Media",
+        "paper_url": "https://doi.org/10.1145/3412362",
+        "paper_authors": [
+            "Guangzhen Zhao",
+            "Peng Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Graph-based Regularization on Embedding Layers for Recommendation",
+        "paper_url": "https://doi.org/10.1145/3414067",
+        "paper_authors": [
+            "Yuan Zhang",
+            "Fei Sun",
+            "Xiaoyong Yang",
+            "Chen Xu",
+            "Wenwu Ou",
+            "Yan Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "End-to-End Neural Matching for Semantic Location Prediction of Tweets",
+        "paper_url": "https://doi.org/10.1145/3415149",
+        "paper_authors": [
+            "Paul Mousset",
+            "Yoann Pitarch",
+            "Lynda Tamine"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "How the Accuracy and Confidence of Sensitivity Classification Affects Digital Sensitivity Review",
+        "paper_url": "https://doi.org/10.1145/3417334",
+        "paper_authors": [
+            "Graham McDonald",
+            "Craig Macdonald",
+            "Iadh Ounis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bots in Social and Interaction Networks: Detection and Impact Estimation",
+        "paper_url": "https://doi.org/10.1145/3419369",
+        "paper_authors": [
+            "Marcelo Mendoza",
+            "Maurizio Tesconi",
+            "Stefano Cresci"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Attention-based Deep Relevance Model for Few-shot Document Filtering",
+        "paper_url": "https://doi.org/10.1145/3419972",
+        "paper_authors": [
+            "Bulou Liu",
+            "Chenliang Li",
+            "Wei Zhou",
+            "Feng Ji",
+            "Yu Duan",
+            "Haiqing Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PONE: A Novel Automatic Evaluation Metric for Open-domain Generative Dialogue Systems",
+        "paper_url": "https://doi.org/10.1145/3423168",
+        "paper_authors": [
+            "Tian Lan",
+            "Xian-Ling Mao",
+            "Wei Wei",
+            "Xiaoyan Gao",
+            "Heyan Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Neural Feature-aware Recommendation with Signed Hypergraph Convolutional Network",
+        "paper_url": "https://doi.org/10.1145/3423322",
+        "paper_authors": [
+            "Xu Chen",
+            "Kun Xiong",
+            "Yongfeng Zhang",
+            "Long Xia",
+            "Dawei Yin",
+            "Jimmy Xiangji Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Faceted Search with Object Ranking and Answer Size Constraints",
+        "paper_url": "https://doi.org/10.1145/3425603",
+        "paper_authors": [
+            "Kostas Manioudakis",
+            "Yannis Tzitzikas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Learning for Sequential Recommendation: Algorithms, Influential Factors, and Evaluations",
+        "paper_url": "https://doi.org/10.1145/3426723",
+        "paper_authors": [
+            "Hui Fang",
+            "Danning Zhang",
+            "Yiheng Shu",
+            "Guibing Guo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Weighting Passages Enhances Accuracy",
+        "paper_url": "https://doi.org/10.1145/3428687",
+        "paper_authors": [
+            "Cristina Ioana Muntean",
+            "Franco Maria Nardini",
+            "Raffaele Perego",
+            "Nicola Tonellotto",
+            "Ophir Frieder"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning to Respond with Your Favorite Stickers: A Framework of Unifying Multi-Modality and User Preference in Multi-Turn Dialog",
+        "paper_url": "https://doi.org/10.1145/3429980",
+        "paper_authors": [
+            "Shen Gao",
+            "Xiuying Chen",
+            "Li Liu",
+            "Dongyan Zhao",
+            "Rui Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Effects of Personalized and Aggregate Top-N Recommendation Lists on User Preference Ratings",
+        "paper_url": "https://doi.org/10.1145/3430028",
+        "paper_authors": [
+            "Gediminas Adomavicius",
+            "Jesse C. Bockstedt",
+            "Shawn P. Curley",
+            "Jingjing Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Retrieval Evaluation Measures that Agree with Users' SERP Preferences: Traditional, Preference-based, and Diversity Measures",
+        "paper_url": "https://doi.org/10.1145/3431813",
+        "paper_authors": [
+            "Tetsuya Sakai",
+            "Zhaohao Zeng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multilingual Review-aware Deep Recommender System via Aspect-based Sentiment Analysis",
+        "paper_url": "https://doi.org/10.1145/3432049",
+        "paper_authors": [
+            "Peng Liu",
+            "Lemei Zhang",
+            "Jon Atle Gulla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Toward Dynamic User Intention: Temporal Evolutionary Effects of Item Relations in Sequential Recommendation",
+        "paper_url": "https://doi.org/10.1145/3432244",
+        "paper_authors": [
+            "Chenyang Wang",
+            "Weizhi Ma",
+            "Min Zhang",
+            "Chong Chen",
+            "Yiqun Liu",
+            "Shaoping Ma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Microtask Detection",
+        "paper_url": "https://doi.org/10.1145/3432290",
+        "paper_authors": [
+            "Ryen W. White",
+            "Elnaz Nouri",
+            "James Woffinden-Luey",
+            "Mark J. Encarnaci\u00f3n",
+            "Sujay Kumar Jauhar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Meaningful Answer Generation of E-Commerce Question-Answering",
+        "paper_url": "https://doi.org/10.1145/3432689",
+        "paper_authors": [
+            "Shen Gao",
+            "Xiuying Chen",
+            "Zhaochun Ren",
+            "Dongyan Zhao",
+            "Rui Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Critical Reassessment of the Saerens-Latinne-Decaestecker Algorithm for Posterior Probability Adjustment",
+        "paper_url": "https://doi.org/10.1145/3433164",
+        "paper_authors": [
+            "Andrea Esuli",
+            "Alessio Molinari",
+            "Fabrizio Sebastiani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research",
+        "paper_url": "https://doi.org/10.1145/3434185",
+        "paper_authors": [
+            "Maurizio Ferrari Dacrema",
+            "Simone Boglio",
+            "Paolo Cremonesi",
+            "Dietmar Jannach"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unbiased Learning to Rank: Online or Offline?",
+        "paper_url": "https://doi.org/10.1145/3439861",
+        "paper_authors": [
+            "Qingyao Ai",
+            "Tao Yang",
+            "Huazheng Wang",
+            "Jiaxin Mao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "VM-NSP: Vertical Negative Sequential Pattern Mining with Loose Negative Element Constraints",
+        "paper_url": "https://doi.org/10.1145/3440874",
+        "paper_authors": [
+            "Wei Wang",
+            "Longbing Cao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Editorial Message from the New Editor-in-Chief",
+        "paper_url": "https://doi.org/10.1145/3447945",
+        "paper_authors": [
+            "Min Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Modeling Multiple Coexisting Category-Level Intentions for Next Item Recommendation",
+        "paper_url": "https://doi.org/10.1145/3441642",
+        "paper_authors": [
+            "Yanan Xu",
+            "Yanmin Zhu",
+            "Jiadi Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Interactive Sequential Basket Recommendation by Learning Basket Couplings and Positive/Negative Feedback",
+        "paper_url": "https://doi.org/10.1145/3444368",
+        "paper_authors": [
+            "Wei Wang",
+            "Longbing Cao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Toward Comprehensive User and Item Representations via Three-tier Attention Network",
+        "paper_url": "https://doi.org/10.1145/3446341",
+        "paper_authors": [
+            "Hongtao Liu",
+            "Wenjun Wang",
+            "Qiyao Peng",
+            "Nannan Wu",
+            "Fangzhao Wu",
+            "Pengfei Jiao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reinforcement Learning-based Collective Entity Alignment with Adaptive Features",
+        "paper_url": "https://doi.org/10.1145/3446428",
+        "paper_authors": [
+            "Weixin Zeng",
+            "Xiang Zhao",
+            "Jiuyang Tang",
+            "Xuemin Lin",
+            "Paul Groth"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RLPS: A Reinforcement Learning-Based Framework for Personalized Search",
+        "paper_url": "https://doi.org/10.1145/3446617",
+        "paper_authors": [
+            "Jing Yao",
+            "Zhicheng Dou",
+            "Jun Xu",
+            "Ji-Rong Wen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DGeye: Probabilistic Risk Perception and Prediction for Urban Dangerous Goods Management",
+        "paper_url": "https://doi.org/10.1145/3448256",
+        "paper_authors": [
+            "Jingyuan Wang",
+            "Xin Lin",
+            "Yuan Zuo",
+            "Junjie Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Context-aware Target Apps Selection and Recommendation for Enhancing Personal Mobile Assistants",
+        "paper_url": "https://doi.org/10.1145/3447678",
+        "paper_authors": [
+            "Mohammad Aliannejadi",
+            "Hamed Zamani",
+            "Fabio Crestani",
+            "W. Bruce Croft"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Hybrid Framework for Session Context Modeling",
+        "paper_url": "https://doi.org/10.1145/3448127",
+        "paper_authors": [
+            "Jia Chen",
+            "Jiaxin Mao",
+            "Yiqun Liu",
+            "Ziyi Ye",
+            "Weizhi Ma",
+            "Chao Wang",
+            "Min Zhang",
+            "Shaoping Ma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spoken Conversational Context Improves Query Auto-completion in Web Search",
+        "paper_url": "https://doi.org/10.1145/3447875",
+        "paper_authors": [
+            "Tung Thanh Vuong",
+            "Salvatore Andolina",
+            "Giulio Jacucci",
+            "Tuukka Ruotsalo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "HGAT: Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification",
+        "paper_url": "https://doi.org/10.1145/3450352",
+        "paper_authors": [
+            "Tianchi Yang",
+            "Linmei Hu",
+            "Chuan Shi",
+            "Houye Ji",
+            "Xiaoli Li",
+            "Liqiang Nie"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Assessing Top- Preferences",
+        "paper_url": "https://doi.org/10.1145/3451161",
+        "paper_authors": [
+            "Charles L. A. Clarke",
+            "Alexandra Vtyurina",
+            "Mark D. Smucker"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CoSam: An Efficient Collaborative Adaptive Sampler for Recommendation",
+        "paper_url": "https://doi.org/10.1145/3450289",
+        "paper_authors": [
+            "Jiawei Chen",
+            "Chengquan Jiang",
+            "Can Wang",
+            "Sheng Zhou",
+            "Yan Feng",
+            "Chun Chen",
+            "Martin Ester",
+            "Xiangnan He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Inductive Contextual Relation Learning for Personalization",
+        "paper_url": "https://doi.org/10.1145/3450353",
+        "paper_authors": [
+            "Chuxu Zhang",
+            "Huaxiu Yao",
+            "Lu Yu",
+            "Chao Huang",
+            "Dongjin Song",
+            "Haifeng Chen",
+            "Meng Jiang",
+            "Nitesh V. Chawla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Popularity Bias in False-positive Metrics for Recommender Systems Evaluation",
+        "paper_url": "https://doi.org/10.1145/3452740",
+        "paper_authors": [
+            "Elisa Mena-Maldonado",
+            "Roc\u00edo Ca\u00f1amares",
+            "Pablo Castells",
+            "Yongli Ren",
+            "Mark Sanderson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploiting Real-time Search Engine Queries for Earthquake Detection: A Summary of Results",
+        "paper_url": "https://doi.org/10.1145/3453842",
+        "paper_authors": [
+            "Qi Zhang",
+            "Hengshu Zhu",
+            "Qi Liu",
+            "Enhong Chen",
+            "Hui Xiong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Conversational Search and Recommendation: Introduction to the Special Issue",
+        "paper_url": "https://doi.org/10.1145/3465272",
+        "paper_authors": [
+            "Claudia Hauff",
+            "Julia Kiseleva",
+            "Mark Sanderson",
+            "Hamed Zamani",
+            "Yongfeng Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Theories of Conversation for Conversational IR",
+        "paper_url": "https://doi.org/10.1145/3439869",
+        "paper_authors": [
+            "Paul Thomas",
+            "Mary Czerwinski",
+            "Daniel McDuff",
+            "Nick Craswell"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Seamlessly Unifying Attributes and Items: Conversational Recommendation for Cold-start Users",
+        "paper_url": "https://doi.org/10.1145/3446427",
+        "paper_authors": [
+            "Shijun Li",
+            "Wenqiang Lei",
+            "Qingyun Wu",
+            "Xiangnan He",
+            "Peng Jiang",
+            "Tat-Seng Chua"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Integrating Collaboration and Leadership in Conversational Group Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3462759",
+        "paper_authors": [
+            "David Contreras",
+            "Maria Salam\u00f3",
+            "Ludovico Boratto"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Why or Why Not? The Effect of Justification Styles on Chatbot Recommendations",
+        "paper_url": "https://doi.org/10.1145/3441715",
+        "paper_authors": [
+            "Daricia Wilkinson",
+            "\u00d6znur Alkan",
+            "Q. Vera Liao",
+            "Massimiliano Mattetti",
+            "Inge Vejsbjerg",
+            "Bart P. Knijnenburg",
+            "Elizabeth Daly"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Target-guided Emotion-aware Chat Machine",
+        "paper_url": "https://doi.org/10.1145/3456414",
+        "paper_authors": [
+            "Wei Wei",
+            "Jiayi Liu",
+            "Xianling Mao",
+            "Guibing Guo",
+            "Feida Zhu",
+            "Pan Zhou",
+            "Yuchong Hu",
+            "Shanshan Feng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Response Ranking with Multi-types of Deep Interactive Representations in Retrieval-based Dialogues",
+        "paper_url": "https://doi.org/10.1145/3462207",
+        "paper_authors": [
+            "Ruijian Xu",
+            "Chongyang Tao",
+            "Jiazhan Feng",
+            "Wei Wu",
+            "Rui Yan",
+            "Dongyan Zhao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dialogue History Matters! Personalized Response Selection in Multi-Turn Retrieval-Based Chatbots",
+        "paper_url": "https://doi.org/10.1145/3453183",
+        "paper_authors": [
+            "Juntao Li",
+            "Chang Liu",
+            "Chongyang Tao",
+            "Zhangming Chan",
+            "Dongyan Zhao",
+            "Min Zhang",
+            "Rui Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MyrrorBot: A Digital Assistant Based on Holistic User Models for Personalized Access to Online Services",
+        "paper_url": "https://doi.org/10.1145/3447679",
+        "paper_authors": [
+            "Cataldo Musto",
+            "Fedelucio Narducci",
+            "Marco Polignano",
+            "Marco de Gemmis",
+            "Pasquale Lops",
+            "Giovanni Semeraro"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Conversations with Search Engines: SERP-based Conversational Response Generation",
+        "paper_url": "https://doi.org/10.1145/3432726",
+        "paper_authors": [
+            "Pengjie Ren",
+            "Zhumin Chen",
+            "Zhaochun Ren",
+            "Evangelos Kanoulas",
+            "Christof Monz",
+            "Maarten de Rijke"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Stage Conversational Passage Retrieval: An Approach to Fusing Term Importance Estimation and Neural Query Rewriting",
+        "paper_url": "https://doi.org/10.1145/3446426",
+        "paper_authors": [
+            "Sheng-Chieh Lin",
+            "Jheng-Hong Yang",
+            "Rodrigo Frassetto Nogueira",
+            "Ming-Feng Tsai",
+            "Chuan-Ju Wang",
+            "Jimmy Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Large-scale Analysis of Mixed Initiative in Information-Seeking Dialogues for Conversational Search",
+        "paper_url": "https://doi.org/10.1145/3466796",
+        "paper_authors": [
+            "Svitlana Vakulenko",
+            "Evangelos Kanoulas",
+            "Maarten de Rijke"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Meta-Information in Conversational Search",
+        "paper_url": "https://doi.org/10.1145/3468868",
+        "paper_authors": [
+            "Johannes Kiesel",
+            "Lars Meyer",
+            "Martin Potthast",
+            "Benno Stein"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "How Am I Doing?: Evaluating Conversational Search Systems Offline",
+        "paper_url": "https://doi.org/10.1145/3451160",
+        "paper_authors": [
+            "Aldo Lipani",
+            "Ben Carterette",
+            "Emine Yilmaz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Meta-evaluation of Conversational Search Evaluation Metrics",
+        "paper_url": "https://doi.org/10.1145/3445029",
+        "paper_authors": [
+            "Zeyang Liu",
+            "Ke Zhou",
+            "Max L. Wilson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "From Users' Intentions to IF-THEN Rules in the Internet of Things",
+        "paper_url": "https://doi.org/10.1145/3447264",
+        "paper_authors": [
+            "Fulvio Corno",
+            "Luigi De Russis",
+            "Alberto Monge Roffarello"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Response Awareness for Retrieval-Based Conversations: Respond with Diversity via Dynamic Representation Learning",
+        "paper_url": "https://doi.org/10.1145/3470450",
+        "paper_authors": [
+            "Rui Yan",
+            "Weiheng Liao",
+            "Dongyan Zhao",
+            "Ji-Rong Wen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

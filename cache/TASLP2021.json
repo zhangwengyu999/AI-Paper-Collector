@@ -1,0 +1,3745 @@
+[
+    {
+        "paper_name": "Hierarchical Regulated Iterative Network for Joint Task of Music Detection and Music Relative Loudness Estimation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3030484",
+        "paper_authors": [
+            "Bijue Jia",
+            "Jiancheng Lv",
+            "Xi Peng",
+            "Yao Chen",
+            "Shenglan Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Novel Architectures for Unsupervised Information Bottleneck Based Speaker Diarization of Meetings",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3036231",
+        "paper_authors": [
+            "Nauman Dawalatabad",
+            "Srikanth R. Madikeri",
+            "C. Chandra Sekhar",
+            "Hema A. Murthy"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Block-Based High Performance CNN Architectures for Frame-Level Overlapping Speech Detection",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3036237",
+        "paper_authors": [
+            "Midia Yousefi",
+            "John H. L. Hansen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Deep Adaptation Network for Speech Enhancement: Combining a Relativistic Discriminator With Multi-Kernel Maximum Mean Discrepancy",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3036611",
+        "paper_authors": [
+            "Jiaming Cheng",
+            "Ruiyu Liang",
+            "Zhenlin Liang",
+            "Li Zhao",
+            "Chengwei Huang",
+            "Bj\u00f6rn W. Schuller"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Comparison of Artificial Neural Network Types for Infant Vocalization Classification",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3037414",
+        "paper_authors": [
+            "Franz Anders",
+            "Mario Hlawitschka",
+            "Mirco Fuchs"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Harmonic-Temporal Factor Decomposition for Unsupervised Monaural Separation of Harmonic Sounds",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3037487",
+        "paper_authors": [
+            "Tomohiko Nakamura",
+            "Hirokazu Kameoka"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Computation of Spherical Harmonic Representations of Source Directivity Based on the Finite-Distance Signature",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3037471",
+        "paper_authors": [
+            "Jens Ahrens",
+            "Stefan Bilbao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Automatic Speech Recognition and Speech Translation via Word Embedding Prediction",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3037543",
+        "paper_authors": [
+            "Shun-Po Chuang",
+            "Alexander H. Liu",
+            "Tzu-Wei Sung",
+            "Hung-yi Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Cross-Entropy-Guided Measure (CEGM) for Assessing Speech Recognition Performance and Optimizing DNN-Based Speech Enhancement",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3036783",
+        "paper_authors": [
+            "Li Chai",
+            "Jun Du",
+            "Qing-Feng Liu",
+            "Chin-Hui Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Passive Geometry Calibration for Microphone Arrays Based on Distributed Damped Newton Optimization",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3037532",
+        "paper_authors": [
+            "De Hu",
+            "Zhe Chen",
+            "Fuliang Yin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Overview of Voice Conversion and Its Challenges: From Statistical Modeling to Deep Learning",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3038524",
+        "paper_authors": [
+            "Berrak Sisman",
+            "Junichi Yamagishi",
+            "Simon King",
+            "Haizhou Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Steering Study of Linear Differential Microphone Arrays",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3038566",
+        "paper_authors": [
+            "Jilu Jin",
+            "Gongping Huang",
+            "Xuehan Wang",
+            "Jingdong Chen",
+            "Jacob Benesty",
+            "Israel Cohen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Proportionate Adaptive Filtering Algorithms Derived Using an Iterative Reweighting Framework",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3038526",
+        "paper_authors": [
+            "Ching Hua Lee",
+            "Bhaskar D. Rao",
+            "Harinath Garudadri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Novel Approach for Improved Noise Reduction Performance in Feed-Forward Active Noise Control Systems With (Loudspeaker) Saturation Non-Linearity in the Secondary Path",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3039607",
+        "paper_authors": [
+            "Shakeel Ahmed",
+            "Muhammad Tufail",
+            "Muhammad Rehan",
+            "Tanveer Abbas",
+            "Amna Majid"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Gated Recurrent Fusion With Joint Training Framework for Robust End-to-End Speech Recognition",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3039600",
+        "paper_authors": [
+            "Cunhang Fan",
+            "Jiangyan Yi",
+            "Jianhua Tao",
+            "Zhengkun Tian",
+            "Bin Liu",
+            "Zhengqi Wen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Speech Intelligibility Prediction Using Spectro-Temporal Modulation Analysis",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3039929",
+        "paper_authors": [
+            "Amin Edraki",
+            "Wai-Yip Chan",
+            "Jesper Jensen",
+            "Daniel Fogerty"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On the Design of Sparse Arrays With Frequency-Invariant Beam Pattern",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3040033",
+        "paper_authors": [
+            "Phan Le Son"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Room Compensation Method by Modification of Reverberant Audio Objects",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3036781",
+        "paper_authors": [
+            "Dylan Menzies",
+            "Philip Coleman",
+            "Filippo Maria Fazi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multiple Source Direction of Arrival Estimations Using Relative Sound Pressure Based MUSIC",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3039569",
+        "paper_authors": [
+            "Yonggang Hu",
+            "Thushara D. Abhayapala",
+            "Prasanga N. Samarasinghe"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Temporal Limits Encoder as a Sound Coding Strategy for Bilateral Cochlear Implants",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3039601",
+        "paper_authors": [
+            "Alan Kan",
+            "Qinglin Meng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploiting Morphological and Phonological Features to Improve Prosodic Phrasing for Mongolian Speech Synthesis",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3040523",
+        "paper_authors": [
+            "Rui Liu",
+            "Berrak Sisman",
+            "Feilong Bao",
+            "Jichen Yang",
+            "Guanglai Gao",
+            "Haizhou Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multiple Circular Arrays of Vector Sensors for Real-Time Sound Field Analysis",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3040533",
+        "paper_authors": [
+            "Fei Ma",
+            "Thushara D. Abhayapala",
+            "Wen Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Sound Source Tracking Using SRP-PHAT and 3D Convolutional Neural Networks",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3040031",
+        "paper_authors": [
+            "David Diaz-Guerra",
+            "Antonio Miguel",
+            "Jos\u00e9 Ram\u00f3n Beltr\u00e1n"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Directly Comparing the Listening Strategies of Humans and Machines",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3040545",
+        "paper_authors": [
+            "Viet Anh Trinh",
+            "Michael I. Mandel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Auxiliary Networks for Joint Speaker Adaptation and Speaker Change Detection",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3040626",
+        "paper_authors": [
+            "Leda Sari",
+            "Mark Hasegawa-Johnson",
+            "Samuel Thomas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multiple Acoustic Source Localization in Microphone Array Networks",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3039390",
+        "paper_authors": [
+            "Jielong Yang",
+            "Xionghu Zhong",
+            "Weiguang Chen",
+            "Wenwu Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tackling Perception Bias in Unsupervised Phoneme Discovery Using DPGMM-RNN Hybrid Model and Functional Load",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3042016",
+        "paper_authors": [
+            "Bin Wu",
+            "Sakriani Sakti",
+            "Jinsong Zhang",
+            "Satoshi Nakamura"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Generation of Sound Zones Using Variable Span Trade-Off Filters in the DFT-Domain",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3042701",
+        "paper_authors": [
+            "Taewoong Lee",
+            "Liming Shi",
+            "Jesper Kj\u00e6r Nielsen",
+            "Mads Gr\u00e6sb\u00f8ll Christensen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Source DOA Estimation in Reverberant Environments by Jointing Detection and Modeling of Time-Frequency Points",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3042705",
+        "paper_authors": [
+            "Maoshen Jia",
+            "Yuxuan Wu",
+            "Changchun Bao",
+            "Christian H. Ritz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Speech Enhancement Based on Modulation-Domain Parametric Multichannel Kalman Filtering",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3040850",
+        "paper_authors": [
+            "Wei Xue",
+            "Alastair H. Moore",
+            "Mike Brookes",
+            "Patrick A. Naylor"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Knowledge Graph Embedding Approach for Metaphor Processing",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3040507",
+        "paper_authors": [
+            "Wei Song",
+            "Jingjin Guo",
+            "Ruiji Fu",
+            "Ting Liu",
+            "Lizhen Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Estimation Reliability Function Assisted Sound Source Localization With Enhanced Steering Vector Phase Difference",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3043107",
+        "paper_authors": [
+            "Longbiao Cheng",
+            "Xingwei Sun",
+            "Dingding Yao",
+            "Junfeng Li",
+            "Yonghong Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Room Acoustical Parameter Estimation From Room Impulse Responses Using Deep Neural Networks",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3043115",
+        "paper_authors": [
+            "Wangyang Yu",
+            "W. Bastiaan Kleijn"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Affine Projection Algorithm Over Acoustic Sensor Networks for Active Noise Control",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3042590",
+        "paper_authors": [
+            "Miguel Ferrer",
+            "Maria de Diego",
+            "Gema Pi\u00f1ero",
+            "Alberto Gonz\u00e1lez"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Performance Analysis of the Extended Binaural MVDR Beamformer With Partial Noise Estimation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3043674",
+        "paper_authors": [
+            "Nico G\u00f6\u00dfling",
+            "Daniel Marquardt",
+            "Simon Doclo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Ensemble Bag-of-Audio-Words Representation Improves Paralinguistic Classification Accuracy",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3044465",
+        "paper_authors": [
+            "G\u00e1bor Gosztolya",
+            "R\u00f3bert Busa-Fekete"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Room Impulse Response Reshaping and Crosstalk Cancellation Using Convex Optimization",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3044444",
+        "paper_authors": [
+            "Alfred Mertins",
+            "Marco Maa\u00df",
+            "Fabrice Katzberg"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Investigating Typed Syntactic Dependencies for Targeted Sentiment Classification Using Graph Attention Neural Network",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3042009",
+        "paper_authors": [
+            "Xuefeng Bai",
+            "Pengbo Liu",
+            "Yue Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Speech Enhancement via Attention Masking Network (SEAMNET): An End-to-End System for Joint Suppression of Noise and Reverberation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3043655",
+        "paper_authors": [
+            "Bengt J. Borgstr\u00f6m",
+            "Michael S. Brandstein"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Voice Jitter Estimation Using High-Order Synchrosqueezing Operators",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3045265",
+        "paper_authors": [
+            "Juan Manuel Miramont",
+            "Marcelo Alejandro Colominas",
+            "Gast\u00f3n Schlotthauer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Speaker Separation Using Speaker Inventories and Estimated Speech",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3045556",
+        "paper_authors": [
+            "Peidong Wang",
+            "Zhuo Chen",
+            "DeLiang Wang",
+            "Jinyu Li",
+            "Yifan Gong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On the Distribution of Speaker Verification Scores: Generative Models for Unsupervised Calibration",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3040103",
+        "paper_authors": [
+            "Sandro Cumani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Acoustic Measure of Vocal Strain Based on Glottal Airflow Periodicity",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3044168",
+        "paper_authors": [
+            "Yu-Ren Chien",
+            "J\u00f3n Gu\u00f0nason"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RARS: Recognition of Audio Recording Source Based on Residual Neural Network",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3039597",
+        "paper_authors": [
+            "Xingfa Shen",
+            "Xingkun Shao",
+            "Quanbo Ge",
+            "Lili Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning to Generate Explainable Plots for Neural Story Generation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3039606",
+        "paper_authors": [
+            "Gang Chen",
+            "Yang Liu",
+            "Huanbo Luan",
+            "Meng Zhang",
+            "Qun Liu",
+            "Maosong Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A New Class of Differential Beamformers",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3045561",
+        "paper_authors": [
+            "Wenxing Yang",
+            "Jacob Benesty",
+            "Gongping Huang",
+            "Jingdong Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multichannel Blind Source Separation Based on Evanescent-Region-Aware Non-Negative Tensor Factorization in Spherical Harmonic Domain",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3045528",
+        "paper_authors": [
+            "Yuki Mitsufuji",
+            "Norihiro Takamune",
+            "Shoichi Koyama",
+            "Hiroshi Saruwatari"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Constrained MFMVDR Filters for Single-Channel Speech Enhancement Based on Spherical Uncertainty Set",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3042013",
+        "paper_authors": [
+            "D\u00f6rte Fischer",
+            "Simon Doclo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Differential Beamforming From the Beampattern Factorization Perspective",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3046082",
+        "paper_authors": [
+            "Xudong Zhao",
+            "Jacob Benesty",
+            "Jingdong Chen",
+            "Gongping Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Preordering Encoding on Transformer for Translation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3042001",
+        "paper_authors": [
+            "Yuki Kawara",
+            "Chenhui Chu",
+            "Yuki Arase"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Many-to-Many Voice Transformer Network",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3047262",
+        "paper_authors": [
+            "Hirokazu Kameoka",
+            "Wen-Chin Huang",
+            "Kou Tanaka",
+            "Takuhiro Kaneko",
+            "Nobukatsu Hojo",
+            "Tomoki Toda"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Study on Reference Microphone Selection for Multi-Microphone Speech Enhancement",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3039930",
+        "paper_authors": [
+            "Jie Zhang",
+            "Huawei Chen",
+            "Li-Rong Dai",
+            "Richard Christian Hendriks"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Overview and Evaluation of Sound Event Localization and Detection in DCASE 2019",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3047233",
+        "paper_authors": [
+            "Archontis Politis",
+            "Annamaria Mesaros",
+            "Sharath Adavanne",
+            "Toni Heittola",
+            "Tuomas Virtanen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Listening Enhancement in Noisy Environments: Solutions in Time and Frequency Domain",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3047234",
+        "paper_authors": [
+            "Markus Niermann",
+            "Peter Vary"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Gated Recurrent Context: Softmax-Free Attention for Online Encoder-Decoder Speech Recognition",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3049344",
+        "paper_authors": [
+            "Hyeonseung Lee",
+            "Woo Hyun Kang",
+            "Sung Jun Cheon",
+            "Hyeongju Kim",
+            "Nam Soo Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On Improved Training of CNN for Acoustic Source Localisation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3049337",
+        "paper_authors": [
+            "Elizabeth Vargas",
+            "James R. Hopgood",
+            "Keith E. Brown",
+            "Kartic Subr"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Normalization for Speaker Vectors",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3039573",
+        "paper_authors": [
+            "Yunqi Cai",
+            "Lantian Li",
+            "Andrew Abel",
+            "Xiaoyan Zhu",
+            "Dong Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pretraining Techniques for Sequence-to-Sequence Voice Conversion",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3049336",
+        "paper_authors": [
+            "Wen-Chin Huang",
+            "Tomoki Hayashi",
+            "Yi-Chiao Wu",
+            "Hirokazu Kameoka",
+            "Tomoki Toda"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Temporal Dynamics of Workplace Acoustic Scenes: Egocentric Analysis and Prediction",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3050265",
+        "paper_authors": [
+            "Arindam Jati",
+            "Amrutha Nadarajan",
+            "Raghuveer Peri",
+            "Karel Mundnich",
+            "Tiantian Feng",
+            "Benjamin Girault",
+            "Shrikanth Narayanan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Modeling Future Cost for Neural Machine Translation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3042006",
+        "paper_authors": [
+            "Chaoqun Duan",
+            "Kehai Chen",
+            "Rui Wang",
+            "Masao Utiyama",
+            "Eiichiro Sumita",
+            "Conghui Zhu",
+            "Tiejun Zhao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive Convolution for Semantic Role Labeling",
+        "paper_url": "https://doi.org/10.1109/TASLP.2020.3048665",
+        "paper_authors": [
+            "Kashif Munir",
+            "Hai Zhao",
+            "Zuchao Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Quasi-Periodic Parallel WaveGAN: A Non-Autoregressive Raw Waveform Generative Model With Pitch-Dependent Dilated Convolution Neural Network",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3051765",
+        "paper_authors": [
+            "Yi-Chiao Wu",
+            "Tomoki Hayashi",
+            "Takuma Okamoto",
+            "Hisashi Kawai",
+            "Tomoki Toda"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Evolving Multi-Resolution Pooling CNN for Monaural Singing Voice Separation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3051331",
+        "paper_authors": [
+            "Weitao Yuan",
+            "Bofei Dong",
+            "Shengbei Wang",
+            "Masashi Unoki",
+            "Wenwu Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generation of Personal Sound Zones With Physical Meaningful Constraints and Conjugate Gradient Method",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3052564",
+        "paper_authors": [
+            "Liming Shi",
+            "Taewoong Lee",
+            "Lijun Zhang",
+            "Jesper Kj\u00e6r Nielsen",
+            "Mads Gr\u00e6sb\u00f8ll Christensen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On the Robustness of the Superdirective Beamformer",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3053410",
+        "paper_authors": [
+            "Xi Chen",
+            "Jacob Benesty",
+            "Gongping Huang",
+            "Jingdong Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generating Images From Spoken Descriptions",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3053391",
+        "paper_authors": [
+            "Xinsheng Wang",
+            "Tingting Qiao",
+            "Jihua Zhu",
+            "Alan Hanjalic",
+            "Odette Scharenborg"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Domain-Aware Dialogue State Tracker for Multi-Domain Dialogue Systems",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3054309",
+        "paper_authors": [
+            "Vevake Balaraman",
+            "Bernardo Magnini"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exemplar-Based Emotive Speech Synthesis",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3052688",
+        "paper_authors": [
+            "Xixin Wu",
+            "Yuewen Cao",
+            "Hui Lu",
+            "Songxiang Liu",
+            "Shiyin Kang",
+            "Zhiyong Wu",
+            "Xunying Liu",
+            "Helen Meng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Duration Robust Weakly Supervised Sound Event Detection",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3054313",
+        "paper_authors": [
+            "Heinrich Dinkel",
+            "Mengyue Wu",
+            "Kai Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Binaural Reproduction Based on Bilateral Ambisonics and Ear-Aligned HRTFs",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3055038",
+        "paper_authors": [
+            "Zamir Ben-Hur",
+            "David Lou Alon",
+            "Ravish Mehra",
+            "Boaz Rafaely"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Synthesis and Analysis-By-Synthesis of Modulated Diplophonic Glottal Area Waveforms",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3053387",
+        "paper_authors": [
+            "Philipp Aichinger",
+            "Franz Pernkopf"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Analysis and Calibration of Lombard Effect and Whisper for Speaker Recognition",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3053388",
+        "paper_authors": [
+            "Finnian Kelly",
+            "John H. L. Hansen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Lyric or Dramatic - Vibrato Analysis for Voice Type Classification in Professional Opera Singers",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3054299",
+        "paper_authors": [
+            "Matthias M\u00fcller",
+            "Thilo Schulz",
+            "Tatiana Ermakova",
+            "Philipp P. Caffier"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Incorporating Wireless Communication Parameters Into the E-Model Algorithm",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3057955",
+        "paper_authors": [
+            "Dem\u00f3stenes Z. Rodr\u00edguez",
+            "Dick Carrillo",
+            "Miguel Arjona Ram\u00edrez",
+            "Pedro H. J. Nardelli",
+            "Sebastian M\u00f6ller"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Non-Linear-Echo Based Anti-Collusion Mechanism for Audio Signals",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3058892",
+        "paper_authors": [
+            "Tianrui Zong",
+            "Yong Xiang",
+            "Iynkaran Natgunanathan",
+            "Longxiang Gao",
+            "Guang Hua",
+            "Wanlei Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CTNet: Conversational Transformer Network for Emotion Recognition",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3049898",
+        "paper_authors": [
+            "Zheng Lian",
+            "Bin Liu",
+            "Jianhua Tao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Neural Machine Translation With Explicit Phrase Alignment",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3057831",
+        "paper_authors": [
+            "Jiacheng Zhang",
+            "Huanbo Luan",
+            "Maosong Sun",
+            "Feifei Zhai",
+            "Jingfang Xu",
+            "Yang Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cognitive Load Estimation From Speech Commands to Simulated Aircraft",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3057492",
+        "paper_authors": [
+            "Maria Vukovic",
+            "Melissa N. Stolar",
+            "Margaret Lech"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Geometry Calibration for Acoustic Transceiver Networks Based on Network Newton Distributed Optimization",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3058539",
+        "paper_authors": [
+            "De Hu",
+            "Zhe Chen",
+            "Fuliang Yin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Perceptual-Similarity-Aware Deep Speaker Representation Learning for Multi-Speaker Generative Modeling",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3059114",
+        "paper_authors": [
+            "Yuki Saito",
+            "Shinnosuke Takamichi",
+            "Hiroshi Saruwatari"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Vocal Tract Length Estimation Using Accumulated Means of Formants and Its Effects on Speaker-Normalization",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3060172",
+        "paper_authors": [
+            "Tadashi Sakata",
+            "Naomitsu Ikeda",
+            "Yuichi Ueda",
+            "Akira Watanabe"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Modified Magnitude-Phase Spectrum Information for Spoofing Detection",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3060810",
+        "paper_authors": [
+            "Jichen Yang",
+            "Hongji Wang",
+            "Rohan Kumar Das",
+            "Yanmin Qian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Audio-Visual Deep Neural Network for Robust Person Verification",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3057230",
+        "paper_authors": [
+            "Yanmin Qian",
+            "Zhengyang Chen",
+            "Shuai Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Selective Memory Network With Selective Attention and Inter-Aspect Modeling for Aspect Level Sentiment Classification",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3058540",
+        "paper_authors": [
+            "Peiqin Lin",
+            "Meng Yang",
+            "Jianhuang Lai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improved Acoustic Word Embeddings for Zero-Resource Languages Using Multilingual Transfer",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3060805",
+        "paper_authors": [
+            "Herman Kamper",
+            "Yevgen Matusevych",
+            "Sharon Goldwater"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Audio-Based Piano Performance Evaluation for Beginners With Convolutional Neural Network and Attention Mechanism",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3061267",
+        "paper_authors": [
+            "Weiqing Wang",
+            "Jin Pan",
+            "Hua Yi",
+            "Zhanmei Song",
+            "Ming Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Quasi-Periodic WaveNet: An Autoregressive Raw Waveform Generative Model With Pitch-Dependent Dilated Convolution Neural Network",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3061245",
+        "paper_authors": [
+            "Yi-Chiao Wu",
+            "Tomoki Hayashi",
+            "Patrick Lumban Tobing",
+            "Kazuhiro Kobayashi",
+            "Tomoki Toda"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Late-Reverberation Synthesis Using Interleaved Velvet-Noise Sequences",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3060165",
+        "paper_authors": [
+            "Vesa V\u00e4lim\u00e4ki",
+            "Karolina Prawda"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Turn Dialogue Reading Comprehension With Pivot Turns and Knowledge",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3058616",
+        "paper_authors": [
+            "Zhuosheng Zhang",
+            "Junlong Li",
+            "Hai Zhao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sparsity-Based Audio Declipping Methods: Selected Overview, New Algorithms, and Large-Scale Evaluation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3059264",
+        "paper_authors": [
+            "Cl\u00e9ment Gaultier",
+            "Srdan Kitic",
+            "R\u00e9mi Gribonval",
+            "Nancy Bertin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mixed Source Sound Field Translation for Virtual Binaural Application With Perceptual Validation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3061939",
+        "paper_authors": [
+            "Lachlan Birnie",
+            "Thushara D. Abhayapala",
+            "Vladimir Tourbabin",
+            "Prasanga N. Samarasinghe"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Meta-Learning With Latent Space Clustering in Generative Adversarial Network for Speaker Diarization",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3061885",
+        "paper_authors": [
+            "Monisankha Pal",
+            "Manoj Kumar",
+            "Raghuveer Peri",
+            "Tae Jin Park",
+            "So Hyun Kim",
+            "Catherine Lord",
+            "Somer Bishop",
+            "Shrikanth Narayanan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sensor Selection for Relative Acoustic Transfer Function Steered Linearly-Constrained Beamformers",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3064399",
+        "paper_authors": [
+            "Jie Zhang",
+            "Jun Du",
+            "Li-Rong Dai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Zero-Shot Audio Classification Via Semantic Embeddings",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3065234",
+        "paper_authors": [
+            "Huang Xie",
+            "Tuomas Virtanen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Phoneme-Unit-Specific Time-Delay Neural Network for Speaker Verification",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3065202",
+        "paper_authors": [
+            "Xianhong Chen",
+            "Changchun Bao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimal Output-Constrained Active Noise Control Based on Inverse Adaptive Modeling Leak Factor Estimate",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3065730",
+        "paper_authors": [
+            "Dong-Yuan Shi",
+            "Woon-Seng Gan",
+            "Bhan Lam",
+            "Shulin Wen",
+            "Xiaoyi Shen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dense CNN With Self-Attention for Time-Domain Speech Enhancement",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3064421",
+        "paper_authors": [
+            "Ashutosh Pandey",
+            "DeLiang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Knowing Where to Leverage: Context-Aware Graph Convolutional Network With an Adaptive Fusion Layer for Contextual Spoken Language Understanding",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3053400",
+        "paper_authors": [
+            "Libo Qin",
+            "Wanxiang Che",
+            "Minheng Ni",
+            "Yangming Li",
+            "Ting Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Transfer Learning From Speech Synthesis to Voice Conversion With Non-Parallel Training Data",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3066047",
+        "paper_authors": [
+            "Mingyang Zhang",
+            "Yi Zhou",
+            "Li Zhao",
+            "Haizhou Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Neural Network Adaptation and Data Augmentation for Multi-Speaker Direction-of-Arrival Estimation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3060257",
+        "paper_authors": [
+            "Weipeng He",
+            "Petr Motl\u00edcek",
+            "Jean-Marc Odobez"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Skip-Gram Embeddings Using BERT",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3065201",
+        "paper_authors": [
+            "Yile Wang",
+            "Leyang Cui",
+            "Yue Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Graph-Based Character-Level Chinese Dependency Parsing",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3067212",
+        "paper_authors": [
+            "Linzhi Wu",
+            "Meishan Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Integrating Knowledge Into End-to-End Speech Recognition From External Text-Only Data",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3066274",
+        "paper_authors": [
+            "Ye Bai",
+            "Jiangyan Yi",
+            "Jianhua Tao",
+            "Zhengqi Wen",
+            "Zhengkun Tian",
+            "Shuai Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Convolutional Maximum-Likelihood Distortionless Response Beamforming With Steering Vector Estimation for Robust Speech Recognition",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3067202",
+        "paper_authors": [
+            "Byung Joon Cho",
+            "Hyung-Min Park"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Overview of Deep-Learning-Based Audio-Visual Speech Enhancement and Separation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3066303",
+        "paper_authors": [
+            "Daniel Michelsanti",
+            "Zheng-Hua Tan",
+            "Shi-Xiong Zhang",
+            "Yong Xu",
+            "Meng Yu",
+            "Dong Yu",
+            "Jesper Jensen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On the Design of Differential Kronecker Product Beamformers",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3069089",
+        "paper_authors": [
+            "Gal Itzhak",
+            "Jacob Benesty",
+            "Israel Cohen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Partially Matching Projection Decoding Method Evaluation Under Different Playback Conditions",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3068002",
+        "paper_authors": [
+            "Zhongshu Ge",
+            "Liang Li",
+            "Tianshu Qu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Analyzing Multimodal Sentiment Via Acoustic- and Visual-LSTM With Channel-Aware Temporal Convolution Network",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3068598",
+        "paper_authors": [
+            "Sijie Mai",
+            "Songlong Xing",
+            "Haifeng Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Joint Model for Named Entity Recognition With Sentence-Level Entity Type Attentions",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3069295",
+        "paper_authors": [
+            "Tao Qian",
+            "Meishan Zhang",
+            "Yinxia Lou",
+            "Daiwen Hua"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Ambisonic Signal Processing DNNs Guaranteeing Rotation, Scale and Time Translation Equivariance",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3069193",
+        "paper_authors": [
+            "Ryotaro Sato",
+            "Kenta Niwa",
+            "Kazunori Kobayashi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Iterative Echo Labeling Algorithm With Convex Hull Expansion for Room Geometry Estimation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3069093",
+        "paper_authors": [
+            "Sooyeon Park",
+            "Jung-Woo Choi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Overlapping Speaker Segmentation Using Multiple Hypothesis Tracking of Fundamental Frequency",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3067161",
+        "paper_authors": [
+            "Aidan O. T. Hogg",
+            "Christine Evers",
+            "Alastair H. Moore",
+            "Patrick A. Naylor"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Controlling Elevation and Azimuth Beamwidths With Concentric Circular Microphone Arrays",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3072275",
+        "paper_authors": [
+            "Rajib Sharma",
+            "Israel Cohen",
+            "Baruch Berdugo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Multiple-Integration Encoder for Multi-Turn Text-to-SQL Semantic Parsing",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3070726",
+        "paper_authors": [
+            "Runze Wang",
+            "Zhen-Hua Ling",
+            "Jing-Bo Zhou",
+            "Yu Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bayesian Learning of LF-MMI Trained Time Delay Neural Networks for Speech Recognition",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3069080",
+        "paper_authors": [
+            "Shoukang Hu",
+            "Xurong Xie",
+            "Shansong Liu",
+            "Jianwei Yu",
+            "Zi Ye",
+            "Mengzhe Geng",
+            "Xunying Liu",
+            "Helen Meng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Objective Measures of Perceptual Audio Quality Reviewed: An Evaluation of Their Application Domain Dependence",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3069302",
+        "paper_authors": [
+            "Matteo Torcoli",
+            "Thorsten Kastner",
+            "J\u00fcrgen Herre"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Voice Activity Detection in the Wild: A Data-Driven Approach Using Teacher-Student Training",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3073596",
+        "paper_authors": [
+            "Heinrich Dinkel",
+            "Shuai Wang",
+            "Xuenan Xu",
+            "Mengyue Wu",
+            "Kai Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Detection of Multiple Steganography Methods in Compressed Speech Based on Code Element Embedding, Bi-LSTM and CNN With Attention Mechanisms",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3074752",
+        "paper_authors": [
+            "Songbin Li",
+            "Jingang Wang",
+            "Peng Liu",
+            "Miao Wei",
+            "Qiandong Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deformable Self-Attention for Text Classification",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3067210",
+        "paper_authors": [
+            "Qianli Ma",
+            "Jiangyue Yan",
+            "Zhenxi Lin",
+            "Liuhong Yu",
+            "Zipeng Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Extracting and Predicting Word-Level Style Variations for Speech Synthesis",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3074757",
+        "paper_authors": [
+            "Yajie Zhang",
+            "Zhen-Hua Ling"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploiting Temporal Context in CNN Based Multisource DOA Estimation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3067113",
+        "paper_authors": [
+            "Alexander Bohlender",
+            "Ann Spriet",
+            "Wouter Tirry",
+            "Nilesh Madhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Determined BSS Based on Time-Frequency Masking and Its Application to Harmonic Vector Analysis",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3073863",
+        "paper_authors": [
+            "Kohei Yatabe",
+            "Daichi Kitamura"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TutorNet: Towards Flexible Knowledge Distillation for End-to-End Speech Recognition",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3071662",
+        "paper_authors": [
+            "Ji Won Yoon",
+            "Hyeonseung Lee",
+            "Hyung Yong Kim",
+            "Won-Ik Cho",
+            "Nam Soo Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Self-Supervised Representation Learning With Path Integral Clustering for Speaker Diarization",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3075100",
+        "paper_authors": [
+            "Prachi Singh",
+            "Sriram Ganapathy"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Graph-to-Sequence Learning Framework for Summarizing Opinionated Texts",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3071667",
+        "paper_authors": [
+            "Penghui Wei",
+            "Jiahao Zhao",
+            "Wenji Mao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Near-Field Superdirectivity: An Analytical Perspective",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3070686",
+        "paper_authors": [
+            "Dovid Y. Levin",
+            "Shmulik Markovich-Golan",
+            "Sharon Gannot"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Speech Emotion Recognition Considering Nonverbal Vocalization in Affective Conversations",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3076364",
+        "paper_authors": [
+            "Jia-Hao Hsu",
+            "Ming-Hsiang Su",
+            "Chung-Hsien Wu",
+            "Yi-Hsuan Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Time-Domain Audio Source Separation With Neural Networks Based on Multiresolution Analysis",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3072496",
+        "paper_authors": [
+            "Tomohiko Nakamura",
+            "Shihori Kozuka",
+            "Hiroshi Saruwatari"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FSPRM: A Feature Subsequence Based Probability Representation Model for Chinese Word Embedding",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3073868",
+        "paper_authors": [
+            "Yun Zhang",
+            "Yongguo Liu",
+            "Jiajing Zhu",
+            "Xindong Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Any-to-Many Voice Conversion With Location-Relative Sequence-to-Sequence Modeling",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3076867",
+        "paper_authors": [
+            "Songxiang Liu",
+            "Yuewen Cao",
+            "Disong Wang",
+            "Xixin Wu",
+            "Xunying Liu",
+            "Helen Meng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Optimal Envelope-Based Noise Reduction Method for Cochlear Implants: An Upper Bound Performance Investigation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3076363",
+        "paper_authors": [
+            "Rafael Attili Chiea",
+            "M\u00e1rcio H. Costa",
+            "Julio A. Cordioli"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive Adapters: An Efficient Way to Incorporate BERT Into Neural Machine Translation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3076863",
+        "paper_authors": [
+            "Junliang Guo",
+            "Zhirui Zhang",
+            "Linli Xu",
+            "Boxing Chen",
+            "Enhong Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Group Communication With Context Codec for Lightweight Source Separation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3078640",
+        "paper_authors": [
+            "Yi Luo",
+            "Cong Han",
+            "Nima Mesgarani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hierarchical Neighbor Propagation With Bidirectional Graph Attention Network for Relation Prediction",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3079812",
+        "paper_authors": [
+            "Zhiwen Xie",
+            "Runjie Zhu",
+            "Jin Liu",
+            "Guangyou Zhou",
+            "Jimmy Xiangji Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Beamforming with Cube Microphone Arrays Via Kronecker Product Decompositions",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3079816",
+        "paper_authors": [
+            "Xuehan Wang",
+            "Jacob Benesty",
+            "Jingdong Chen",
+            "Gongping Huang",
+            "Israel Cohen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Model Compression for Deep Learning Based Speech Enhancement",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3082282",
+        "paper_authors": [
+            "Ke Tan",
+            "DeLiang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Nonlinear Spatial Filtering in Multichannel Speech Enhancement",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3076372",
+        "paper_authors": [
+            "Kristina Tesch",
+            "Timo Gerkmann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Expressive TTS Training With Frame and Style Reconstruction Loss",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3076369",
+        "paper_authors": [
+            "Rui Liu",
+            "Berrak Sisman",
+            "Guanglai Gao",
+            "Haizhou Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Chinese Lexical Simplification",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3078361",
+        "paper_authors": [
+            "Jipeng Qiang",
+            "Xinyu Lu",
+            "Yun Li",
+            "Yunhao Yuan",
+            "Xindong Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Two Heads are Better Than One: A Two-Stage Complex Spectral Mapping Approach for Monaural Speech Enhancement",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3079813",
+        "paper_authors": [
+            "Andong Li",
+            "Wenzhe Liu",
+            "Chengshi Zheng",
+            "Cunhang Fan",
+            "Xiaodong Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Weighted Orthogonal Vector Rejection Method for Loudspeaker-Based Binaural Audio Reproduction",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3080915",
+        "paper_authors": [
+            "Eric Carlos Hamdan",
+            "Filippo Maria Fazi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Learning Based Real-Time Speech Enhancement for Dual-Microphone Mobile Phones",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3082318",
+        "paper_authors": [
+            "Ke Tan",
+            "Xueliang Zhang",
+            "DeLiang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Indoor Multi-Speaker Localization Based on Bayesian Nonparametrics in the Circular Harmonic Domain",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3079809",
+        "paper_authors": [
+            "Kunkun SongGong",
+            "Huawei Chen",
+            "Wenwu Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Double-Cross-Correlation Processing for Blind Sampling-Rate and Time-Offset Estimation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3071967",
+        "paper_authors": [
+            "Aleksej Chinaev",
+            "Philipp Th\u00fcne",
+            "Gerald Enzner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast End-to-End Speech Recognition Via Non-Autoregressive Models and Cross-Modal Knowledge Transferring From BERT",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3082299",
+        "paper_authors": [
+            "Ye Bai",
+            "Jiangyan Yi",
+            "Jianhua Tao",
+            "Zhengkun Tian",
+            "Zhengqi Wen",
+            "Shuai Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multimodal Representations for Synchronized Speech and Real-Time MRI Video Processing",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3084099",
+        "paper_authors": [
+            "\u00d6yk\u00fc Deniz K\u00f6se",
+            "Murat Sara\u00e7lar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Detection of Parkinson's Disease From Speech Using Voice Source Information",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3078364",
+        "paper_authors": [
+            "N. P. Narendra",
+            "Bj\u00f6rn W. Schuller",
+            "Paavo Alku"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SNR-Based Features and Diverse Training Data for Robust DNN-Based Speech Enhancement",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3082702",
+        "paper_authors": [
+            "Robert Rehr",
+            "Timo Gerkmann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Joint Diagonalization Based Efficient Approach to Underdetermined Blind Audio Source Separation Using the Multichannel Wiener Filter",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3079815",
+        "paper_authors": [
+            "Nobutaka Ito",
+            "Rintaro Ikeshita",
+            "Hiroshi Sawada",
+            "Tomohiro Nakatani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Second-Order Semantic Role Labeling With Global Structural Refinement",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3082706",
+        "paper_authors": [
+            "Hao Fei",
+            "Shengqiong Wu",
+            "Yafeng Ren",
+            "Donghong Ji"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "F0 Perturbation Due to Articulatory Movements: Filtering, Characterization and Applications",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3082671",
+        "paper_authors": [
+            "Humberto M. Torres",
+            "Mercedes G\u00fcemes",
+            "Jorge A. Gurlekian",
+            "Diego A. Evin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Receptive Field Regularization Techniques for Audio Classification and Tagging With Deep Convolutional Neural Networks",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3082307",
+        "paper_authors": [
+            "Khaled Koutini",
+            "Hamid Eghbal-zadeh",
+            "Gerhard Widmer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-microphone Complex Spectral Mapping for Utterance-wise and Continuous Speech Separation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3083405",
+        "paper_authors": [
+            "Zhong-Qiu Wang",
+            "Peidong Wang",
+            "DeLiang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Relation Extraction in Dialogues: A Deep Learning Model Based on the Generality and Specialty of Dialogue Text",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3082295",
+        "paper_authors": [
+            "Mengjia Zhou",
+            "Donghong Ji",
+            "Fei Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Domain-Shift Conditioning Using Adaptable Filtering Via Hierarchical Embeddings for Robust Chinese Spell Check",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3083108",
+        "paper_authors": [
+            "Minh Nguyen",
+            "Gia H. Ngo",
+            "Nancy F. Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Effect of Partial Time-Frequency Masking of the Direct Sound on the Perception of Reverberant Speech",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3084742",
+        "paper_authors": [
+            "Lior Madmoni",
+            "Shir Tibor",
+            "Israel Nelken",
+            "Boaz Rafaely"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Corpus-Aware Graph Aggregation Network for Sequence Labeling",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3084105",
+        "paper_authors": [
+            "Haibin Chen",
+            "Qianli Ma",
+            "Liuhong Yu",
+            "Zhenxi Lin",
+            "Jiangyue Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Robust Speech Super-Resolution",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3054302",
+        "paper_authors": [
+            "Heming Wang",
+            "DeLiang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Audio-Visual Multi-Channel Integration and Recognition of Overlapped Speech",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3078883",
+        "paper_authors": [
+            "Jianwei Yu",
+            "Shi-Xiong Zhang",
+            "Bo Wu",
+            "Shansong Liu",
+            "Shoukang Hu",
+            "Mengzhe Geng",
+            "Xunying Liu",
+            "Helen Meng",
+            "Dong Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Conditioned Source Separation for Musical Instrument Performances",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3082331",
+        "paper_authors": [
+            "Olga Slizovskaia",
+            "Gloria Haro",
+            "Emilia G\u00f3mez"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bayesian Learning for Deep Neural Network Adaptation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3084072",
+        "paper_authors": [
+            "Xurong Xie",
+            "Xunying Liu",
+            "Tan Lee",
+            "Lan Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Nearest Kronecker Product Decomposition Based Linear-in-The-Parameters Nonlinear Filters",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3084755",
+        "paper_authors": [
+            "Sankha Subhra Bhattacharjee",
+            "Nithin V. George"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Multi-Agent Communication Based Model for Nested Named Entity Recognition",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3086978",
+        "paper_authors": [
+            "Canguang Li",
+            "Guohua Wang",
+            "Jin Cao",
+            "Yi Cai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Blind Separation for Multiple Moving Sources With Labeled Random Finite Sets",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3087003",
+        "paper_authors": [
+            "Jonah Ong",
+            "Ba-Tuong Vo",
+            "Sven Nordholm"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PROTOTYPE-TO-STYLE: Dialogue Generation With Style-Aware Editing on Retrieval Memory",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3087948",
+        "paper_authors": [
+            "Yixuan Su",
+            "Yan Wang",
+            "Deng Cai",
+            "Simon Baker",
+            "Anna Korhonen",
+            "Nigel Collier"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Wave Digital Newton-Raphson Method for Virtual Analog Modeling of Audio Circuits with Multiple One-Port Nonlinearities",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3084337",
+        "paper_authors": [
+            "Alberto Bernardini",
+            "Enrico Bozzo",
+            "Federico Fontana",
+            "Augusto Sarti"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Proximal Normalized Subband Adaptive Filtering for Acoustic Echo Cancellation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3087951",
+        "paper_authors": [
+            "Gang Guo",
+            "Yi Yu",
+            "Rodrigo C. de Lamare",
+            "Zongsheng Zheng",
+            "Lu Lu",
+            "Qiangming Cai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Audibility of Group-Delay Equalization",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3087969",
+        "paper_authors": [
+            "Juho Liski",
+            "Aki M\u00e4kivirta",
+            "Vesa V\u00e4lim\u00e4ki"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Corruption Is Not All Bad: Incorporating Discourse Structure Into Pre-Training via Corruption for Essay Scoring",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3088223",
+        "paper_authors": [
+            "Farjana Sultana Mim",
+            "Naoya Inoue",
+            "Paul Reisert",
+            "Hiroki Ouchi",
+            "Kentaro Inui"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Graph-Based Clustering of Dolphin Whistles",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3091813",
+        "paper_authors": [
+            "Dror Kipnis",
+            "Roee Diamant"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Language-Independent Approach for Automatic Computation of Vowel Articulation Features in Dysarthric Speech Assessment",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3090973",
+        "paper_authors": [
+            "Yuanyuan Liu",
+            "Nelly Penttil\u00e4",
+            "Tiina Ihalainen",
+            "Juulia Lintula",
+            "Rachel Convey",
+            "Okko R\u00e4s\u00e4nen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Impulsive Noise Detection for Speech Enhancement in HHT Domain",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3093392",
+        "paper_authors": [
+            "C\u00e9sar Medina",
+            "Rosangela Coelho",
+            "Leonardo Z\u00e3o"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Novel Loss Function and Training Strategy for Noise-Robust Keyword Spotting",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3092567",
+        "paper_authors": [
+            "Iv\u00e1n L\u00f3pez-Espejo",
+            "Zheng-Hua Tan",
+            "Jesper Jensen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Recent Progress in the CUHK Dysarthric Speech Recognition System",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3091805",
+        "paper_authors": [
+            "Shansong Liu",
+            "Mengzhe Geng",
+            "Shoukang Hu",
+            "Xurong Xie",
+            "Mingyu Cui",
+            "Jianwei Yu",
+            "Xunying Liu",
+            "Helen Meng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Desynchronization Attacks Resilient Watermarking Method Based on Frequency Singular Value Coefficient Modification",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3092555",
+        "paper_authors": [
+            "Juan Zhao",
+            "Tianrui Zong",
+            "Yong Xiang",
+            "Longxiang Gao",
+            "Wanlei Zhou",
+            "Gleb Beliakov"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sparse Representations With Legendre Kernels for DOA Estimation and Acoustic Source Separation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3091845",
+        "paper_authors": [
+            "Mert Burkay \u00c7\u00f6teli",
+            "H\u00fcseyin Hacihabiboglu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DNN-Based Mask Estimation for Distributed Speech Enhancement in Spatially Unconstrained Microphone Arrays",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3092838",
+        "paper_authors": [
+            "Nicolas Furnon",
+            "Romain Serizel",
+            "Slim Essid",
+            "Irina Illina"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hybrid Speech and Text Analysis Methods for Speaker Change Detection",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3093817",
+        "paper_authors": [
+            "Or Haim Anidjar",
+            "Itshak Lapidot",
+            "Chen Hajaj",
+            "Amit Dvir",
+            "Issachar Gilad"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Task Sequence Tagging for Emotion-Cause Pair Extraction Via Tag Distribution Refinement",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3089837",
+        "paper_authors": [
+            "Chuang Fan",
+            "Chaofa Yuan",
+            "Lin Gui",
+            "Yue Zhang",
+            "Ruifeng Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3095662",
+        "paper_authors": [
+            "Andy T. Liu",
+            "Shang-Wen Li",
+            "Hung-yi Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Converting Foreign Accent Speech Without a Reference",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3060813",
+        "paper_authors": [
+            "Guanlong Zhao",
+            "Shaojin Ding",
+            "Ricardo Gutierrez-Osuna"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Phoneme Level Lyrics Alignment and Text-Informed Singing Voice Separation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3091817",
+        "paper_authors": [
+            "Kilian Schulze-Forster",
+            "Clement S. J. Doire",
+            "Ga\u00ebl Richard",
+            "Roland Badeau"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "High-Order Pair-Wise Aspect and Opinion Terms Extraction With Edge-Enhanced Syntactic Graph Convolution",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3095672",
+        "paper_authors": [
+            "Shengqiong Wu",
+            "Hao Fei",
+            "Yafeng Ren",
+            "Bobo Li",
+            "Fei Li",
+            "Donghong Ji"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sentiment Time Series Calibration for Event Detection",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3096653",
+        "paper_authors": [
+            "Jingyi Wu",
+            "Lin Shang",
+            "Xiaoying Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Context-Aware Convolutional Filters for Implicit Discourse Relation Classification",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3096041",
+        "paper_authors": [
+            "Kashif Munir",
+            "Hai Zhao",
+            "Zuchao Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Editorial: Special Issue on the Eighth Dialog System Technology Challenge",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3097842",
+        "paper_authors": [
+            "Seokhwan Kim",
+            "Hannes Schulz",
+            "R. Chulaka Gunasekara",
+            "Chiori Hori",
+            "Abhinav Rastogi",
+            "Luis Fernando D'Haro"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Randomly Wired Network Based on RoBERTa and Dialog History Attention for Response Selection",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3077119",
+        "paper_authors": [
+            "Byoungjae Kim",
+            "Jungyun Seo",
+            "Myoung-Wan Koo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Contextualized Utterance Representations for Response Selection and Dialogue Analysis",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3074788",
+        "paper_authors": [
+            "Jia-Chen Gu",
+            "Tianda Li",
+            "Zhen-Hua Ling",
+            "Quan Liu",
+            "Zhiming Su",
+            "Yu-Ping Ruan",
+            "Xiaodan Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "End-to-End Recurrent Cross-Modality Attention for Video Dialogue",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3065852",
+        "paper_authors": [
+            "Yun-Wei Chu",
+            "Kuan-Yen Lin",
+            "Chao-Chun Hsu",
+            "Lun-Wei Ku"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Conversational Semantic Role Labeling",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3074014",
+        "paper_authors": [
+            "Kun Xu",
+            "Han Wu",
+            "Linfeng Song",
+            "Haisong Zhang",
+            "Linqi Song",
+            "Dong Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bridging Text and Video: A Universal Multimodal Transformer for Audio-Visual Scene-Aware Dialog",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3065823",
+        "paper_authors": [
+            "Zekang Li",
+            "Zongjia Li",
+            "Jinchao Zhang",
+            "Yang Feng",
+            "Jie Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GRTr: Generative-Retrieval Transformers for Data-Efficient Dialogue Domain Adaptation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3074779",
+        "paper_authors": [
+            "Igor Shalyminov",
+            "Alessandro Sordoni",
+            "Adam Atkinson",
+            "Hannes Schulz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Domain Adaptive Meta-Learning for Dialogue State Tracking",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3080182",
+        "paper_authors": [
+            "Jiali Zeng",
+            "Yongjing Yin",
+            "Yang Liu",
+            "Yubin Ge",
+            "Jinsong Su"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "D-Score: Holistic Dialogue Evaluation Without Reference",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3074012",
+        "paper_authors": [
+            "Chen Zhang",
+            "Grandee Lee",
+            "Luis Fernando D'Haro",
+            "Haizhou Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "HDRS: Hindi Dialogue Restaurant Search Corpus for Dialogue State Tracking in Task-Oriented Environment",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3065833",
+        "paper_authors": [
+            "Shrikant Malviya",
+            "Rohit Mishra",
+            "Santosh Kumar Barnwal",
+            "Uma Shanker Tiwary"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Overview of the Eighth Dialog System Technology Challenge: DSTC8",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3078368",
+        "paper_authors": [
+            "Seokhwan Kim",
+            "Michel Galley",
+            "R. Chulaka Gunasekara",
+            "Sungjin Lee",
+            "Adam Atkinson",
+            "Baolin Peng",
+            "Hannes Schulz",
+            "Jianfeng Gao",
+            "Jinchao Li",
+            "Mahmoud Adada",
+            "Minlie Huang",
+            "Luis A. Lastras",
+            "Jonathan K. Kummerfeld",
+            "Walter S. Lasecki",
+            "Chiori Hori",
+            "Anoop Cherian",
+            "Tim K. Marks",
+            "Abhinav Rastogi",
+            "Xiaoxue Zang",
+            "Srinivas Sunkara",
+            "Raghav Gupta"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Label and Context Augmentation for Response Selection at DSTC8",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3076876",
+        "paper_authors": [
+            "Myeongho Jeong",
+            "Seungtaek Choi",
+            "Jinyoung Yeo",
+            "Seung-won Hwang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "History Reuse and Bag-of-Words Loss for Long Summary Generation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3100281",
+        "paper_authors": [
+            "Qing Liu",
+            "Lei Chen",
+            "Yuan Yuan",
+            "Huarui Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PhaseDCN: A Phase-Enhanced Dual-Path Dilated Convolutional Network for Single-Channel Speech Enhancement",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3092585",
+        "paper_authors": [
+            "Lu Zhang",
+            "Mingjiang Wang",
+            "Qiquan Zhang",
+            "Xinsheng Wang",
+            "Ming Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Guided Generative Adversarial Neural Network for Representation Learning and Audio Generation Using Fewer Labelled Audio Data",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3098764",
+        "paper_authors": [
+            "Kazi Nazmul Haque",
+            "Rajib Rana",
+            "Jiajun Liu",
+            "John H. L. Hansen",
+            "Nicholas Cummins",
+            "Carlos Busso",
+            "Bj\u00f6rn W. Schuller"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Gamma Boltzmann Machine for Audio Modeling",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3095656",
+        "paper_authors": [
+            "Toru Nakashika",
+            "Kohei Yatabe"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Attending From Foresight: A Novel Attention Mechanism for Neural Machine Translation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3097939",
+        "paper_authors": [
+            "Xintong Li",
+            "Lemao Liu",
+            "Zhaopeng Tu",
+            "Guanlin Li",
+            "Shuming Shi",
+            "Max Q.-H. Meng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Information Fusion in Attention Networks Using Adaptive and Multi-Level Factorized Bilinear Pooling for Audio-Visual Emotion Recognition",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3096037",
+        "paper_authors": [
+            "Hengshun Zhou",
+            "Jun Du",
+            "Yuanyuan Zhang",
+            "Qing Wang",
+            "Qing-Feng Liu",
+            "Chin-Hui Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Cross-Lingual Mappings in Imperfectly Isomorphic Embedding Spaces",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3097935",
+        "paper_authors": [
+            "Yuling Li",
+            "Kui Yu",
+            "Yuhong Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "UnitNet: A Sequence-to-Sequence Acoustic Model for Concatenative Speech Synthesis",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3093823",
+        "paper_authors": [
+            "Xiao Zhou",
+            "Zhen-Hua Ling",
+            "Li-Rong Dai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Tone Phase Coding of Interaural Time Difference for Sound Source Localization With Spiking Neural Networks",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3100684",
+        "paper_authors": [
+            "Zihan Pan",
+            "Malu Zhang",
+            "Jibin Wu",
+            "Jiadong Wang",
+            "Haizhou Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FifthNet: Structured Compact Neural Networks for Automatic Chord Recognition",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3070158",
+        "paper_authors": [
+            "Ken O'Hanlon",
+            "Mark B. Sandler"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Estimation of Spectral Notches From Pinna Meshes: Insights From a Simple Computational Model",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3101928",
+        "paper_authors": [
+            "Simone Spagnol",
+            "Riccardo Miccini",
+            "Marius George Onofrei",
+            "Runar Unnthorsson",
+            "Stefania Serafin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Target Speaker Verification With Selective Auditory Attention for Single and Multi-Talker Speech",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3100682",
+        "paper_authors": [
+            "Chenglin Xu",
+            "Wei Rao",
+            "Jibin Wu",
+            "Haizhou Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Minimum Processing Beamforming",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3053411",
+        "paper_authors": [
+            "Adel Zahedi",
+            "Michael Syskind Pedersen",
+            "Jan \u00d8stergaard",
+            "Thomas Ulrich Christiansen",
+            "Lars Bramsl\u00f8w",
+            "Jesper Jensen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multichannel Iterative Noise Reduction Filters in the Short-Time-Fourier-Transform Domain Based on Kronecker Product Decomposition",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3092825",
+        "paper_authors": [
+            "Xianghui Wang",
+            "Jie Chen",
+            "Xiaoyi Chen",
+            "Jing Guo",
+            "Qian Xiang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Q-Gradient Subband Adaptive Filter for Nonlinear Active Noise Control",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3102193",
+        "paper_authors": [
+            "Kai-Li Yin",
+            "Yi-Fei Pu",
+            "Lu Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Monaural Speech Separation Using Speaker Embedding From Preliminary Separation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3101617",
+        "paper_authors": [
+            "Jaeuk Byun",
+            "Jong Won Shin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On the Design of 3D Steerable Beamformers With Uniform Concentric Circular Microphone Arrays",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3103129",
+        "paper_authors": [
+            "Xudong Zhao",
+            "Gongping Huang",
+            "Jingdong Chen",
+            "Jacob Benesty"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3102194",
+        "paper_authors": [
+            "Zifeng Cheng",
+            "Zhiwei Jiang",
+            "Yafeng Yin",
+            "Na Li",
+            "Qing Gu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Voice Feature Selection Using Interval Type-2 Fuzzy AHP for Automated Diagnosis of Parkinson's Disease",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3097215",
+        "paper_authors": [
+            "Hamid Azadi",
+            "Mohammad-R. Akbarzadeh-T.",
+            "Hamid Reza Kobravi",
+            "Ali Shoeibi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sinsy: A Deep Neural Network-Based Singing Voice Synthesis System",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3104165",
+        "paper_authors": [
+            "Yukiya Hono",
+            "Kei Hashimoto",
+            "Keiichiro Oura",
+            "Yoshihiko Nankaku",
+            "Keiichi Tokuda"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Granularity Sequence Alignment Mapping for Encoder-Decoder Based End-to-End ASR",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3101921",
+        "paper_authors": [
+            "Jian Tang",
+            "Jie Zhang",
+            "Yan Song",
+            "Ian McLoughlin",
+            "Li-Rong Dai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploiting Translation Model for Parallel Corpus Mining",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3105798",
+        "paper_authors": [
+            "Chongman Leong",
+            "Xuebo Liu",
+            "Derek F. Wong",
+            "Lidia S. Chao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Wavesplit: End-to-End Speech Separation by Speaker Clustering",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3099291",
+        "paper_authors": [
+            "Neil Zeghidour",
+            "David Grangier"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Waveform-Based Acoustic Models Using Deep Variational Convolutional Neural Networks",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3104193",
+        "paper_authors": [
+            "Dino Oglic",
+            "Zoran Cvetkovic",
+            "Peter Sollich"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Privacy-Preserving Audio Classification Using Variational Information Feature Extraction",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3108063",
+        "paper_authors": [
+            "Alexandru Nelus",
+            "Rainer Martin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Recurrent Neural Networks and Acoustic Features for Frame-Level Signal-to-Noise Ratio Estimation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3107617",
+        "paper_authors": [
+            "Hao Li",
+            "DeLiang Wang",
+            "Xueliang Zhang",
+            "Guanglai Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generating Responses With a Given Syntactic Pattern in Chinese Dialogues",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3110124",
+        "paper_authors": [
+            "Yi Zhou",
+            "Xiaoqing Zheng",
+            "Xuanjing Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Binaural Auralization of Microphone Array Room Impulse Responses Using Causal Wiener Filtering",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3110340",
+        "paper_authors": [
+            "Viktor Gunnarsson",
+            "Mikael Sternad"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sensor Imperfection Tolerance Analysis of Robust Linear Differential Microphone Arrays",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3110136",
+        "paper_authors": [
+            "Zuolong Chen",
+            "Huawei Chen",
+            "Quansheng Tu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CSS-LM: A Contrastive Framework for Semi-Supervised Fine-Tuning of Pre-Trained Language Models",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3105013",
+        "paper_authors": [
+            "YuSheng Su",
+            "Xu Han",
+            "Yankai Lin",
+            "Zhengyan Zhang",
+            "Zhiyuan Liu",
+            "Peng Li",
+            "Jie Zhou",
+            "Maosong Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Causality-Constrained Frequency-Domain Least-Squares Filter Design Method for Crosstalk Cancellation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3110651",
+        "paper_authors": [
+            "Tobias Kabzinski",
+            "Peter Jax"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CTC-Based Learning of Chroma Features for Score-Audio Music Retrieval",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3110137",
+        "paper_authors": [
+            "Frank Zalkow",
+            "Meinard M\u00fcller"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Branch Convolutional Macaron net for Sound Event Detection",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3110649",
+        "paper_authors": [
+            "Teck Kai Chan",
+            "Cheng Siong Chin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FluentNet: End-to-End Detection of Stuttered Speech Disfluencies With Deep Learning",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3110146",
+        "paper_authors": [
+            "Tedd Kourkounakis",
+            "Amirhossein Hajavi",
+            "Ali Etemad"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Metric Optimization Using Generative Adversarial Networks for Near-End Speech Intelligibility Enhancement",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3111566",
+        "paper_authors": [
+            "Haoyu Li",
+            "Junichi Yamagishi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Predict-Then-Decide: A Predictive Approach for Wait or Answer Task in Dialogue Systems",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3110145",
+        "paper_authors": [
+            "Zehao Lin",
+            "Shaobo Cui",
+            "Guodun Li",
+            "Xiaoming Kang",
+            "Feng Ji",
+            "Feng-Lin Li",
+            "Zhongzhou Zhao",
+            "Haiqing Chen",
+            "Yin Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Localization Based on Enhanced Low Frequency Interaural Level Difference",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3111583",
+        "paper_authors": [
+            "Metin Calis",
+            "Steven van de Par",
+            "Richard Heusdens",
+            "Richard Christian Hendriks"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Native-Nonnative Voice Conversion by Residual Warping in a Sparse, Anchor-Based Representation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3111568",
+        "paper_authors": [
+            "Christopher Liberatore"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatial Active Noise Control Based on Kernel Interpolation of Sound Field",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3107983",
+        "paper_authors": [
+            "Shoichi Koyama",
+            "Jesper Brunnstr\u00f6m",
+            "Hayato Ito",
+            "Natsuki Ueno",
+            "Hiroshi Saruwatari"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LSBert: Lexical Simplification Based on BERT",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3111589",
+        "paper_authors": [
+            "Jipeng Qiang",
+            "Yun Li",
+            "Yi Zhu",
+            "Yunhao Yuan",
+            "Yang Shi",
+            "Xindong Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Contrastive Information Extraction With Generative Transformer",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3110126",
+        "paper_authors": [
+            "Ningyu Zhang",
+            "Hongbin Ye",
+            "Shumin Deng",
+            "Chuanqi Tan",
+            "Mosha Chen",
+            "Songfang Huang",
+            "Fei Huang",
+            "Huajun Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Minimum-Volume Multichannel Nonnegative Matrix Factorization for Blind Audio Source Separation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120603",
+        "paper_authors": [
+            "Jianyu Wang",
+            "Shanzheng Guan",
+            "Shupei Liu",
+            "Xiao-Lei Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Room Impulse Response Measurement Method Robust Towards Nonlinearities Based on Orthogonal Periodic Sequences",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120595",
+        "paper_authors": [
+            "Alberto Carini",
+            "Stefania Cecchi",
+            "Alessandro Terenzi",
+            "Simone Orcioni"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Quantization-Aware Binaural MWF Based Noise Reduction Incorporating External Wireless Devices",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120639",
+        "paper_authors": [
+            "Jie Zhang",
+            "Changheng Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Knowledge Enhanced Fact Checking and Verification",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120636",
+        "paper_authors": [
+            "Biru Zhu",
+            "Xingyao Zhang",
+            "Ming Gu",
+            "Yangdong Deng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Superfast Toeplitz Matrix Inversion Method for Single- and Multi-Channel Inverse Filters and Its Application to Room Equalization",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120650",
+        "paper_authors": [
+            "Mark A. Poletti",
+            "Paul D. Teal"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Detecting Source Contextual Barriers for Understanding Neural Machine Translation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3085119",
+        "paper_authors": [
+            "Guanlin Li",
+            "Lemao Liu",
+            "Conghui Zhu",
+            "Rui Wang",
+            "Tiejun Zhao",
+            "Shuming Shi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Audio-Aware Spoken Multiple-Choice Question Answering With Pre-Trained Language Models",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120638",
+        "paper_authors": [
+            "Chia-Chih Kuo",
+            "Kuan-Yu Chen",
+            "Shang-Bao Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Addressing Extraction and Generation Separately: Keyphrase Prediction With Pre-Trained Language Models",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120587",
+        "paper_authors": [
+            "Rui Liu",
+            "Zheng Lin",
+            "Weiping Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sarcasm Detection with Commonsense Knowledge",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120601",
+        "paper_authors": [
+            "Jiangnan Li",
+            "Hongliang Pan",
+            "Zheng Lin",
+            "Peng Fu",
+            "Weiping Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Keyword Search Using Attention-Based End-to-End ASR and Frame-Synchronous Phoneme Alignments",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120632",
+        "paper_authors": [
+            "Runyan Yang",
+            "Gaofeng Cheng",
+            "Haoran Miao",
+            "Ta Li",
+            "Pengyuan Zhang",
+            "Yonghong Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Flexibly Focusing on Supporting Facts, Using Bridge Links, and Jointly Training Specialized Modules for Multi-Hop Question Answering",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120643",
+        "paper_authors": [
+            "Tareq Alkhaldi",
+            "Chenhui Chu",
+            "Sadao Kurohashi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Efficient Filter Bank Structure for Adaptive Notch Filtering and Applications",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120600",
+        "paper_authors": [
+            "Wenyi Wu",
+            "Yegui Xiao",
+            "Jianhui Lin",
+            "Liying Ma",
+            "Khashayar Khorasani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Synthesizing Spoken Descriptions of Images",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120644",
+        "paper_authors": [
+            "Xinsheng Wang",
+            "Justin van der Hout",
+            "Jihua Zhu",
+            "Mark Hasegawa-Johnson",
+            "Odette Scharenborg"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Enhancement of Noisy Reverberant Speech Using Polynomial Matrix Eigenvalue Decomposition",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120630",
+        "paper_authors": [
+            "Vincent W. Neo",
+            "Christine Evers",
+            "Patrick A. Naylor"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Wave Digital Modeling and Implementation of Nonlinear Audio Circuits With Nullors",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120627",
+        "paper_authors": [
+            "Riccardo Giampiccolo",
+            "Mauro Giuseppe de Bari",
+            "Alberto Bernardini",
+            "Augusto Sarti"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Speech Emotion Recognition Using Sequential Capsule Networks",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120586",
+        "paper_authors": [
+            "Xixin Wu",
+            "Yuewen Cao",
+            "Hui Lu",
+            "Songxiang Liu",
+            "Disong Wang",
+            "Zhiyong Wu",
+            "Xunying Liu",
+            "Helen Meng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PSLA: Improving Audio Tagging With Pretraining, Sampling, Labeling, and Aggregation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120633",
+        "paper_authors": [
+            "Yuan Gong",
+            "Yu-An Chung",
+            "James R. Glass"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Review and Arrange: Curriculum Learning for Natural Language Understanding",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3121986",
+        "paper_authors": [
+            "Licheng Zhang",
+            "Zhendong Mao",
+            "Benfeng Xu",
+            "Quan Wang",
+            "Yongdong Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automatic Detection of Affective Flattening in Schizophrenia: Acoustic Correlates to Sound Waves and Auditory Perception",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120591",
+        "paper_authors": [
+            "Fei He",
+            "Ling He",
+            "Jing Zhang",
+            "Yuanyuan Li",
+            "Xi Xiong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Learning Approach for Pronominal Anaphora and Ellipsis Identification and Resolution in Arabic Texts",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120649",
+        "paper_authors": [
+            "Saoussen Mathlouthi Bouzid",
+            "Chiraz Ben Othmane Zribi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semantic Change Detection With Gaussian Word Embeddings",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120645",
+        "paper_authors": [
+            "Arda Y\u00fcksel",
+            "Berke Ugurlu",
+            "Aykut Ko\u00e7"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Medical Term and Status Generation From Chinese Clinical Dialogue With Multi-Granularity Transformer",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3122301",
+        "paper_authors": [
+            "Mei Li",
+            "Lu Xiang",
+            "Xiaomian Kang",
+            "Yang Zhao",
+            "Yu Zhou",
+            "Chengqing Zong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "$F_0$-Noise-Robust Glottal Source and Vocal Tract Analysis Based on ARX-LF Model",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120585",
+        "paper_authors": [
+            "Yongwei Li",
+            "Jianhua Tao",
+            "Donna Erickson",
+            "Bin Liu",
+            "Masato Akagi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Estimate of Sentence's Representation Based on the Difference Semantics Model",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3123885",
+        "paper_authors": [
+            "Xianwen Liao",
+            "Yongzhong Huang",
+            "Yongzhuang Wei",
+            "Chenhao Zhang",
+            "Fu Wang",
+            "Yong Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TAU-Net: Temporal Activation U-Net Shared With Nonnegative Matrix Factorization for Speech Enhancement in Unseen Noise Environments",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3067154",
+        "paper_authors": [
+            "Kwang Myung Jeon",
+            "Geon Woo Lee",
+            "Nam Kyun Kim",
+            "Hong Kook Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robustness of Speech Spoofing Detectors Against Adversarial Post-Processing of Voice Conversion",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3124420",
+        "paper_authors": [
+            "Yi-Yang Ding",
+            "Hao-Jian Lin",
+            "Li-Juan Liu",
+            "Zhen-Hua Ling",
+            "Yu Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Language Agnostic Speaker Embedding for Cross-Lingual Personalized Speech Generation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3125142",
+        "paper_authors": [
+            "Yi Zhou",
+            "Xiaohai Tian",
+            "Haizhou Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Speech Enhancement Using Multi-Stage Self-Attentive Temporal Convolutional Networks",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3125143",
+        "paper_authors": [
+            "Ju Lin",
+            "Adriaan J. de Lind van Wijngaarden",
+            "Kuang-Ching Wang",
+            "Melissa C. Smith"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3122291",
+        "paper_authors": [
+            "Wei-Ning Hsu",
+            "Benjamin Bolte",
+            "Yao-Hung Hubert Tsai",
+            "Kushal Lakhotia",
+            "Ruslan Salakhutdinov",
+            "Abdelrahman Mohamed"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Time-Frequency-Bin-Wise Linear Combination of Beamformers for Distortionless Signal Enhancement",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3126950",
+        "paper_authors": [
+            "Kouei Yamaoka",
+            "Nobutaka Ono",
+            "Shoji Makino"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Convolutive Prediction for Monaural Speech Dereverberation and Noisy-Reverberant Speaker Separation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3129363",
+        "paper_authors": [
+            "Zhong-Qiu Wang",
+            "Gordon Wichern",
+            "Jonathan Le Roux"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Deep Direct-Path Relative Transfer Function for Binaural Sound Source Localization",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120641",
+        "paper_authors": [
+            "Bing Yang",
+            "Hong Liu",
+            "Xiaofei Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pre-Training With Whole Word Masking for Chinese BERT",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3124365",
+        "paper_authors": [
+            "Yiming Cui",
+            "Wanxiang Che",
+            "Ting Liu",
+            "Bing Qin",
+            "Ziqing Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Counterfactually Fair Automatic Speech Recognition",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3126949",
+        "paper_authors": [
+            "Leda Sari",
+            "Mark Hasegawa-Johnson",
+            "Chang D. Yoo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Channel Multi-Frame ADL-MVDR for Target Speech Separation",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3129335",
+        "paper_authors": [
+            "Zhuohuang Zhang",
+            "Yong Xu",
+            "Meng Yu",
+            "Shi-Xiong Zhang",
+            "Lianwu Chen",
+            "Donald S. Williamson",
+            "Dong Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reduction of Subjective Listening Effort for TV Broadcast Signals With Recurrent Neural Networks",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3126931",
+        "paper_authors": [
+            "Nils L. Westhausen",
+            "Rainer Huber",
+            "Hannah Baumgartner",
+            "Ragini Sinha",
+            "Jan Rennies",
+            "Bernd T. Meyer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Subword-Based Compact Reconstruction for Open-Vocabulary Neural Word Embeddings",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3125133",
+        "paper_authors": [
+            "Shota Sasaki",
+            "Jun Suzuki",
+            "Kentaro Inui"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Asynchronous Decentralized Distributed Training of Acoustic Models",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3122349",
+        "paper_authors": [
+            "Xiaodong Cui",
+            "Wei Zhang",
+            "Abdullah Kayi",
+            "Mingrui Liu",
+            "Ulrich Finkler",
+            "Brian Kingsbury",
+            "George Saon",
+            "David S. Kung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatial Active Noise Control in Rooms Using Higher Order Sources",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3126936",
+        "paper_authors": [
+            "Junqing Zhang",
+            "Wen Zhang",
+            "Jihui Aimee Zhang",
+            "Thushara Dheemantha Abhayapala",
+            "Lijun Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multimodal Emotion Recognition With Temporal and Semantic Consistency",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3129331",
+        "paper_authors": [
+            "Bingzhi Chen",
+            "Qi Cao",
+            "Mixiao Hou",
+            "Zheng Zhang",
+            "Guangming Lu",
+            "David Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Regularized Phrase-Based Topic Model for Automatic Question Classification With Domain-Agnostic Class Labels",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3126937",
+        "paper_authors": [
+            "S. Supraja",
+            "Andy W. H. Khong",
+            "Sivanagaraja Tatinati"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sound Field Reproduction With a Cylindrical Loudspeaker Array Using First Order Wall Reflections",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3120590",
+        "paper_authors": [
+            "Natsuko Maeda",
+            "Filippo Maria Fazi",
+            "Falk-Martin Hoffmann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Coupling a Generative Model With a Discriminative Learning Framework for Speaker Verification",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3129360",
+        "paper_authors": [
+            "Xugang Lu",
+            "Peng Shen",
+            "Yu Tsao",
+            "Hisashi Kawai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Effects of Additive Noise in Binaural Rendering of Spherical Microphone Array Signals",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3129359",
+        "paper_authors": [
+            "Hannes Helmholz",
+            "David Lou Alon",
+            "Sebasti\u00e0 V. Amengual Gar\u00ed",
+            "Jens Ahrens"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Speech Reconstruction With Reminiscent Sound Via Visual Voice Memory",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3126925",
+        "paper_authors": [
+            "Joanna Hong",
+            "Minsu Kim",
+            "Se Jin Park",
+            "Yong Man Ro"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robustness of Acoustic Rake Filters in Minimum Variance Beamforming",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3126946",
+        "paper_authors": [
+            "Ran Weisman",
+            "Tom Shlomo",
+            "Vladimir Tourbabin",
+            "Paul Calamia",
+            "Boaz Rafaely"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mixed Precision Low-Bit Quantization of Neural Network Language Models for Speech Recognition",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3129357",
+        "paper_authors": [
+            "Junhao Xu",
+            "Jianwei Yu",
+            "Shoukang Hu",
+            "Xunying Liu",
+            "Helen Meng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Fine-Grained Fact-Article Correspondence in Legal Cases",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3130992",
+        "paper_authors": [
+            "Jidong Ge",
+            "Yunyun Huang",
+            "Xiaoyu Shen",
+            "Chuanyi Li",
+            "Wei Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "High-Resolution Piano Transcription With Pedals by Regressing Onset and Offset Times",
+        "paper_url": "https://doi.org/10.1109/TASLP.2021.3121991",
+        "paper_authors": [
+            "Qiuqiang Kong",
+            "Bochen Li",
+            "Xuchen Song",
+            "Yuan Wan",
+            "Yuxuan Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

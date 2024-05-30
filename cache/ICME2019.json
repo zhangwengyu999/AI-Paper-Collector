@@ -1,0 +1,4204 @@
+[
+    {
+        "paper_name": "IEEE International Conference on Multimedia and Expo, ICME 2019, Shanghai, China, July 8-12, 2019",
+        "paper_url": "https://ieeexplore.ieee.org/xpl/conhome/8777226/proceeding",
+        "paper_authors": [],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An End-to-End Architecture for Class-Incremental Object Detection with Knowledge Distillation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00009",
+        "paper_authors": [
+            "Yu Hao",
+            "Yanwei Fu",
+            "Yu-Gang Jiang",
+            "Qi Tian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Real-time Indoor Scene Reconstruction with RGBD and Inertial Input",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00010",
+        "paper_authors": [
+            "Zunjie Zhu",
+            "Feng Xu",
+            "Chenggang Yan",
+            "Xinhong Hao",
+            "Xiangyang Ji",
+            "Yongdong Zhang",
+            "Qionghai Dai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Doubly Semi-Supervised Multimodal Adversarial Learning for Classification, Generation and Retrieval",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00011",
+        "paper_authors": [
+            "Changde Du",
+            "Changying Du",
+            "Huiguang He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Digital Retina in Smart Cities: A Model Generation, Utilization and Communication Paradigm",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00012",
+        "paper_authors": [
+            "Yihang Lou",
+            "Ling-Yu Duan",
+            "Yong Luo",
+            "Ziqian Chen",
+            "Tongliang Liu",
+            "Shiqi Wang",
+            "Wen Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SDP: An Improved Baseline Estimation Model Based On Standard Deviation Proportion",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00013",
+        "paper_authors": [
+            "Zhenhua Tan",
+            "Danke Wu",
+            "Liangliang He",
+            "Qiuyun Chang",
+            "Bin Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Citation Recommendation Based on Weighted Heterogeneous Information Network Containing Semantic Linking",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00014",
+        "paper_authors": [
+            "Jie Chen",
+            "Yang Liu",
+            "Shu Zhao",
+            "Yanping Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fusion-Supervised Deep Cross-Modal Hashing",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00015",
+        "paper_authors": [
+            "Li Wang",
+            "Lei Zhu",
+            "En Yu",
+            "Jiande Sun",
+            "Huaxiang Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Domain Uncertainty Based On Information Theory for Cross-Modal Hash Retrieval",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00016",
+        "paper_authors": [
+            "Wei Chen",
+            "Nan Pu",
+            "Yu Liu",
+            "Erwin M. Bakker",
+            "Michael S. Lew"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive Plane Projection for Video-Based Point Cloud Coding",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00017",
+        "paper_authors": [
+            "Eurico Lopes",
+            "Jo\u00e3o Ascenso",
+            "Catarina Brites",
+            "Fernando Pereira"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast CU Partitioning Algorithm for H.266/VVC Intra-Frame Coding",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00018",
+        "paper_authors": [
+            "Ting Fu",
+            "Hao Zhang",
+            "Fan Mu",
+            "Huanbang Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Two-Stage Fast Multiple Transform Selection Algorithm for VVC Intra Coding",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00019",
+        "paper_authors": [
+            "Ting Fu",
+            "Hao Zhang",
+            "Fan Mu",
+            "Huanbang Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "History-Based Motion Vector Prediction for Future Video Coding",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00020",
+        "paper_authors": [
+            "Junru Li",
+            "Meng Wang",
+            "Li Zhang",
+            "Kai Zhang",
+            "Hongbin Liu",
+            "Shiqi Wang",
+            "Siwei Ma",
+            "Wen Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AMS-SFE: Towards an Alignment of Manifold Structures via Semantic Feature Expansion for Zero-shot Learning",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00021",
+        "paper_authors": [
+            "Jingcai Guo",
+            "Song Guo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Low-Shot Palmprint Recognition Based on Meta-Siamese Network",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00022",
+        "paper_authors": [
+            "Xuefeng Du",
+            "Dexing Zhong",
+            "Pengna Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SR-GAN: Semantic Rectifying Generative Adversarial Network for Zero-shot Learning",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00023",
+        "paper_authors": [
+            "Zihan Ye",
+            "Fan Lyu",
+            "Linyan Li",
+            "Qiming Fu",
+            "Jinchang Ren",
+            "Fuyuan Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Compare More Nuanced: Pairwise Alignment Bilinear Network for Few-Shot Fine-Grained Learning",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00024",
+        "paper_authors": [
+            "Huaxi Huang",
+            "Junjie Zhang",
+            "Jian Zhang",
+            "Qiang Wu",
+            "Jingsong Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Feature-Aware and Content-wise Denoising of 3D Static and Dynamic Meshes using Deep Autoencoders",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00025",
+        "paper_authors": [
+            "Gerasimos Arvanitis",
+            "Aris S. Lalos",
+            "Konstantinos Moustakas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Real-Time Monocular Visual SLAM by Combining Points and Lines",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00026",
+        "paper_authors": [
+            "Xinyu Wei",
+            "Jun Huang",
+            "Xiaoyuan Ma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "F-Number Adaptation for Maximizing the Sensor Usage of Light Field Cameras",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00027",
+        "paper_authors": [
+            "Chuanpu Li",
+            "Xin Jin",
+            "Junke Li",
+            "Qionghai Dai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Blind Calibration for Focused Plenoptic Cameras",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00028",
+        "paper_authors": [
+            "Xufu Sun",
+            "Xin Jin",
+            "Pei Wang",
+            "Yanqin Chen",
+            "Qionghai Dai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Particle Swarm Loss for Lightweight Object Detection",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00029",
+        "paper_authors": [
+            "Peizhen Zhang",
+            "Feng Zheng",
+            "Junlong Du",
+            "Jun Zhang",
+            "Xiaowei Guo",
+            "Wei-Shi Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Incorporating Category Taxonomy in Deep Reinforcement Learning Based Image Hashing",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00030",
+        "paper_authors": [
+            "Qiang Fu",
+            "Linsen Dong",
+            "Ziyuan Liu",
+            "Yong Luo",
+            "Yonggang Wen",
+            "Ying Li",
+            "Ling-Yu Duan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Truncated Gradient Confidence-Weighted Based Online Learning for Imbalance Streaming Data",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00031",
+        "paper_authors": [
+            "Ji Hu",
+            "Chenggang Yan",
+            "Xin Liu",
+            "Jiyong Zhang",
+            "Dongliang Peng",
+            "Yi Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "UAV Target Tracking By Detection via Deep Neural Networks",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00032",
+        "paper_authors": [
+            "Mohamed A. Kassab",
+            "Ali Maher",
+            "Fathy Elkazzaz",
+            "Baochang Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Quarter-Point Codeword Expansion for Product Quantization",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00033",
+        "paper_authors": [
+            "Shan An",
+            "Zhibiao Huang",
+            "Guangfu Che",
+            "Xianglong Liu",
+            "Xin Ma",
+            "Yu Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Context-Aware Affective Graph Reasoning for Emotion Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00034",
+        "paper_authors": [
+            "Minghui Zhang",
+            "Yumeng Liang",
+            "Huadong Ma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SPL: Exploiting Unlabeled Data for Multi-label Image Classification",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00035",
+        "paper_authors": [
+            "Weibo Zhang",
+            "Fuqing Zhu",
+            "Jiao Dai",
+            "Songlin Hu",
+            "Jizhong Han",
+            "Tao Guo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MLTS: A Multi-Language Scene Text Spotter",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00036",
+        "paper_authors": [
+            "Yu Zhou",
+            "Shancheng Fang",
+            "Hongtao Xie",
+            "Zheng-Jun Zha",
+            "Yongdong Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsupervised Monocular Depth Estimation Based on Dual Attention Mechanism and Depth-Aware Loss",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00037",
+        "paper_authors": [
+            "Xinchen Ye",
+            "Mingliang Zhang",
+            "Rui Xu",
+            "Wei Zhong",
+            "Xin Fan",
+            "Zhu Liu",
+            "Jiaao Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards High-Quality Intrinsic Images in the Wild",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00038",
+        "paper_authors": [
+            "Gang Fu",
+            "Qing Zhang",
+            "Chunxia Xiao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsupervised Learning for Optical Flow Estimation Using Pyramid Convolution LSTM",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00039",
+        "paper_authors": [
+            "Shuosen Guan",
+            "Haoxin Li",
+            "Wei-Shi Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MAST: Mask-Accelerated Shearlet Transform for Densely-Sampled Light Field Reconstruction",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00040",
+        "paper_authors": [
+            "Yuan Gao",
+            "Robert Bregovic",
+            "Atanas P. Gotchev",
+            "Reinhard Koch"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CODA: Counting Objects via Scale-Aware Adversarial Density Adaption",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00041",
+        "paper_authors": [
+            "Li Wang",
+            "Yongbo Li",
+            "Xiangyang Xue"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PDNet: Prior-Model Guided Depth-Enhanced Network for Salient Object Detection",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00042",
+        "paper_authors": [
+            "Chunbiao Zhu",
+            "Xing Cai",
+            "Kan Huang",
+            "Thomas H. Li",
+            "Ge Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Continuous Scale Adaption for Efficient Box-Based Scene Text Detection",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00043",
+        "paper_authors": [
+            "Qi Yuan",
+            "Bingwang Zhang",
+            "Haojie Li",
+            "Zhihui Wang",
+            "Zhongxuan Luo",
+            "Wei Zhong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mask-Most Net: Mask Approximation Based Multi-oriented Scene Text Detection Network",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00044",
+        "paper_authors": [
+            "Xiaobao Guo",
+            "Jinxing Li",
+            "Bingzhi Chen",
+            "Guangming Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DMPR-PS: A Novel Approach for Parking-Slot Detection Using Directional Marking-Point Regression",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00045",
+        "paper_authors": [
+            "Junhao Huang",
+            "Lin Zhang",
+            "Ying Shen",
+            "Huijuan Zhang",
+            "Shengjie Zhao",
+            "Yukai Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adapting Semantic Segmentation of Urban Scenes via Mask-Aware Gated Discriminator",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00046",
+        "paper_authors": [
+            "Yong-Xiang Lin",
+            "Daniel Stanley Tan",
+            "Wen-Huang Cheng",
+            "Kai-Lung Hua"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Stochastic Video Generation with Disentangled Representations",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00047",
+        "paper_authors": [
+            "Maomao Li",
+            "Chun Yuan",
+            "Zhihui Lin",
+            "Zhuobin Zheng",
+            "Yangyang Cheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Z-Order Recurrent Neural Networks for Video Prediction",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00048",
+        "paper_authors": [
+            "Jianjin Zhang",
+            "Yunbo Wang",
+            "Mingsheng Long",
+            "Jianmin Wang",
+            "Philip S. Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Energy-Based Recurrent Model for Stochastic Modeling of Music",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00049",
+        "paper_authors": [
+            "Yingru Liu",
+            "Dongliang Xie",
+            "Xin Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Residual Frame for Noisy Video Classification According to Perceptual Quality in Convolutional Neural Networks",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00050",
+        "paper_authors": [
+            "Huaixuan Zhang",
+            "Yuhai Lan",
+            "Tao Dai",
+            "Ruizhi Qiao",
+            "Ying Xu",
+            "Yao Yao",
+            "Shu-Tao Xia"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Residual Dilated Network with Attention for Image Blind Denoising",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00051",
+        "paper_authors": [
+            "Guanqun Hou",
+            "Yujiu Yang",
+            "Jing-Hao Xue"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Collaborative Deep Reinforcement Learning for Image Cropping",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00052",
+        "paper_authors": [
+            "Zhuopeng Li",
+            "Xiaoyan Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Similarity-Aware Deep Adversarial Learning for Facial Age Estimation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00053",
+        "paper_authors": [
+            "Penghui Sun",
+            "Hao Liu",
+            "Xin Wang",
+            "Zhenhua Yu",
+            "Suping Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Transmission Filtering Network for Image-Based Pm2.5 Estimation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00054",
+        "paper_authors": [
+            "Yinghong Liao",
+            "Bin Qiu",
+            "Zhuo Su",
+            "Ruomei Wang",
+            "Xiangjian He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Video-Based Early ASD Detection via Temporal Pyramid Networks",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00055",
+        "paper_authors": [
+            "Yuan Tian",
+            "Xiongkuo Min",
+            "Guangtao Zhai",
+            "Zhiyong Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automatic User Categorization Through Large Transaction Data",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00056",
+        "paper_authors": [
+            "Ying Zhang",
+            "Yinjia Zhang",
+            "Qinpei Zhao",
+            "Weixiong Rao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Feature Preserving and Uniformity-Controllable Point Cloud Simplification on Graph",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00057",
+        "paper_authors": [
+            "Junkun Qi",
+            "Wei Hu",
+            "Zongming Guo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "360SRL: A Sequential Reinforcement Learning Approach for ABR Tile-Based 360 Video Streaming",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00058",
+        "paper_authors": [
+            "Jun Fu",
+            "Xiaoming Chen",
+            "Zhizheng Zhang",
+            "Shilin Wu",
+            "Zhibo Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Content-Aware Perspective Projection Optimization for Viewport Rendering of 360\u00b0 Images",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00059",
+        "paper_authors": [
+            "Falah Jabar",
+            "Jo\u00e3o Ascenso",
+            "Maria Paula Queluz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An AR Benchmark System for Indoor Planar Object Tracking",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00060",
+        "paper_authors": [
+            "Ziming Wu",
+            "Jiabin Guo",
+            "Shuangli Zhang",
+            "Chen Zhao",
+            "Xiaojuan Ma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Global as-Conformal-as-Possible Non-Rigid Registration of Multi-view Scans",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00061",
+        "paper_authors": [
+            "Zhenchao Wu",
+            "Kun Li",
+            "Yu-Kun Lai",
+            "Jingyu Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Light-Weighted Network for Facial Landmark Detection via Combined Heatmap and Coordinate Regression",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00062",
+        "paper_authors": [
+            "Zhengning Wang",
+            "Longfei Feng",
+            "Fanwei Zeng",
+            "Guang Hu",
+            "Xiang Zhang",
+            "Xia Lv",
+            "Fengjun Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Light Weight Stereo Matching via Deep Extraction and Integration of Low and High Level Information",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00063",
+        "paper_authors": [
+            "Xianzhe Xu",
+            "Yonghong Hou",
+            "Pichao Wang",
+            "Zhongyu Jiang",
+            "Wanqing Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Justlookup: One Millisecond Deep Feature Extraction for Point Clouds By Lookup Tables",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00064",
+        "paper_authors": [
+            "Hongxin Lin",
+            "Zelin Xiao",
+            "Yang Tan",
+            "Hongyang Chao",
+            "Shengyong Ding"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multiple Graph Convolutional Networks for Co-Saliency Detection",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00065",
+        "paper_authors": [
+            "Bo Jiang",
+            "Xingyue Jiang",
+            "Jin Tang",
+            "Bin Luo",
+            "Shilei Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Quannet: Joint Image Compression and Classification Over Channels with Limited Bandwidth",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00066",
+        "paper_authors": [
+            "Lahiru D. Chamain",
+            "Sen-ching Samson Cheung",
+            "Zhi Ding"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "High Efficiency Light Field Compression via Virtual Reference and Hierarchical MV-HEVC",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00067",
+        "paper_authors": [
+            "Jiawen Gu",
+            "Bichuan Guo",
+            "Jiangtao Wen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Self-Paced Subspace Clustering",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00068",
+        "paper_authors": [
+            "Youfa Liu",
+            "Bo Du",
+            "Lefei Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Colloquial Image Captioning",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00069",
+        "paper_authors": [
+            "Xuri Ge",
+            "Fuhai Chen",
+            "Chen Shen",
+            "Rongrong Ji"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Captioning for Low-Resource Languages by Cycle Consistency",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00070",
+        "paper_authors": [
+            "Yike Wu",
+            "Shiwan Zhao",
+            "Jia Chen",
+            "Ying Zhang",
+            "Xiaojie Yuan",
+            "Zhong Su"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FrameRank: A Text Processing Approach to Video Summarization",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00071",
+        "paper_authors": [
+            "Zhuo Lei",
+            "Chao Zhang",
+            "Qian Zhang",
+            "Guoping Qiu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Character Image Synthesis Based on Selected Content and Referenced Style Embedding",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00072",
+        "paper_authors": [
+            "Anna Zhu",
+            "Qiyang Zhang",
+            "Xiongbo Lu",
+            "Shengwu Xiong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Query-Free Embedding Attack Against Deep Learning",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00073",
+        "paper_authors": [
+            "Yujia Liu",
+            "Weiming Zhang",
+            "Nenghai Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Graph Attention Neural Networks for Point Cloud Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00074",
+        "paper_authors": [
+            "Zongmin Li",
+            "Jun Zhang",
+            "Guanlin Li",
+            "Yujie Liu",
+            "Siyuan Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Maximal Correlation Embedding Network for Multilabel Learning with Missing Labels",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00075",
+        "paper_authors": [
+            "Lu Li",
+            "Yang Li",
+            "Xiangxiang Xu",
+            "Shao-Lun Huang",
+            "Lin Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Self-Adaption Multi-classifier Fusion Networks for Image Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00076",
+        "paper_authors": [
+            "Zengyuan Guo",
+            "Xinzhu Ma",
+            "Haojie Li",
+            "Zhihui Wang",
+            "Pengbo Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Video Emotion Recognition with Concept Selection",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00077",
+        "paper_authors": [
+            "Baohan Xu",
+            "Yingbin Zheng",
+            "Hao Ye",
+            "Caili Wu",
+            "Heng Wang",
+            "Gufei Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Graph Convolutional LSTM Model for Skeleton-Based Action Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00078",
+        "paper_authors": [
+            "Han Zhang",
+            "Yonghong Song",
+            "Yuanlin Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Recurrent Structure-Guided Attention Network for Multi-person Pose Estimation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00079",
+        "paper_authors": [
+            "Zhongwei Qiu",
+            "Kai Qiu",
+            "Jianlong Fu",
+            "Dongmei Fu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PCPCAD: Proposal Complementary Action Detector",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00080",
+        "paper_authors": [
+            "Zhenying Fang",
+            "Suguo Zhu",
+            "Jun Yu",
+            "Qi Tian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Personality Driven Multi-task Learning for Image Aesthetic Assessment",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00081",
+        "paper_authors": [
+            "Leida Li",
+            "Hancheng Zhu",
+            "Sicheng Zhao",
+            "Guiguang Ding",
+            "Hongyan Jiang",
+            "Allen Tan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Video Quality Temporal Pooling using a Visibility Measure",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00082",
+        "paper_authors": [
+            "Chen Bai",
+            "Amy R. Reibman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Image Quality Assessment of Multi-exposure Image Fusion for Both Static and Dynamic Scenes",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00083",
+        "paper_authors": [
+            "Yuming Fang",
+            "Yan Zeng",
+            "Hanwei Zhu",
+            "Guangtao Zhai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "No-Reference Stereoscopic Image Quality Assessment Based on Local to Global Feature Regression",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00084",
+        "paper_authors": [
+            "Sumei Li",
+            "Jianwei Xue",
+            "Yongtian Han"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Herding Effect Based Attention for Personalized Time-Sync Video Recommendation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00085",
+        "paper_authors": [
+            "Wenmian Yang",
+            "Wenyuan Gao",
+            "Xiaojie Zhou",
+            "Weijia Jia",
+            "Shaohua Zhang",
+            "Yutao Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sequential Behavior Modeling for Next Micro-Video Recommendation with Collaborative Transformer",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00086",
+        "paper_authors": [
+            "Shang Liu",
+            "Zhenzhong Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ButtonTips: Design Web Buttons with Suggestions",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00087",
+        "paper_authors": [
+            "Dawei Liu",
+            "Ying Cao",
+            "Rynson W. H. Lau",
+            "Antoni B. Chan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Knowing User Better: Jointly Predicting Click-Through and Playtime for Micro-Video",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00088",
+        "paper_authors": [
+            "Shengjie Ma",
+            "Zheng-Jun Zha",
+            "Feng Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Cross-Modal Retrieval via Learning and Transferring Single-Modal Similarities",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00089",
+        "paper_authors": [
+            "Xin Wen",
+            "Zhizhong Han",
+            "Xinyu Yin",
+            "Yu-Shen Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semi-Supervised Compatibility Learning Across Categories for Clothing Matching",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00090",
+        "paper_authors": [
+            "Zekun Li",
+            "Zeyu Cui",
+            "Shu Wu",
+            "Xiaoyu Zhang",
+            "Liang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Learning for Fine-Grained Image Search",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00091",
+        "paper_authors": [
+            "Kevin Lin",
+            "Fan Yang",
+            "Qiaosong Wang",
+            "Robinson Piramuthu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Mask Based Deep Ranking Neural Network for Person Retrieval",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00092",
+        "paper_authors": [
+            "Lei Qi",
+            "Jing Huo",
+            "Lei Wang",
+            "Yinghuan Shi",
+            "Yang Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DISCO: Depth Inference from Stereo using Context",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00093",
+        "paper_authors": [
+            "Kunal Swami",
+            "Kaushik Raghavan",
+            "Nikhilanj Pelluri",
+            "Rituparna Sarkar",
+            "Pankaj Bajpai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PANet: A Context Based Predicate Association Network for Scene Graph Generation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00094",
+        "paper_authors": [
+            "Yunian Chen",
+            "Yanjie Wang",
+            "Yang Zhang",
+            "Yanwen Guo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Untargeted Adversarial Attack via Expanding the Semantic Gap",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00095",
+        "paper_authors": [
+            "Aming Wu",
+            "Yahong Han",
+            "Quanxin Zhang",
+            "Xiaohui Kuang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Goal-Oriented Visual Dialog Agents: Imitating and Surpassing Analytic Experts",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00096",
+        "paper_authors": [
+            "Yen-Wei Chang",
+            "Wen-Hsiao Peng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GAN-Based Multi-level Mapping Network for Satellite Imagery Super-Resolution",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00097",
+        "paper_authors": [
+            "Kui Jiang",
+            "Zhongyuan Wang",
+            "Peng Yi",
+            "Junjun Jiang",
+            "Guangcheng Wang",
+            "Zhen Han",
+            "Tao Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Quality-Gated Convolutional Lstm for Enhancing Compressed Video",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00098",
+        "paper_authors": [
+            "Ren Yang",
+            "Xiaoyan Sun",
+            "Mai Xu",
+            "Wenjun Zeng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Compounded Layer-Prior Unrolling: A Unified Transmission-Based Image Enhancement Framework",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00099",
+        "paper_authors": [
+            "Risheng Liu",
+            "Minjun Hou",
+            "Jinyuan Liu",
+            "Xin Fan",
+            "Zhongxuan Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Pyramid Variation Learning for Image Interpolation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00100",
+        "paper_authors": [
+            "Qiang Fu",
+            "Wenhan Yang",
+            "Ying Li",
+            "Jiaying Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Clothes Keypoints Localization and Attribute Recognition via Prior Knowledge",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00101",
+        "paper_authors": [
+            "Zhangxuan Gu",
+            "Jianfu Zhang",
+            "Ziqi Pan",
+            "Haohua Zhao",
+            "Liqing Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatio-Temporal Multi-Factor Discriminant Analysis for Individual Identification",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00102",
+        "paper_authors": [
+            "Yong Su",
+            "Zhiyong Feng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Channel-wise Temporal Attention Network for Video Action Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00103",
+        "paper_authors": [
+            "Jianjun Lei",
+            "Yalong Jia",
+            "Bo Peng",
+            "Qingming Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Localization Guided Fight Action Detection in Surveillance Videos",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00104",
+        "paper_authors": [
+            "Qichao Xu",
+            "John See",
+            "Weiyao Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Recursive Multi-Stage Upscaling Network with Discriminative Fusion for Super-Resolution",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00105",
+        "paper_authors": [
+            "Yue Lu",
+            "Zhuqing Jiang",
+            "Guodong Ju",
+            "Liangheng Shen",
+            "Aidong Men"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Image Super-Resolution via Feature Re-Balancing Fusion",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00106",
+        "paper_authors": [
+            "Yuanfei Huang",
+            "Jie Li",
+            "Xinbo Gao",
+            "Wen Lu",
+            "Yanting Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Difficulty-Aware Image Super Resolution via Deep Adaptive Dual-Network",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00107",
+        "paper_authors": [
+            "Jinghui Qin",
+            "Ziwei Xie",
+            "Yukai Shi",
+            "Wushao Wen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dense-Connected Residual Network for Video Super-Resolution",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00108",
+        "paper_authors": [
+            "Xiaoting Du",
+            "Yuan Zhou",
+            "Yanfang Chen",
+            "Yeda Zhang",
+            "Jianxing Yang",
+            "Dou Jin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dynamic Cascaded Regression Network with Reinforcement Learning for Robust Face Alignment",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00109",
+        "paper_authors": [
+            "Zhihao Zhang",
+            "Liansheng Zhuang",
+            "Wengang Zhou",
+            "Houqiang Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Learning Face Hallucination via Attributes Transfer and Enhancement",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00110",
+        "paper_authors": [
+            "Mengyan Li",
+            "Yuechuan Sun",
+            "Zhaoyu Zhang",
+            "Haonian Xie",
+            "Jun Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Emotion Recognition from Physiological Signals using Multi-Hypergraph Neural Networks",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00111",
+        "paper_authors": [
+            "Junjie Zhu",
+            "Xibin Zhao",
+            "Han Hu",
+            "Yue Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GPS: Group People Segmentation with Detailed Part Inference",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00112",
+        "paper_authors": [
+            "Yue Liao",
+            "Si Liu",
+            "Tianrui Hui",
+            "Chen Gao",
+            "Yao Sun",
+            "Hefei Ling",
+            "Bo Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Label Image Recognition with Joint Class-Aware Map Disentangling and Label Correlation Embedding",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00113",
+        "paper_authors": [
+            "Zhao-Min Chen",
+            "Xiu-Shen Wei",
+            "Xin Jin",
+            "Yanwen Guo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Real Time Compressed Video Object Segmentation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00114",
+        "paper_authors": [
+            "Zhengtao Tan",
+            "Bin Liu",
+            "Weihai Li",
+            "Nenghai Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Accurate And Fast Fine-Grained Image Classification via Discriminative Learning",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00115",
+        "paper_authors": [
+            "Zhihui Wang",
+            "Shijie Wang",
+            "Pengbo Zhang",
+            "Haojie Li",
+            "Bo Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pose2Body: Pose-Guided Human Parts Segmentation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00116",
+        "paper_authors": [
+            "Zhong Li",
+            "Xin Chen",
+            "Wangyiteng Zhou",
+            "Yingliang Zhang",
+            "Jingyi Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Residual Magnifier: A Dense Information Flow Network for Super Resolution",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00117",
+        "paper_authors": [
+            "Zhan Shu",
+            "Mengcheng Cheng",
+            "Biao Yang",
+            "Zhuo Su",
+            "Xiangjian He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Everyone is a Cartoonist: Selfie Cartoonization with Attentive Adversarial Networks",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00118",
+        "paper_authors": [
+            "Xinyu Li",
+            "Wei Zhang",
+            "Tong Shen",
+            "Tao Mei"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scale-Aware Deep Network with Hole Convolution for Blind Motion Deblurring",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00119",
+        "paper_authors": [
+            "Jichun Li",
+            "Ke Li",
+            "Bo Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Removing Rain in Videos: A Large-Scale Database and a Two-Stream ConvLSTM Approach",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00120",
+        "paper_authors": [
+            "Tie Liu",
+            "Mai Xu",
+            "Zulin Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards QoS-Aware Cloud Live Transcoding: A Deep Reinforcement Learning Approach",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00121",
+        "paper_authors": [
+            "Zhengyuan Pang",
+            "Lifeng Sun",
+            "Tianchi Huang",
+            "Zhi Wang",
+            "Shiqiang Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "High Speed Recurrent Regression Network for Visual Tracking",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00122",
+        "paper_authors": [
+            "Ding Ma",
+            "Xiangqian Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PAAE: A Unified Framework for Predicting Anchor Links with Adversarial Embedding",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00123",
+        "paper_authors": [
+            "Yanmin Shang",
+            "Zhezhou Kang",
+            "Yanan Cao",
+            "Dongjie Zhang",
+            "Yang Li",
+            "Yangxi Li",
+            "Yanbing Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Manifold Alignment and Distribution Adaptation for Unsupervised Domain Adaptation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00124",
+        "paper_authors": [
+            "Ying Li",
+            "Lin Cheng",
+            "Yaxin Peng",
+            "Zhijie Wen",
+            "Shihui Ying"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pedestrian re-Identification Based on Tree Branch Network with Local and Global Learning",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00125",
+        "paper_authors": [
+            "Hui Li",
+            "Meng Yang",
+            "Zhihui Lai",
+            "Weishi Zheng",
+            "Zitong Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Binary Coding for Efficient Person Re-Identification",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00126",
+        "paper_authors": [
+            "Zheng Liu",
+            "Jie Qin",
+            "Annan Li",
+            "Yunhong Wang",
+            "Luc Van Gool"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Person re-Identification with Gradual Background Suppression",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00127",
+        "paper_authors": [
+            "Yingzhi Tang",
+            "Xi Yang",
+            "Nannan Wang",
+            "Xinrui Jiang",
+            "Bin Song",
+            "Xinbo Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Branch Context-Aware Network for Person Re-Identification",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00128",
+        "paper_authors": [
+            "Yingxin Zhu",
+            "Xiaoqiang Guo",
+            "Jianlei Liu",
+            "Zhuqing Jiang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Post-Processing of Word Representations via Variance Normalization and Dynamic Embedding",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00129",
+        "paper_authors": [
+            "Fenxiao Chen",
+            "Angela Wang",
+            "C.-C. Jay Kuo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Modal Language Analysis with Hierarchical Interaction-Level and Selection-Level Attentions",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00130",
+        "paper_authors": [
+            "Dong Zhang",
+            "Liangqing Wu",
+            "Shoushan Li",
+            "Qiaoming Zhu",
+            "Guodong Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Modeling the Clause-Level Structure to Multimodal Sentiment Analysis via Reinforcement Learning",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00131",
+        "paper_authors": [
+            "Dong Zhang",
+            "Shoushan Li",
+            "Qiaoming Zhu",
+            "Guodong Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Twice Opportunity Knocks Syntactic Ambiguity: A Visual Question Answering Model with yes/no Feedback",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00132",
+        "paper_authors": [
+            "Jianming Wang",
+            "Wei Deng",
+            "Yukuan Sun",
+            "Yuanyuan Li",
+            "Kai Wang",
+            "Guanghao Jin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GEOCAPSNET: Ground to Aerial View Image Geo-Localization using Capsule Network",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00133",
+        "paper_authors": [
+            "Bin Sun",
+            "Chen Chen",
+            "Yingying Zhu",
+            "Jianmin Jiang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Robustness of DASH Against Network Uncertainty",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00134",
+        "paper_authors": [
+            "Bo Wang",
+            "Fengyuan Ren"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hybrid Control-Based ABR: Towards Low-Delay Live Streaming",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00135",
+        "paper_authors": [
+            "Bo Wang",
+            "Fengyuan Ren",
+            "Chao Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Taxi Origin-Destination Demand Prediction with Contextualized Spatial-Temporal Network",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00136",
+        "paper_authors": [
+            "Zhilin Qiu",
+            "Lingbo Liu",
+            "Guanbin Li",
+            "Qing Wang",
+            "Nong Xiao",
+            "Liang Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Image Clustering Based on Camera Fingerprint Ordering",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00137",
+        "paper_authors": [
+            "Sahib Khan",
+            "Tiziano Bianchi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Enforcing Access Control in Distributed Version Control Systems",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00138",
+        "paper_authors": [
+            "Xin Xu",
+            "Quanwei Cai",
+            "Jingqiang Lin",
+            "Shiran Pan",
+            "Liangqin Ren"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Attribute-Based Accountable Access Control for Multimedia Content with In-Network Caching",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00139",
+        "paper_authors": [
+            "Peixuan He",
+            "Kaiping Xue",
+            "Jie Xu",
+            "Qiudong Xia",
+            "Jianqing Liu",
+            "Hao Yue"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Practical Image Obfuscation with Provable Privacy",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00140",
+        "paper_authors": [
+            "Liyue Fan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Jointly Solving Deblurring and Super-Resolution Problems with Dual Supervised Network",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00141",
+        "paper_authors": [
+            "Zhenwen Liang",
+            "Dongyang Zhang",
+            "Jie Shao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Two-Staged Acoustic Modeling Adaption for Robust Speech Recognition by the Example of German Oral History Interviews",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00142",
+        "paper_authors": [
+            "Michael Gref",
+            "Christoph Schmidt",
+            "Sven Behnke",
+            "Joachim K\u00f6hler"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Adaptive Affinity Graph with Subspace Pursuit for Natural Image Segmentation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00143",
+        "paper_authors": [
+            "Yang Zhang",
+            "Huiming Zhang",
+            "Yanwen Guo",
+            "Kai Lin",
+            "Jingwu He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Phase Time-Frequency Masking Based Speech Enhancement Algorithm Using Circular Microphone Array",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00144",
+        "paper_authors": [
+            "Li He",
+            "Yi Zhou",
+            "Hongqing Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Locality-Constrained Spatial Transformer Network for Video Crowd Counting",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00145",
+        "paper_authors": [
+            "Yanyan Fang",
+            "Biyun Zhan",
+            "Wandi Cai",
+            "Shenghua Gao",
+            "Bo Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatial-Aware Non-Local Attention for Fashion Landmark Detection",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00146",
+        "paper_authors": [
+            "Yixin Li",
+            "Shengqin Tang",
+            "Yun Ye",
+            "Jinwen Ma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Relational Network for Skeleton-Based Action Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00147",
+        "paper_authors": [
+            "Wu Zheng",
+            "Lin Li",
+            "Zhaoxiang Zhang",
+            "Yan Huang",
+            "Liang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-View Learning for Vehicle Re-Identification",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00148",
+        "paper_authors": [
+            "Weipeng Lin",
+            "Yidong Li",
+            "Xiaoliang Yang",
+            "Peixi Peng",
+            "Junliang Xing"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Many Could be Better Than All: A Novel Instance-Oriented Algorithm for Multi-modal Multi-label Problem",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00149",
+        "paper_authors": [
+            "Yi Zhang",
+            "Cheng Zeng",
+            "Hao Cheng",
+            "Chongjun Wang",
+            "Lei Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Affective Video Content Analyses by Using Cross-Modal Embedding Learning Features",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00150",
+        "paper_authors": [
+            "Benchao Li",
+            "Zhenzhong Chen",
+            "Shan Li",
+            "Wei-Shi Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning A 3D Gaze Estimator with Improved Itracker Combined with Bidirectional LSTM",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00151",
+        "paper_authors": [
+            "Xiaolong Zhou",
+            "Jianing Lin",
+            "Jiaqi Jiang",
+            "Shengyong Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Detection of Occluded Road Signs on Autonomous Driving Vehicles",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00152",
+        "paper_authors": [
+            "Jingda Guo",
+            "Xianwei Cheng",
+            "Qi Chen",
+            "Qing Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pay By Showing Your Palm: A Study of Palmprint Verification on Mobile Platforms",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00153",
+        "paper_authors": [
+            "Yingyi Zhang",
+            "Lin Zhang",
+            "Xiao Liu",
+            "Shengjie Zhao",
+            "Ying Shen",
+            "Yukai Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Regularize Network Skip Connections by Gating Mechanisms for Electron Microscopy Image Segmentation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00154",
+        "paper_authors": [
+            "Yuze Guo",
+            "Wenjing Huang",
+            "Yajing Chen",
+            "Shikui Tu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cross Modality Alignment of Medical Volumes using Spatio-Semantic Attentive Cycle-GAN",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00155",
+        "paper_authors": [
+            "Xiaohui Lin",
+            "Yi Xu",
+            "Mingda Wang",
+            "Bingbing Ni",
+            "Xiaokang Yang",
+            "Guangyu Tao",
+            "Xiaodan Ye"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A New Approach to Automatic Clothing Matting from Mannequins",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00156",
+        "paper_authors": [
+            "Bin Yuan",
+            "Zongqing Lu",
+            "Jing-Hao Xue",
+            "Qingmin Liao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Clustering and Dynamic Sampling Based Unsupervised Domain Adaptation for Person Re-Identification",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00157",
+        "paper_authors": [
+            "Jinlin Wu",
+            "Shengcai Liao",
+            "Zhen Lei",
+            "Xiaobo Wang",
+            "Yang Yang",
+            "Stan Z. Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semantic-Embedding and Shape-Aware U-Net for Ultrasound Eyeball Segmentation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00158",
+        "paper_authors": [
+            "Fanchao Lin",
+            "Chuanbin Liu",
+            "Hongtao Xie",
+            "Zheng-Jun Zha",
+            "Yongdong Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Lecture2Note: Automatic Generation of Lecture Notes from Slide-Based Educational Videos",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00159",
+        "paper_authors": [
+            "Chengpei Xu",
+            "Ruomei Wang",
+            "Shujin Lin",
+            "Xiaonan Luo",
+            "Baoquan Zhao",
+            "Lijie Shao",
+            "Mengqiu Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Data-Adaptive Packing Method for Compression of Dynamic Point Cloud Sequences",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00160",
+        "paper_authors": [
+            "Jianqiang Liu",
+            "Jian Yao",
+            "Jingmin Tu",
+            "Junhao Cheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semantic GAN: Application for Cross-Domain Image Style Transfer",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00161",
+        "paper_authors": [
+            "Pengfei Li",
+            "Meng Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Extreme Low-Light Image Denoising via Residual Learning",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00162",
+        "paper_authors": [
+            "Paras Maharjan",
+            "Li Li",
+            "Zhu Li",
+            "Ning Xu",
+            "Chongyang Ma",
+            "Yue Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "User Profiling with Campus Wi-Fi Access Trace and Network Traffic",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00163",
+        "paper_authors": [
+            "Yang Gao",
+            "Jun Tao",
+            "Li Zeng",
+            "Xiaoming Fang",
+            "Qian Fang",
+            "Xiaoyan Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A New Visual Interface for Searching and Navigating Slide-Based Lecture Videos",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00164",
+        "paper_authors": [
+            "Baoquan Zhao",
+            "Songhua Xu",
+            "Shujin Lin",
+            "Ruomei Wang",
+            "Xiaonan Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Self-Attentive Networks for one-shot Image Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00165",
+        "paper_authors": [
+            "Pin Fang",
+            "Yisen Wang",
+            "Yuan Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tree-Structured Kronecker Convolutional Network for Semantic Segmentation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00166",
+        "paper_authors": [
+            "Tianyi Wu",
+            "Sheng Tang",
+            "Rui Zhang",
+            "Juan Cao",
+            "Jintao Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Part-Based Convolutional Network for Imbalanced Age Estimation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00167",
+        "paper_authors": [
+            "Yixin Zhu",
+            "Jun-Yong Zhu",
+            "Wei-Shi Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning to Distinguish: A General Method to Improve Compare-Based one-shot Learning Frameworks for Similar Classes",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00168",
+        "paper_authors": [
+            "Qiuzheng Chen",
+            "Ruoyu Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Predictability Analyzing: Deep Reinforcement Learning for Early Action Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00169",
+        "paper_authors": [
+            "Xiaokai Chen",
+            "Ke Gao",
+            "Juan Cao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Fast End-to-End Method with Style Transfer for Room Layout Estimation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00170",
+        "paper_authors": [
+            "Junming Chen",
+            "Jie Shao",
+            "Dongyang Zhang",
+            "Xuehui Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Resolving Intra-Class Imbalance for GAN-Based Image Augmentation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00171",
+        "paper_authors": [
+            "Lijyun Huang",
+            "Kate Ching-Ju Lin",
+            "Yu-Chee Tseng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "End-to-End Panoptic Segmentation with Pixel-Level Non-Overlapping Embedding",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00172",
+        "paper_authors": [
+            "Weitong Zhang",
+            "Qieshi Zhang",
+            "Jun Cheng",
+            "Cong Bai",
+            "Pengyi Hao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Embedding Framework with Dynamic Hypergraph Fusion for Multi-label Classification",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00173",
+        "paper_authors": [
+            "Kaixiang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-scale Scene Text Detection via Resolution Transform",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00174",
+        "paper_authors": [
+            "Peirui Cheng",
+            "Weiqiang Wang",
+            "Yuanqiang Cai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Accurate Instance-Level Text Spotting with Guided Attention",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00175",
+        "paper_authors": [
+            "Haiyan Wang",
+            "Xuejian Rong",
+            "Yingli Tian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-scale Gem Pooling with N-Pair Center Loss for Fine-Grained Image Search",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00176",
+        "paper_authors": [
+            "Youming Deng",
+            "Xianming Lin",
+            "Run Li",
+            "Rongrong Ji"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semi-Supervised Semantic-Preserving Hashing for Efficient Cross-Modal Retrieval",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00177",
+        "paper_authors": [
+            "Xingzhi Wang",
+            "Xin Liu",
+            "Zhikai Hu",
+            "Nannan Wang",
+            "Wentao Fan",
+            "Ji-Xiang Du"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Multi-View Hashing for Cross-Modal Retrieval",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00178",
+        "paper_authors": [
+            "Haitao Wang",
+            "Hui Chen",
+            "Min Meng",
+            "Jigang Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scene Text Recognition via Gated Cascade Attention",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00179",
+        "paper_authors": [
+            "Siwei Wang",
+            "Yongtao Wang",
+            "Xiaoran Qin",
+            "Qijie Zhao",
+            "Zhi Tang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Text-Attentional Conditional Generative Adversarial Network for Super-Resolution of Text Images",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00180",
+        "paper_authors": [
+            "Yuyang Wang",
+            "Feng Su",
+            "Ye Qian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Online Learning to Rank in a Listwise Approach for Information Retrieval",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00181",
+        "paper_authors": [
+            "Fan Ma",
+            "Haoyun Yang",
+            "Haibing Yin",
+            "Xiaofeng Huang",
+            "Chenggang Yan",
+            "Xiang Meng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Recognizing Micro Actions in Videos: Learning Motion Details via Segment-Level Temporal Pyramid",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00182",
+        "paper_authors": [
+            "Yang Mi",
+            "Song Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Entanglement Loss for Context-Based Still Image Action Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00183",
+        "paper_authors": [
+            "Miao Xin",
+            "Shuhang Wang",
+            "Jian Cheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bi-Directional Message Passing Based Scanet for Human Pose Estimation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00184",
+        "paper_authors": [
+            "Lu Zhou",
+            "Yingying Chen",
+            "Jinqiao Wang",
+            "Ming Tang",
+            "Hanqing Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatial Mask ConvLSTM Network and Intra-Class Joint Training Method for Human Action Recognition in Video",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00185",
+        "paper_authors": [
+            "Jingjun Chen",
+            "Yonghong Song",
+            "Yuanlin Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Self-Attention Guided Deep Features for Action Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00186",
+        "paper_authors": [
+            "Renyi Xiao",
+            "Yonghong Hou",
+            "Zihui Guo",
+            "Chuankun Li",
+            "Pichao Wang",
+            "Wanqing Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Shape-Motion Representations from Geometric Algebra Spatio-Temporal Model for Skeleton-Based Action Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00187",
+        "paper_authors": [
+            "Yanshan Li",
+            "Rongjie Xia",
+            "Xing Liu",
+            "Qinghua Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ACPNet: Anchor-Center Based Person Network for Human Pose Estimation and Instance Segmentation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00188",
+        "paper_authors": [
+            "Yang Bai",
+            "Weiqiang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatio-Temporal Multi-scale Soft Quantization Learning for Skeleton-Based Human Action Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00189",
+        "paper_authors": [
+            "Jianyu Yang",
+            "Chen Zhu",
+            "Junsong Yuan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LPHD: A Large-Scale Head Pose Dataset for RGB Images",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00190",
+        "paper_authors": [
+            "Wei Sun",
+            "Yezhao Fan",
+            "Xiongkuo Min",
+            "Shihao Peng",
+            "Siwei Ma",
+            "Guangtao Zhai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Human-Centered Emotion Recognition in Animated GIFs",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00191",
+        "paper_authors": [
+            "Zhengyuan Yang",
+            "Yixuan Zhang",
+            "Jiebo Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Semi-Supervised Person Re-Identification with External Memory",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00192",
+        "paper_authors": [
+            "Qize Yang",
+            "Ancong Wu",
+            "Wei-Shi Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Convolutional Temporal Attention Model for Video-Based Person Re-Identification",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00193",
+        "paper_authors": [
+            "Tanzila Rahman",
+            "Mrigank Rochan",
+            "Yang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pooling Map Adaptation in Convolutional Neural Network for Facial Expression Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00194",
+        "paper_authors": [
+            "Zhiyuan Li",
+            "Shizhong Han",
+            "Ahmed-Shehab Khan",
+            "Jie Cai",
+            "Zibo Meng",
+            "James O'Reilly",
+            "Yan Tong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Person Search Pipeline",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00195",
+        "paper_authors": [
+            "Jianheng Li",
+            "Fuhang Liang",
+            "Yuanxun Li",
+            "Wei-Shi Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dynamic Region Division for Adaptive Learning Pedestrian Counting",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00196",
+        "paper_authors": [
+            "Gaoqi He",
+            "Zhenwei Ma",
+            "Binhao Huang",
+            "Bin Sheng",
+            "Yubo Yuan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Another Dimension: Towards Multi-subnet Neural Network for Image Sentiment Analysis",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00197",
+        "paper_authors": [
+            "Jing Zhang",
+            "Han Sun",
+            "Zhe Wang",
+            "Tong Ruan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Two-Stage Model for Social Relationship Understanding from Videos",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00198",
+        "paper_authors": [
+            "Pilin Dai",
+            "Jinna Lv",
+            "Bin Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FPN++: A Simple Baseline for Pedestrian Detection",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00199",
+        "paper_authors": [
+            "Junhao Hu",
+            "Lei Jin",
+            "Shenghuo Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An End-to-End Learning Approach for Multimodal Emotion Recognition: Extracting Common and Private Information",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00200",
+        "paper_authors": [
+            "Fei Ma",
+            "Wei Zhang",
+            "Yang Li",
+            "Shao-Lun Huang",
+            "Lin Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Boundary Aware Multi-focus Image Fusion Using Deep Neural Network",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00201",
+        "paper_authors": [
+            "Haoyu Ma",
+            "Juncheng Zhang",
+            "Shaojun Liu",
+            "Qingmin Liao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Multi-level Aggregated Network for Image Restoration",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00202",
+        "paper_authors": [
+            "Chenxi Ma",
+            "Weimin Tan",
+            "Bahetiyaer Bare",
+            "Bo Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsupervised Facial Image Synthesis Using Two-Discriminator Adversarial Autoencoder Network",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00203",
+        "paper_authors": [
+            "Xuehui Wu",
+            "Jie Shao",
+            "Dongyang Zhang",
+            "Junming Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Facial Image Inpainting Using Multi-level Generative Network",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00204",
+        "paper_authors": [
+            "Jie Liu",
+            "Cheolkon Jung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Video Post-Filter Deblocking Method Based on Temporal Boosting Residual Networks",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00205",
+        "paper_authors": [
+            "Jianyu Wang",
+            "Shaohui Liu",
+            "Feng Jiang",
+            "Xiaoshuai Sun",
+            "Yongliang Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Distilling with Residual Network for Single Image Super Resolution",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00206",
+        "paper_authors": [
+            "Xiaopeng Sun",
+            "Wen Lu",
+            "Rui Wang",
+            "Furui Bai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RDGAN: Retinex Decomposition Based Adversarial Learning for Low-Light Enhancement",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00207",
+        "paper_authors": [
+            "Junyi Wang",
+            "Weimin Tan",
+            "Xuejing Niu",
+            "Bo Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Single Image De-Raining via Generative Adversarial Nets",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00208",
+        "paper_authors": [
+            "Shichao Li",
+            "Yonghong Hou",
+            "Huanjing Yue",
+            "Zihui Guo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SwitchGAN for Multi-domain Facial Image Translation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00209",
+        "paper_authors": [
+            "Yuanlue Zhu",
+            "Mengchao Bai",
+            "Linlin Shen",
+            "Zhiwei Wen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Feature-Based Approach for Light Field Video Enhancement",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00210",
+        "paper_authors": [
+            "Michele Brizzi",
+            "Federica Battisti",
+            "Alessandro Neri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Easy Transfer Learning By Exploiting Intra-Domain Structures",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00211",
+        "paper_authors": [
+            "Jindong Wang",
+            "Yiqiang Chen",
+            "Han Yu",
+            "Meiyu Huang",
+            "Qiang Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Skeleton-Based Action Recognition with Synchronous Local and Non-Local Spatio-Temporal Learning and Frequency Attention",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00212",
+        "paper_authors": [
+            "Guyue Hu",
+            "Bo Cui",
+            "Shan Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Geometry Embedding Networks for Robust Facial Landmark Detection",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00213",
+        "paper_authors": [
+            "Meilu Zhu",
+            "Daming Shi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Joint Projection and Subspace Learning for Zero-Shot Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00214",
+        "paper_authors": [
+            "Guangzhen Liu",
+            "Jiechao Guan",
+            "Manli Zhang",
+            "Jianhong Zhang",
+            "Zihao Wang",
+            "Zhiwu Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Part-Preserving Pose Manipulation for Person Image Synthesis",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00215",
+        "paper_authors": [
+            "Haoye Dong",
+            "Xiaodan Liang",
+            "Chenxing Zhou",
+            "Hanjiang Lai",
+            "Jia Zhu",
+            "Jian Yin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bregman-Tanimoto Based Method for Contrast Preserving Decolorization",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00216",
+        "paper_authors": [
+            "He Chen",
+            "Faming Fang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TDCC: Top-Down Semantic Aggregation for Color Constancy",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00217",
+        "paper_authors": [
+            "Xiaoqiang Li",
+            "Yaqin Zhu",
+            "Jiayue Han",
+            "Jide Li",
+            "Weiqin Tong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "From Market to Dish: Multi-ingredient Image Recognition for Personalized Recipe Recommendation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00218",
+        "paper_authors": [
+            "Lin Zhang",
+            "Jianbo Zhao",
+            "Si Li",
+            "Boxin Shi",
+            "Ling-Yu Duan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Open Set Domain Adaptation Using Image-to-Image Translation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00219",
+        "paper_authors": [
+            "Hongjie Zhang",
+            "Ang Li",
+            "Xu Han",
+            "Zhaoming Chen",
+            "Yang Zhang",
+            "Yanwen Guo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Structure Generation and Guidance Network for Unsupervised Monocular Depth Estimation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00220",
+        "paper_authors": [
+            "Chaoqun Wang",
+            "Xuejin Chen",
+            "Shaobo Min",
+            "Feng Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Conditional Bayesian Block Structure Inference Model for Optimized AV1 Encoding",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00221",
+        "paper_authors": [
+            "Xinyao Chen",
+            "Bichuan Guo",
+            "Minhao Tang",
+            "Yuxing Han",
+            "Jiangtao Wen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning to Remove Reflections for Text Images",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00222",
+        "paper_authors": [
+            "Ce Wang",
+            "Renjie Wan",
+            "Feng Gao",
+            "Boxin Shi",
+            "Ling-Yu Duan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dynamic Pseudo Label Decoding for Continuous Sign Language Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00223",
+        "paper_authors": [
+            "Hao Zhou",
+            "Wengang Zhou",
+            "Houqiang Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Decoupling Localization and Classification in Single Shot Temporal Action Detection",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00224",
+        "paper_authors": [
+            "Yupan Huang",
+            "Qi Dai",
+            "Yutong Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Image-to-Tree: A Tree-Structured Decoder for Image Captioning",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00225",
+        "paper_authors": [
+            "Zhiming Ma",
+            "Chun Yuan",
+            "Yangyang Cheng",
+            "Xinrui Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multimodal Semantic Attention Network for Video Captioning",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00226",
+        "paper_authors": [
+            "Liang Sun",
+            "Bing Li",
+            "Chunfeng Yuan",
+            "Zhengjun Zha",
+            "Weiming Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Concrete Image Captioning by Integrating Content Sensitive and Global Discriminative Objective",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00227",
+        "paper_authors": [
+            "Jie Wu",
+            "Tianshui Chen",
+            "Hefeng Wu",
+            "Zhi Yang",
+            "Qing Wang",
+            "Liang Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "REVnet: Bring Reviewing Into Video Captioning for a Better Description",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00228",
+        "paper_authors": [
+            "Huidong Li",
+            "Dandan Song",
+            "Lejian Liao",
+            "Cuimei Peng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multimodal Image Captioning Through Combining Reinforced Cross Entropy Loss and Stochastic Deprecation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00229",
+        "paper_authors": [
+            "Xi Meng",
+            "Hao Kong",
+            "Dongqi Tang",
+            "Tong Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "InverseNet: Solving Inverse Problems of Multimedia Data with Splitting Networks",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00230",
+        "paper_authors": [
+            "Qi Wei",
+            "Kai Fan",
+            "Wenlin Wang",
+            "Tianhang Zheng",
+            "Amit Chakraborty",
+            "Katherine A. Heller",
+            "Changyou Chen",
+            "Kui Ren"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "High-Resolution Driving Scene Synthesis Using Stacked Conditional Gans and Spectral Normalization",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00231",
+        "paper_authors": [
+            "Shaobo Lin",
+            "Long Chen",
+            "Qin Zou",
+            "Wei Tian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Zero-Shot Learning with Few Seen Class Samples",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00232",
+        "paper_authors": [
+            "Yuqi Huo",
+            "Jiechao Guan",
+            "Jianhong Zhang",
+            "Manli Zhang",
+            "Ji-Rong Wen",
+            "Zhiwu Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Attentiondrop for Convolutional Neural Networks",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00233",
+        "paper_authors": [
+            "Zhihao Ouyang",
+            "Yan Feng",
+            "Zihao He",
+            "Tianbo Hao",
+            "Tao Dai",
+            "Shu-Tao Xia"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-view Clustering via Simultaneously Learning Graph Regularized Low-Rank Tensor Representation and Affinity Matrix",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00234",
+        "paper_authors": [
+            "Yongyong Chen",
+            "Xiaolin Xiao",
+            "Yicong Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Data Augmentation for Monaural Singing Voice Separation Based on Variational Autoencoder-Generative Adversarial Network",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00235",
+        "paper_authors": [
+            "Boxin He",
+            "Shengbei Wang",
+            "Weitao Yuan",
+            "Jianming Wang",
+            "Masashi Unoki"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Better Uncertainty Sampling: Active Learning with Multiple Views for Deep Convolutional Neural Network",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00236",
+        "paper_authors": [
+            "Tao He",
+            "Xiaoming Jin",
+            "Guiguang Ding",
+            "Lan Yi",
+            "Chenggang Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Local Metric Learning Based on Anchor Points for Multimedia Analysis",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00237",
+        "paper_authors": [
+            "Chunbin Gu",
+            "Jiajun Bu",
+            "Keyue Shi",
+            "Zhi Yu",
+            "Beidou Wang",
+            "Liangcheng Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sparse Regression-Based Multiple Sequence Alignment",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00238",
+        "paper_authors": [
+            "Tung Doan",
+            "Atsuhiro Takasu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00239",
+        "paper_authors": [
+            "Youzhao Yang",
+            "Hong Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Neural Network Based Phase Compensation Methods on Monaural Speech Separation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00240",
+        "paper_authors": [
+            "Chunpeng Wang",
+            "Jie Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PalmGAN for Cross-Domain Palmprint Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00241",
+        "paper_authors": [
+            "Huikai Shao",
+            "Dexing Zhong",
+            "Yuhan Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00242",
+        "paper_authors": [
+            "Jianing Li",
+            "Siwei Dong",
+            "Zhaofei Yu",
+            "Yonghong Tian",
+            "Tiejun Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-domain Embedding Strategies for Video Steganography by Combining Partition Modes and Motion Vectors",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00243",
+        "paper_authors": [
+            "Liming Zhai",
+            "Lina Wang",
+            "Yanzhen Ren"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Real-Time Indoor 3D Human Imaging Based on MIMO Radar Sensing",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00244",
+        "paper_authors": [
+            "Hangqing Guo",
+            "Nan Zhang",
+            "Wenjun Shi",
+            "Saeed Ali-AlQarni",
+            "Shaoen Wu",
+            "Honggang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-speakers Speech Separation Based on Modified Attractor Points Estimation and GMM Clustering",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00245",
+        "paper_authors": [
+            "Shanfa Ke",
+            "Ruimin Hu",
+            "Gang Li",
+            "Tingzhao Wu",
+            "Xiaochen Wang",
+            "Zhongyuan Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning a Deep Convolutional Network for Subband Image Denoising",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00246",
+        "paper_authors": [
+            "Jing Zhao",
+            "Ruiqin Xiong",
+            "Jizheng Xu",
+            "Feng Wu",
+            "Tiejun Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Task Embedded Convolutional Neural Network for Hyperspectral Image Classification",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00247",
+        "paper_authors": [
+            "Zhijie Lin",
+            "Sen Jia",
+            "Bin Deng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Retina-Inspired Sampling Method for Visual Texture Reconstruction",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00248",
+        "paper_authors": [
+            "Lin Zhu",
+            "Siwei Dong",
+            "Tiejun Huang",
+            "Yonghong Tian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learned Scalable Image Compression with Bidirectional Context Disentanglement Network",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00249",
+        "paper_authors": [
+            "Zhizheng Zhang",
+            "Zhibo Chen",
+            "Jianxin Lin",
+            "Weiping Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Attention Residual Neural Network with Recurrent Greedy Approach as Loop Filter for Inter Frames",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00250",
+        "paper_authors": [
+            "Jiabao Yao",
+            "Li Wang",
+            "Fangdong Chen",
+            "Chaoyi Lin",
+            "Shiliang Pu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bayesian Nonnegative Matrix Factorization with a Truncated Spike-and-Slab Prior",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00251",
+        "paper_authors": [
+            "Yuhang Liu",
+            "Wenyong Dong",
+            "Wanjuan Song",
+            "Lei Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Encoding Complexity Control for Live Video Applications: An Interpretable Machine Learning Approach",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00252",
+        "paper_authors": [
+            "Chao Huang",
+            "Zongju Peng",
+            "Fen Chen",
+            "Qiuping Jiang",
+            "Xin Cui",
+            "Gangyi Jiang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Enhanced Residual Dense Intrinsic Network for Intrinsic Image Decomposition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00253",
+        "paper_authors": [
+            "Risheng Liu",
+            "Cheng Yang",
+            "Long Ma",
+            "Miao Zhang",
+            "Xin Fan",
+            "Zhongxuan Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Non-Convex Transfer Subspace Learning for Unsupervised Domain Adaptation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00254",
+        "paper_authors": [
+            "Zhipeng Lin",
+            "Zhenyu Zhao",
+            "Tingjin Luo",
+            "Wenjing Yang",
+            "Yongjun Zhang",
+            "Yuhua Tang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Discriminative Group Collaborative Competitive Representation for Visual Classification",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00255",
+        "paper_authors": [
+            "Jianping Gou",
+            "Lei Wang",
+            "Zhang Yi",
+            "Yun-Hao Yuan",
+            "Weihua Ou",
+            "Qirong Mao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Large-Scale Datasets for Going Deeper in Image Understanding",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00256",
+        "paper_authors": [
+            "Jiahong Wu",
+            "He Zheng",
+            "Bo Zhao",
+            "Yixin Li",
+            "Baoming Yan",
+            "Rui Liang",
+            "Wenjia Wang",
+            "Shipei Zhou",
+            "Guosen Lin",
+            "Yanwei Fu",
+            "Yizhou Wang",
+            "Yonggang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Revisit Surround-view Camera System Calibration",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00257",
+        "paper_authors": [
+            "Xuan Shao",
+            "Xiao Liu",
+            "Lin Zhang",
+            "Shengjie Zhao",
+            "Ying Shen",
+            "Yukai Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Decoupling Semantic Context and Color Correlation with Multi-class Cross Branch Regularization",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00258",
+        "paper_authors": [
+            "Vishal Keshav",
+            "Tej Pratap G. V. S. L."
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Crowd Counting via Multi-view Scale Aggregation Networks",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00259",
+        "paper_authors": [
+            "Zhilin Qiu",
+            "Lingbo Liu",
+            "Guanbin Li",
+            "Qing Wang",
+            "Nong Xiao",
+            "Liang Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PASiam: Predicting Attention Inspired Siamese Network, for Space-Borne Satellite Video Tracking",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00260",
+        "paper_authors": [
+            "Jia Shao",
+            "Bo Du",
+            "Chen Wu",
+            "Pingkun Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Relation Network Embedded with Prior Features for Few-Shot Caricature Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00261",
+        "paper_authors": [
+            "Wenbo Zheng",
+            "Lan Yan",
+            "Chao Gou",
+            "Wenwen Zhang",
+            "Fei-Yue Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Single-Shot Oriented Scene Text Detector with Learnable Anchors",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00262",
+        "paper_authors": [
+            "Fenfen Sheng",
+            "Zhineng Chen",
+            "Tao Mei",
+            "Bo Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Context-Constrained Accurate Contour Extraction for Occlusion Edge Detection",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00263",
+        "paper_authors": [
+            "Rui Lu",
+            "Menghan Zhou",
+            "Anlong Ming",
+            "Yu Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Simultaneous Face Super-Resolution Using Multiset Partial Least Squares",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00264",
+        "paper_authors": [
+            "Yun-Hao Yuan",
+            "Jin Li",
+            "Jianping Gou",
+            "Yun Li",
+            "Jipeng Qiang",
+            "Bin Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cropping Region Proposal Network Based Framework for Efficient Object Detection on Large Scale Remote Sensing Images",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00265",
+        "paper_authors": [
+            "Qifeng Lin",
+            "Jianhui Zhao",
+            "Qianqian Tong",
+            "Guian Zhang",
+            "Zhiyong Yuan",
+            "Gang Fu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spectral Analysis Network for Deep Representation Learning and Image Clustering",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00266",
+        "paper_authors": [
+            "Jinghua Wang",
+            "Adrian Hilton",
+            "Jianmin Jiang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Salient Object Detection via Recurrently Aggregating Spatial Attention Weighted Cross-Level Deep Features",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00267",
+        "paper_authors": [
+            "Chang Tang",
+            "Xinzhong Zhu",
+            "Xinwang Liu",
+            "Pichao Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Registration for Cross-Source Point Clouds by using Weak Regional Affinity and Pixel-Wise Refinement",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00268",
+        "paper_authors": [
+            "Xiaoshui Huang",
+            "Lixin Fan",
+            "Qiang Wu",
+            "Jian Zhang",
+            "Chun Yuan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "3D Face Reprentation and Reconstruction with Multi-scale Graph Convolutional Autoencoders",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00269",
+        "paper_authors": [
+            "Cunkuan Yuan",
+            "Kun Li",
+            "Yu-Kun Lai",
+            "Yebin Liu",
+            "Jingyu Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Visual Dialog with Targeted Objects",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00270",
+        "paper_authors": [
+            "Qiang Wang",
+            "Yahong Han"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A New Object Scene Flow Algorithm Based on Support Points Selection and Robust Moving Object Proposal",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00271",
+        "paper_authors": [
+            "Zhengyang Sun",
+            "Zongqing Lu",
+            "Jing-Hao Xue",
+            "Qingmin Liao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Refining Proposals with Neighboring Contexts for Temporal Action Detection",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00272",
+        "paper_authors": [
+            "Dashan Guo",
+            "Wei Li",
+            "Ning Xu",
+            "Jianhui Sun",
+            "Xiangzhong Fang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Data-Driven Framework for Appearance Editing of Measured Materials",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00273",
+        "paper_authors": [
+            "Yanjun Chen",
+            "Jie Guo",
+            "Bingyang Hu",
+            "Yanwen Guo",
+            "Jingui Pan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Active Semantic Labeling of Street View Point Clouds",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00274",
+        "paper_authors": [
+            "Yang Zhou",
+            "Shuhan Shen",
+            "Zhanyi Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Video Prediction with Temporal-Spatial Attention Mechanism and Deep Perceptual Similarity Branch",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00275",
+        "paper_authors": [
+            "Qian Wu",
+            "Wenmin Wang",
+            "Xiongtao Chen",
+            "Weimian Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automatic Long-Term Deception Detection in Group Interaction Videos",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00276",
+        "paper_authors": [
+            "Chongyang Bai",
+            "Maksim Bolonkin",
+            "Judee K. Burgoon",
+            "Chao Chen",
+            "Norah E. Dunbar",
+            "Bharat Singh",
+            "V. S. Subrahmanian",
+            "Zhe Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A New Rotation-Invariant Deep Network for 3D Object Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00277",
+        "paper_authors": [
+            "Yachi Zhang",
+            "Zongqing Lu",
+            "Jing-Hao Xue",
+            "Qingmin Liao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Local Optical Flow Considering Object Boundaries by Adaptive Window Positioning",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00278",
+        "paper_authors": [
+            "Andreas Kah",
+            "Matthias Narroschke"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Granularity Reasoning for Social Relation Recognition From Images",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00279",
+        "paper_authors": [
+            "Meng Zhang",
+            "Xinchen Liu",
+            "Wu Liu",
+            "Anfu Zhou",
+            "Huadong Ma",
+            "Tao Mei"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Timescale Context Encoding for Scene Parsing Prediction",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00280",
+        "paper_authors": [
+            "Xin Chen",
+            "Yahong Han"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Portrait Instance Segmentation for Mobile Devices",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00281",
+        "paper_authors": [
+            "Lingyu Zhu",
+            "Tinghuai Wang",
+            "Emre Aksu",
+            "Joni-Kristian Kamarainen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning to Segment Unseen Category Objects using Gradient Gaussian Attention",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00282",
+        "paper_authors": [
+            "Pengbo Zhang",
+            "Zhihui Wang",
+            "Xinzhu Ma",
+            "Haojie Li",
+            "Jianjun Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Temporal Segment Convolutional Kernel Networks for Sequence Modeling of Videos",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00283",
+        "paper_authors": [
+            "Fei Pan",
+            "Yanwen Guo",
+            "Zhicheng Yan",
+            "Jie Guo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SVNet: A Single View Network for 3D Shape Recognition",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00284",
+        "paper_authors": [
+            "Shaoshuai Li",
+            "Fuyan Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SPFusionNet: Sketch Segmentation Using Multi-modal Data Fusion",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00285",
+        "paper_authors": [
+            "Fei Wang",
+            "Shujin Lin",
+            "Hefeng Wu",
+            "Hanhui Li",
+            "Ruomei Wang",
+            "Xiaonan Luo",
+            "Xiangjian He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive Component Embedding for Unsupervised Domain Adaptation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00286",
+        "paper_authors": [
+            "Mengmeng Jing",
+            "Jingjing Li",
+            "Ke Lu",
+            "Jieyan Liu",
+            "Zi Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Acoustic Scene Classification with Mismatched Recording Devices Using Mixture of Experts Layer",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00287",
+        "paper_authors": [
+            "Truc Nguyen",
+            "Franz Pernkopf"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Self-Representation Convolutional Neural Networks",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00288",
+        "paper_authors": [
+            "Hongchao Gao",
+            "Xi Wang",
+            "Yujia Li",
+            "Jizhong Han",
+            "Songlin Hu",
+            "Ruixuan Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tiyuntsong: A Self-Play Reinforcement Learning Approach for ABR Video Streaming",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00289",
+        "paper_authors": [
+            "Tianchi Huang",
+            "Xin Yao",
+            "Chenglei Wu",
+            "Rui-Xiao Zhang",
+            "Zhengyuan Pang",
+            "Lifeng Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Edge-Boost: Enhancing Multimedia Delivery with Mobile Edge Caching in 5G-D2D Networks",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00290",
+        "paper_authors": [
+            "Venkatraman Balasubramanian",
+            "Mu Wang",
+            "Martin Reisslein",
+            "Changqiao Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "3D Mesh Based Inter-Image Prediction for Image Set Compression",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00291",
+        "paper_authors": [
+            "Hao Wu",
+            "Xiaoyan Sun",
+            "Jingyu Yang",
+            "Feng Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Inter Mode Predictions for SHVC",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00292",
+        "paper_authors": [
+            "Dayong Wang",
+            "Yu Sun",
+            "Weisheng Li",
+            "Ce Zhu",
+            "Fr\u00e9d\u00e9ric Dufaux"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hit Ratio Driven Mobile Edge Caching Scheme for Video on Demand Services",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00293",
+        "paper_authors": [
+            "Xing Chen",
+            "Lijun He",
+            "Shang Xu",
+            "Shibo Hu",
+            "Qingzhou Li",
+            "Guizhong Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "QoE-Driven Mobile Streaming: A Location-Aware Approach",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00294",
+        "paper_authors": [
+            "Fang Liu",
+            "Wei Zhang",
+            "Yonggang Wen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Energy Efficient Transmission of 3D Meshes Over MMWave-Based Massive MIMO Systems",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00295",
+        "paper_authors": [
+            "Aris S. Lalos",
+            "Gerasimos Arvanitis",
+            "Evangelos Vlachos",
+            "Konstantinos Moustakas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Identifying Influential Users in Mobile Device-to-Device Social Networks to Promote Offline Multimedia Content Propagation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00296",
+        "paper_authors": [
+            "Hao Fan",
+            "Xu Tong",
+            "Qing Zhang",
+            "Tianxiang Zhang",
+            "Chenyang Wang",
+            "Xiaofei Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Accurate and Efficient Object Detection with Context Enhancement Block",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00297",
+        "paper_authors": [
+            "Yuhao Chen",
+            "Min Zhao",
+            "Xin Tan",
+            "Hong Tang",
+            "Dihua Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mask Guided Knowledge Distillation for Single Shot Detector",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00298",
+        "paper_authors": [
+            "Yousong Zhu",
+            "Chaoyang Zhao",
+            "Chenxia Han",
+            "Jinqiao Wang",
+            "Hanqing Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Video Text Detection with Fully Convolutional Network and Tracking",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00299",
+        "paper_authors": [
+            "Yang Wang",
+            "Lan Wang",
+            "Feng Su",
+            "Jiahao Shi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cascade Region Proposal Networks for Object Detection in the Wild",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00300",
+        "paper_authors": [
+            "Dongming Yang",
+            "Yuexian Zou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tracking Assisted Faster Video Object Detection",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00301",
+        "paper_authors": [
+            "Wenfei Yang",
+            "Bin Liu",
+            "Weihai Li",
+            "Nenghai Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RefineText: Refining Multi-oriented Scene Text Detection with a Feature Refinement Module",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00302",
+        "paper_authors": [
+            "Pengyuan Xie",
+            "Jing Xiao",
+            "Yang Cao",
+            "Jia Zhu",
+            "Asad Khan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-scale Capsule Attention-Based Salient Object Detection with Multi-crossed Layer Connections",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00303",
+        "paper_authors": [
+            "Qi Qi",
+            "Sanyuan Zhao",
+            "Jianbing Shen",
+            "Kin-Man Lam"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Continuous Bidirectional Optical Flow for Video Frame Sequence Interpolation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00304",
+        "paper_authors": [
+            "Donghao Gu",
+            "Zhaojing Wen",
+            "Wenxue Cui",
+            "Rui Wang",
+            "Feng Jiang",
+            "Shaohui Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Deep Tracking with Two-step Augmentation Discriminative Correlation Filters",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00305",
+        "paper_authors": [
+            "Chunhui Zhang",
+            "Shiming Ge",
+            "Yingying Hua",
+            "Dan Zeng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Implementation of Convolutional Neural Networks with End to End Integer-Only Dataflow",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00306",
+        "paper_authors": [
+            "Yiwu Yao",
+            "Bin Dong",
+            "Yuke Li",
+            "Weiqiang Yang",
+            "Haoqi Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Motion-Aware Policies for Robust Visual Tracking",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00307",
+        "paper_authors": [
+            "Qianqian Wang",
+            "Liansheng Zhuang",
+            "Ning Wang",
+            "Wengang Zhou",
+            "Houqiang Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Knowledge Distillation with Category-Aware Attention and Discriminant Logit Losses",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00308",
+        "paper_authors": [
+            "Lei Jiang",
+            "Wengang Zhou",
+            "Houqiang Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsupervised Learning of Depth and Ego-Motion with Spatial-Temporal Geometric Constraints",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00309",
+        "paper_authors": [
+            "Anjie Wang",
+            "Yongbin Gao",
+            "Zhijun Fang",
+            "Xiaoyan Jiang",
+            "Shanshe Wang",
+            "Siwei Ma",
+            "Jenq-Neng Hwang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Minimal Intra-Genre Multimodal Embedding from Trailer Content and Reactor Expressions for Box Office Prediction",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00310",
+        "paper_authors": [
+            "Ming-Ya Ko",
+            "Jeng-Lin Li",
+            "Chi-Chun Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Pairwise Ranking with Multi-label Information for Cross-Modal Retrieval",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00311",
+        "paper_authors": [
+            "Yangwo Jian",
+            "Jing Xiao",
+            "Yang Cao",
+            "Asad Khan",
+            "Jia Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Correlation Filter Tracking with Adaptive Proposal Selection for Accurate Scale Estimation",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00312",
+        "paper_authors": [
+            "Luo Xiong",
+            "Yanjie Liang",
+            "Yan Yan",
+            "Hanzi Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Supervised Consistent and Specific Hashing",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00313",
+        "paper_authors": [
+            "Haitao Wang",
+            "Min Meng",
+            "Hui Chen",
+            "Jigang Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Momentum Based on Adaptive Bold Driver",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00314",
+        "paper_authors": [
+            "Shengdong Li",
+            "Xueqiang Lv"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Lightweight Neural Network Based Human Depth Recovery Method",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00315",
+        "paper_authors": [
+            "Meiyu Huang",
+            "Xueshuang Xiang",
+            "Yao Xu",
+            "Yiqiang Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Evaluation of Defogging: A Real-World Benchmark Dataset, A New Criterion and Baselines",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00316",
+        "paper_authors": [
+            "Shiyu Zhao",
+            "Lin Zhang",
+            "Shuaiyi Huang",
+            "Ying Shen",
+            "Shengjie Zhao",
+            "Yukai Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RESA: A Real-Time Evaluation System for ABR",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00317",
+        "paper_authors": [
+            "Yanan Wang",
+            "Haili Wang",
+            "Jiaoyang Shang",
+            "Hu Tuo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Blind Image Sharpness Assessment And Enhancement via Deep Auxiliary Learning",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00318",
+        "paper_authors": [
+            "Qingbo Wu",
+            "Rui Ma",
+            "King Ngi Ngan",
+            "Hongliang Li",
+            "Fanman Meng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "End-to-End Blind Image Quality Assessment with Cascaded Deep Features",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00319",
+        "paper_authors": [
+            "Jinjian Wu",
+            "Jupo Ma",
+            "Fuhu Liang",
+            "Weisheng Dong",
+            "Guangming Shi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Encoding Distortions for Multi-task Full-Reference Image Quality Assessment",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00320",
+        "paper_authors": [
+            "Chen Huang",
+            "Tingting Jiang",
+            "Ming Jiang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Causal Analysis of the Unsatisfying Experience in Realtime Mobile Multiplayer Games in the Wild",
+        "paper_url": "https://doi.org/10.1109/ICME.2019.00321",
+        "paper_authors": [
+            "Yuan Meng",
+            "Shenglin Zhang",
+            "Zijie Ye",
+            "Benliang Wang",
+            "Zhi Wang",
+            "Yongqian Sun",
+            "Qitong Liu",
+            "Shuai Yang",
+            "Dan Pei"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

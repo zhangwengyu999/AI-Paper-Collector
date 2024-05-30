@@ -1,0 +1,3638 @@
+[
+    {
+        "paper_name": "On the Optimality of Kernel-Embedding Based Goodness-of-Fit Tests",
+        "paper_url": "http://jmlr.org/papers/v22/17-570.html",
+        "paper_authors": [
+            "Krishnakumar Balasubramanian",
+            "Tong Li",
+            "Ming Yuan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Domain Generalization by Marginal Transfer Learning",
+        "paper_url": "http://jmlr.org/papers/v22/17-679.html",
+        "paper_authors": [
+            "Gilles Blanchard",
+            "Aniket Anand Deshmukh",
+            "\u00dcr\u00fcn Dogan",
+            "Gyemin Lee",
+            "Clayton Scott"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Regulating Greed Over Time in Multi-Armed Bandits",
+        "paper_url": "http://jmlr.org/papers/v22/17-720.html",
+        "paper_authors": [
+            "Stefano Trac\u00e0",
+            "Cynthia Rudin",
+            "Weiyu Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Empirical Study of Bayesian Optimization: Acquisition Versus Partition",
+        "paper_url": "http://jmlr.org/papers/v22/18-220.html",
+        "paper_authors": [
+            "Erich Merrill",
+            "Alan Fern",
+            "Xiaoli Z. Fern",
+            "Nima Dolatnia"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Decoupled Extended Kalman Filter for Dynamic Exponential-Family Factorization Models",
+        "paper_url": "http://jmlr.org/papers/v22/18-417.html",
+        "paper_authors": [
+            "Carlos Alberto Gomez-Uribe",
+            "Brian Karrer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Consistent estimation of small masses in feature sampling",
+        "paper_url": "http://jmlr.org/papers/v22/18-534.html",
+        "paper_authors": [
+            "Fadhel Ayed",
+            "Marco Battiston",
+            "Federico Camerlenghi",
+            "Stefano Favaro"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Preference-based Online Learning with Dueling Bandits: A Survey",
+        "paper_url": "http://jmlr.org/papers/v22/18-546.html",
+        "paper_authors": [
+            "Viktor Bengs",
+            "R\u00f3bert Busa-Fekete",
+            "Adil El Mesaoudi-Paul",
+            "Eyke H\u00fcllermeier"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Unified Framework for Random Forest Prediction Error Estimation",
+        "paper_url": "http://jmlr.org/papers/v22/18-558.html",
+        "paper_authors": [
+            "Benjamin Lu",
+            "Johanna Hardin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Convex Clustering: Model, Theoretical Guarantee and Efficient Algorithm",
+        "paper_url": "http://jmlr.org/papers/v22/18-694.html",
+        "paper_authors": [
+            "Defeng Sun",
+            "Kim-Chuan Toh",
+            "Yancheng Yuan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mixing Time of Metropolis-Hastings for Bayesian Community Detection",
+        "paper_url": "http://jmlr.org/papers/v22/18-770.html",
+        "paper_authors": [
+            "Bumeng Zhuo",
+            "Chao Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unfolding-Model-Based Visualization: Theory, Method and Applications",
+        "paper_url": "http://jmlr.org/papers/v22/18-846.html",
+        "paper_authors": [
+            "Yunxiao Chen",
+            "Zhiliang Ying",
+            "Haoran Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Global and Quadratic Convergence of Newton Hard-Thresholding Pursuit",
+        "paper_url": "http://jmlr.org/papers/v22/19-026.html",
+        "paper_authors": [
+            "Shenglong Zhou",
+            "Naihua Xiu",
+            "Hou-Duo Qi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Homogeneity Structure Learning in Large-scale Panel Data with Heavy-tailed Errors",
+        "paper_url": "http://jmlr.org/papers/v22/19-1018.html",
+        "paper_authors": [
+            "Xiao Di",
+            "Yuan Ke",
+            "Runze Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On Multi-Armed Bandit Designs for Dose-Finding Trials",
+        "paper_url": "http://jmlr.org/papers/v22/19-228.html",
+        "paper_authors": [
+            "Maryam Aziz",
+            "Emilie Kaufmann",
+            "Marie-Karelle Riviere"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Simple and Fast Algorithms for Interactive Machine Learning with Random Counter-examples",
+        "paper_url": "http://jmlr.org/papers/v22/19-372.html",
+        "paper_authors": [
+            "Jagdeep Singh Bhatia"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pykg2vec: A Python Library for Knowledge Graph Embedding",
+        "paper_url": "http://jmlr.org/papers/v22/19-433.html",
+        "paper_authors": [
+            "Shih-Yuan Yu",
+            "Sujit Rokka Chhetri",
+            "Arquimedes Canedo",
+            "Palash Goyal",
+            "Mohammad Abdullah Al Faruque"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Continuous Time Analysis of Momentum Methods",
+        "paper_url": "http://jmlr.org/papers/v22/19-466.html",
+        "paper_authors": [
+            "Nikola B. Kovachki",
+            "Andrew M. Stuart"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Unified Sample Selection Framework for Output Noise Filtering: An Error-Bound Perspective",
+        "paper_url": "http://jmlr.org/papers/v22/19-498.html",
+        "paper_authors": [
+            "Gaoxia Jiang",
+            "Wenjian Wang",
+            "Yuhua Qian",
+            "Jiye Liang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Ranking and synchronization from pairwise measurements via SVD",
+        "paper_url": "http://jmlr.org/papers/v22/19-542.html",
+        "paper_authors": [
+            "Alexandre d'Aspremont",
+            "Mihai Cucuringu",
+            "Hemant Tyagi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Aggregated Hold-Out",
+        "paper_url": "http://jmlr.org/papers/v22/19-624.html",
+        "paper_authors": [
+            "Guillaume Maillard",
+            "Sylvain Arlot",
+            "Matthieu Lerasle"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Fast Globally Linearly Convergent Algorithm for the Computation of Wasserstein Barycenters",
+        "paper_url": "http://jmlr.org/papers/v22/19-629.html",
+        "paper_authors": [
+            "Lei Yang",
+            "Jia Li",
+            "Defeng Sun",
+            "Kim-Chuan Toh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "When random initializations help: a study of variational inference for community detection",
+        "paper_url": "http://jmlr.org/papers/v22/19-630.html",
+        "paper_authors": [
+            "Purnamrita Sarkar",
+            "Y. X. Rachel Wang",
+            "Soumendu Sundar Mukherjee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Two-Level Decomposition Framework Exploiting First and Second Order Information for SVM Training Problems",
+        "paper_url": "http://jmlr.org/papers/v22/19-632.html",
+        "paper_authors": [
+            "Giulio Galvan",
+            "Matteo Lapucci",
+            "Chih-Jen Lin",
+            "Marco Sciandrone"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Entangled Kernels - Beyond Separability",
+        "paper_url": "http://jmlr.org/papers/v22/19-665.html",
+        "paper_authors": [
+            "Riikka Huusari",
+            "Hachem Kadri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generalization Performance of Multi-pass Stochastic Gradient Descent with Convex Loss Functions",
+        "paper_url": "http://jmlr.org/papers/v22/19-716.html",
+        "paper_authors": [
+            "Yunwen Lei",
+            "Ting Hu",
+            "Ke Tang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Finite Time LTI System Identification",
+        "paper_url": "http://jmlr.org/papers/v22/19-725.html",
+        "paper_authors": [
+            "Tuhin Sarkar",
+            "Alexander Rakhlin",
+            "Munther A. Dahleh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Inference In High-dimensional Single-Index Models Under Symmetric Designs",
+        "paper_url": "http://jmlr.org/papers/v22/19-744.html",
+        "paper_authors": [
+            "Hamid Eftekhari",
+            "Moulinath Banerjee",
+            "Yaacov Ritov"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tsallis-INF: An Optimal Algorithm for Stochastic and Adversarial Bandits",
+        "paper_url": "http://jmlr.org/papers/v22/19-753.html",
+        "paper_authors": [
+            "Julian Zimmert",
+            "Yevgeny Seldin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Single and Multiple Change-Point Detection with Differential Privacy",
+        "paper_url": "http://jmlr.org/papers/v22/19-770.html",
+        "paper_authors": [
+            "Wanrong Zhang",
+            "Sara Krehbiel",
+            "Rui Tuo",
+            "Yajun Mei",
+            "Rachel Cummings"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms",
+        "paper_url": "http://jmlr.org/papers/v22/19-804.html",
+        "paper_authors": [
+            "Oliver Kroemer",
+            "Scott Niekum",
+            "George Konidaris"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FLAME: A Fast Large-scale Almost Matching Exactly Approach to Causal Inference",
+        "paper_url": "http://jmlr.org/papers/v22/19-853.html",
+        "paper_authors": [
+            "Tianyu Wang",
+            "Marco Morucci",
+            "M. Usaid Awan",
+            "Yameng Liu",
+            "Sudeepa Roy",
+            "Cynthia Rudin",
+            "Alexander Volfovsky"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning interaction kernels in heterogeneous systems of agents from multiple trajectories",
+        "paper_url": "http://jmlr.org/papers/v22/19-861.html",
+        "paper_authors": [
+            "Fei Lu",
+            "Mauro Maggioni",
+            "Sui Tang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Asynchronous Online Testing of Multiple Hypotheses",
+        "paper_url": "http://jmlr.org/papers/v22/19-910.html",
+        "paper_authors": [
+            "Tijana Zrnic",
+            "Aaditya Ramdas",
+            "Michael I. Jordan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Neighborhood Structure Assisted Non-negative Matrix Factorization and Its Application in Unsupervised Point-wise Anomaly Detection",
+        "paper_url": "http://jmlr.org/papers/v22/19-924.html",
+        "paper_authors": [
+            "Imtiaz Ahmed",
+            "Xia Ben Hu",
+            "Mithun P. Acharya",
+            "Yu Ding"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning and Planning for Time-Varying MDPs Using Maximum Likelihood Estimation",
+        "paper_url": "http://jmlr.org/papers/v22/20-006.html",
+        "paper_authors": [
+            "Melkior Ornik",
+            "Ufuk Topcu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-class Gaussian Process Classification with Noisy Inputs",
+        "paper_url": "http://jmlr.org/papers/v22/20-107.html",
+        "paper_authors": [
+            "Carlos Villacampa-Calvo",
+            "Bryan Zaldivar",
+            "Eduardo C. Garrido-Merch\u00e1n",
+            "Daniel Hern\u00e1ndez-Lobato"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Bayesian Contiguous Partitioning Method for Learning Clustered Latent Variables",
+        "paper_url": "http://jmlr.org/papers/v22/20-136.html",
+        "paper_authors": [
+            "Zhao Tang Luo",
+            "Huiyan Sang",
+            "Bani K. Mallick"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Risk-Averse Learning by Temporal Difference Methods with Markov Risk Measures",
+        "paper_url": "http://jmlr.org/papers/v22/20-168.html",
+        "paper_authors": [
+            "Umit Kose",
+            "Andrzej Ruszczynski"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "giotto-tda: : A Topological Data Analysis Toolkit for Machine Learning and Data Exploration",
+        "paper_url": "http://jmlr.org/papers/v22/20-325.html",
+        "paper_authors": [
+            "Guillaume Tauzin",
+            "Umberto Lupo",
+            "Lewis Tunstall",
+            "Julian Burella P\u00e9rez",
+            "Matteo Caorsi",
+            "Anibal M. Medina-Mardones",
+            "Alberto Dassatti",
+            "Kathryn Hess"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Residual Energy-Based Models for Text",
+        "paper_url": "http://jmlr.org/papers/v22/20-326.html",
+        "paper_authors": [
+            "Anton Bakhtin",
+            "Yuntian Deng",
+            "Sam Gross",
+            "Myle Ott",
+            "Marc'Aurelio Ranzato",
+            "Arthur Szlam"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "From Fourier to Koopman: Spectral Methods for Long-term Time Series Prediction",
+        "paper_url": "http://jmlr.org/papers/v22/20-406.html",
+        "paper_authors": [
+            "Henning Lange",
+            "Steven L. Brunton",
+            "J. Nathan Kutz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "High-Order Langevin Diffusion Yields an Accelerated MCMC Algorithm",
+        "paper_url": "http://jmlr.org/papers/v22/20-576.html",
+        "paper_authors": [
+            "Wenlong Mou",
+            "Yi-An Ma",
+            "Martin J. Wainwright",
+            "Peter L. Bartlett",
+            "Michael I. Jordan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Banach Space Representer Theorems for Neural Networks and Ridge Splines",
+        "paper_url": "http://jmlr.org/papers/v22/20-583.html",
+        "paper_authors": [
+            "Rahul Parhi",
+            "Robert D. Nowak"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Wasserstein barycenters can be computed in polynomial time in fixed dimension",
+        "paper_url": "http://jmlr.org/papers/v22/20-588.html",
+        "paper_authors": [
+            "Jason M. Altschuler",
+            "Enric Boix-Adser\u00e0"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RaSE: Random Subspace Ensemble Classification",
+        "paper_url": "http://jmlr.org/papers/v22/20-600.html",
+        "paper_authors": [
+            "Ye Tian",
+            "Yang Feng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimal Structured Principal Subspace Estimation: Metric Entropy and Minimax Rates",
+        "paper_url": "http://jmlr.org/papers/v22/20-610.html",
+        "paper_authors": [
+            "T. Tony Cai",
+            "Hongzhe Li",
+            "Rong Ma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Understanding Recurrent Neural Networks Using Nonequilibrium Response Theory",
+        "paper_url": "http://jmlr.org/papers/v22/20-620.html",
+        "paper_authors": [
+            "Soon Hoe Lim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimal Feedback Law Recovery by Gradient-Augmented Sparse Polynomial Regression",
+        "paper_url": "http://jmlr.org/papers/v22/20-755.html",
+        "paper_authors": [
+            "Behzad Azmi",
+            "Dante Kalise",
+            "Karl Kunisch"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "From Low Probability to High Confidence in Stochastic Convex Optimization",
+        "paper_url": "http://jmlr.org/papers/v22/20-821.html",
+        "paper_authors": [
+            "Damek Davis",
+            "Dmitriy Drusvyatskiy",
+            "Lin Xiao",
+            "Junyu Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Structure Learning of Undirected Graphical Models for Count Data",
+        "paper_url": "http://jmlr.org/papers/v22/18-401.html",
+        "paper_authors": [
+            "Nguyen Thi Kim Hue",
+            "Monica Chiogna"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Projection-free Decentralized Online Learning for Submodular Maximization over Time-Varying Networks",
+        "paper_url": "http://jmlr.org/papers/v22/18-407.html",
+        "paper_authors": [
+            "Junlong Zhu",
+            "Qingtao Wu",
+            "Mingchuan Zhang",
+            "Ruijuan Zheng",
+            "Keqin Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sparse and Smooth Signal Estimation: Convexification of L0-Formulations",
+        "paper_url": "http://jmlr.org/papers/v22/18-745.html",
+        "paper_authors": [
+            "Alper Atamt\u00fcrk",
+            "Andr\u00e9s G\u00f3mez",
+            "Shaoning Han"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Subspace Clustering through Sub-Clusters",
+        "paper_url": "http://jmlr.org/papers/v22/18-780.html",
+        "paper_authors": [
+            "Weiwei Li",
+            "Jan Hannig",
+            "Sayan Mukherjee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GemBag: Group Estimation of Multiple Bayesian Graphical Models",
+        "paper_url": "http://jmlr.org/papers/v22/19-1006.html",
+        "paper_authors": [
+            "Xinming Yang",
+            "Lingrui Gan",
+            "Naveen N. Narisetty",
+            "Feng Liang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Integrative Generalized Convex Clustering Optimization and Feature Selection for Mixed Multi-View Data",
+        "paper_url": "http://jmlr.org/papers/v22/19-1012.html",
+        "paper_authors": [
+            "Minjie Wang",
+            "Genevera I. Allen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Incorporating Unlabeled Data into Distributionally Robust Learning",
+        "paper_url": "http://jmlr.org/papers/v22/19-1023.html",
+        "paper_authors": [
+            "Charlie Frogner",
+            "Sebastian Claici",
+            "Edward Chien",
+            "Justin Solomon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Normalizing Flows for Probabilistic Modeling and Inference",
+        "paper_url": "http://jmlr.org/papers/v22/19-1028.html",
+        "paper_authors": [
+            "George Papamakarios",
+            "Eric T. Nalisnick",
+            "Danilo Jimenez Rezende",
+            "Shakir Mohamed",
+            "Balaji Lakshminarayanan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Estimation and Inference for High Dimensional Generalized Linear Models: A Splitting and Smoothing Approach",
+        "paper_url": "http://jmlr.org/papers/v22/19-132.html",
+        "paper_authors": [
+            "Zhe Fei",
+            "Yi Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Predictive Learning on Hidden Tree-Structured Ising Models",
+        "paper_url": "http://jmlr.org/papers/v22/19-149.html",
+        "paper_authors": [
+            "Konstantinos E. Nikolakakis",
+            "Dionysios S. Kalogerias",
+            "Anand D. Sarwate"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Distributed Method for Fitting Laplacian Regularized Stratified Models",
+        "paper_url": "http://jmlr.org/papers/v22/19-345.html",
+        "paper_authors": [
+            "Jonathan Tuck",
+            "Shane T. Barratt",
+            "Stephen P. Boyd"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Stochastic Proximal AUC Maximization",
+        "paper_url": "http://jmlr.org/papers/v22/19-418.html",
+        "paper_authors": [
+            "Yunwen Lei",
+            "Yiming Ying"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "How to Gain on Power: Novel Conditional Independence Tests Based on Short Expansion of Conditional Mutual Information",
+        "paper_url": "http://jmlr.org/papers/v22/19-600.html",
+        "paper_authors": [
+            "Mariusz Kubkowski",
+            "Jan Mielniczuk",
+            "Pawel Teisseyre"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Geometric structure of graph Laplacian embeddings",
+        "paper_url": "http://jmlr.org/papers/v22/19-683.html",
+        "paper_authors": [
+            "Nicol\u00e1s Garc\u00eda Trillos",
+            "Franca Hoffmann",
+            "Bamdad Hosseini"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sparse Tensor Additive Regression",
+        "paper_url": "http://jmlr.org/papers/v22/19-769.html",
+        "paper_authors": [
+            "Botao Hao",
+            "Boxiang Wang",
+            "Pengyuan Wang",
+            "Jingfei Zhang",
+            "Jian Yang",
+            "Will Wei Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dynamic Tensor Recommender Systems",
+        "paper_url": "http://jmlr.org/papers/v22/19-792.html",
+        "paper_authors": [
+            "Yanqing Zhang",
+            "Xuan Bi",
+            "Niansheng Tang",
+            "Annie Qu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Approximate Newton Methods",
+        "paper_url": "http://jmlr.org/papers/v22/19-870.html",
+        "paper_authors": [
+            "Haishan Ye",
+            "Luo Luo",
+            "Zhihua Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A General Framework for Empirical Bayes Estimation in Discrete Linear Exponential Family",
+        "paper_url": "http://jmlr.org/papers/v22/19-873.html",
+        "paper_authors": [
+            "Trambak Banerjee",
+            "Qiang Liu",
+            "Gourab Mukherjee",
+            "Wengunag Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Path Length Bounds for Gradient Descent and Flow",
+        "paper_url": "http://jmlr.org/papers/v22/19-979.html",
+        "paper_authors": [
+            "Chirag Gupta",
+            "Sivaraman Balakrishnan",
+            "Aaditya Ramdas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Determining the Number of Communities in Degree-corrected Stochastic Block Models",
+        "paper_url": "http://jmlr.org/papers/v22/20-037.html",
+        "paper_authors": [
+            "Shujie Ma",
+            "Liangjun Su",
+            "Yichong Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Testing Conditional Independence via Quantile Regression Based Partial Copulas",
+        "paper_url": "http://jmlr.org/papers/v22/20-1074.html",
+        "paper_authors": [
+            "Lasse Petersen",
+            "Niels Richard Hansen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Phase Diagram for Two-layer ReLU Neural Networks at Infinite-width Limit",
+        "paper_url": "http://jmlr.org/papers/v22/20-1123.html",
+        "paper_authors": [
+            "Tao Luo",
+            "Zhi-Qin John Xu",
+            "Zheng Ma",
+            "Yaoyu Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Prediction against a limited adversary",
+        "paper_url": "http://jmlr.org/papers/v22/20-1234.html",
+        "paper_authors": [
+            "Erhan Bayraktar",
+            "Ibrahim Ekren",
+            "Xin Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimization with Momentum: Dynamical, Control-Theoretic, and Symplectic Perspectives",
+        "paper_url": "http://jmlr.org/papers/v22/20-207.html",
+        "paper_authors": [
+            "Michael Muehlebach",
+            "Michael I. Jordan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Kernel Operations on the GPU, with Autodiff, without Memory Overflows",
+        "paper_url": "http://jmlr.org/papers/v22/20-275.html",
+        "paper_authors": [
+            "Benjamin Charlier",
+            "Jean Feydy",
+            "Joan Alexis Glaun\u00e8s",
+            "Fran\u00e7ois-David Collin",
+            "Ghislain Durif"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Attention is Turing-Complete",
+        "paper_url": "http://jmlr.org/papers/v22/20-302.html",
+        "paper_authors": [
+            "Jorge P\u00e9rez",
+            "Pablo Barcel\u00f3",
+            "Javier Marinkovic"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Analyzing the discrepancy principle for kernelized spectral filter learning algorithms",
+        "paper_url": "http://jmlr.org/papers/v22/20-358.html",
+        "paper_authors": [
+            "Alain Celisse",
+            "Martin Wahl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ChainerRL: A Deep Reinforcement Learning Library",
+        "paper_url": "http://jmlr.org/papers/v22/20-376.html",
+        "paper_authors": [
+            "Yasuhiro Fujita",
+            "Prabhat Nagarajan",
+            "Toshiki Kataoka",
+            "Takahiro Ishikawa"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "POT: Python Optimal Transport",
+        "paper_url": "http://jmlr.org/papers/v22/20-451.html",
+        "paper_authors": [
+            "R\u00e9mi Flamary",
+            "Nicolas Courty",
+            "Alexandre Gramfort",
+            "Mokhtar Z. Alaya",
+            "Aur\u00e9lie Boisbunon",
+            "Stanislas Chambon",
+            "Laetitia Chapel",
+            "Adrien Corenflos",
+            "Kilian Fatras",
+            "Nemo Fournier",
+            "L\u00e9o Gautheron",
+            "Nathalie T. H. Gayraud",
+            "Hicham Janati",
+            "Alain Rakotomamonjy",
+            "Ievgen Redko",
+            "Antoine Rolet",
+            "Antony Schutz",
+            "Vivien Seguy",
+            "Danica J. Sutherland",
+            "Romain Tavenard",
+            "Alexander Tong",
+            "Titouan Vayer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Is SGD a Bayesian sampler? Well, almost",
+        "paper_url": "http://jmlr.org/papers/v22/20-676.html",
+        "paper_authors": [
+            "Chris Mingard",
+            "Guillermo Valle P\u00e9rez",
+            "Joar Skalse",
+            "Ard A. Louis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Communication-Efficient Distributed Covariance Sketch, with Application to Distributed PCA",
+        "paper_url": "http://jmlr.org/papers/v22/20-705.html",
+        "paper_authors": [
+            "Zengfeng Huang",
+            "Xuemin Lin",
+            "Wenjie Zhang",
+            "Ying Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Knowing what You Know: valid and validated confidence sets in multiclass and multilabel prediction",
+        "paper_url": "http://jmlr.org/papers/v22/20-753.html",
+        "paper_authors": [
+            "Maxime Cauchois",
+            "Suyash Gupta",
+            "John C. Duchi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings",
+        "paper_url": "http://jmlr.org/papers/v22/20-825.html",
+        "paper_authors": [
+            "Mehdi Ali",
+            "Max Berrendorf",
+            "Charles Tapley Hoyt",
+            "Laurent Vermue",
+            "Sahand Sharifzadeh",
+            "Volker Tresp",
+            "Jens Lehmann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Statistical Query Lower Bounds for Tensor PCA",
+        "paper_url": "http://jmlr.org/papers/v22/20-837.html",
+        "paper_authors": [
+            "Rishabh Dudeja",
+            "Daniel Hsu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Variance Reduced Median-of-Means Estimator for Byzantine-Robust Distributed Inference",
+        "paper_url": "http://jmlr.org/papers/v22/20-950.html",
+        "paper_authors": [
+            "Jiyuan Tu",
+            "Weidong Liu",
+            "Xiaojun Mao",
+            "Xi Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Gradient Methods Never Overfit On Separable Data",
+        "paper_url": "http://jmlr.org/papers/v22/20-997.html",
+        "paper_authors": [
+            "Ohad Shamir"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-view Learning as a Nonparametric Nonlinear Inter-Battery Factor Analysis",
+        "paper_url": "http://jmlr.org/papers/v22/16-179.html",
+        "paper_authors": [
+            "Andreas C. Damianou",
+            "Neil D. Lawrence",
+            "Carl Henrik Ek"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On Solving Probabilistic Linear Diophantine Equations",
+        "paper_url": "http://jmlr.org/papers/v22/17-474.html",
+        "paper_authors": [
+            "Patrick Kreitzberg",
+            "Oliver Serang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Edge Sampling Using Local Network Information",
+        "paper_url": "http://jmlr.org/papers/v22/18-240.html",
+        "paper_authors": [
+            "Can M. Le"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bayesian Text Classification and Summarization via A Class-Specified Topic Model",
+        "paper_url": "http://jmlr.org/papers/v22/18-332.html",
+        "paper_authors": [
+            "Feifei Wang",
+            "Junni L. Zhang",
+            "Yichao Li",
+            "Ke Deng",
+            "Jun S. Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Risk Bounds for Unsupervised Cross-Domain Mapping with IPMs",
+        "paper_url": "http://jmlr.org/papers/v22/18-489.html",
+        "paper_authors": [
+            "Tomer Galanti",
+            "Sagie Benaim",
+            "Lior Wolf"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Analysis of high-dimensional Continuous Time Markov Chains using the Local Bouncy Particle Sampler",
+        "paper_url": "http://jmlr.org/papers/v22/18-651.html",
+        "paper_authors": [
+            "Tingting Zhao",
+            "Alexandre Bouchard-C\u00f4t\u00e9"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "NEU: A Meta-Algorithm for Universal UAP-Invariant Feature Representation",
+        "paper_url": "http://jmlr.org/papers/v22/18-803.html",
+        "paper_authors": [
+            "Anastasis Kratsios",
+            "Cody B. Hyndman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Flexible Signal Denoising via Flexible Empirical Bayes Shrinkage",
+        "paper_url": "http://jmlr.org/papers/v22/19-042.html",
+        "paper_authors": [
+            "Zhengrong Xing",
+            "Peter Carbonetto",
+            "Matthew Stephens"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Consistent Semi-Supervised Graph Regularization for High Dimensional Data",
+        "paper_url": "http://jmlr.org/papers/v22/19-081.html",
+        "paper_authors": [
+            "Xiaoyi Mai",
+            "Romain Couillet"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Histogram Transform Ensembles for Large-scale Regression",
+        "paper_url": "http://jmlr.org/papers/v22/19-1004.html",
+        "paper_authors": [
+            "Hanyuan Hang",
+            "Zhouchen Lin",
+            "Xiaoyu Liu",
+            "Hongwei Wen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Guided Visual Exploration of Relations in Data Sets",
+        "paper_url": "http://jmlr.org/papers/v22/19-364.html",
+        "paper_authors": [
+            "Kai Puolam\u00e4ki",
+            "Emilia Oikarinen",
+            "Andreas Henelius"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Safe Policy Iteration: A Monotonically Improving Approximate Policy Iteration Approach",
+        "paper_url": "http://jmlr.org/papers/v22/19-707.html",
+        "paper_authors": [
+            "Alberto Maria Metelli",
+            "Matteo Pirotta",
+            "Daniele Calandriello",
+            "Marcello Restelli"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On the Theory of Policy Gradient Methods: Optimality, Approximation, and Distribution Shift",
+        "paper_url": "http://jmlr.org/papers/v22/19-736.html",
+        "paper_authors": [
+            "Alekh Agarwal",
+            "Sham M. Kakade",
+            "Jason D. Lee",
+            "Gaurav Mahajan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive estimation of nonparametric functionals",
+        "paper_url": "http://jmlr.org/papers/v22/19-892.html",
+        "paper_authors": [
+            "Lin Liu",
+            "Rajarshi Mukherjee",
+            "James M. Robins",
+            "Eric Tchetgen Tchetgen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "OpenML-Python: an extensible Python API for OpenML",
+        "paper_url": "http://jmlr.org/papers/v22/19-920.html",
+        "paper_authors": [
+            "Matthias Feurer",
+            "Jan N. van Rijn",
+            "Arlind Kadra",
+            "Pieter Gijsbers",
+            "Neeratyoy Mallik",
+            "Sahithya Ravi",
+            "Andreas M\u00fcller",
+            "Joaquin Vanschoren",
+            "Frank Hutter"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LocalGAN: Modeling Local Distributions for Adversarial Response Generation",
+        "paper_url": "http://jmlr.org/papers/v22/20-052.html",
+        "paper_authors": [
+            "Baoxun Wang",
+            "Zhen Xu",
+            "Huan Zhang",
+            "Kexin Qiu",
+            "Deyuan Zhang",
+            "Chengjie Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning a High-dimensional Linear Structural Equation Model via l1-Regularized Regression",
+        "paper_url": "http://jmlr.org/papers/v22/20-1005.html",
+        "paper_authors": [
+            "Gunwoong Park",
+            "Sang Jun Moon",
+            "Sion Park",
+            "Jong-June Jeon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Unified Analysis of First-Order Methods for Smooth Games via Integral Quadratic Constraints",
+        "paper_url": "http://jmlr.org/papers/v22/20-1068.html",
+        "paper_authors": [
+            "Guodong Zhang",
+            "Xuchan Bao",
+            "Laurent Lessard",
+            "Roger B. Grosse"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Explaining Explanations: Axiomatic Feature Interactions for Deep Networks",
+        "paper_url": "http://jmlr.org/papers/v22/20-1223.html",
+        "paper_authors": [
+            "Joseph D. Janizek",
+            "Pascal Sturmfels",
+            "Su-In Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pathwise Conditioning of Gaussian Processes",
+        "paper_url": "http://jmlr.org/papers/v22/20-1260.html",
+        "paper_authors": [
+            "James T. Wilson",
+            "Viacheslav Borovitskiy",
+            "Alexander Terenin",
+            "Peter Mostowsky",
+            "Marc Peter Deisenroth"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Online stochastic gradient descent on non-convex losses from high-dimensional inference",
+        "paper_url": "http://jmlr.org/papers/v22/20-1288.html",
+        "paper_authors": [
+            "G\u00e9rard Ben Arous",
+            "Reza Gheissari",
+            "Aukosh Jagannath"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Beyond English-Centric Multilingual Machine Translation",
+        "paper_url": "http://jmlr.org/papers/v22/20-1307.html",
+        "paper_authors": [
+            "Angela Fan",
+            "Shruti Bhosale",
+            "Holger Schwenk",
+            "Zhiyi Ma",
+            "Ahmed El-Kishky",
+            "Siddharth Goyal",
+            "Mandeep Baines",
+            "Onur Celebi",
+            "Guillaume Wenzek",
+            "Vishrav Chaudhary",
+            "Naman Goyal",
+            "Tom Birch",
+            "Vitaliy Liptchinsky",
+            "Sergey Edunov",
+            "Michael Auli",
+            "Armand Joulin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards a Unified Analysis of Random Fourier Features",
+        "paper_url": "http://jmlr.org/papers/v22/20-1369.html",
+        "paper_authors": [
+            "Zhu Li",
+            "Jean-Francois Ton",
+            "Dino Oglic",
+            "Dino Sejdinovic"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "mvlearn: Multiview Machine Learning in Python",
+        "paper_url": "http://jmlr.org/papers/v22/20-1370.html",
+        "paper_authors": [
+            "Ronan Perry",
+            "Gavin Mischler",
+            "Richard Guo",
+            "Theo Lee",
+            "Alexander Chang",
+            "Arman Koul",
+            "Cameron Franz",
+            "Hugo Richard",
+            "Iain Carmichael",
+            "Pierre Ablin",
+            "Alexandre Gramfort",
+            "Joshua T. Vogelstein"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "River: machine learning for streaming data in Python",
+        "paper_url": "http://jmlr.org/papers/v22/20-1380.html",
+        "paper_authors": [
+            "Jacob Montiel",
+            "Max Halford",
+            "Saulo Martiello Mastelini",
+            "Geoffrey Bolmier",
+            "Rapha\u00ebl Sourty",
+            "Robin Vaysse",
+            "Adil Zouitine",
+            "Heitor Murilo Gomes",
+            "Jesse Read",
+            "Talel Abdessalem",
+            "Albert Bifet"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Non-parametric Quantile Regression via the K-NN Fused Lasso",
+        "paper_url": "http://jmlr.org/papers/v22/20-1462.html",
+        "paper_authors": [
+            "Steven Siwei Ye",
+            "Oscar Hernan Madrid Padilla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "L-SVRG and L-Katyusha with Arbitrary Sampling",
+        "paper_url": "http://jmlr.org/papers/v22/20-156.html",
+        "paper_authors": [
+            "Xun Qian",
+            "Zheng Qu",
+            "Peter Richt\u00e1rik"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Lyapunov Analysis of Accelerated Methods in Optimization",
+        "paper_url": "http://jmlr.org/papers/v22/20-195.html",
+        "paper_authors": [
+            "Ashia C. Wilson",
+            "Ben Recht",
+            "Michael I. Jordan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "NUQSGD: Provably Communication-efficient Data-parallel SGD via Nonuniform Quantization",
+        "paper_url": "http://jmlr.org/papers/v22/20-255.html",
+        "paper_authors": [
+            "Ali Ramezani-Kebrya",
+            "Fartash Faghri",
+            "Ilya Markov",
+            "Vitalii Aksenov",
+            "Dan Alistarh",
+            "Daniel M. Roy"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Stochastic Proximal Methods for Non-Smooth Non-Convex Constrained Sparse Optimization",
+        "paper_url": "http://jmlr.org/papers/v22/20-287.html",
+        "paper_authors": [
+            "Michael R. Metel",
+            "Akiko Takeda"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Importance Weighted Feature Selection Stability Measure",
+        "paper_url": "http://jmlr.org/papers/v22/20-366.html",
+        "paper_authors": [
+            "Victor Hamer",
+            "Pierre Dupont"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Strong Consistency, Graph Laplacians, and the Stochastic Block Model",
+        "paper_url": "http://jmlr.org/papers/v22/20-391.html",
+        "paper_authors": [
+            "Shaofeng Deng",
+            "Shuyang Ling",
+            "Thomas Strohmer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A General Framework for Adversarial Label Learning",
+        "paper_url": "http://jmlr.org/papers/v22/20-537.html",
+        "paper_authors": [
+            "Chidubem Arachie",
+            "Bert Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Some Theoretical Insights into Wasserstein GANs",
+        "paper_url": "http://jmlr.org/papers/v22/20-553.html",
+        "paper_authors": [
+            "G\u00e9rard Biau",
+            "Maxime Sangnier",
+            "Ugo Tanielian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Empirical Bayes Matrix Factorization",
+        "paper_url": "http://jmlr.org/papers/v22/20-589.html",
+        "paper_authors": [
+            "Wei Wang",
+            "Matthew Stephens"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Langevin Dynamics for Adaptive Inverse Reinforcement Learning of Stochastic Gradient Algorithms",
+        "paper_url": "http://jmlr.org/papers/v22/20-625.html",
+        "paper_authors": [
+            "Vikram Krishnamurthy",
+            "George Yin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sparse Convex Optimization via Adaptively Regularized Hard Thresholding",
+        "paper_url": "http://jmlr.org/papers/v22/20-661.html",
+        "paper_authors": [
+            "Kyriakos Axiotis",
+            "Maxim Sviridenko"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Convergence Guarantees for Gaussian Process Means With Misspecified Likelihoods and Smoothness",
+        "paper_url": "http://jmlr.org/papers/v22/20-662.html",
+        "paper_authors": [
+            "George Wynne",
+            "Fran\u00e7ois-Xavier Briol",
+            "Mark Girolami"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A flexible model-free prediction-based framework for feature ranking",
+        "paper_url": "http://jmlr.org/papers/v22/20-673.html",
+        "paper_authors": [
+            "Jingyi Jessica Li",
+            "Yiling Elaine Chen",
+            "Xin Tong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bandit Convex Optimization in Non-stationary Environments",
+        "paper_url": "http://jmlr.org/papers/v22/20-763.html",
+        "paper_authors": [
+            "Peng Zhao",
+            "Guanghui Wang",
+            "Lijun Zhang",
+            "Zhi-Hua Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Integrative High Dimensional Multiple Testing with Heterogeneity under Data Sharing Constraints",
+        "paper_url": "http://jmlr.org/papers/v22/20-774.html",
+        "paper_authors": [
+            "Molei Liu",
+            "Yin Xia",
+            "Kelly Cho",
+            "Tianxi Cai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LassoNet: A Neural Network with Feature Sparsity",
+        "paper_url": "http://jmlr.org/papers/v22/20-848.html",
+        "paper_authors": [
+            "Ismael Lemhadri",
+            "Feng Ruan",
+            "Louis Abraham",
+            "Robert Tibshirani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimal Bounds between f-Divergences and Integral Probability Metrics",
+        "paper_url": "http://jmlr.org/papers/v22/20-867.html",
+        "paper_authors": [
+            "Rohit Agrawal",
+            "Thibaut Horel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Finite-sample Analysis of Interpolating Linear Classifiers in the Overparameterized Regime",
+        "paper_url": "http://jmlr.org/papers/v22/20-974.html",
+        "paper_authors": [
+            "Niladri S. Chatterji",
+            "Philip M. Long"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Whenever Learning is Possible: Universal Learning under General Stochastic Processes",
+        "paper_url": "http://jmlr.org/papers/v22/17-298.html",
+        "paper_authors": [
+            "Steve Hanneke"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MushroomRL: Simplifying Reinforcement Learning Research",
+        "paper_url": "http://jmlr.org/papers/v22/18-056.html",
+        "paper_authors": [
+            "Carlo D'Eramo",
+            "Davide Tateo",
+            "Andrea Bonarini",
+            "Marcello Restelli",
+            "Jan Peters"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Locally Differentially-Private Randomized Response for Discrete Distribution Learning",
+        "paper_url": "http://jmlr.org/papers/v22/18-726.html",
+        "paper_authors": [
+            "Adriano Pastore",
+            "Michael Gastpar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Contextual Bandit Bake-off",
+        "paper_url": "http://jmlr.org/papers/v22/18-863.html",
+        "paper_authors": [
+            "Alberto Bietti",
+            "Alekh Agarwal",
+            "John Langford"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Inertial Newton Algorithm for Deep Learning",
+        "paper_url": "http://jmlr.org/papers/v22/19-1024.html",
+        "paper_authors": [
+            "Camille Castera",
+            "J\u00e9r\u00f4me Bolte",
+            "C\u00e9dric F\u00e9votte",
+            "Edouard Pauwels"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Sparse Classifiers: Continuous and Mixed Integer Optimization Perspectives",
+        "paper_url": "http://jmlr.org/papers/v22/19-1049.html",
+        "paper_authors": [
+            "Antoine Dedieu",
+            "Hussein Hazimeh",
+            "Rahul Mazumder"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Implicit Langevin Algorithms for Sampling From Log-concave Densities",
+        "paper_url": "http://jmlr.org/papers/v22/19-292.html",
+        "paper_authors": [
+            "Liam Hodgkinson",
+            "Robert Salomone",
+            "Fred Roosta"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hybrid Predictive Models: When an Interpretable Model Collaborates with a Black-box Model",
+        "paper_url": "http://jmlr.org/papers/v22/19-325.html",
+        "paper_authors": [
+            "Tong Wang",
+            "Qihang Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An algorithmic view of L2 regularization and some path-following algorithms",
+        "paper_url": "http://jmlr.org/papers/v22/19-477.html",
+        "paper_authors": [
+            "Yunzhang Zhu",
+            "Renxiong Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hoeffding's Inequality for General Markov Chains and Its Applications to Statistical Learning",
+        "paper_url": "http://jmlr.org/papers/v22/19-479.html",
+        "paper_authors": [
+            "Jianqing Fan",
+            "Bai Jiang",
+            "Qiang Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generalization Properties of hyper-RKHS and its Applications",
+        "paper_url": "http://jmlr.org/papers/v22/19-482.html",
+        "paper_authors": [
+            "Fanghui Liu",
+            "Lei Shi",
+            "Xiaolin Huang",
+            "Jie Yang",
+            "Johan A. K. Suykens"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pseudo-Marginal Hamiltonian Monte Carlo",
+        "paper_url": "http://jmlr.org/papers/v22/19-486.html",
+        "paper_authors": [
+            "Johan Alenl\u00f6v",
+            "Arnoud Doucet",
+            "Fredrik Lindsten"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Inference for Multiple Heterogeneous Networks with a Common Invariant Subspace",
+        "paper_url": "http://jmlr.org/papers/v22/19-558.html",
+        "paper_authors": [
+            "Jes\u00fas Arroyo",
+            "Avanti Athreya",
+            "Joshua Cape",
+            "Guodong Chen",
+            "Carey E. Priebe",
+            "Joshua T. Vogelstein"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Non-attracting Regions of Local Minima in Deep and Wide Neural Networks",
+        "paper_url": "http://jmlr.org/papers/v22/19-586.html",
+        "paper_authors": [
+            "Henning Petzka",
+            "Cristian Sminchisescu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Individual Fairness in Hindsight",
+        "paper_url": "http://jmlr.org/papers/v22/19-658.html",
+        "paper_authors": [
+            "Swati Gupta",
+            "Vijay Kamble"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On efficient multilevel Clustering via Wasserstein distances",
+        "paper_url": "http://jmlr.org/papers/v22/19-782.html",
+        "paper_authors": [
+            "Viet Huynh",
+            "Nhat Ho",
+            "Nhan Dam",
+            "XuanLong Nguyen",
+            "Mikhail Yurochkin",
+            "Hung Bui",
+            "Dinh Q. Phung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Nonparametric Modeling of Higher-Order Interactions via Hypergraphons",
+        "paper_url": "http://jmlr.org/papers/v22/19-941.html",
+        "paper_authors": [
+            "Krishnakumar Balasubramanian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimal Minimax Variable Selection for Large-Scale Matrix Linear Regression Model",
+        "paper_url": "http://jmlr.org/papers/v22/19-969.html",
+        "paper_authors": [
+            "Meiling Hao",
+            "Lianqiang Qu",
+            "Dehan Kong",
+            "Liuquan Sun",
+            "Hongtu Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Statistical guarantees for local graph clustering",
+        "paper_url": "http://jmlr.org/papers/v22/20-029.html",
+        "paper_authors": [
+            "Wooseok Ha",
+            "Kimon Fountoulakis",
+            "Michael W. Mahoney"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hyperparameter Optimization via Sequential Uniform Designs",
+        "paper_url": "http://jmlr.org/papers/v22/20-058.html",
+        "paper_authors": [
+            "Zebin Yang",
+            "Aijun Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Accelerating Ill-Conditioned Low-Rank Matrix Estimation via Scaled Gradient Descent",
+        "paper_url": "http://jmlr.org/papers/v22/20-1067.html",
+        "paper_authors": [
+            "Tian Tong",
+            "Cong Ma",
+            "Yuejie Chi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Universal consistency and rates of convergence of multiclass prototype algorithms in metric spaces",
+        "paper_url": "http://jmlr.org/papers/v22/20-1081.html",
+        "paper_authors": [
+            "L\u00e1szl\u00f3 Gy\u00f6rfi",
+            "Roi Weiss"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hardness of Identity Testing for Restricted Boltzmann Machines and Potts models",
+        "paper_url": "http://jmlr.org/papers/v22/20-1162.html",
+        "paper_authors": [
+            "Antonio Blanca",
+            "Zongchen Chen",
+            "Daniel Stefankovic",
+            "Eric Vigoda"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Factorization Machines with Regularization for Sparse Feature Interactions",
+        "paper_url": "http://jmlr.org/papers/v22/20-1170.html",
+        "paper_authors": [
+            "Kyohei Atarashi",
+            "Satoshi Oyama",
+            "Masahito Kurihara"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Kernel Smoothing, Mean Shift, and Their Learning Theory with Directional Data",
+        "paper_url": "http://jmlr.org/papers/v22/20-1194.html",
+        "paper_authors": [
+            "Yikun Zhang",
+            "Yen-Chi Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "What Causes the Test Error? Going Beyond Bias-Variance via ANOVA",
+        "paper_url": "http://jmlr.org/papers/v22/20-1211.html",
+        "paper_authors": [
+            "Licong Lin",
+            "Edgar Dobriban"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Greedy Algorithm for Quantizing Neural Networks",
+        "paper_url": "http://jmlr.org/papers/v22/20-1233.html",
+        "paper_authors": [
+            "Eric Lybrand",
+            "Rayan Saab"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Ridgelet Prior: A Covariance Function Approach to Prior Specification for Bayesian Neural Networks",
+        "paper_url": "http://jmlr.org/papers/v22/20-1300.html",
+        "paper_authors": [
+            "Takuo Matsubara",
+            "Chris J. Oates",
+            "Fran\u00e7ois-Xavier Briol"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Information criteria for non-normalized models",
+        "paper_url": "http://jmlr.org/papers/v22/20-1366.html",
+        "paper_authors": [
+            "Takeru Matsuda",
+            "Masatoshi Uehara",
+            "Aapo Hyv\u00e4rinen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "When Does Gradient Descent with Logistic Loss Find Interpolating Two-Layer Networks?",
+        "paper_url": "http://jmlr.org/papers/v22/20-1372.html",
+        "paper_authors": [
+            "Niladri S. Chatterji",
+            "Philip M. Long",
+            "Peter L. Bartlett"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Are We Forgetting about Compositional Optimisers in Bayesian Optimisation?",
+        "paper_url": "http://jmlr.org/papers/v22/20-1422.html",
+        "paper_authors": [
+            "Antoine Grosnit",
+            "Alexander I. Cowen-Rivers",
+            "Rasul Tutunov",
+            "Ryan-Rhys Griffiths",
+            "Jun Wang",
+            "Haitham Bou-Ammar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MetaGrad: Adaptation using Multiple Learning Rates in Online Learning",
+        "paper_url": "http://jmlr.org/papers/v22/20-1444.html",
+        "paper_authors": [
+            "Tim van Erven",
+            "Wouter M. Koolen",
+            "Dirk van der Hoeven"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Counterfactual Mean Embeddings",
+        "paper_url": "http://jmlr.org/papers/v22/20-185.html",
+        "paper_authors": [
+            "Krikamol Muandet",
+            "Motonobu Kanagawa",
+            "Sorawit Saengkyongam",
+            "Sanparith Marukatat"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PeerReview4All: Fair and Accurate Reviewer Assignment in Peer Review",
+        "paper_url": "http://jmlr.org/papers/v22/20-190.html",
+        "paper_authors": [
+            "Ivan Stelmakh",
+            "Nihar B. Shah",
+            "Aarti Singh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Reproducibility in Machine Learning Research(A Report from the NeurIPS 2019 Reproducibility Program)",
+        "paper_url": "http://jmlr.org/papers/v22/20-303.html",
+        "paper_authors": [
+            "Joelle Pineau",
+            "Philippe Vincent-Lamarre",
+            "Koustuv Sinha",
+            "Vincent Larivi\u00e8re",
+            "Alina Beygelzimer",
+            "Florence d'Alch\u00e9-Buc",
+            "Emily B. Fox",
+            "Hugo Larochelle"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Implicit Self-Regularization in Deep Neural Networks: Evidence from Random Matrix Theory and Implications for Learning",
+        "paper_url": "http://jmlr.org/papers/v22/20-410.html",
+        "paper_authors": [
+            "Charles H. Martin",
+            "Michael W. Mahoney"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The ensmallen library for flexible numerical optimization",
+        "paper_url": "http://jmlr.org/papers/v22/20-416.html",
+        "paper_authors": [
+            "Ryan R. Curtin",
+            "Marcus Edel",
+            "Rahul Ganesh Prabhu",
+            "Suryoday Basak",
+            "Zhihao Lou",
+            "Conrad Sanderson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Estimation and Optimization of Composite Outcomes",
+        "paper_url": "http://jmlr.org/papers/v22/20-429.html",
+        "paper_authors": [
+            "Daniel J. Luckett",
+            "Eric B. Laber",
+            "Siyeon Kim",
+            "Michael R. Kosorok"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Asymptotic Normality, Concentration, and Coverage of Generalized Posteriors",
+        "paper_url": "http://jmlr.org/papers/v22/20-469.html",
+        "paper_authors": [
+            "Jeffrey W. Miller"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "First-order Convergence Theory for Weakly-Convex-Weakly-Concave Min-max Problems",
+        "paper_url": "http://jmlr.org/papers/v22/20-533.html",
+        "paper_authors": [
+            "Mingrui Liu",
+            "Hassan Rafique",
+            "Qihang Lin",
+            "Tianbao Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Black-Box Reductions for Zeroth-Order Gradient Algorithms to Achieve Lower Query Complexity",
+        "paper_url": "http://jmlr.org/papers/v22/20-611.html",
+        "paper_authors": [
+            "Bin Gu",
+            "Xiyuan Wei",
+            "Shangqian Gao",
+            "Ziran Xiong",
+            "Cheng Deng",
+            "Heng Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimal Rates of Distributed Regression with Imperfect Kernels",
+        "paper_url": "http://jmlr.org/papers/v22/20-627.html",
+        "paper_authors": [
+            "Hongwei Sun",
+            "Qiang Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unlinked Monotone Regression",
+        "paper_url": "http://jmlr.org/papers/v22/20-689.html",
+        "paper_authors": [
+            "Fadoua Balabdaoui",
+            "Charles R. Doss",
+            "C\u00e9cile Durot"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Replica Exchange for Non-Convex Optimization",
+        "paper_url": "http://jmlr.org/papers/v22/20-697.html",
+        "paper_authors": [
+            "Jing Dong",
+            "Xin T. Tong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Achieving Fairness in the Stochastic Multi-Armed Bandit Problem",
+        "paper_url": "http://jmlr.org/papers/v22/20-704.html",
+        "paper_authors": [
+            "Vishakha Patil",
+            "Ganesh Ghalme",
+            "Vineet Nair",
+            "Y. Narahari"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Doubly infinite residual neural networks: a diffusion process approach",
+        "paper_url": "http://jmlr.org/papers/v22/20-706.html",
+        "paper_authors": [
+            "Stefano Peluchetti",
+            "Stefano Favaro"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Locally Private k-Means Clustering",
+        "paper_url": "http://jmlr.org/papers/v22/20-721.html",
+        "paper_authors": [
+            "Uri Stemmer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Prediction Under Latent Factor Regression: Adaptive PCR, Interpolating Predictors and Beyond",
+        "paper_url": "http://jmlr.org/papers/v22/20-768.html",
+        "paper_authors": [
+            "Xin Bing",
+            "Florentina Bunea",
+            "Seth Strimas-Mackey",
+            "Marten H. Wegkamp"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Conditional independences and causal relations implied by sets of equations",
+        "paper_url": "http://jmlr.org/papers/v22/20-863.html",
+        "paper_authors": [
+            "Tineke Blom",
+            "Mirthe M. van Diepen",
+            "Joris M. Mooij"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Sharp Blockwise Tensor Perturbation Bound for Orthogonal Iteration",
+        "paper_url": "http://jmlr.org/papers/v22/20-919.html",
+        "paper_authors": [
+            "Yuetian Luo",
+            "Garvesh Raskutti",
+            "Ming Yuan",
+            "Anru R. Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improved Shrinkage Prediction under a Spiked Covariance Structure",
+        "paper_url": "http://jmlr.org/papers/v22/21-0006.html",
+        "paper_authors": [
+            "Trambak Banerjee",
+            "Gourab Mukherjee",
+            "Debashis Paul"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Alibi Explain: Algorithms for Explaining Machine Learning Models",
+        "paper_url": "http://jmlr.org/papers/v22/21-0017.html",
+        "paper_authors": [
+            "Janis Klaise",
+            "Arnaud Van Looveren",
+            "Giovanni Vacanti",
+            "Alexandru Coca"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Probabilistic Interpretation of Self-Paced Learning with Applications to Reinforcement Learning",
+        "paper_url": "http://jmlr.org/papers/v22/21-0112.html",
+        "paper_authors": [
+            "Pascal Klink",
+            "Hany Abdulsamad",
+            "Boris Belousov",
+            "Carlo D'Eramo",
+            "Jan Peters",
+            "Joni Pajarinen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Benchmarking Unsupervised Object Representations for Video Sequences",
+        "paper_url": "http://jmlr.org/papers/v22/21-0199.html",
+        "paper_authors": [
+            "Marissa A. Weis",
+            "Kashyap Chitta",
+            "Yash Sharma",
+            "Wieland Brendel",
+            "Matthias Bethge",
+            "Andreas Geiger",
+            "Alexander S. Ecker"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "mlr3pipelines - Flexible Machine Learning Pipelines in R",
+        "paper_url": "http://jmlr.org/papers/v22/21-0281.html",
+        "paper_authors": [
+            "Martin Binder",
+            "Florian Pfisterer",
+            "Michel Lang",
+            "Lennart Schneider",
+            "Lars Kotthoff",
+            "Bernd Bischl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mode-wise Tensor Decompositions: Multi-dimensional Generalizations of CUR Decompositions",
+        "paper_url": "http://jmlr.org/papers/v22/21-0287.html",
+        "paper_authors": [
+            "HanQin Cai",
+            "Keaton Hamm",
+            "Longxiu Huang",
+            "Deanna Needell"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "As You Like It: Localization via Paired Comparisons",
+        "paper_url": "http://jmlr.org/papers/v22/18-105.html",
+        "paper_authors": [
+            "Andrew K. Massimino",
+            "Mark A. Davenport"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Matrix Product States for Inference in Discrete Probabilistic Models",
+        "paper_url": "http://jmlr.org/papers/v22/18-431.html",
+        "paper_authors": [
+            "Rasmus Bonnevie",
+            "Mikkel N. Schmidt"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Differentially Private Regression and Classification with Sparse Gaussian Processes",
+        "paper_url": "http://jmlr.org/papers/v22/19-017.html",
+        "paper_authors": [
+            "Michael Thomas Smith",
+            "Mauricio A. \u00c1lvarez",
+            "Neil D. Lawrence"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "One-Shot Federated Learning: Theoretical Limits and Algorithms to Achieve Them",
+        "paper_url": "http://jmlr.org/papers/v22/19-1048.html",
+        "paper_authors": [
+            "Saber Salehkaleybar",
+            "Arsalan Sharif-Nassab",
+            "S. Jamaloddin Golestani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Collusion Detection and Ground Truth Inference in Crowdsourcing for Labeling Tasks",
+        "paper_url": "http://jmlr.org/papers/v22/19-373.html",
+        "paper_authors": [
+            "Changyue Song",
+            "Kaibo Liu",
+            "Xi Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On the Estimation of Network Complexity: Dimension of Graphons",
+        "paper_url": "http://jmlr.org/papers/v22/19-747.html",
+        "paper_authors": [
+            "Yann Issartel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Method of Contraction-Expansion (MOCE) for Simultaneous Inference in Linear Models",
+        "paper_url": "http://jmlr.org/papers/v22/19-776.html",
+        "paper_authors": [
+            "Fei Wang",
+            "Ling Zhou",
+            "Lu Tang",
+            "Peter X. K. Song"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sparse Popularity Adjusted Stochastic Block Model",
+        "paper_url": "http://jmlr.org/papers/v22/19-835.html",
+        "paper_authors": [
+            "Majid Noroozi",
+            "Marianna Pensky",
+            "Ramchandra Rimal"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Limit theorems for out-of-sample extensions of the adjacency and Laplacian spectral embeddings",
+        "paper_url": "http://jmlr.org/papers/v22/19-852.html",
+        "paper_authors": [
+            "Keith D. Levin",
+            "Fred Roosta",
+            "Minh Tang",
+            "Michael W. Mahoney",
+            "Carey E. Priebe"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Laplacian Matrix from Graph Signals with Sparse Spectral Representation",
+        "paper_url": "http://jmlr.org/papers/v22/19-944.html",
+        "paper_authors": [
+            "Pierre Humbert",
+            "Batiste Le Bars",
+            "Laurent Oudre",
+            "Argyris Kalogeratos",
+            "Nicolas Vayatis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "COKE: Communication-Censored Decentralized Kernel Learning",
+        "paper_url": "http://jmlr.org/papers/v22/20-070.html",
+        "paper_authors": [
+            "Ping Xu",
+            "Yue Wang",
+            "Xiang Chen",
+            "Zhi Tian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Particle-Gibbs Sampling for Bayesian Feature Allocation Models",
+        "paper_url": "http://jmlr.org/papers/v22/20-082.html",
+        "paper_authors": [
+            "Alexandre Bouchard-C\u00f4t\u00e9",
+            "Andrew Roth"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Integrated Principal Components Analysis",
+        "paper_url": "http://jmlr.org/papers/v22/20-084.html",
+        "paper_authors": [
+            "Tiffany M. Tang",
+            "Genevera I. Allen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On ADMM in Deep Learning: Convergence and Saturation-Avoidance",
+        "paper_url": "http://jmlr.org/papers/v22/20-1006.html",
+        "paper_authors": [
+            "Jinshan Zeng",
+            "Shao-Bo Lin",
+            "Yuan Yao",
+            "Ding-Xuan Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Refined approachability algorithms and application to regret minimization with global costs",
+        "paper_url": "http://jmlr.org/papers/v22/20-1019.html",
+        "paper_authors": [
+            "Joon Kwon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Understanding How Dimension Reduction Tools Work: An Empirical Approach to Deciphering t-SNE, UMAP, TriMap, and PaCMAP for Data Visualization",
+        "paper_url": "http://jmlr.org/papers/v22/20-1061.html",
+        "paper_authors": [
+            "Yingfan Wang",
+            "Haiyang Huang",
+            "Cynthia Rudin",
+            "Yaron Shaposhnik"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Interpretable Deep Generative Recommendation Models",
+        "paper_url": "http://jmlr.org/papers/v22/20-1098.html",
+        "paper_authors": [
+            "Huafeng Liu",
+            "Liping Jing",
+            "Jingxuan Wen",
+            "Pengyu Xu",
+            "Jiaqi Wang",
+            "Jian Yu",
+            "Michael K. Ng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning partial correlation graphs and graphical models by covariance queries",
+        "paper_url": "http://jmlr.org/papers/v22/20-1137.html",
+        "paper_authors": [
+            "G\u00e1bor Lugosi",
+            "Jakub Truszkowski",
+            "Vasiliki Velona",
+            "Piotr Zwiernik"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Failures of Model-dependent Generalization Bounds for Least-norm Interpolation",
+        "paper_url": "http://jmlr.org/papers/v22/20-1164.html",
+        "paper_authors": [
+            "Peter L. Bartlett",
+            "Philip M. Long"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Langevin Monte Carlo: random coordinate descent and variance reduction",
+        "paper_url": "http://jmlr.org/papers/v22/20-1205.html",
+        "paper_authors": [
+            "Zhiyan Ding",
+            "Qin Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hamilton-Jacobi Deep Q-Learning for Deterministic Continuous-Time Systems with Lipschitz Continuous Controls",
+        "paper_url": "http://jmlr.org/papers/v22/20-1235.html",
+        "paper_authors": [
+            "Jeongho Kim",
+            "Jaeuk Shin",
+            "Insoon Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Unified Convergence Analysis for Shuffling-Type Gradient Methods",
+        "paper_url": "http://jmlr.org/papers/v22/20-1238.html",
+        "paper_authors": [
+            "Lam M. Nguyen",
+            "Quoc Tran-Dinh",
+            "Dzung T. Phan",
+            "Phuong Ha Nguyen",
+            "Marten van Dijk"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Oblivious Data for Fairness with Kernels",
+        "paper_url": "http://jmlr.org/papers/v22/20-1311.html",
+        "paper_authors": [
+            "Steffen Gr\u00fcnew\u00e4lder",
+            "Azadeh Khaleghi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Explaining by Removing: A Unified Framework for Model Explanation",
+        "paper_url": "http://jmlr.org/papers/v22/20-1316.html",
+        "paper_authors": [
+            "Ian Covert",
+            "Scott M. Lundberg",
+            "Su-In Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Policy Teaching in Reinforcement Learning via Environment Poisoning Attacks",
+        "paper_url": "http://jmlr.org/papers/v22/20-1329.html",
+        "paper_authors": [
+            "Amin Rakhsha",
+            "Goran Radanovic",
+            "Rati Devidze",
+            "Xiaojin Zhu",
+            "Adish Singla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bandit Learning in Decentralized Matching Markets",
+        "paper_url": "http://jmlr.org/papers/v22/20-1429.html",
+        "paper_authors": [
+            "Lydia T. Liu",
+            "Feng Ruan",
+            "Horia Mania",
+            "Michael I. Jordan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Convex Geometry and Duality of Over-parameterized Neural Networks",
+        "paper_url": "http://jmlr.org/papers/v22/20-1447.html",
+        "paper_authors": [
+            "Tolga Ergen",
+            "Mert Pilanci"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cooperative SGD: A Unified Framework for the Design and Analysis of Local-Update SGD Algorithms",
+        "paper_url": "http://jmlr.org/papers/v22/20-147.html",
+        "paper_authors": [
+            "Jianyu Wang",
+            "Gauri Joshi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "dalex: Responsible Machine Learning with Interactive Explainability and Fairness in Python",
+        "paper_url": "http://jmlr.org/papers/v22/20-1473.html",
+        "paper_authors": [
+            "Hubert Baniecki",
+            "Wojciech Kretowicz",
+            "Piotr Piatyszek",
+            "Jakub Wisniewski",
+            "Przemyslaw Biecek"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TensorHive: Management of Exclusive GPU Access for Distributed Machine Learning Workloads",
+        "paper_url": "http://jmlr.org/papers/v22/20-225.html",
+        "paper_authors": [
+            "Pawel Rosciszewski",
+            "Michal Martyniak",
+            "Filip Schodowski"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Context-dependent Networks in Multivariate Time Series: Models, Methods, and Risk Bounds in High Dimensions",
+        "paper_url": "http://jmlr.org/papers/v22/20-244.html",
+        "paper_authors": [
+            "Lili Zheng",
+            "Garvesh Raskutti",
+            "Rebecca Willett",
+            "Benjamin Mark"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Unified Framework for Spectral Clustering in Sparse Graphs",
+        "paper_url": "http://jmlr.org/papers/v22/20-261.html",
+        "paper_authors": [
+            "Lorenzo Dall'Amico",
+            "Romain Couillet",
+            "Nicolas Tremblay"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Thompson Sampling Algorithms for Cascading Bandits",
+        "paper_url": "http://jmlr.org/papers/v22/20-447.html",
+        "paper_authors": [
+            "Zixin Zhong",
+            "Wang Chi Chueng",
+            "Vincent Y. F. Tan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Soft Tensor Regression",
+        "paper_url": "http://jmlr.org/papers/v22/20-476.html",
+        "paper_authors": [
+            "Georgia Papadogeorgou",
+            "Zhengwu Zhang",
+            "David B. Dunson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Shape-Enforcing Operators for Generic Point and Interval Estimators of Functions",
+        "paper_url": "http://jmlr.org/papers/v22/20-513.html",
+        "paper_authors": [
+            "Xi Chen",
+            "Victor Chernozhukov",
+            "Iv\u00e1n Fern\u00e1ndez-Val",
+            "Scott Kostyshak",
+            "Ye Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Bayes-Optimal View on Adversarial Examples",
+        "paper_url": "http://jmlr.org/papers/v22/20-567.html",
+        "paper_authors": [
+            "Eitan Richardson",
+            "Yair Weiss"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Classification vs regression in overparameterized regimes: Does the loss function matter?",
+        "paper_url": "http://jmlr.org/papers/v22/20-603.html",
+        "paper_authors": [
+            "Vidya Muthukumar",
+            "Adhyyan Narang",
+            "Vignesh Subramanian",
+            "Mikhail Belkin",
+            "Daniel Hsu",
+            "Anant Sahai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Stochastic Online Optimization using Kalman Recursion",
+        "paper_url": "http://jmlr.org/papers/v22/20-618.html",
+        "paper_authors": [
+            "Joseph De Vilmarest",
+            "Olivier Wintenberger"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bayesian Distance Clustering",
+        "paper_url": "http://jmlr.org/papers/v22/20-688.html",
+        "paper_authors": [
+            "Leo L. Duan",
+            "David B. Dunson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Representer Theorems in Banach Spaces: Minimum Norm Interpolation, Regularized Learning and Semi-Discrete Inverse Problems",
+        "paper_url": "http://jmlr.org/papers/v22/20-751.html",
+        "paper_authors": [
+            "Rui Wang",
+            "Yuesheng Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FATE: An Industrial Grade Platform for Collaborative Learning With Data Protection",
+        "paper_url": "http://jmlr.org/papers/v22/20-815.html",
+        "paper_authors": [
+            "Yang Liu",
+            "Tao Fan",
+            "Tianjian Chen",
+            "Qian Xu",
+            "Qiang Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tighter Risk Certificates for Neural Networks",
+        "paper_url": "http://jmlr.org/papers/v22/20-879.html",
+        "paper_authors": [
+            "Mar\u00eda P\u00e9rez-Ortiz",
+            "Omar Rivasplata",
+            "John Shawe-Taylor",
+            "Csaba Szepesv\u00e1ri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "How Well Generative Adversarial Networks Learn Distributions",
+        "paper_url": "http://jmlr.org/papers/v22/20-911.html",
+        "paper_authors": [
+            "Tengyuan Liang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Convolutional Neural Networks Are Not Invariant to Translation, but They Can Learn to Be",
+        "paper_url": "http://jmlr.org/papers/v22/21-0019.html",
+        "paper_authors": [
+            "Valerio Biscione",
+            "Jeffrey S. Bowers"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning with semi-definite programming: statistical bounds based on fixed point analysis and excess risk curvature",
+        "paper_url": "http://jmlr.org/papers/v22/21-0021.html",
+        "paper_authors": [
+            "St\u00e9phane Chr\u00e9tien",
+            "Mihai Cucuringu",
+            "Guillaume Lecu\u00e9",
+            "Lucie Neirac"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "sklvq: Scikit Learning Vector Quantization",
+        "paper_url": "http://jmlr.org/papers/v22/21-0029.html",
+        "paper_authors": [
+            "Rick van Veen",
+            "Michael Biehl",
+            "Gert-Jan de Vries"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Probabilistic Iterative Methods for Linear Systems",
+        "paper_url": "http://jmlr.org/papers/v22/21-0031.html",
+        "paper_authors": [
+            "Jon Cockayne",
+            "Ilse C. F. Ipsen",
+            "Chris J. Oates",
+            "Tim W. Reid"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Generalised Linear Model Framework for \u03b2-Variational Autoencoders based on Exponential Dispersion Families",
+        "paper_url": "http://jmlr.org/papers/v22/21-0037.html",
+        "paper_authors": [
+            "Robert Sicks",
+            "Ralf Korn",
+            "Stefanie Schwaar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A general linear-time inference method for Gaussian Processes on one dimension",
+        "paper_url": "http://jmlr.org/papers/v22/21-0072.html",
+        "paper_authors": [
+            "Jackson Loper",
+            "David M. Blei",
+            "John P. Cunningham",
+            "Liam Paninski"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GIBBON: General-purpose Information-Based Bayesian Optimisation",
+        "paper_url": "http://jmlr.org/papers/v22/21-0120.html",
+        "paper_authors": [
+            "Henry B. Moss",
+            "David S. Leslie",
+            "Javier Gonzalez",
+            "Paul Rayson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Expanding Boundaries of Gap Safe Screening",
+        "paper_url": "http://jmlr.org/papers/v22/21-0179.html",
+        "paper_authors": [
+            "C\u00e1ssio Fraga Dantas",
+            "Emmanuel Soubies",
+            "C\u00e9dric F\u00e9votte"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Consensus-Based Optimization on the Sphere: Convergence to Global Minimizers and Machine Learning",
+        "paper_url": "http://jmlr.org/papers/v22/21-0259.html",
+        "paper_authors": [
+            "Massimo Fornasier",
+            "Lorenzo Pareschi",
+            "Hui Huang",
+            "Philippe S\u00fcnnen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DeEPCA: Decentralized Exact PCA with Linear Convergence Rate",
+        "paper_url": "http://jmlr.org/papers/v22/21-0298.html",
+        "paper_authors": [
+            "Haishan Ye",
+            "Tong Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Decentralized Stochastic Gradient Langevin Dynamics and Hamiltonian Monte Carlo",
+        "paper_url": "http://jmlr.org/papers/v22/21-0307.html",
+        "paper_authors": [
+            "Mert G\u00fcrb\u00fczbalaban",
+            "Xuefeng Gao",
+            "Yuanhan Hu",
+            "Lingjiong Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DIG: A Turnkey Library for Diving into Graph Deep Learning Research",
+        "paper_url": "http://jmlr.org/papers/v22/21-0343.html",
+        "paper_authors": [
+            "Meng Liu",
+            "Youzhi Luo",
+            "Limei Wang",
+            "Yaochen Xie",
+            "Hao Yuan",
+            "Shurui Gui",
+            "Haiyang Yu",
+            "Zhao Xu",
+            "Jingtun Zhang",
+            "Yi Liu",
+            "Keqiang Yan",
+            "Haoran Liu",
+            "Cong Fu",
+            "Bora Oztekin",
+            "Xuan Zhang",
+            "Shuiwang Ji"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks",
+        "paper_url": "http://jmlr.org/papers/v22/21-0366.html",
+        "paper_authors": [
+            "Torsten Hoefler",
+            "Dan Alistarh",
+            "Tal Ben-Nun",
+            "Nikoli Dryden",
+            "Alexandra Peste"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Wasserstein distance estimates for the distributions of numerical approximations to ergodic stochastic differential equations",
+        "paper_url": "http://jmlr.org/papers/v22/21-0453.html",
+        "paper_authors": [
+            "Jes\u00fas Mar\u00eda Sanz-Serna",
+            "Konstantinos C. Zygalakis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Quasi-Monte Carlo Quasi-Newton in Variational Bayes",
+        "paper_url": "http://jmlr.org/papers/v22/21-0498.html",
+        "paper_authors": [
+            "Sifan Liu",
+            "Art B. Owen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Consistency of Gaussian Process Regression in Metric Spaces",
+        "paper_url": "http://jmlr.org/papers/v22/21-0853.html",
+        "paper_authors": [
+            "Peter Koepernik",
+            "Florian Pfaff"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On lp-hyperparameter Learning via Bilevel Nonsmooth Optimization",
+        "paper_url": "http://jmlr.org/papers/v22/18-485.html",
+        "paper_authors": [
+            "Takayuki Okuno",
+            "Akiko Takeda",
+            "Akihiro Kawana",
+            "Motokazu Watanabe"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mixture Martingales Revisited with Applications to Sequential Tests and Confidence Intervals",
+        "paper_url": "http://jmlr.org/papers/v22/18-798.html",
+        "paper_authors": [
+            "Emilie Kaufmann",
+            "Wouter M. Koolen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Statistical Guarantees for Local Spectral Clustering on Random Neighborhood Graphs",
+        "paper_url": "http://jmlr.org/papers/v22/19-1016.html",
+        "paper_authors": [
+            "Alden Green",
+            "Sivaraman Balakrishnan",
+            "Ryan J. Tibshirani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Statistically and Computationally Efficient Change Point Localization in Regression Settings",
+        "paper_url": "http://jmlr.org/papers/v22/19-531.html",
+        "paper_authors": [
+            "Daren Wang",
+            "Zifeng Zhao",
+            "Kevin Z. Lin",
+            "Rebecca Willett"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On the Riemannian Search for Eigenvector Computation",
+        "paper_url": "http://jmlr.org/papers/v22/20-033.html",
+        "paper_authors": [
+            "Zhiqiang Xu",
+            "Ping Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bayesian time-aligned factor analysis of paired multivariate time series",
+        "paper_url": "http://jmlr.org/papers/v22/20-048.html",
+        "paper_authors": [
+            "Arkaprava Roy",
+            "Jana Schaich Borg",
+            "David B. Dunson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tractable Approximate Gaussian Inference for Bayesian Neural Networks",
+        "paper_url": "http://jmlr.org/papers/v22/20-1009.html",
+        "paper_authors": [
+            "James-A. Goulet",
+            "Luong Ha Nguyen",
+            "Saeid Amiri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Batch greedy maximization of non-submodular functions: Guarantees and applications to experimental design",
+        "paper_url": "http://jmlr.org/papers/v22/20-1023.html",
+        "paper_authors": [
+            "Jayanth Jagalur-Mohan",
+            "Youssef M. Marzouk"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bifurcation Spiking Neural Network",
+        "paper_url": "http://jmlr.org/papers/v22/20-1031.html",
+        "paper_authors": [
+            "Shao-Qun Zhang",
+            "Zhao-Yu Zhang",
+            "Zhi-Hua Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Inference for the Case Probability in High-dimensional Logistic Regression",
+        "paper_url": "http://jmlr.org/papers/v22/20-1050.html",
+        "paper_authors": [
+            "Zijian Guo",
+            "Prabrisha Rakshit",
+            "Daniel S. Herman",
+            "Jinbo Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Monte Carlo Meta-Learning of Optimal Prediction Procedures",
+        "paper_url": "http://jmlr.org/papers/v22/20-1065.html",
+        "paper_authors": [
+            "Alex Luedtke",
+            "Incheoul Chung",
+            "Oleg Sofrygin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Model Linkage Selection for Cooperative Learning",
+        "paper_url": "http://jmlr.org/papers/v22/20-1078.html",
+        "paper_authors": [
+            "Jiaying Zhou",
+            "Jie Ding",
+            "Kean Ming Tan",
+            "Vahid Tarokh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Estimating Uncertainty Intervals from Collaborating Networks",
+        "paper_url": "http://jmlr.org/papers/v22/20-1100.html",
+        "paper_authors": [
+            "Tianhui Zhou",
+            "Yitong Li",
+            "Yuan Wu",
+            "David E. Carlson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimized Score Transformation for Consistent Fair Classification",
+        "paper_url": "http://jmlr.org/papers/v22/20-1143.html",
+        "paper_authors": [
+            "Dennis Wei",
+            "Karthikeyan Natesan Ramamurthy",
+            "Fl\u00e1vio P. Calmon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ROOTS: Object-Centric Representation and Rendering of 3D Scenes",
+        "paper_url": "http://jmlr.org/papers/v22/20-1176.html",
+        "paper_authors": [
+            "Chang Chen",
+            "Fei Deng",
+            "Sungjin Ahn"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Strategies in Decentralized Matching Markets under Uncertain Preferences",
+        "paper_url": "http://jmlr.org/papers/v22/20-1221.html",
+        "paper_authors": [
+            "Xiaowu Dai",
+            "Michael I. Jordan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Domain adaptation under structural causal models",
+        "paper_url": "http://jmlr.org/papers/v22/20-1227.html",
+        "paper_authors": [
+            "Yuansi Chen",
+            "Peter B\u00fchlmann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Revisiting Model-Agnostic Private Learning: Faster Rates and Active Learning",
+        "paper_url": "http://jmlr.org/papers/v22/20-1251.html",
+        "paper_authors": [
+            "Chong Liu",
+            "Yuqing Zhu",
+            "Kamalika Chaudhuri",
+            "Yu-Xiang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On the Stability Properties and the Optimization Landscape of Training Problems with Squared Loss for Neural Networks and General Nonlinear Conic Approximation Schemes",
+        "paper_url": "http://jmlr.org/papers/v22/20-1259.html",
+        "paper_authors": [
+            "Constantin Christof"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Regularized spectral methods for clustering signed networks",
+        "paper_url": "http://jmlr.org/papers/v22/20-1289.html",
+        "paper_authors": [
+            "Mihai Cucuringu",
+            "Apoorv Vikram Singh",
+            "D\u00e9borah Sulem",
+            "Hemant Tyagi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exact Asymptotics for Linear Quadratic Adaptive Control",
+        "paper_url": "http://jmlr.org/papers/v22/20-1292.html",
+        "paper_authors": [
+            "Feicheng Wang",
+            "Lucas Janson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Bayesian Networks from Ordinal Data",
+        "paper_url": "http://jmlr.org/papers/v22/20-1338.html",
+        "paper_authors": [
+            "Xiang Ge Luo",
+            "Giusi Moffa",
+            "Jack Kuipers"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reproducing kernel Hilbert C*-module and kernel mean embeddings",
+        "paper_url": "http://jmlr.org/papers/v22/20-1346.html",
+        "paper_authors": [
+            "Yuka Hashimoto",
+            "Isao Ishikawa",
+            "Masahiro Ikeda",
+            "Fuyuta Komura",
+            "Takeshi Katsura",
+            "Yoshinobu Kawahara"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Stable-Baselines3: Reliable Reinforcement Learning Implementations",
+        "paper_url": "http://jmlr.org/papers/v22/20-1364.html",
+        "paper_authors": [
+            "Antonin Raffin",
+            "Ashley Hill",
+            "Adam Gleave",
+            "Anssi Kanervisto",
+            "Maximilian Ernestus",
+            "Noah Dormann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CAT: Compression-Aware Training for bandwidth reduction",
+        "paper_url": "http://jmlr.org/papers/v22/20-1374.html",
+        "paper_authors": [
+            "Chaim Baskin",
+            "Brian Chmiel",
+            "Evgenii Zheltonozhskii",
+            "Ron Banner",
+            "Alex M. Bronstein",
+            "Avi Mendelson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Further results on latent discourse models and word embeddings",
+        "paper_url": "http://jmlr.org/papers/v22/20-1413.html",
+        "paper_authors": [
+            "Sammy Khalife",
+            "Douglas Soares Gon\u00e7alves",
+            "Youssef Allouah",
+            "Leo Liberti"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Nonparametric Continuous Sensor Registration",
+        "paper_url": "http://jmlr.org/papers/v22/20-1468.html",
+        "paper_authors": [
+            "William A. Clark",
+            "Maani Ghaffari",
+            "Anthony M. Bloch"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Transferability of Spectral Graph Convolutional Neural Networks",
+        "paper_url": "http://jmlr.org/papers/v22/20-213.html",
+        "paper_authors": [
+            "Ron Levie",
+            "Wei Huang",
+            "Lorenzo Bucci",
+            "Michael M. Bronstein",
+            "Gitta Kutyniok"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On the Hardness of Robust Classification",
+        "paper_url": "http://jmlr.org/papers/v22/20-285.html",
+        "paper_authors": [
+            "Pascale Gourdeau",
+            "Varun Kanade",
+            "Marta Kwiatkowska",
+            "James Worrell"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Simultaneous Change Point Inference and Structure Recovery for High Dimensional Gaussian Graphical Models",
+        "paper_url": "http://jmlr.org/papers/v22/20-327.html",
+        "paper_authors": [
+            "Bin Liu",
+            "Xinsheng Zhang",
+            "Yufeng Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Partial Policy Iteration for L1-Robust Markov Decision Processes",
+        "paper_url": "http://jmlr.org/papers/v22/20-445.html",
+        "paper_authors": [
+            "Chin Pang Ho",
+            "Marek Petrik",
+            "Wolfram Wiesemann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Estimating the Lasso's Effective Noise",
+        "paper_url": "http://jmlr.org/papers/v22/20-539.html",
+        "paper_authors": [
+            "Johannes Lederer",
+            "Michael Vogt"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Gaussian Approximation for Bias Reduction in Q-Learning",
+        "paper_url": "http://jmlr.org/papers/v22/20-633.html",
+        "paper_authors": [
+            "Carlo D'Eramo",
+            "Andrea Cini",
+            "Alessandro Nuara",
+            "Matteo Pirotta",
+            "Cesare Alippi",
+            "Jan Peters",
+            "Marcello Restelli"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multilevel Monte Carlo Variational Inference",
+        "paper_url": "http://jmlr.org/papers/v22/20-653.html",
+        "paper_authors": [
+            "Masahiro Fujisawa",
+            "Issei Sato"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Learning for Renewal Optimization in Online Task Scheduling",
+        "paper_url": "http://jmlr.org/papers/v22/20-813.html",
+        "paper_authors": [
+            "Michael J. Neely"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Graph Matching with Partially-Correct Seeds",
+        "paper_url": "http://jmlr.org/papers/v22/21-0020.html",
+        "paper_authors": [
+            "Liren Yu",
+            "Jiaming Xu",
+            "Xiaojun Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Contrastive Estimation Reveals Topic Posterior Information to Linear Models",
+        "paper_url": "http://jmlr.org/papers/v22/21-0089.html",
+        "paper_authors": [
+            "Christopher Tosh",
+            "Akshay Krishnamurthy",
+            "Daniel Hsu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LDLE: Low Distortion Local Eigenmaps",
+        "paper_url": "http://jmlr.org/papers/v22/21-0131.html",
+        "paper_authors": [
+            "Dhruv Kohli",
+            "Alexander Cloninger",
+            "Gal Mishne"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Non-linear, Sparse Dimensionality Reduction via Path Lasso Penalized Autoencoders",
+        "paper_url": "http://jmlr.org/papers/v22/21-0203.html",
+        "paper_authors": [
+            "Oskar Allerbo",
+            "Rebecka J\u00f6rnsten"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Linear Bandits on Uniformly Convex Sets",
+        "paper_url": "http://jmlr.org/papers/v22/21-0277.html",
+        "paper_authors": [
+            "Thomas Kerdreux",
+            "Christophe Roux",
+            "Alexandre d'Aspremont",
+            "Sebastian Pokutta"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Double Generative Adversarial Networks for Conditional Independence Testing",
+        "paper_url": "http://jmlr.org/papers/v22/21-0294.html",
+        "paper_authors": [
+            "Chengchun Shi",
+            "Tianlin Xu",
+            "Wicher Bergsma",
+            "Lexin Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Online Sequential Test for Qualitative Treatment Effects",
+        "paper_url": "http://jmlr.org/papers/v22/21-0383.html",
+        "paper_authors": [
+            "Chengchun Shi",
+            "Shikai Luo",
+            "Hongtu Zhu",
+            "Rui Song"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "V-statistics and Variance Estimation",
+        "paper_url": "http://jmlr.org/papers/v22/21-0575.html",
+        "paper_authors": [
+            "Zhengze Zhou",
+            "Lucas Mentch",
+            "Giles Hooker"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Theory of the Risk for Optimization with Relaxation and its Application to Support Vector Machines",
+        "paper_url": "http://jmlr.org/papers/v22/21-0641.html",
+        "paper_authors": [
+            "Marco C. Campi",
+            "Simone Garatti"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "VariBAD: Variational Bayes-Adaptive Deep RL via Meta-Learning",
+        "paper_url": "http://jmlr.org/papers/v22/21-0657.html",
+        "paper_authors": [
+            "Luisa M. Zintgraf",
+            "Sebastian Schulze",
+            "Cong Lu",
+            "Leo Feng",
+            "Maximilian Igl",
+            "Kyriacos Shiarlis",
+            "Yarin Gal",
+            "Katja Hofmann",
+            "Shimon Whiteson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On Universal Approximation and Error Bounds for Fourier Neural Operators",
+        "paper_url": "http://jmlr.org/papers/v22/21-0806.html",
+        "paper_authors": [
+            "Nikola B. Kovachki",
+            "Samuel Lanthaler",
+            "Siddhartha Mishra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

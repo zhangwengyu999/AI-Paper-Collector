@@ -1,0 +1,1194 @@
+[
+    {
+        "paper_name": "Advances in Information Retrieval - 43rd European Conference on IR Research, ECIR 2021, Virtual Event, March 28 - April 1, 2021, Proceedings, Part II",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1",
+        "paper_authors": [
+            "Djoerd Hiemstra",
+            "Marie-Francine Moens",
+            "Josiane Mothe",
+            "Raffaele Perego",
+            "Martin Potthast",
+            "Fabrizio Sebastiani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cross-Domain Retrieval in the Legal and Patent Domains: A Reproducibility Study",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_1",
+        "paper_authors": [
+            "Sophia Althammer",
+            "Sebastian Hofst\u00e4tter",
+            "Allan Hanbury"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Critical Assessment of State-of-the-Art in Entity Alignment",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_2",
+        "paper_authors": [
+            "Max Berrendorf",
+            "Ludwig Wacker",
+            "Evgeniy Faerman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "System Effect Estimation by Sharding: A Comparison Between ANOVA Approaches to Detect Significant Differences",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_3",
+        "paper_authors": [
+            "Guglielmo Faggioli",
+            "Nicola Ferro"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reliability Prediction for Health-Related Content: A Replicability Study",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_4",
+        "paper_authors": [
+            "Marcos Fern\u00e1ndez-Pichel",
+            "David E. Losada",
+            "Juan Carlos Pichel",
+            "David Elsweiler"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Empirical Comparison of Web Page Segmentation Algorithms",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_5",
+        "paper_authors": [
+            "Johannes Kiesel",
+            "Lars Meyer",
+            "Florian Kneist",
+            "Benno Stein",
+            "Martin Potthast"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Re-assessing the \"Classify and Count\" Quantification Method",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_6",
+        "paper_authors": [
+            "Alejandro Moreo",
+            "Fabrizio Sebastiani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reproducibility, Replicability and Beyond: Assessing Production Readiness of Aspect Based Sentiment Analysis in the Wild",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_7",
+        "paper_authors": [
+            "Rajdeep Mukherjee",
+            "Shreyas Shetty",
+            "Subrata Chattopadhyay",
+            "Subhadeep Maji",
+            "Samik Datta",
+            "Pawan Goyal"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robustness of Meta Matrix Factorization Against Strict Privacy Constraints",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_8",
+        "paper_authors": [
+            "Peter M\u00fcllner",
+            "Dominik Kowald",
+            "Elisabeth Lex"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Textual Characteristics of News Title and Body to Detect Fake News: A Reproducibility Study",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_9",
+        "paper_authors": [
+            "Anu Shrestha",
+            "Francesca Spezzano"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Federated Online Learning to Rank with Evolution Strategies: A Reproducibility Study",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_10",
+        "paper_authors": [
+            "Shuyi Wang",
+            "Shengyao Zhuang",
+            "Guido Zuccon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Comparing Score Aggregation Approaches for Document Retrieval with Pretrained Transformers",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_11",
+        "paper_authors": [
+            "Xinyu Zhang",
+            "Andrew Yates",
+            "Jimmy Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Transformer-Based Approach Towards Music Emotion Recognition from Lyrics",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_12",
+        "paper_authors": [
+            "Yudhik Agrawal",
+            "Ramaguru Guru Ravi Shanker",
+            "Vinoo Alluri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BiGBERT: Classifying Educational Web Resources for Kindergarten-12th Grades",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_13",
+        "paper_authors": [
+            "Garrett Allen",
+            "Brody Downs",
+            "Aprajita Shukla",
+            "Casey Kennington",
+            "Jerry Alan Fails",
+            "Katherine Landau Wright",
+            "Maria Soledad Pera"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "How Do Users Revise Zero-Hit Product Search Queries?",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_14",
+        "paper_authors": [
+            "Yuki Amemiya",
+            "Tomohiro Manabe",
+            "Sumio Fujita",
+            "Tetsuya Sakai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Query Performance Prediction Through Retrieval Coherency",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_15",
+        "paper_authors": [
+            "Negar Arabzadeh",
+            "Amin Bigdeli",
+            "Morteza Zihayat",
+            "Ebrahim Bagheri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "From the Beatles to Billie Eilish: Connecting Provider Representativeness and Exposure in Session-Based Recommender Systems",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_16",
+        "paper_authors": [
+            "Alejandro Ariza",
+            "Francesco Fabbri",
+            "Ludovico Boratto",
+            "Maria Salam\u00f3"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bayesian System Inference on Shallow Pools",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_17",
+        "paper_authors": [
+            "Rodger Benham",
+            "Alistair Moffat",
+            "J. Shane Culpepper"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploring Gender Biases in Information Retrieval Relevance Judgement Datasets",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_18",
+        "paper_authors": [
+            "Amin Bigdeli",
+            "Negar Arabzadeh",
+            "Morteza Zihayat",
+            "Ebrahim Bagheri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Assessing the Benefits of Model Ensembles in Neural Re-ranking for Passage Retrieval",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_19",
+        "paper_authors": [
+            "Lu\u00eds Borges",
+            "Bruno Martins",
+            "Jamie Callan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Event Detection with Entity Markers",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_20",
+        "paper_authors": [
+            "Emanuela Boros",
+            "Jos\u00e9 G. Moreno",
+            "Antoine Doucet"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Simplified TinyBERT: Knowledge Distillation for Document Retrieval",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_21",
+        "paper_authors": [
+            "Xuanang Chen",
+            "Ben He",
+            "Kai Hui",
+            "Le Sun",
+            "Yingfei Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Cold-Start Recommendation via Multi-prior Meta-learning",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_22",
+        "paper_authors": [
+            "Zhengyu Chen",
+            "Donglin Wang",
+            "Shiqian Yin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A White Box Analysis of ColBERT",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_23",
+        "paper_authors": [
+            "Thibault Formal",
+            "Benjamin Piwowarski",
+            "St\u00e9phane Clinchant"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Diversity Aware Relevance Learning for Argument Search",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_24",
+        "paper_authors": [
+            "Michael Fromm",
+            "Max Berrendorf",
+            "Sandra Obermeier",
+            "Thomas Seidl",
+            "Evgeniy Faerman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SQE-GAN: A Supervised Query Expansion Scheme via GAN",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_25",
+        "paper_authors": [
+            "Tianle Fu",
+            "Qi Tian",
+            "Hui Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rethink Training of BERT Rerankers in Multi-stage Retrieval Pipeline",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_26",
+        "paper_authors": [
+            "Luyu Gao",
+            "Zhuyun Dai",
+            "Jamie Callan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Should I Visit This Place? Inclusion and Exclusion Phrase Mining from Reviews",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_27",
+        "paper_authors": [
+            "Omkar Gurjar",
+            "Manish Gupta"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dynamic Cross-Sentential Context Representation for Event Detection",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_28",
+        "paper_authors": [
+            "Dorian Kodelja",
+            "Romaric Besan\u00e7on",
+            "Olivier Ferret"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Transfer Learning and Augmentation for Word Sense Disambiguation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_29",
+        "paper_authors": [
+            "Harsh Kohli"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cross-modal Memory Fusion Network for Multimodal Sequential Learning with Missing Values",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_30",
+        "paper_authors": [
+            "Chen Lin",
+            "Joyce C. Ho",
+            "Eugene Agichtein"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Social Media Popularity Prediction of Planned Events Using Deep Learning",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_31",
+        "paper_authors": [
+            "Sreekanth Madisetty",
+            "Maunendra Sankar Desarkar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Right for the Right Reasons: Making Image Classification Intuitively Explainable",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_32",
+        "paper_authors": [
+            "Anna Nguyen",
+            "Adrian Oberf\u00f6ll",
+            "Michael F\u00e4rber"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Weakly Supervised Label Smoothing",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_33",
+        "paper_authors": [
+            "Gustavo Penha",
+            "Claudia Hauff"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Neural Feature Selection for Learning to Rank",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_34",
+        "paper_authors": [
+            "Alberto Purpura",
+            "Karolina Buchner",
+            "Gianmaria Silvello",
+            "Gian Antonio Susto"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploring the Incorporation of Opinion Polarity for Abstractive Multi-document Summarisation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_35",
+        "paper_authors": [
+            "Dominik Ramsauer",
+            "Udo Kruschwitz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multilingual Evidence Retrieval and Fact Verification to Combat Global Disinformation: The Power of Polyglotism",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_36",
+        "paper_authors": [
+            "Denisa A. O. Roberts"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "How Do Active Reading Strategies Affect Learning Outcomes in Web Search?",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_37",
+        "paper_authors": [
+            "Nirmal Roy",
+            "Manuel Valle Torre",
+            "Ujwal Gadiraju",
+            "David Maxwell",
+            "Claudia Hauff"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fine-Tuning BERT for COVID-19 Domain Ad-Hoc IR by Using Pseudo-qrels",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_38",
+        "paper_authors": [
+            "Xabier Saralegi",
+            "I\u00f1aki San Vicente"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Windowing Models for Abstractive Summarization of Long Texts",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_39",
+        "paper_authors": [
+            "Leon Sch\u00fcller",
+            "Florian Wilhelm",
+            "Nico Kreiling",
+            "Goran Glavas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Dark Jargon Interpretation in Underground Forums",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_40",
+        "paper_authors": [
+            "Dominic Seyler",
+            "Wei Liu",
+            "XiaoFeng Wang",
+            "ChengXiang Zhai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-span Extractive Reading Comprehension Without Multi-span Supervision",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_41",
+        "paper_authors": [
+            "Takumi Takahashi",
+            "Motoki Taniguchi",
+            "Tomoki Taniguchi",
+            "Tomoko Ohkuma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Textual Complexity as an Indicator of Document Relevance",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_42",
+        "paper_authors": [
+            "Anastasia Taranova",
+            "Martin Braschler"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Comparison of Question Rewriting Methods for Conversational Passage Retrieval",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_43",
+        "paper_authors": [
+            "Svitlana Vakulenko",
+            "Nikos Voskarides",
+            "Zhucheng Tu",
+            "Shayne Longpre"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Predicting Question Responses to Improve the Performance of Retrieval-Based Chatbot",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_44",
+        "paper_authors": [
+            "Disen Wang",
+            "Hui Fang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-head Self-attention with Role-Guided Masks",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_45",
+        "paper_authors": [
+            "Dongsheng Wang",
+            "Casper Hansen",
+            "Lucas Chaves Lima",
+            "Christian Hansen",
+            "Maria Maistro",
+            "Jakob Grue Simonsen",
+            "Christina Lioma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PGT: Pseudo Relevance Feedback Using a Graph-Based Transformer",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_46",
+        "paper_authors": [
+            "HongChien Yu",
+            "Zhuyun Dai",
+            "Jamie Callan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Clustering-Augmented Multi-instance Learning for Neural Relation Extraction",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_47",
+        "paper_authors": [
+            "Qi Zhang",
+            "Siliang Tang",
+            "Jinquan Sun",
+            "Yu Wang",
+            "Lei Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Detecting and Forecasting Misinformation via Temporal and Geometric Propagation Patterns",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_48",
+        "paper_authors": [
+            "Qiang Zhang",
+            "Jonathan Cook",
+            "Emine Yilmaz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Query Likelihood Model for Information Retrieval",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_49",
+        "paper_authors": [
+            "Shengyao Zhuang",
+            "Hang Li",
+            "Guido Zuccon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tweet Length Matters: A Comparative Analysis on Topic Detection in Microblogs",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_50",
+        "paper_authors": [
+            "Furkan Sahinu\u00e7",
+            "Cagri Toraman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "repro_eval: A Python Interface to Reproducibility Measures of System-Oriented IR Experiments",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_51",
+        "paper_authors": [
+            "Timo Breuer",
+            "Nicola Ferro",
+            "Maria Maistro",
+            "Philipp Schaer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Signal Briefings: Monitoring News Beyond the Brand",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_52",
+        "paper_authors": [
+            "James Brill",
+            "Dyaa Albakour",
+            "Jos\u00e9 Esquivel",
+            "Udo Kruschwitz",
+            "Miguel Martinez",
+            "Jon Chamberlain"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Time-Matters: Temporal Unfolding of Texts",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_53",
+        "paper_authors": [
+            "Ricardo Campos",
+            "Jorge Duque",
+            "Tiago C\u00e2ndido",
+            "Jorge Mendes",
+            "Ga\u00ebl Dias",
+            "Al\u00edpio Jorge",
+            "C\u00e9lia Nunes"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Extensible Toolkit of Query Refinement Methods and Gold Standard Dataset Generation",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_54",
+        "paper_authors": [
+            "Hossein Fani",
+            "Mahtab Tamannaee",
+            "Fattane Zarrinkalam",
+            "Jamil Samouh",
+            "Samad Paydar",
+            "Ebrahim Bagheri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CoralExp: An Explainable System to Support Coral Taxonomy Research",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_55",
+        "paper_authors": [
+            "Jaiden Harding",
+            "Tom Bridge",
+            "Gianluca Demartini"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AWESSOME: An Unsupervised Sentiment Intensity Scoring Framework Using Neural Word Embeddings",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_56",
+        "paper_authors": [
+            "Amal Htait",
+            "Leif Azzopardi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "HSEarch: Semantic Search System for Workplace Accident Reports",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_57",
+        "paper_authors": [
+            "Emrah Inan",
+            "Paul Thompson",
+            "Tim Yates",
+            "Sophia Ananiadou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-view Conversational Search Interface Using a Dialogue-Based Agent",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_58",
+        "paper_authors": [
+            "Abhishek Kaushik",
+            "Nicolas Loir",
+            "Gareth J. F. Jones"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LogUI: Contemporary Logging Infrastructure for Web-Based Experiments",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_59",
+        "paper_authors": [
+            "David Maxwell",
+            "Claudia Hauff"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LEMONS: Listenable Explanations for Music recOmmeNder Systems",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_60",
+        "paper_authors": [
+            "Alessandro B. Melchiorre",
+            "Verena Haunschmid",
+            "Markus Schedl",
+            "Gerhard Widmer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Aspect-Based Passage Retrieval with Contextualized Discourse Vectors",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_61",
+        "paper_authors": [
+            "Jens-Michalis Papaioannou",
+            "Manuel Mayrdorfer",
+            "Sebastian Arnold",
+            "Felix A. Gers",
+            "Klemens Budde",
+            "Alexander L\u00f6ser"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "News Monitor: A Framework for Querying News in Real Time",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_62",
+        "paper_authors": [
+            "Antonia Saravanou",
+            "Nikolaos Panagiotou",
+            "Dimitrios Gunopulos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Chattack: A Gamified Crowd-Sourcing Platform for Tagging Deceptive & Abusive Behaviour",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_63",
+        "paper_authors": [
+            "Emmanouil Smyrnakis",
+            "Katerina Papantoniou",
+            "Panagiotis Papadakos",
+            "Yannis Tzitzikas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PreFace++: Faceted Retrieval of Prerequisites and Technical Data",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_64",
+        "paper_authors": [
+            "Prajna Upadhyay",
+            "Maya Ramanath"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Brief Description of COVID-SEE: The Scientific Evidence Explorer for COVID-19 Related Research",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_65",
+        "paper_authors": [
+            "Karin Verspoor",
+            "Simon Suster",
+            "Yulia Otmakhova",
+            "Shevon Mendis",
+            "Zenan Zhai",
+            "Biaoyan Fang",
+            "Jey Han Lau",
+            "Timothy Baldwin",
+            "Antonio Jimeno-Yepes",
+            "David Mart\u00ednez"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Overview of PAN 2021: Authorship Verification, Profiling Hate Speech Spreaders on Twitter, and Style Change Detection - Extended Abstract",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_66",
+        "paper_authors": [
+            "Janek Bevendorff",
+            "Berta Chulvi",
+            "Gretel Liz De la Pe\u00f1a Sarrac\u00e9n",
+            "Mike Kestemont",
+            "Enrique Manjavacas",
+            "Ilia Markov",
+            "Maximilian Mayerl",
+            "Martin Potthast",
+            "Francisco Manuel Rangel Pardo",
+            "Paolo Rosso",
+            "Efstathios Stamatatos",
+            "Benno Stein",
+            "Matti Wiegmann",
+            "Magdalena Wolska",
+            "Eva Zangerle"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Overview of Touch\u00e9 2021: Argument Retrieval - Extended Abstract",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_67",
+        "paper_authors": [
+            "Alexander Bondarenko",
+            "Lukas Gienapp",
+            "Maik Fr\u00f6be",
+            "Meriem Beloucif",
+            "Yamen Ajjour",
+            "Alexander Panchenko",
+            "Chris Biemann",
+            "Benno Stein",
+            "Henning Wachsmuth",
+            "Martin Potthast",
+            "Matthias Hagen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Text Simplification for Scientific Information Access - CLEF 2021 SimpleText Workshop",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_68",
+        "paper_authors": [
+            "Liana Ermakova",
+            "Patrice Bellot",
+            "Pavel Braslavski",
+            "Jaap Kamps",
+            "Josiane Mothe",
+            "Diana Nurbakova",
+            "Irina Ovchinnikova",
+            "Eric SanJuan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CLEF eHealth Evaluation Lab 2021",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_69",
+        "paper_authors": [
+            "Lorraine Goeuriot",
+            "Hanna Suominen",
+            "Liadh Kelly",
+            "Laura Alonso Alemany",
+            "Nicola Brew-Sam",
+            "Viviana Cotik",
+            "Dar\u00edo Filippo",
+            "Gabriela Gonz\u00e1lez S\u00e1ez",
+            "Franco Luque",
+            "Philippe Mulhem",
+            "Gabriella Pasi",
+            "Roland Roller",
+            "Sandaru Seneviratne",
+            "Jorge Vivaldi",
+            "Marco Viviani",
+            "Chenchen Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LifeCLEF 2021 Teaser: Biodiversity Identification and Prediction Challenges",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_70",
+        "paper_authors": [
+            "Alexis Joly",
+            "Herv\u00e9 Go\u00ebau",
+            "Elijah Cole",
+            "Stefan Kahl",
+            "Luk\u00e1s Picek",
+            "Herv\u00e9 Glotin",
+            "Benjamin Deneu",
+            "Maximilien Servajean",
+            "Titouan Lorieul",
+            "Willem-Pier Vellinga",
+            "Pierre Bonnet",
+            "Andrew Durso",
+            "Rafael Luis Ruiz De Castaneda",
+            "Ivan Eggel",
+            "Henning M\u00fcller"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ChEMU 2021: Reaction Reference Resolution and Anaphora Resolution in Chemical Patents",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_71",
+        "paper_authors": [
+            "Jiayuan He",
+            "Biaoyan Fang",
+            "Hiyori Yoshikawa",
+            "Yuan Li",
+            "Saber A. Akhondi",
+            "Christian Druckenbrodt",
+            "Camilo Thorne",
+            "Zubair Afzal",
+            "Zenan Zhai",
+            "Lawrence Cavedon",
+            "Trevor Cohn",
+            "Timothy Baldwin",
+            "Karin Verspoor"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The 2021 ImageCLEF Benchmark: Multimedia Retrieval in Medical, Nature, Internet and Social Media Applications",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_72",
+        "paper_authors": [
+            "Bogdan Ionescu",
+            "Henning M\u00fcller",
+            "Renaud P\u00e9teri",
+            "Asma Ben Abacha",
+            "Dina Demner-Fushman",
+            "Sadid A. Hasan",
+            "Mourad Sarrouti",
+            "Obioma Pelka",
+            "Christoph M. Friedrich",
+            "Alba Garcia Seco de Herrera",
+            "Janadhip Jacutprakart",
+            "Vassili Kovalev",
+            "Serge Kozlovski",
+            "Vitali Liauchuk",
+            "Yashin Dicente Cid",
+            "Jon Chamberlain",
+            "Adrian F. Clark",
+            "Antonio Campello",
+            "Hassan Moustahfid",
+            "Thomas Oliver",
+            "Abigail Schulz",
+            "Paul Brie",
+            "Raul Berari",
+            "Dimitri Fichou",
+            "Andrei Tauteanu",
+            "Mihai Dogariu",
+            "Liviu-Daniel Stefan",
+            "Mihai Gabriel Constantin",
+            "J\u00e9r\u00f4me Deshayes",
+            "Adrian Popescu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BioASQ at CLEF2021: Large-Scale Biomedical Semantic Indexing and Question Answering",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_73",
+        "paper_authors": [
+            "Anastasia Krithara",
+            "Anastasios Nentidis",
+            "Georgios Paliouras",
+            "Martin Krallinger",
+            "Antonio Miranda"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Advancing Math-Aware Search: The ARQMath-2 Lab at CLEF 2021",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_74",
+        "paper_authors": [
+            "Behrooz Mansouri",
+            "Anurag Agarwal",
+            "Douglas W. Oard",
+            "Richard Zanibbi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The CLEF-2021 CheckThat! Lab on Detecting Check-Worthy Claims, Previously Fact-Checked Claims, and Fake News",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_75",
+        "paper_authors": [
+            "Preslav Nakov",
+            "Giovanni Da San Martino",
+            "Tamer Elsayed",
+            "Alberto Barr\u00f3n-Cede\u00f1o",
+            "Rub\u00e9n M\u00edguez",
+            "Shaden Shaar",
+            "Firoj Alam",
+            "Fatima Haouari",
+            "Maram Hasanain",
+            "Nikolay Babulkov",
+            "Alex Nikolov",
+            "Gautam Kishore Shahi",
+            "Julia Maria Stru\u00df",
+            "Thomas Mandl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "eRisk 2021: Pathological Gambling, Self-harm and Depression Challenges",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_76",
+        "paper_authors": [
+            "Javier Parapar",
+            "Patricia Mart\u00edn-Rodilla",
+            "David E. Losada",
+            "Fabio Crestani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Living Lab Evaluation for Life and Social Sciences Search Platforms - LiLAS at CLEF 2021",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_77",
+        "paper_authors": [
+            "Philipp Schaer",
+            "Johann Schaible",
+            "Leyla Jael Castro"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automated Multi-document Text Summarization from Heterogeneous Data Sources",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_78",
+        "paper_authors": [
+            "Mahsa Abazari Kia"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Background Linking of News Articles",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_79",
+        "paper_authors": [
+            "Marwa Essam"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multidimensional Relevance in Task-Specific Retrieval",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_80",
+        "paper_authors": [
+            "Divi Galih Prasetyo Putri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Semantic Entity Linking",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_81",
+        "paper_authors": [
+            "Pedro Ruas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Learning System for Biomedical Relation Extraction Combining External Sources of Knowledge",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_82",
+        "paper_authors": [
+            "Diana F. Sousa"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Second International Workshop on Algorithmic Bias in Search and Recommendation (BIAS@ECIR2021)",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_83",
+        "paper_authors": [
+            "Ludovico Boratto",
+            "Stefano Faralli",
+            "Mirko Marras",
+            "Giovanni Stilo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The 4th International Workshop on Narrative Extraction from Texts: Text2Story 2021",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_84",
+        "paper_authors": [
+            "Ricardo Campos",
+            "Al\u00edpio Jorge",
+            "Adam Jatowt",
+            "Sumit Bhatia",
+            "Mark A. Finlayson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bibliometric-Enhanced Information Retrieval: 11th International BIR Workshop",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_85",
+        "paper_authors": [
+            "Ingo Frommholz",
+            "Philipp Mayr",
+            "Guillaume Cabanac",
+            "Suzan Verberne"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MICROS: Mixed-Initiative ConveRsatiOnal Systems Workshop",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_86",
+        "paper_authors": [
+            "Ida Mele",
+            "Cristina Ioana Muntean",
+            "Mohammad Aliannejadi",
+            "Nikos Voskarides"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ROMCIR 2021: Reducing Online Misinformation through Credible Information Retrieval",
+        "paper_url": "https://doi.org/10.1007/978-3-030-72240-1_87",
+        "paper_authors": [
+            "Fabio Saracco",
+            "Marco Viviani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

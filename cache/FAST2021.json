@@ -1,0 +1,445 @@
+[
+    {
+        "paper_name": "19th USENIX Conference on File and Storage Technologies, FAST 2021, February 23-25, 2021",
+        "paper_url": "https://www.usenix.org/conference/fast21",
+        "paper_authors": [
+            "Marcos K. Aguilera",
+            "Gala Yadgar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ROART: Range-query Optimized Persistent ART",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/ma",
+        "paper_authors": [
+            "Shaonan Ma",
+            "Kang Chen",
+            "Shimin Chen",
+            "Mengxing Liu",
+            "Jianglang Zhu",
+            "Hongbo Kang",
+            "Yongwei Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SpanDB: A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/chen-hao",
+        "paper_authors": [
+            "Hao Chen",
+            "Chaoyi Ruan",
+            "Cheng Li",
+            "Xiaosong Ma",
+            "Yinlong Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/dong",
+        "paper_authors": [
+            "Siying Dong",
+            "Andrew Kryczka",
+            "Yanqin Jin",
+            "Michael Stumm"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "REMIX: Efficient Range Query for LSM-trees",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/zhong",
+        "paper_authors": [
+            "Wenshao Zhong",
+            "Chen Chen",
+            "Xingbo Wu",
+            "Song Jiang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "High Velocity Kernel File Systems with Bento",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/miller",
+        "paper_authors": [
+            "Samantha Miller",
+            "Kaiyuan Zhang",
+            "Mengqi Chen",
+            "Ryan Jennings",
+            "Ang Chen",
+            "Danyang Zhuo",
+            "Thomas E. Anderson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scalable Persistent Memory File System with Kernel-Userspace Collaboration",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/chen-youmin",
+        "paper_authors": [
+            "Youmin Chen",
+            "Youyou Lu",
+            "Bohong Zhu",
+            "Andrea C. Arpaci-Dusseau",
+            "Remzi H. Arpaci-Dusseau",
+            "Jiwu Shu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rethinking File Mapping for Persistent Memory",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/neal",
+        "paper_authors": [
+            "Ian Neal",
+            "Gefei Zuo",
+            "Eric Shiple",
+            "Tanvir Ahmed Khan",
+            "Youngjin Kwon",
+            "Simon Peter",
+            "Baris Kasikci"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "pFSCK: Accelerating File System Checking and Repair for Modern Storage",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/domingo",
+        "paper_authors": [
+            "David Domingo",
+            "Sudarsun Kannan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pattern-Guided File Compression with User-Experience Enhancement for Log-Structured File System on Mobile Devices",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/ji",
+        "paper_authors": [
+            "Cheng Ji",
+            "Li-Pin Chang",
+            "Riwei Pan",
+            "Chao Wu",
+            "Congming Gao",
+            "Liang Shi",
+            "Tei-Wei Kuo",
+            "Chun Jason Xue"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ArchTM: Architecture-Aware, High Performance Transaction for Persistent Memory",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/wu-kai",
+        "paper_authors": [
+            "Kai Wu",
+            "Jie Ren",
+            "Ivy Bo Peng",
+            "Dong Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SPHT: Scalable Persistent Hardware Transactions",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/castro",
+        "paper_authors": [
+            "Daniel Castro",
+            "Alexandro Baldassin",
+            "Jo\u00e3o Barreto",
+            "Paolo Romano"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Dilemma between Deduplication and Locality: Can Both be Achieved?",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/zou",
+        "paper_authors": [
+            "Xiangyu Zou",
+            "Jingsong Yuan",
+            "Philip Shilane",
+            "Wen Xia",
+            "Haijun Zhang",
+            "Xuan Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Remap-SSD: Safely and Efficiently Exploiting SSD Address Remapping to Eliminate Duplicate Writes",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/zhou",
+        "paper_authors": [
+            "You Zhou",
+            "Qiulin Wu",
+            "Fei Wu",
+            "Hong Jiang",
+            "Jian Zhou",
+            "Changsheng Xie"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CheckFreq: Frequent, Fine-Grained DNN Checkpointing",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/mohan",
+        "paper_authors": [
+            "Jayashree Mohan",
+            "Amar Phanishayee",
+            "Vijay Chidambaram"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Facebook's Tectonic Filesystem: Efficiency from Exascale",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/pan",
+        "paper_authors": [
+            "Satadru Pan",
+            "Theano Stavrinos",
+            "Yunqiao Zhang",
+            "Atul Sikaria",
+            "Pavel Zakharov",
+            "Abhinav Sharma",
+            "Shiva Shankar P.",
+            "Mike Shuey",
+            "Richard Wareing",
+            "Monika Gangapuram",
+            "Guanglei Cao",
+            "Christian Preseau",
+            "Pratap Singh",
+            "Kestutis Patiejunas",
+            "J. R. Tipton",
+            "Ethan Katz-Bassett",
+            "Wyatt Lloyd"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploiting Combined Locality for Wide-Stripe Erasure Coding in Distributed Storage",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/hu",
+        "paper_authors": [
+            "Yuchong Hu",
+            "Liangfeng Cheng",
+            "Qiaori Yao",
+            "Patrick P. C. Lee",
+            "Weichun Wang",
+            "Wei Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On the Feasibility of Parser-based Log Compression in Large-Scale Cloud Systems",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/wei",
+        "paper_authors": [
+            "Junyu Wei",
+            "Guangyan Zhang",
+            "Yang Wang",
+            "Zhiwei Liu",
+            "Zhanyang Zhu",
+            "Junchao Chen",
+            "Tingtao Sun",
+            "Qi Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CNSBench: A Cloud Native Storage Benchmark",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/merenstein",
+        "paper_authors": [
+            "Alex Merenstein",
+            "Vasily Tarasov",
+            "Ali Anwar",
+            "Deepavali Bhagwat",
+            "Julie Lee",
+            "Lukas Rupprecht",
+            "Dimitris Skourtis",
+            "Yang Yang",
+            "Erez Zadok"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Concordia: Distributed Shared Memory with In-Network Cache Coherence",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/wang",
+        "paper_authors": [
+            "Qing Wang",
+            "Youyou Lu",
+            "Erci Xu",
+            "Junru Li",
+            "Youmin Chen",
+            "Jiwu Shu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "eMRC: Efficient Miss Ratio Approximation for Multi-Tier Caching",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/liu",
+        "paper_authors": [
+            "Zhang Liu",
+            "Hee Won Lee",
+            "Yu Xiang",
+            "Dirk Grunwald",
+            "Sangtae Ha"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/wu-kan",
+        "paper_authors": [
+            "Kan Wu",
+            "Zhihan Guo",
+            "Guanzhou Hu",
+            "Kaiwei Tu",
+            "Ramnatthan Alagappan",
+            "Rathijit Sen",
+            "Kwanghyun Park",
+            "Andrea C. Arpaci-Dusseau",
+            "Remzi H. Arpaci-Dusseau"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Community Cache with Complete Information",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/abdi",
+        "paper_authors": [
+            "Mania Abdi",
+            "Amin Mosayyebzadeh",
+            "Mohammad Hossein Hajkazemi",
+            "Emine Ugur Kaynar",
+            "Ata Turk",
+            "Larry Rudolph",
+            "Orran Krieger",
+            "Peter Desnoyers"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Cache Replacement with CACHEUS",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/rodriguez",
+        "paper_authors": [
+            "Liana V. Rodriguez",
+            "Farzana Beente Yusuf",
+            "Steven Lyons",
+            "Eysler Paz",
+            "Raju Rangaswami",
+            "Jason Liu",
+            "Ming Zhao",
+            "Giri Narasimhan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FusionRAID: Achieving Consistent Low Latency for Commodity SSD Arrays",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/jiang",
+        "paper_authors": [
+            "Tianyang Jiang",
+            "Guangyan Zhang",
+            "Zican Huang",
+            "Xiaosong Ma",
+            "Junyu Wei",
+            "Zhiyue Li",
+            "Weimin Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Behemoth: A Flash-centric Training Accelerator for Extreme-scale DNNs",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/kim",
+        "paper_authors": [
+            "Shine Kim",
+            "Yunho Jin",
+            "Gina Sohn",
+            "Jonghyun Bae",
+            "Tae Jun Ham",
+            "Jae W. Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FlashNeuron: SSD-Enabled Large-Batch Training of Very Deep Neural Networks",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/bae",
+        "paper_authors": [
+            "Jonghyun Bae",
+            "Jongsung Lee",
+            "Yunho Jin",
+            "Sam Son",
+            "Shine Kim",
+            "Hakbeom Jang",
+            "Tae Jun Ham",
+            "Jae W. Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "D2FQ: Device-Direct Fair Queueing for NVMe SSDs",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/woo",
+        "paper_authors": [
+            "Jiwon Woo",
+            "Minwoo Ahn",
+            "Gyusun Lee",
+            "Jinkyu Jeong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An In-Depth Study of Correlated Failures in Production SSD-Based Data Centers",
+        "paper_url": "https://www.usenix.org/conference/fast21/presentation/han",
+        "paper_authors": [
+            "Shujie Han",
+            "Patrick P. C. Lee",
+            "Fan Xu",
+            "Yi Liu",
+            "Cheng He",
+            "Jiongzhou Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

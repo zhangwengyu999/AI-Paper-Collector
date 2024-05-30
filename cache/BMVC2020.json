@@ -1,0 +1,2516 @@
+[
+    {
+        "paper_name": "31st British Machine Vision Conference 2020, BMVC 2020, Virtual Event, UK, September 7-10, 2020",
+        "paper_url": "https://www.bmvc2020-conference.com/programme/accepted-papers/",
+        "paper_authors": [],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Is Face Recognition Sexist? No, Gendered Hairstyles and Biology Are",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0905.pdf",
+        "paper_authors": [
+            "V\u00edtor Albiero",
+            "Kevin W. Bowyer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SIA-GCN: A Spatial Information Aware Graph Neural Network with 2D Convolutions for Hand Pose Estimation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0066.pdf",
+        "paper_authors": [
+            "Deying Kong",
+            "Haoyu Ma",
+            "Xiaohui Xie"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Explicit Knowledge Distillation for 3D Hand Pose Estimation from Monocular RGB",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0242.pdf",
+        "paper_authors": [
+            "Yumeng Zhang",
+            "Li Chen",
+            "Yufeng Liu",
+            "Wen Zheng",
+            "Jun-Hai Yong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Text Attribute Aggregation and Visual Feature Decomposition for Person Search",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0266.pdf",
+        "paper_authors": [
+            "Sara Iodice",
+            "Krystian Mikolajczyk"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cross-Modal Hierarchical Modelling for Fine-Grained Sketch Based Image Retrieval",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0102.pdf",
+        "paper_authors": [
+            "Aneeshan Sain",
+            "Ayan Kumar Bhunia",
+            "Yongxin Yang",
+            "Tao Xiang",
+            "Yi-Zhe Song"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "WAMDA: Weighted Alignment of Sources for Multi-source Domain Adaptation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0423.pdf",
+        "paper_authors": [
+            "Surbhi Aggarwal",
+            "Jogendra Nath Kundu",
+            "Venkatesh Babu Radhakrishnan",
+            "Anirban Chakraborty"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Advancing weakly supervised cross-domain alignment with optimal transport",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0566.pdf",
+        "paper_authors": [
+            "Siyang Yuan",
+            "Ke Bai",
+            "Liqun Chen",
+            "Yizhe Zhang",
+            "Chenyang Tao",
+            "Chunyuan Li",
+            "Guoyin Wang",
+            "Ricardo Henao",
+            "Lawrence Carin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Weakly-supervised Salient Instance Detection",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0430.pdf",
+        "paper_authors": [
+            "Xin Tian",
+            "Ke Xu",
+            "Xin Yang",
+            "Baocai Yin",
+            "Rynson W. H. Lau"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semantic Estimation of 3D Body Shape and Pose using Minimal Cameras",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0324.pdf",
+        "paper_authors": [
+            "Andrew Gilbert",
+            "Matthew Trumble",
+            "Adrian Hilton",
+            "John P. Collomosse"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Weakly Supervised Generative Network for Multiple 3D Human Pose Hypotheses",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0330.pdf",
+        "paper_authors": [
+            "Chen Li",
+            "Gim Hee Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Determinantal Point Process as an alternative to NMS",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0436.pdf",
+        "paper_authors": [
+            "Samik Some",
+            "Mithun Das Gupta",
+            "Vinay P. Namboodiri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CornerNet-Lite: Efficient Keypoint based Object Detection",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0016.pdf",
+        "paper_authors": [
+            "Hei Law",
+            "Yun Teng",
+            "Olga Russakovsky",
+            "Jia Deng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "High-speed Light-weight CNN Inference via Strided Convolutions on a Pixel Processor Array",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0126.pdf",
+        "paper_authors": [
+            "Yanan Liu",
+            "Laurie Bose",
+            "Jianing Chen",
+            "Stephen J. Carey",
+            "Piotr Dudek",
+            "Walterio W. Mayol-Cuevas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Text and Style Conditioned GAN for the Generation of Offline-Handwriting Lines",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0815.pdf",
+        "paper_authors": [
+            "Brian L. Davis",
+            "Bryan S. Morse",
+            "Brian L. Price",
+            "Chris Tensmeyer",
+            "Curtis Wigington",
+            "Rajiv Jain"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mixup-CAM: Weakly-supervised Semantic Segmentation via Uncertainty Regularization",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0367.pdf",
+        "paper_authors": [
+            "Yu-Ting Chang",
+            "Qiaosong Wang",
+            "Wei-Chih Hung",
+            "Robinson Piramuthu",
+            "Yi-Hsuan Tsai",
+            "Ming-Hsuan Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FairFaceGAN: Fairness-aware Facial Image-to-Image Translation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0193.pdf",
+        "paper_authors": [
+            "Sunhee Hwang",
+            "Sungho Park",
+            "Dohyung Kim",
+            "Mirae Do",
+            "Hyeran Byun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Annealing Genetic GAN for Minority Oversampling",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0243.pdf",
+        "paper_authors": [
+            "Jingyu Hao",
+            "Chengjia Wang",
+            "Heye Zhang",
+            "Guang Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Accurate Parts Visualization for Explaining CNN Reasoning via Semantic Segmentation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0754.pdf",
+        "paper_authors": [
+            "Ren Harada",
+            "Antonio Tejero-de-Pablos",
+            "Tatsuya Harada"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Intrinsic Decomposition of Document Images In-the-Wild",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0906.pdf",
+        "paper_authors": [
+            "Sagnik Das",
+            "Hassan A. Sial",
+            "Ke Ma",
+            "Ram\u00f3n Baldrich",
+            "Mar\u00eda Vanrell",
+            "Dimitris Samaras"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Object Detection as a Positive-Unlabeled Problem",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0264.pdf",
+        "paper_authors": [
+            "Yuewei Yang",
+            "Kevin J. Liang",
+            "Lawrence Carin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "First-Person View Hand Segmentation of Multi-Modal Hand Activity Video Dataset",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0570.pdf",
+        "paper_authors": [
+            "Sangpil Kim",
+            "Hyung-Gun Chi",
+            "Xiao Hu",
+            "Anirudh Vegesana",
+            "Karthik Ramani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Physics-informed detection and segmentation of type II solar radio bursts",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0445.pdf",
+        "paper_authors": [
+            "Joseph Jenkins",
+            "Adeline Paiement",
+            "Jean Aboudarham",
+            "Xavier Bonnin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning 3D Global Human Motion Estimation from Unpaired, Disjoint Datasets",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0481.pdf",
+        "paper_authors": [
+            "Julian Habekost",
+            "Takaaki Shiratori",
+            "Yuting Ye",
+            "Taku Komura"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptation Across Extreme Variations using Unlabeled Bridges",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0186.pdf",
+        "paper_authors": [
+            "Shuyang Dai",
+            "Kihyuk Sohn",
+            "Yi-Hsuan Tsai",
+            "Lawrence Carin",
+            "Manmohan Chandraker"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Lifted Regression/Reconstruction Networks",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0662.pdf",
+        "paper_authors": [
+            "Rasmus Kj\u00e6r H\u00f8ier",
+            "Christopher Zach"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LiPo-LCD: Combining Lines and Points for Appearance-based Loop Closure Detection",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0789.pdf",
+        "paper_authors": [
+            "Joan Pep Company-Corcoles",
+            "Emilio Garcia-Fidalgo",
+            "Alberto Ortiz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Stratified Autocalibration of Cameras with Euclidean Image Plane",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0383.pdf",
+        "paper_authors": [
+            "Devesh Adlakha",
+            "Adlane Habed",
+            "Fabio Morbidi",
+            "C\u00e9dric Demonceaux",
+            "Michel de Mathelin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bias-Awareness for Zero-Shot Learning the Seen and Unseen",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0261.pdf",
+        "paper_authors": [
+            "William Thong",
+            "Cees Snoek"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ASAP-Net: Attention and Structure Aware Point Cloud Sequence Segmentation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0129.pdf",
+        "paper_authors": [
+            "Hanwen Cao",
+            "Yongyi Lu",
+            "Bo Pang",
+            "Cewu Lu",
+            "Alan L. Yuille",
+            "Gongshen Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsupervised Domain Adaptation for Spatio-Temporal Action Localization",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0166.pdf",
+        "paper_authors": [
+            "Nakul Agarwal",
+            "Yi-Ting Chen",
+            "Behzad Dariush",
+            "Ming-Hsuan Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semi-supervised semantic segmentation needs strong, varied perturbations",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0680.pdf",
+        "paper_authors": [
+            "Geoffrey French",
+            "Samuli Laine",
+            "Timo Aila",
+            "Michal Mackiewicz",
+            "Graham D. Finlayson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Inpainting Networks Learn to Separate Cells in Microscopy Images",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0528.pdf",
+        "paper_authors": [
+            "Steffen Wolf",
+            "Fred A. Hamprecht",
+            "Jan Funke"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Color Enhancement: Generating Unrestricted Adversarial Images by Optimizing a Color Filter",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0099.pdf",
+        "paper_authors": [
+            "Zhengyu Zhao",
+            "Zhuoran Liu",
+            "Martha A. Larson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cross-dataset Color Constancy Revisited Using Sensor-to-Sensor Transfer",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0082.pdf",
+        "paper_authors": [
+            "Samu Koskinen",
+            "Dan Yang",
+            "Joni-Kristian Kamarainen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SD-MTCNN: Self-Distilled Multi-Task CNN",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0448.pdf",
+        "paper_authors": [
+            "Ankit Jha",
+            "Awanish Kumar",
+            "Biplab Banerjee",
+            "Vinay P. Namboodiri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Resistance to Label Noise in K-NN and DNN Depends on its Concentration",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0176.pdf",
+        "paper_authors": [
+            "Amnon Drory",
+            "Oria Ratzon",
+            "Shai Avidan",
+            "Raja Giryes"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Anti-Litter Surveillance based on Person Understanding via Multi-Task Learning",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0279.pdf",
+        "paper_authors": [
+            "Kangmin Bae",
+            "Kimin Yun",
+            "Hyung-Il Kim",
+            "Youngwan Lee",
+            "Jongyoul Park"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Two-Stream Spatiotemporal Compositional Attention Network for VideoQA",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0877.pdf",
+        "paper_authors": [
+            "Taiki Miyanishi",
+            "Takuya Maekawa",
+            "Motoaki Kawanabe"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "WHENet: Real-time Fine-Grained Estimation for Wide Range Head Pose",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0907.pdf",
+        "paper_authors": [
+            "Yijun Zhou",
+            "James Gregson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Spherical Approach to Planar Semantic Segmentation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0053.pdf",
+        "paper_authors": [
+            "Chao Zhang",
+            "Sen He",
+            "Stephan Liwicki"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Visualizing point cloud classifiers by curvature smoothing",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0161.pdf",
+        "paper_authors": [
+            "Ziwen Chen",
+            "Wenxuan Wu",
+            "Zhongang Qi",
+            "Fuxin Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Initial Classifier Weights Replay for Memoryless Class Incremental Learning",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0743.pdf",
+        "paper_authors": [
+            "Eden Belouadah",
+            "Adrian Popescu",
+            "Ioannis Kanellos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Seeing wake words: Audio-visual Keyword Spotting",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0043.pdf",
+        "paper_authors": [
+            "Liliane Momeni",
+            "Triantafyllos Afouras",
+            "Themos Stafylakis",
+            "Samuel Albanie",
+            "Andrew Zisserman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsupervised Domain Adaptation by Uncertain Feature Alignment",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0221.pdf",
+        "paper_authors": [
+            "Tobias Ringwald",
+            "Rainer Stiefelhagen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bayesian Geodesic Regression on Riemannian Manifolds",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0901.pdf",
+        "paper_authors": [
+            "Youshan Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "High-order Graph Convolutional Networks for 3D Human Pose Estimation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0550.pdf",
+        "paper_authors": [
+            "Zhiming Zou",
+            "Kenkun Liu",
+            "Le Wang",
+            "Wei Tang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Boosting Image and Video Compression via Learning Latent Residual Patterns",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0174.pdf",
+        "paper_authors": [
+            "Yen-Chung Chen",
+            "Keng-Jui Chang",
+            "Yi-Hsuan Tsai",
+            "Wei-Chen Chiu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Conditional Attention for Content-based Image Retrieval",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0356.pdf",
+        "paper_authors": [
+            "Zechao Hu",
+            "Adrian G. Bors"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "STQ-Nets: Unifying Network Binarization and Structured Pruning",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0113.pdf",
+        "paper_authors": [
+            "Sri Aurobindo Munagala",
+            "Ameya Prabhu",
+            "Anoop M. Namboodiri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Attribute Adaptive Margin Softmax Loss using Privileged Information",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0561.pdf",
+        "paper_authors": [
+            "Seyed Mehdi Iranmanesh",
+            "Ali Dabouei",
+            "Nasser M. Nasrabadi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Attentive Action and Context Factorization",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0187.pdf",
+        "paper_authors": [
+            "Yang Wang",
+            "Vinh Tran",
+            "Gedas Bertasius",
+            "Lorenzo Torresani",
+            "Minh Hoai Nguyen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Convex Relaxations using Graph Discretizations",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0694.pdf",
+        "paper_authors": [
+            "Jonas Geiping",
+            "Fjedor Gaede",
+            "Hartmut Bauermeister",
+            "Michael Moeller"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Feature Binding with Category-Dependant MixUp for Semantic Segmentation and Adversarial Robustness",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0614.pdf",
+        "paper_authors": [
+            "Md. Amirul Islam",
+            "Matthew Kowal",
+            "Konstantinos G. Derpanis",
+            "Neil D. B. Bruce"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bipartite Conditional Random Fields for Panoptic Segmentation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0184.pdf",
+        "paper_authors": [
+            "Sadeep Jayasumana",
+            "Kanchana Ranasinghe",
+            "Sahan Liyanaarachchi",
+            "Mayuka Jayawardhana",
+            "Harsha Ranasinghe",
+            "Sina Samangooei"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Delving Deeper into Anti-aliasing in ConvNets",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0547.pdf",
+        "paper_authors": [
+            "Xueyan Zou",
+            "Fanyi Xiao",
+            "Zhiding Yu",
+            "Yong Jae Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A CNN Based Approach for the Near-Field Photometric Stereo Problem",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0277.pdf",
+        "paper_authors": [
+            "Fotios Logothetis",
+            "Ignas Budvytis",
+            "Roberto Mecca",
+            "Roberto Cipolla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DESC: Domain Adaptation for Depth Estimation via Semantic Consistency",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0122.pdf",
+        "paper_authors": [
+            "Adrian Lopez Rodriguez",
+            "Krystian Mikolajczyk"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Visibility-aware Multi-view Stereo Network",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0421.pdf",
+        "paper_authors": [
+            "Jingyang Zhang",
+            "Yao Yao",
+            "Shiwei Li",
+            "Zixin Luo",
+            "Tian Fang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pano2Scene: 3D Indoor Semantic Scene Reconstruction from a Single Indoor Panorama Image",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0473.pdf",
+        "paper_authors": [
+            "Wei Zeng",
+            "Sezer Karaoglu",
+            "Theo Gevers"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Neighbourhood-Insensitive Point Cloud Normal Estimation Network",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0028.pdf",
+        "paper_authors": [
+            "Zirui Wang",
+            "Victor Prisacariu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Domain Adaptation Regularization for Spectral Pruning",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0453.pdf",
+        "paper_authors": [
+            "Laurent Dillard",
+            "Yosuke Shinya",
+            "Taiji Suzuki"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Metric Learning Meets Deep Clustering: An Novel Unsupervised Approach for Feature Embedding",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0328.pdf",
+        "paper_authors": [
+            "Binh X. Nguyen",
+            "Binh D. Nguyen",
+            "Gustavo Carneiro",
+            "Erman Tjiputra",
+            "Quang D. Tran",
+            "Thanh-Toan Do"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Simple and Scalable Shape Representation for 3D Reconstruction",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0443.pdf",
+        "paper_authors": [
+            "Mateusz Michalkiewicz",
+            "Eugene Belilovsky",
+            "Mahsa Baktashmotlagh",
+            "Anders P. Eriksson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Non-Probabilistic Cosine Similarity Loss for Few-Shot Image Classification",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0282.pdf",
+        "paper_authors": [
+            "Joonhyuk Kim",
+            "Inug Yoon",
+            "Gyeong-Moon Park",
+            "Jong-Hwan Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improved Trainable Calibration Method for Neural Networks",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0059.pdf",
+        "paper_authors": [
+            "Gongbo Liang",
+            "Yu Zhang",
+            "Xiaoqin Wang",
+            "Nathan Jacobs"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards a Hypothesis on Visual Transformation based Self-Supervision",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0864.pdf",
+        "paper_authors": [
+            "Dipan K. Pal",
+            "Sreena Nallamothu",
+            "Marios Savvides"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pose Proposal Critic: Robust Pose Refinement by Learning Reprojection Errors",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0274.pdf",
+        "paper_authors": [
+            "Lucas Brynte",
+            "Fredrik Kahl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Zero-Shot Domain Generalization",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0673.pdf",
+        "paper_authors": [
+            "Udit Maniyar",
+            "K. J. Joseph",
+            "Aniket Anand Deshmukh",
+            "\u00dcr\u00fcn Dogan",
+            "Vineeth N. Balasubramanian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automated Search for Resource-Efficient Branched Multi-Task Networks",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0359.pdf",
+        "paper_authors": [
+            "David Br\u00fcggemann",
+            "Menelaos Kanakis",
+            "Stamatios Georgoulis",
+            "Luc Van Gool"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Meta-RetinaNet for Few-shot Object Detection",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0042.pdf",
+        "paper_authors": [
+            "Shaoqi Li",
+            "Wenfeng Song",
+            "Shuai Li",
+            "Aimin Hao",
+            "Hong Qin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Making L-BFGS Work with Industrial-Strength Nets",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0479.pdf",
+        "paper_authors": [
+            "Abhay Kumar Yadav",
+            "Tom Goldstein",
+            "David W. Jacobs"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rethinking Curriculum Learning with Incremental Labels and Adaptive Compensation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0581.pdf",
+        "paper_authors": [
+            "Madan Ravi Ganesh",
+            "Jason J. Corso"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Not all points are created equal - an anisotropic cost function for facial landmark location",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0783.pdf",
+        "paper_authors": [
+            "Farshid Rayhan",
+            "Aphrodite Galata",
+            "Timothy F. Cootes"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Relational Generalized Few-Shot Learning",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0220.pdf",
+        "paper_authors": [
+            "Xiahan Shi",
+            "Leonard Salewski",
+            "Martin Schiegg",
+            "Max Welling"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Uncovering Hidden Challenges in Query-Based Video Moment Retrieval",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0306.pdf",
+        "paper_authors": [
+            "Mayu Otani",
+            "Yuta Nakashima",
+            "Esa Rahtu",
+            "Janne Heikkil\u00e4"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ViewSynth: Learning Local Features from Depth using View Synthesis",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0009.pdf",
+        "paper_authors": [
+            "Jisan Mahmud",
+            "Rajat Vikram Singh",
+            "Peri Akiva",
+            "Spondon Kundu",
+            "Kuan-Chuan Peng",
+            "Jan-Michael Frahm"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Domain Adaptation of Learned Featuresfor Visual Localization",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0316.pdf",
+        "paper_authors": [
+            "Sungyong Baik",
+            "Hyo Jin Kim",
+            "Tianwei Shen",
+            "Eddy Ilg",
+            "Kyoung Mu Lee",
+            "Christopher Sweeney"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mid-level Fusion for End-to-End Temporal Activity Detection in Untrimmed Video",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0234.pdf",
+        "paper_authors": [
+            "Md. Atiqur Rahman",
+            "Robert Lagani\u00e8re"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Neural Network Quantization with Scale-Adjusted Training",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0634.pdf",
+        "paper_authors": [
+            "Qing Jin",
+            "Linjie Yang",
+            "Zhenyu Liao",
+            "Xiaoning Qian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Branched Multi-Task Networks: Deciding what layers to share",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0213.pdf",
+        "paper_authors": [
+            "Simon Vandenhende",
+            "Stamatios Georgoulis",
+            "Luc Van Gool",
+            "Bert De Brabandere"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Anchor-free Small-scale Multispectral Pedestrian Detection",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0534.pdf",
+        "paper_authors": [
+            "Alexander Wolpert",
+            "Michael Teutsch",
+            "M. Saquib Sarfraz",
+            "Rainer Stiefelhagen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PMD-Net: Privileged Modality Distillation Network for 3D Hand Pose Estimation from a Single RGB Image",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0413.pdf",
+        "paper_authors": [
+            "Kewen Wang",
+            "Xilin Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning to Abstract and Predict Human Actions",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0979.pdf",
+        "paper_authors": [
+            "Romero F. A. B. de Morais",
+            "Vuong Le",
+            "Truyen Tran",
+            "Svetha Venkatesh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Superpixel Masking and Inpainting for Self-Supervised Anomaly Detection",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0275.pdf",
+        "paper_authors": [
+            "Zhenyu Li",
+            "Ning Li",
+            "Kaitao Jiang",
+            "Zhiheng Ma",
+            "Xing Wei",
+            "Xiaopeng Hong",
+            "Yihong Gong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "From Saturation to Zero-Shot Visual Relationship Detection Using Local Context",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0772.pdf",
+        "paper_authors": [
+            "Nikolaos Gkanatsios",
+            "Vassilis Pitsikalis",
+            "Petros Maragos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Align-and-Attend Network for Globally and Locally Coherent Video Inpainting",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0440.pdf",
+        "paper_authors": [
+            "Sanghyun Woo",
+            "Dahun Kim",
+            "KwanYong Park",
+            "Joon-Young Lee",
+            "In So Kweon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "E2ETag: An End-to-End Trainable Method for Generating and Detecting Fiducial Markers",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0890.pdf",
+        "paper_authors": [
+            "John Brennan Peace",
+            "Eric Psota",
+            "Yanfeng Liu",
+            "Lance C. P\u00e9rez"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semantically Adaptive Image-to-image Translation for Domain Adaptation of Semantic Segmentation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0369.pdf",
+        "paper_authors": [
+            "Luigi Musto",
+            "Andrea Zinelli"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Inducing Predictive Uncertainty Estimation for Face Verification",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0149.pdf",
+        "paper_authors": [
+            "Weidi Xie",
+            "Jeffrey Byrne",
+            "Andrew Zisserman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Synchronous Bidirectional Learning for Multilingual Lip Reading",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0796.pdf",
+        "paper_authors": [
+            "Mingshuang Luo",
+            "Shuang Yang",
+            "Xilin Chen",
+            "Zitao Liu",
+            "Shiguang Shan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mish: A Self Regularized Non-Monotonic Activation Function",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0928.pdf",
+        "paper_authors": [
+            "Diganta Misra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Two-in-One Refinement for Interactive Segmentation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0702.pdf",
+        "paper_authors": [
+            "Soumajit Majumder",
+            "Abhinav Rai",
+            "Ansh Khurana",
+            "Angela Yao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LaDDer: Latent Data Distribution Modelling with a Generative Prior",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0816.pdf",
+        "paper_authors": [
+            "Shuyu Lin",
+            "Ronald Clark"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Paying more Attention to Snapshots of Iterative Pruning: Improving Model Compression via Ensemble Distillation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0817.pdf",
+        "paper_authors": [
+            "Duong H. Le",
+            "Vo Trung Nhan",
+            "Nam Thoai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "When Humans Meet Machines: Towards Efficient Segmentation Networks",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0209.pdf",
+        "paper_authors": [
+            "Peike Li",
+            "Xuanyi Dong",
+            "Xin Yu",
+            "Yi Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Fast and Light-Weight Restoration of Dark Images",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0145.pdf",
+        "paper_authors": [
+            "Mohit Lamba",
+            "Atul Balaji",
+            "Kaushik Mitra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Contrastively-reinforced Attention Convolutional Neural Network for Fine-grained Image Recognition",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0656.pdf",
+        "paper_authors": [
+            "Dichao Liu",
+            "Yu Wang",
+            "Jien Kato",
+            "Kenji Mase"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semi-supervised Active Learning for Instance Segmentation via Scoring Predictions",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0031.pdf",
+        "paper_authors": [
+            "Jun Wang",
+            "Shaoguo Wen",
+            "Jianghua Yu",
+            "Kaixing Chen",
+            "Xin Zhou",
+            "Peng Gao",
+            "Guotong Xie",
+            "Changsheng Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Non-Parametric Invariances from Data with Permanent Random Connectomes",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0863.pdf",
+        "paper_authors": [
+            "Dipan K. Pal",
+            "Akshay Chawla",
+            "Marios Savvides"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "EPI-based Oriented Relation Networks for Light Field Depth Estimation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0096.pdf",
+        "paper_authors": [
+            "Kunyuan Li",
+            "Jun Zhang",
+            "Rui Sun",
+            "Xudong Zhang",
+            "Jun Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Sparse Light Field Refocusing",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0160.pdf",
+        "paper_authors": [
+            "Shachar Ben Dayan",
+            "David Mendlovic",
+            "Raja Giryes"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "High-speed event-based camera tracking",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0366.pdf",
+        "paper_authors": [
+            "William Chamorro",
+            "Juan Andrade-Cetto",
+            "Joan Sol\u00e0"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Key-Nets: Optical Transformation Convolutional Networks for Privacy Preserving Vision Sensors",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0101.pdf",
+        "paper_authors": [
+            "Jeffrey Byrne",
+            "Brian DeCann",
+            "Scott Bloom"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BriNet: Towards Bridging the Intra-class and Inter-class Gaps in One-Shot Segmentation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0139.pdf",
+        "paper_authors": [
+            "Xianghui Yang",
+            "Bairun Wang",
+            "Xinchi Zhou",
+            "Kaige Chen",
+            "Shuai Yi",
+            "Wanli Ouyang",
+            "Luping Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-label Zero-shot Classification by Learning to Transfer from External Knowledge",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0249.pdf",
+        "paper_authors": [
+            "He Huang",
+            "Wei Tang",
+            "Philip S. Yu",
+            "Yuanwei Chen",
+            "Wenhao Zheng",
+            "Qing-Guo Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Few-Shot Learning with Complex-valued Neural Networks",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0353.pdf",
+        "paper_authors": [
+            "Zhen Liu",
+            "Baochang Zhang",
+            "Guodong Guo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Marginalized Graph Attention Hashing for Zero-Shot Image Retrieval",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0688.pdf",
+        "paper_authors": [
+            "Meixue Huang",
+            "Dayan Wu",
+            "Wanqian Zhang",
+            "Zhi Xiong",
+            "Bo Li",
+            "Weiping Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Novel View Synthesis from Single Images via Point Cloud Transformation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0051.pdf",
+        "paper_authors": [
+            "Hoang-An Le",
+            "Thomas Mensink",
+            "Partha Das",
+            "Theo Gevers"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Attribute-Guided Image Generation from Layout",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0384.pdf",
+        "paper_authors": [
+            "Ke Ma",
+            "Bo Zhao",
+            "Leonid Sigal"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An ETF view of Dropout regularization",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0044.pdf",
+        "paper_authors": [
+            "Dor Bank",
+            "Raja Giryes"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tripping through time: Efficient Localization of Activities in Videos",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0549.pdf",
+        "paper_authors": [
+            "Meera Hahn",
+            "Asim Kadav",
+            "James M. Rehg",
+            "Hans Peter Graf"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ALBA: Reinforcement Learning for Video Object Segmentation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0226.pdf",
+        "paper_authors": [
+            "Shreyank N. Gowda",
+            "Panagiotis Eustratiadis",
+            "Timothy M. Hospedales",
+            "Laura Sevilla-Lara"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Explicit Residual Descent for 3D Human Pose Estimation from 2D Joint Locations",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0151.pdf",
+        "paper_authors": [
+            "Yangyuxuan Kang",
+            "Anbang Yao",
+            "Shandong Wang",
+            "Ming Lu",
+            "Yurong Chen",
+            "Enhua Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Training for Multi-Channel Sign Language Production",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0223.pdf",
+        "paper_authors": [
+            "Ben Saunders",
+            "Richard Bowden",
+            "Necati Cihan Camg\u00f6z"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Importance of Self-Consistency in Active Learning for Semantic Segmentation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0010.pdf",
+        "paper_authors": [
+            "S. Alireza Golestaneh",
+            "Kris Kitani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AOL: Adaptive Online Learning for Human Trajectory Prediction in Dynamic Video Scenes",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0493.pdf",
+        "paper_authors": [
+            "Manh Huynh",
+            "Gita Alaghband"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MagnifierNet: Towards Semantic Adversary and Fusion for Person Re-identification",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0781.pdf",
+        "paper_authors": [
+            "Yushi Lan",
+            "Yuan Liu",
+            "Xinchi Zhou",
+            "Maoqing Tian",
+            "Xuesen Zhang",
+            "Shuai Yi",
+            "Hongsheng Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RODEO: Replay for Online Object Detection",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0526.pdf",
+        "paper_authors": [
+            "Manoj Acharya",
+            "Tyler L. Hayes",
+            "Christopher Kanan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "What do CNNs gain by imitating the visual development of primate infants?",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0196.pdf",
+        "paper_authors": [
+            "Shantanu Jaiswal",
+            "Dongkyu Choi",
+            "Basura Fernando"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SOFA-Net: Second-Order and First-order Attention Network for Crowd Counting",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0222.pdf",
+        "paper_authors": [
+            "Haoran Duan",
+            "Shidong Wang",
+            "Yu Guan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CoMoGCN: Coherent Motion Aware Trajectory Prediction with Graph Representation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0238.pdf",
+        "paper_authors": [
+            "Yuying Chen",
+            "Congcong Liu",
+            "Bertram E. Shi",
+            "Ming Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Class Interference Regularization",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0451.pdf",
+        "paper_authors": [
+            "Bharti Munjal",
+            "Sikandar Amin",
+            "Fabio Galasso"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tackling the Unannotated: Scene Graph Generation with Bias-Reduced Models",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0541.pdf",
+        "paper_authors": [
+            "Tzu-Jui Julius Wang",
+            "Selen Pehlivan",
+            "Jorma Laaksonen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Gaussian Maps for Dense Object Detection",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0368.pdf",
+        "paper_authors": [
+            "Sonaal Kant"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "From Quantized DNNs to Quantizable DNNs",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0400.pdf",
+        "paper_authors": [
+            "Kunyuan Du",
+            "Ya Zhang",
+            "Haibing Guan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Revisiting Temporal Modeling for Video Super-resolution",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0033.pdf",
+        "paper_authors": [
+            "Takashi Isobe",
+            "Fang Zhu",
+            "Shengjin Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning to Adapt Multi-View Stereo by Self-Supervision",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0375.pdf",
+        "paper_authors": [
+            "Arijit Mallick",
+            "J\u00f6rg St\u00fcckler",
+            "Hendrik P. A. Lensch"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Imitating Unknown Policies via Exploration",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0774.pdf",
+        "paper_authors": [
+            "Nathan Gavenski",
+            "Juarez Monteiro",
+            "Roger Granada",
+            "Felipe Meneguzzi",
+            "Rodrigo C. Barros"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RankPose: Learning Generalised Feature with Rank Supervision for Head Pose Estimation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0401.pdf",
+        "paper_authors": [
+            "Donggen Dai",
+            "Wangkit Wong",
+            "Zhuojun Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "M2KD: Incremental Learning via Multi-model and Multi-level Knowledge Distillation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0131.pdf",
+        "paper_authors": [
+            "Peng Zhou",
+            "Long Mai",
+            "Jianming Zhang",
+            "Ning Xu",
+            "Zuxuan Wu",
+            "Larry Davis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RecSal : Deep Recursive Supervision for Visual Saliency Prediction",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0539.pdf",
+        "paper_authors": [
+            "Oindrila Saha",
+            "Sandeep Mishra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "6DoF Object Pose Estimation via Differentiable Proxy Voting Regularizer",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0287.pdf",
+        "paper_authors": [
+            "Xin Yu",
+            "Zheyu Zhuang",
+            "Piotr Koniusz",
+            "Hongdong Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Transferring Pretrained Networks to Small Data via Category Decorrelation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0090.pdf",
+        "paper_authors": [
+            "Ying Jin",
+            "Zhangjie Cao",
+            "Mingsheng Long",
+            "Jianmin Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Integrating Long-Short Term Network for Efficient Video Object Segmentation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0167.pdf",
+        "paper_authors": [
+            "Jingjing Wang",
+            "Zhu Teng",
+            "Baopeng Zhang",
+            "Jianping Fan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Point Cloud Super Resolution with Adversarial Residual Graph Networks",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0118.pdf",
+        "paper_authors": [
+            "Huikai Wu",
+            "Kaiqi Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On Modality Bias in the TVQA Dataset",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0476.pdf",
+        "paper_authors": [
+            "Thomas Winterbottom",
+            "Sarah Xiao",
+            "Alistair McLean",
+            "Noura Al Moubayed"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Residual Likelihood Forests",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0191.pdf",
+        "paper_authors": [
+            "Yan Zuo",
+            "Tom Drummond"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DALE : Dark Region-Aware Low-light Image Enhancement",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/1025.pdf",
+        "paper_authors": [
+            "Dokyeong Kwon",
+            "Guisik Kim",
+            "Junseok Kwon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Constrained Video Face Clustering using1NN Relations",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0899.pdf",
+        "paper_authors": [
+            "Vicky Kalogeiton",
+            "Andrew Zisserman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Thoracic Disease Identification and Localization using Distance Learning and Region Verification",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0962.pdf",
+        "paper_authors": [
+            "Cheng Zhang",
+            "Francine Chen",
+            "Yan-Ying Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Image Harmonization with Attention-based Deep Feature Modulation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0121.pdf",
+        "paper_authors": [
+            "Guoqing Hao",
+            "Satoshi Iizuka",
+            "Kazuhiro Fukui"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BCaR: Beginner Classifier as Regularization Towards Generalizable Re-ID",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0303.pdf",
+        "paper_authors": [
+            "Masato Tamura",
+            "Tomoaki Yoshinaga"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cascaded channel pruning using hierarchical self-distillation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0525.pdf",
+        "paper_authors": [
+            "Roy Miles",
+            "Krystian Mikolajczyk"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Loss Functions for Person Image Generation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0406.pdf",
+        "paper_authors": [
+            "Haoyue Shi",
+            "Le Wang",
+            "Wei Tang",
+            "Nanning Zheng",
+            "Gang Hua"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Black Magic in Deep Learning: How Human Skill Impacts Network Training",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0552.pdf",
+        "paper_authors": [
+            "Kanav Anand",
+            "Ziqi Wang",
+            "Marco Loog",
+            "Jan van Gemert"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Concurrent Training: Optimizing Robustness and Accuracy Trade-off of Deep Neural Networks",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0859.pdf",
+        "paper_authors": [
+            "Elahe Arani",
+            "Fahad Sarfraz",
+            "Bahram Zonooz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "3D-GMNet: Single-View 3D Shape Recovery as A Gaussian Mixture",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0294.pdf",
+        "paper_authors": [
+            "Kohei Yamashita",
+            "Shohei Nobuhara",
+            "Ko Nishino"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Weakly Paired Multi-Domain Image Translation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0841.pdf",
+        "paper_authors": [
+            "Marc Yanlong Zhang",
+            "Zhiwu Huang",
+            "Danda Pani Paudel",
+            "Janine Thoma",
+            "Luc Van Gool"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bipartite Graph Reasoning GANs for Person Image Generation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0689.pdf",
+        "paper_authors": [
+            "Hao Tang",
+            "Song Bai",
+            "Philip H. S. Torr",
+            "Nicu Sebe"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multimodal Image Translation with Stochastic Style Representations and Mutual Information Loss",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0115.pdf",
+        "paper_authors": [
+            "Sanghyeon Na",
+            "Seungjoo Yoo",
+            "Jaegul Choo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Axiom-based Grad-CAM: Towards Accurate Visualization and Explanation of CNNs",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0631.pdf",
+        "paper_authors": [
+            "Ruigang Fu",
+            "Qingyong Hu",
+            "Xiaohu Dong",
+            "Yulan Guo",
+            "Yinghui Gao",
+            "Biao Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SketchHealer: A Graph-to-Sequence Network for Recreating Partial Human Sketches",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0711.pdf",
+        "paper_authors": [
+            "Guoyao Su",
+            "Yonggang Qi",
+            "Kaiyue Pang",
+            "Jie Yang",
+            "Yi-Zhe Song"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Attention Distillation for Learning Video Representations",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0006.pdf",
+        "paper_authors": [
+            "Miao Liu",
+            "Xin Chen",
+            "Yun Zhang",
+            "Yin Li",
+            "James M. Rehg"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Procedure Completion by Learning from Partial Summaries",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0130.pdf",
+        "paper_authors": [
+            "Ehsan Elhamifar",
+            "Zwe Naing"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning from Counting: Leveraging Temporal Classification for Weakly Supervised Object Localization and Detection",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0621.pdf",
+        "paper_authors": [
+            "Chia-Yu Hsu",
+            "Wenwen Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Video Region Annotation with Sparse Bounding Boxes",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0638.pdf",
+        "paper_authors": [
+            "Yuzheng Xu",
+            "Yang Wu",
+            "Nur Sabrina binti Zuraimi",
+            "Shohei Nobuhara",
+            "Ko Nishino"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RNN-based Motion Prediction in Competitive Fencing Considering Interaction between Players",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0618.pdf",
+        "paper_authors": [
+            "Yutaro Honda",
+            "Rei Kawakami",
+            "Takeshi Naemura"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Localizing Novel Attended Objects in Egocentric Views",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0014.pdf",
+        "paper_authors": [
+            "Shujon Naha",
+            "Md. Alimoor Reza",
+            "Chen Yu",
+            "David J. Crandall"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "How to Train Your Energy-Based Model for Regression",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0154.pdf",
+        "paper_authors": [
+            "Fredrik Gustafsson",
+            "Martin Danelljan",
+            "Radu Timofte",
+            "Thomas B. Sch\u00f6n"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Unsupervised Cleaning of Underwater Bathymetric Point Cloud Data",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0977.pdf",
+        "paper_authors": [
+            "Cong Chen",
+            "Abel Gawel",
+            "Stephen Krauss",
+            "Yuliang Zou",
+            "A. Lynn Abbott",
+            "Daniel J. Stilwell"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Refinement of Boundary Regression Using Uncertainty in Temporal Action Localization",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0391.pdf",
+        "paper_authors": [
+            "Yunze Chen",
+            "Mengjuan Chen",
+            "Rui Wu",
+            "Jiagang Zhu",
+            "Zheng Zhu",
+            "Qingyi Gu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Real-time screen reading: reducing domain shift for one-shot learning",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0512.pdf",
+        "paper_authors": [
+            "James Charles",
+            "Stefano Bucciarelli",
+            "Roberto Cipolla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning-based Region Selection for End-to-End Gaze Estimation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0086.pdf",
+        "paper_authors": [
+            "Xucong Zhang",
+            "Yusuke Sugano",
+            "Andreas Bulling",
+            "Otmar Hilliges"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Centroid Based Concept Learning for RGB-D Indoor Scene Classification",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0063.pdf",
+        "paper_authors": [
+            "Ali Ayub",
+            "Alan R. Wagner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning To Pay Attention To Mistakes",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0335.pdf",
+        "paper_authors": [
+            "Moucheng Xu",
+            "Neil Oxtoby",
+            "Daniel C. Alexander",
+            "Joseph Jacob"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On the Exploration of Incremental Learning for Fine-grained Image Retrieval",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0079.pdf",
+        "paper_authors": [
+            "Wei Chen",
+            "Yu Liu",
+            "Weiping Wang",
+            "Tinne Tuytelaars",
+            "Erwin M. Bakker",
+            "Michael S. Lew"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "View-consistent 4D Light Field Depth Estimation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0395.pdf",
+        "paper_authors": [
+            "Numair Khan",
+            "Min H. Kim",
+            "James Tompkin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Graph Density-Aware Losses for Novel Compositions in Scene Graph Generation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0378.pdf",
+        "paper_authors": [
+            "Boris Knyazev",
+            "Harm de Vries",
+            "Catalina Cangea",
+            "Graham W. Taylor",
+            "Aaron C. Courville",
+            "Eugene Belilovsky"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sentence Guided Temporal Modulation for Dynamic Video Thumbnail Generation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0410.pdf",
+        "paper_authors": [
+            "Mrigank Rochan",
+            "Mahesh Kumar Krishna Reddy",
+            "Yang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Synthetic Training for Accurate 3D Human Pose and Shape Estimation in the Wild",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0081.pdf",
+        "paper_authors": [
+            "Akash Sengupta",
+            "Roberto Cipolla",
+            "Ignas Budvytis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Effectively from Noisy Supervision for Weakly Supervised Semantic Segmentation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0578.pdf",
+        "paper_authors": [
+            "Wenbin Xie",
+            "Qiaoqiao Wei",
+            "Zheng Li",
+            "Hui Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MDA-Net: Memorable Domain Adaptation Network for Monocular Depth Estimation",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0790.pdf",
+        "paper_authors": [
+            "Jing Zhu",
+            "Yunxiao Shi",
+            "Mengwei Ren",
+            "Yi Fang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Making a Case for 3D Convolutions for Object Segmentation in Videos",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0233.pdf",
+        "paper_authors": [
+            "Sabarinath Mahadevan",
+            "Ali Athar",
+            "Aljosa Osep",
+            "Laura Leal-Taix\u00e9",
+            "Bastian Leibe",
+            "Sebastian Hennen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatial Feedback Learning to Improve Semantic Segmentation in Hot Weather",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0742.pdf",
+        "paper_authors": [
+            "Shyam Nandan Rai",
+            "Vineeth N. Balasubramanian",
+            "Anbumani Subramanian",
+            "C. V. Jawahar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Neighbours Matter: Image Captioning with Similar Images",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0342.pdf",
+        "paper_authors": [
+            "Qingzhong Wang",
+            "Jiuniu Wang",
+            "Antoni B. Chan",
+            "Siyu Huang",
+            "Haoyi Xiong",
+            "Xingjian Li",
+            "Dejing Dou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The ADUULM-Dataset - a Semantic Segmentation Dataset for Sensor Fusion",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0474.pdf",
+        "paper_authors": [
+            "Andreas Pfeuffer",
+            "Markus Sch\u00f6n",
+            "Carsten Ditzel",
+            "Klaus Dietmayer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LSD_2 - Joint Denoising and Deblurring of Short and Long Exposure Images with CNNs",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0725.pdf",
+        "paper_authors": [
+            "Janne Mustaniemi",
+            "Juho Kannala",
+            "Jiri Matas",
+            "Simo S\u00e4rkk\u00e4",
+            "Janne Heikkil\u00e4"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reducing Label Noise in Anchor-Free Object Detection",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0737.pdf",
+        "paper_authors": [
+            "Nermin Samet",
+            "Samet Hicsonmez",
+            "Emre Akbas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generative Appearance Flow: A Hybrid Approach for Outdoor View Synthesis",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0055.pdf",
+        "paper_authors": [
+            "Muhammad Usman Rafique",
+            "Hunter Blanton",
+            "Noah Snavely",
+            "Nathan Jacobs"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "HASTE: multi-Hypothesis Asynchronous Speeded-up Tracking of Events",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0744.pdf",
+        "paper_authors": [
+            "Ignacio Alzugaray",
+            "Margarita Chli"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Convolutional Neural Networks Compression via Global&Progressive Product Quantization",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0452.pdf",
+        "paper_authors": [
+            "Weihan Chen",
+            "Peisong Wang",
+            "Jian Cheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsupervised Monocular Depth Estimation with Multi-Baseline Stereo",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0975.pdf",
+        "paper_authors": [
+            "Saad Imran",
+            "Muhammad Umar Karim Khan",
+            "Sikander Mukaram",
+            "Chong-Min Kyung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0111.pdf",
+        "paper_authors": [
+            "Vladimir Iashin",
+            "Esa Rahtu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Real-Time Semantic Segmentation via Multiply Spatial Fusion Network",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0678.pdf",
+        "paper_authors": [
+            "Haiyang Si",
+            "Zhiqiang Zhang",
+            "Feng Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "POMP: Pomcp-based Online Motion Planning for active visual search in indoor environments",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0918.pdf",
+        "paper_authors": [
+            "Yiming Wang",
+            "Francesco Giuliari",
+            "Riccardo Berra",
+            "Alberto Castellini",
+            "Alessio Del Bue",
+            "Alessandro Farinelli",
+            "Marco Cristani",
+            "Francesco Setti"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Scene Text Recognition Through Adaptive Image Enhancement",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0257.pdf",
+        "paper_authors": [
+            "Ye Qian",
+            "Yuyang Wang",
+            "Feng Su"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Novel Baseline for Zero-shot Learning via Adversarial Visual-Semantic Embedding",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0211.pdf",
+        "paper_authors": [
+            "Yu Liu",
+            "Tinne Tuytelaars"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BiHand: Recovering Hand Mesh with Multi-stage Bisected Hourglass Networks",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0250.pdf",
+        "paper_authors": [
+            "Lixin Yang",
+            "Jiasen Li",
+            "Wenqiang Xu",
+            "Yiqun Diao",
+            "Cewu Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "N2NSkip: Learning Highly Sparse Networks using Neuron-to-Neuron Skip Connections",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0097.pdf",
+        "paper_authors": [
+            "Arvind Subramaniam",
+            "Avinash Sharma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "NTGAN: Learning Blind Image Denoising without Clean Reference",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0046.pdf",
+        "paper_authors": [
+            "Rui Zhao",
+            "Daniel Pak-Kong Lun",
+            "Kin-Man Lam"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Ensemble Model Training via Random Layer Sampling Against Adversarial Attack",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0532.pdf",
+        "paper_authors": [
+            "Hakmin Lee",
+            "Hong Joo Lee",
+            "Seong Tae Kim",
+            "Yong Man Ro"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Image Matching By Dynamic Feature Selection",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0803.pdf",
+        "paper_authors": [
+            "Hao Huang",
+            "Jianchun Chen",
+            "Xiang Li",
+            "Lingjing Wang",
+            "Yi Fang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unified Representation Learning for Cross Model Compatibility",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0195.pdf",
+        "paper_authors": [
+            "Chien-Yi Wang",
+            "Ya-Liang Chang",
+            "Shang-Ta Yang",
+            "Dong Chen",
+            "Shang-Hong Lai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Self-Supervised Learning for Facial Action Unit Recognition through Temporal Consistency",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0861.pdf",
+        "paper_authors": [
+            "Liupei Lu",
+            "Leili Tavabi",
+            "Mohammad Soleymani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsupervised and Semi-supervised Novelty Detection using Variational Autoencoders in Opportunistic Science Missions",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0643.pdf",
+        "paper_authors": [
+            "Lorenzo Sintini",
+            "Lars Kunze"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Large Scale Photometric Bundle Adjustment",
+        "paper_url": "https://www.bmvc2020-conference.com/assets/papers/0822.pdf",
+        "paper_authors": [
+            "Oliver J. Woodford",
+            "Edward Rosten"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

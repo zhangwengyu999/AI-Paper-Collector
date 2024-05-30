@@ -1,0 +1,5208 @@
+[
+    {
+        "paper_name": "Front Matter",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/FrontMatterVol15No1.pdf",
+        "paper_authors": [
+            "Fatma Ozcan",
+            "Juliana Freire",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ANN Softmax: Acceleration of Extreme Classification Training",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p1-zhao.pdf",
+        "paper_authors": [
+            "Kang Zhao",
+            "Liuyihan Song",
+            "Yingya Zhang",
+            "Pan Pan",
+            "Yinghui Xu",
+            "Rong Jin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "WindTunnel: Towards Differentiable ML Pipelines Beyond a Single Modele",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p11-yu.pdf",
+        "paper_authors": [
+            "Gyeong-In Yu",
+            "Saeed Amizadeh",
+            "Sehoon Kim",
+            "Artidoro Pagnoni",
+            "Ce Zhang",
+            "Byung-Gon Chun",
+            "Markus Weimer",
+            "Matteo Interlandi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DBOS: A DBMS-oriented Operating System",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p21-skiadopoulos.pdf",
+        "paper_authors": [
+            "Athinagoras Skiadopoulos",
+            "Qian Li",
+            "Peter Kraft",
+            "Kostis Kaffes",
+            "Daniel Hong",
+            "Shana Mathew",
+            "David Bestor",
+            "Michael J. Cafarella",
+            "Vijay Gadepally",
+            "Goetz Graefe",
+            "Jeremy Kepner",
+            "Christos Kozyrakis",
+            "Tim Kraska",
+            "Michael Stonebraker",
+            "Lalith Suresh",
+            "Matei Zaharia"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Indexed Active Learning for Matching Heterogeneous Entity Representations",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p31-jain.pdf",
+        "paper_authors": [
+            "Arjit Jain",
+            "Sunita Sarawagi",
+            "Prithviraj Sen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Learned Query Rewrite System using Monte Carlo Tree Search",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p46-li.pdf",
+        "paper_authors": [
+            "Xuanhe Zhou",
+            "Guoliang Li",
+            "Chengliang Chai",
+            "Jianhua Feng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On Detecting Cherry-picked Generalizations",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p59-lin.pdf",
+        "paper_authors": [
+            "Yin Lin",
+            "Brit Youngmann",
+            "Yuval Moskovitch",
+            "H. V. Jagadish",
+            "Tova Milo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FACE: A Normalizing Flow based Cardinality Estimator",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p72-li.pdf",
+        "paper_authors": [
+            "Jiayi Wang",
+            "Chengliang Chai",
+            "Jiabin Liu",
+            "Guoliang Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learned Cardinality Estimation: A Design Space Exploration and A Comparative Evaluation",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p85-li.pdf",
+        "paper_authors": [
+            "Ji Sun",
+            "Jintao Zhang",
+            "Zhaoyan Sun",
+            "Guoliang Li",
+            "Nan Tang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p98-he.pdf",
+        "paper_authors": [
+            "Dong He",
+            "Maureen Daum",
+            "Walter Cai",
+            "Magdalena Balazinska"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cosine: A Cloud-Cost Optimized Self-Designing Key-Value Storage Engine",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p112-chatterjee.pdf",
+        "paper_authors": [
+            "Subarna Chatterjee",
+            "Meena Jagadeesan",
+            "Wilson Qin",
+            "Stratos Idreos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Accelerating Recommendation System Training by Leveraging Popular Choices",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p127-mahajan.pdf",
+        "paper_authors": [
+            "Muhammad Adnan",
+            "Yassaman Ebrahimzadeh Maboud",
+            "Divya Mahajan",
+            "Prashant J. Nair"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Front Matter",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/FrontMatterVol15No2.pdf",
+        "paper_authors": [
+            "Juliana Freire",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "(p, q)-biclique Counting and Enumeration for Large Sparse Bipartite Graphs",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p141-yang.pdf",
+        "paper_authors": [
+            "Jianye Yang",
+            "Yun Peng",
+            "Wenjie Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Evaluating Query Languages and Systems for High-Energy Physics Data",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p154-muller.pdf",
+        "paper_authors": [
+            "Dan Graur",
+            "Ingo M\u00fcller",
+            "Mason Proffitt",
+            "Ghislain Fourny",
+            "Gordon T. Watts",
+            "Gustavo Alonso"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Distributed Hop-Constrained s-t Simple Path Enumeration at Billion Scale",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p169-hao.pdf",
+        "paper_authors": [
+            "Kongzhang Hao",
+            "Long Yuan",
+            "Wenjie Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ETO: Accelerating Optimization of DNN Operators by High-Performance Tensor Program Reuse",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p183-chen.pdf",
+        "paper_authors": [
+            "Jingzhi Fang",
+            "Yanyan Shen",
+            "Yue Wang",
+            "Lei Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Babelfish: Efficient Execution of Polyglot Queries",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p196-grulich.pdf",
+        "paper_authors": [
+            "Philipp Marian Grulich",
+            "Steffen Zeuch",
+            "Volker Markl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Butterfly Counting on Uncertain Bipartite Networks",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p211-zhou.pdf",
+        "paper_authors": [
+            "Alexander Zhou",
+            "Yue Wang",
+            "Lei Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p224-cui.pdf",
+        "paper_authors": [
+            "Yue Cui",
+            "Kai Zheng",
+            "Dingshan Cui",
+            "Jiandong Xie",
+            "Liwei Deng",
+            "Feiteng Huang",
+            "Xiaofang Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LargeEA: Aligning Entities for Large-scale Knowledge Graphs",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p237-gao.pdf",
+        "paper_authors": [
+            "Congcong Ge",
+            "Xiaoze Liu",
+            "Lu Chen",
+            "Baihua Zheng",
+            "Yunjun Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "HVS: Hierarchical Graph Structure Based on Voronoi Diagrams for Solving Approximate Nearest Neighbor Search",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p246-lu.pdf",
+        "paper_authors": [
+            "Kejing Lu",
+            "Mineichi Kudo",
+            "Chuan Xiao",
+            "Yoshiharu Ishikawa"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Origami: A High-Performance Mergesort Framework",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p259-arman.pdf",
+        "paper_authors": [
+            "Arif Arman",
+            "Dmitri Loguinov"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning to be a Statistician: Learned Estimator for Number of Distinct Values",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p272-wu.pdf",
+        "paper_authors": [
+            "Renzhi Wu",
+            "Bolin Ding",
+            "Xu Chu",
+            "Zhewei Wei",
+            "Xiening Dai",
+            "Tao Guan",
+            "Jingren Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ParChain: A Framework for Parallel Hierarchical Agglomerative Clustering using Nearest-Neighbor Chain",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p285-yu.pdf",
+        "paper_authors": [
+            "Shangdi Yu",
+            "Yiqiu Wang",
+            "Yan Gu",
+            "Laxman Dhulipala",
+            "Julian Shun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Answering Regular Path Queries through Exemplars",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p299-ranu.pdf",
+        "paper_authors": [
+            "Komal Chauhan",
+            "Kartik Jain",
+            "Sayan Ranu",
+            "Srikanta Bedathur",
+            "Amitabha Bagchi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p312-miao.pdf",
+        "paper_authors": [
+            "Xupeng Miao",
+            "Hailin Zhang",
+            "Yining Shi",
+            "Xiaonan Nie",
+            "Zhi Yang",
+            "Yangyu Tao",
+            "Bin Cui"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p321-hua.pdf",
+        "paper_authors": [
+            "Pengfei Li",
+            "Yu Hua",
+            "Jingnan Jia",
+            "Pengfei Zuo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TaGSim: Type-aware Graph Similarity Learning and Computation",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p335-zhao.pdf",
+        "paper_authors": [
+            "Jiyang Bai",
+            "Peixiang Zhao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Analysis of Influence Contribution in Social Advertising",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p348-tang.pdf",
+        "paper_authors": [
+            "Yuqing Zhu",
+            "Jing Tang",
+            "Xueyan Tang",
+            "Lei Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scabbard: Single-Node Fault-Tolerant Stream Processing",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p361-theodorakis.pdf",
+        "paper_authors": [
+            "Georgios Theodorakis",
+            "Fotios Kounelis",
+            "Peter R. Pietzuch",
+            "Holger Pirk"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Enabling Personal Consent in Databases",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p375-konstantinidis.pdf",
+        "paper_authors": [
+            "George Konstantinidis",
+            "Jet Holt",
+            "Adriane Chapman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Front Matter",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/FrontMatterVol15No3.pdf",
+        "paper_authors": [
+            "Juliana Freire",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Enabling SQL-based Training Data Debugging for Federated Learning",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p388-wu.pdf",
+        "paper_authors": [
+            "Yejia Liu",
+            "Weiyuan Wu",
+            "Lampros Flokas",
+            "Jiannan Wang",
+            "Eugene Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Leveraging Query Logs and Machine Learning for Parametric Query Optimization",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p401-vaidya.pdf",
+        "paper_authors": [
+            "Kapil Vaidya",
+            "Anshuman Dutt",
+            "Vivek R. Narasayya",
+            "Surajit Chaudhuri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pre-training Summarization Models of Structured Datasets for Cardinality Estimation",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p414-lu.pdf",
+        "paper_authors": [
+            "Yao Lu",
+            "Srikanth Kandula",
+            "Arnd Christian K\u00f6nig",
+            "Surajit Chaudhuri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "xFraud: Explainable Fraud Transaction Detection",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p427-rao.pdf",
+        "paper_authors": [
+            "Susie Xi Rao",
+            "Shuai Zhang",
+            "Zhichao Han",
+            "Zitao Zhang",
+            "Wei Min",
+            "Zhiyao Chen",
+            "Yinan Shan",
+            "Yang Zhao",
+            "Ce Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Subgraph Matching over Graph Federation",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p437-yuan.pdf",
+        "paper_authors": [
+            "Ye Yuan",
+            "Delong Ma",
+            "Zhenyu Wen",
+            "Zhiwei Zhang",
+            "Guoren Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Provenance-based Data Skipping",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p451-niu.pdf",
+        "paper_authors": [
+            "Xing Niu",
+            "Boris Glavic",
+            "Ziyu Liu",
+            "Pengyuan Li",
+            "Dieter Gawlick",
+            "Vasudha Krishnaswamy",
+            "Zhen Hua Liu",
+            "Danica Porobic"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Transfer Learning for Multi-source Entity Linkage via Domain Adaptation",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p465-jin.pdf",
+        "paper_authors": [
+            "Di Jin",
+            "Bunyamin Sisman",
+            "Hao Wei",
+            "Xin Luna Dong",
+            "Danai Koutra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Experimental Evaluation and Investigation of Waves of Misery in R-trees",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p478-aref.pdf",
+        "paper_authors": [
+            "Lu Xing",
+            "Eric Lee",
+            "Tong An",
+            "Bo-Cheng Chu",
+            "Ahmed Mahmood",
+            "Ahmed M. Aly",
+            "Jianguo Wang",
+            "Walid G. Aref"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PRUC : P-Regions with User-Defined Constraint",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p491-liu.pdf",
+        "paper_authors": [
+            "Yongyi Liu",
+            "Ahmed Mahmood",
+            "Amr Magdy",
+            "Sergio J. Rey"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Points-of-Interest Relationship Inference with Spatial-enriched Graph Neural Networks",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p504-chen.pdf",
+        "paper_authors": [
+            "Yile Chen",
+            "Xiucheng Li",
+            "Gao Cong",
+            "Cheng Long",
+            "Zhifeng Bao",
+            "Shang Liu",
+            "Wanli Gu",
+            "Fuzheng Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SAFE: A Share-and-Aggregate Bandwidth Exploration Framework for Kernel Density Visualization",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p513-chan.pdf",
+        "paper_authors": [
+            "Tsz Nam Chan",
+            "Pak Lon Ip",
+            "Leong Hou U",
+            "Byron Choi",
+            "Jianliang Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The next 50 Years in Database Indexing or: The Case for Automatically Generated Index Structures",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p527-dittrich.pdf",
+        "paper_authors": [
+            "Jens Dittrich",
+            "Joris Nix",
+            "Christian Sch\u00f6n"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DARLING: Data-Aware Load Shedding in Complex Event Processing Systems",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p541-chapnik.pdf",
+        "paper_authors": [
+            "Koral Chapnik",
+            "Ilya Kolchinsky",
+            "Assaf Schuster"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rearchitecting In-Memory Object Stores for Low Latency",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p555-zhuo.pdf",
+        "paper_authors": [
+            "Danyang Zhuo",
+            "Kaiyuan Zhang",
+            "Zhuohan Li",
+            "Siyuan Zhuang",
+            "Stephanie Wang",
+            "Ang Chen",
+            "Ion Stoica"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MT-Teql: Evaluating and Augmenting Neural NLIDB on Real-world Linguistic and Schema Variations",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p569-ma.pdf",
+        "paper_authors": [
+            "Pingchuan Ma",
+            "Shuai Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Theoretically and Practically Efficient Parallel Nucleus Decomposition",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p583-shi.pdf",
+        "paper_authors": [
+            "Jessica Shi",
+            "Laxman Dhulipala",
+            "Julian Shun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "APEX: A High-Performance Learned Index on Persistent Memory",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p597-lu.pdf",
+        "paper_authors": [
+            "Baotong Lu",
+            "Jialin Ding",
+            "Eric Lo",
+            "Umar Farooq Minhas",
+            "Tianzheng Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsupervised Time Series Outlier Detection with Diversity-Driven Convolutional Ensembles",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p611-chaves.pdf",
+        "paper_authors": [
+            "David Campos",
+            "Tung Kieu",
+            "Chenjuan Guo",
+            "Feiteng Huang",
+            "Kai Zheng",
+            "Bin Yang",
+            "Christian S. Jensen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient and Effective Data Imputation with Influence Functions",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p624-miao.pdf",
+        "paper_authors": [
+            "Xiaoye Miao",
+            "Yangyang Wu",
+            "Lu Chen",
+            "Yunjun Gao",
+            "Jun Wang",
+            "Jianwei Yin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Parallel Training of Knowledge Graph Embedding Models: A Comparison of Techniques",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p633-kochsiek.pdf",
+        "paper_authors": [
+            "Adrian Kochsiek",
+            "Rainer Gemulla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Detecting Layout Templates in Complex Multiregion Files",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p646-vitagliano.pdf",
+        "paper_authors": [
+            "Gerardo Vitagliano",
+            "Lan Jiang",
+            "Felix Naumann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "What Is the Price for Joining Securely? Benchmarking Equi-Joins in Trusted Execution Environments",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p659-maliszewski.pdf",
+        "paper_authors": [
+            "Kajetan Jeremi Maliszewski",
+            "Jorge-Arnulfo Quian\u00e9-Ruiz",
+            "Jonas Traub",
+            "Volker Markl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Temporal Pattern Mining in Big Time Series Using Mutual Information",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p673-ho.pdf",
+        "paper_authors": [
+            "Van Long Ho",
+            "Nguyen Ho",
+            "Torben Bach Pedersen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Label-Constrained Shortest Path Queries on Road Networks: A Tree Decomposition Approach",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p686-yuan.pdf",
+        "paper_authors": [
+            "Junhua Zhang",
+            "Long Yuan",
+            "Wentao Li",
+            "Lu Qin",
+            "Ying Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Ember: No-Code Context Enrichment via Similarity-Based Keyless Joins",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p699-suri.pdf",
+        "paper_authors": [
+            "Sahaana Suri",
+            "Ihab F. Ilyas",
+            "Christopher R\u00e9",
+            "Theodoros Rekatsinas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Incremental Partitioning for Efficient Spatial Data Analytics",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p713-vu.pdf",
+        "paper_authors": [
+            "Tin Vu",
+            "Ahmed Eldawy",
+            "Vagelis Hristidis",
+            "Vassilis J. Tsotras"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Lux: Always-on Visualization Recommendations for Exploratory Dataframe Workflows",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p727-lee.pdf",
+        "paper_authors": [
+            "Doris Jung Lin Lee",
+            "Dixin Tang",
+            "Kunal Agarwal",
+            "Thyne Boonmark",
+            "Caitlyn Chen",
+            "Jake Kang",
+            "Ujjaini Mukhopadhyay",
+            "Jerry Song",
+            "Micah Yong",
+            "Marti A. Hearst",
+            "Aditya G. Parameswaran"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Flexible Rule-Based Decomposition and Metadata Independence in Modin: A Parallel Dataframe System",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p739-petersohn.pdf",
+        "paper_authors": [
+            "Devin Petersohn",
+            "Dixin Tang",
+            "Rehan Sohail Durrani",
+            "Areg Melik-Adamyan",
+            "Joseph Gonzalez",
+            "Anthony D. Joseph",
+            "Aditya G. Parameswaran"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Front Matter",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/FrontMatterVol15No4.pdf",
+        "paper_authors": [
+            "Juliana Freire",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cardinality Estimation in DBMS: A Comprehensive Benchmark Evaluation",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p752-zhu.pdf",
+        "paper_authors": [
+            "Yuxing Han",
+            "Ziniu Wu",
+            "Peizhi Wu",
+            "Rong Zhu",
+            "Jingyi Yang",
+            "Liang Wei Tan",
+            "Kai Zeng",
+            "Gao Cong",
+            "Yanzhao Qin",
+            "Andreas Pfadler",
+            "Zhengping Qian",
+            "Jingren Zhou",
+            "Jiangneng Li",
+            "Bin Cui"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Redy: Remote Dynamic Memory Cache",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p766-zhang.pdf",
+        "paper_authors": [
+            "Qizhen Zhang",
+            "Philip A. Bernstein",
+            "Daniel S. Berger",
+            "Badrish Chandramouli"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust and Budget-Constrained Encoding Configurations for In-Memory Database Systems",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p780-boissier.pdf",
+        "paper_authors": [
+            "Martin Boissier"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Neural Ranking on Bipartite Graph Indices",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p794-tan.pdf",
+        "paper_authors": [
+            "Shulong Tan",
+            "Weijie Zhao",
+            "Ping Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BAGUA: Scaling up Distributed Learning with System Relaxations",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p804-gan.pdf",
+        "paper_authors": [
+            "Shaoduo Gan",
+            "Xiangru Lian",
+            "Rui Wang",
+            "Jianbin Chang",
+            "Chengjun Liu",
+            "Hongmei Shi",
+            "Shengzhuo Zhang",
+            "Xianghong Li",
+            "Tengxu Sun",
+            "Jiawei Jiang",
+            "Binhang Yuan",
+            "Sen Yang",
+            "Ji Liu",
+            "Ce Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SWS: A Complexity-Optimized Solution for Spatial-Temporal Kernel Density Visualization",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p814-chan.pdf",
+        "paper_authors": [
+            "Tsz Nam Chan",
+            "Pak Lon Ip",
+            "Leong Hou U",
+            "Byron Choi",
+            "Jianliang Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Projected Federated Averaging with Heterogeneous Differential Privacy",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p828-liu.pdf",
+        "paper_authors": [
+            "Junxu Liu",
+            "Jian Lou",
+            "Li Xiong",
+            "Jinfei Liu",
+            "Xiaofeng Meng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Popularity Prediction for Social Media over Arbitrary Time Horizons",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p841-karamshuk.pdf",
+        "paper_authors": [
+            "Daniel Haimovich",
+            "Dmytro Karamshuk",
+            "Thomas J. Leeper",
+            "Evgeniy Riabenko",
+            "Milan Vojnovic"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LANNS: A Web-Scale Approximate Nearest Neighbor Lookup System",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p850-doshi.pdf",
+        "paper_authors": [
+            "Ishita Doshi",
+            "Dhritiman Das",
+            "Ashish Bhutani",
+            "Rajeev Kumar",
+            "Rushi Bhatt",
+            "Niranjan Balasubramanian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Detection of Denial Constraint Violations",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p859-pena.pdf",
+        "paper_authors": [
+            "Eduardo H. M. Pena",
+            "Eduardo Cunha de Almeida",
+            "Felix Naumann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Chukonu: A Fully-Featured Big Data Processing System by Efficiently Integrating a Native Compute Engine into Spark",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p872-yu.pdf",
+        "paper_authors": [
+            "Bowen Yu",
+            "Guanyu Feng",
+            "Huanqi Cao",
+            "Xiaohan Li",
+            "Zhenbo Sun",
+            "Haojie Wang",
+            "Xiaowei Zhu",
+            "Weimin Zheng",
+            "Wenguang Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "COMET: A Novel Memory-Efficient Deep Learning Training Framework by Using Error-Bounded Lossy Compression",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p886-tao.pdf",
+        "paper_authors": [
+            "Sian Jin",
+            "Chengming Zhang",
+            "Xintong Jiang",
+            "Yunhe Feng",
+            "Hui Guan",
+            "Guanpeng Li",
+            "Shuaiwen Song",
+            "Dingwen Tao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Federated Matrix Factorization with Privacy Guarantee",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p900-li.pdf",
+        "paper_authors": [
+            "Zitao Li",
+            "Bolin Ding",
+            "Ce Zhang",
+            "Ninghui Li",
+            "Jingren Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scalable Robust Graph Embedding with Spark",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p914-duong.pdf",
+        "paper_authors": [
+            "Chi Thang Duong",
+            "Dung Hoang",
+            "Hongzhi Yin",
+            "Matthias Weidlich",
+            "Quoc Viet Hung Nguyen",
+            "Karl Aberer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Database Workload Characterization with Query Plan Encoders",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p923-paul.pdf",
+        "paper_authors": [
+            "Debjyoti Paul",
+            "Jie Cao",
+            "Feifei Li",
+            "Vivek Srikumar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "New Query Optimization Techniques in the Spark Engine of Azure Synapse",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p936-rajan.pdf",
+        "paper_authors": [
+            "Abhishek Modi",
+            "Kaushik Rajan",
+            "Srinivas Thimmaiah",
+            "Prakhar Jain",
+            "Swinky Mann",
+            "Ayushi Agarwal",
+            "Ajith Shetty",
+            "Shahid K. I",
+            "Ashit Gosalia",
+            "Partho Sarthi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DQDF: Data-Quality-Aware Dataframes",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p949-sinthong.pdf",
+        "paper_authors": [
+            "Phanwadee Sinthong",
+            "Dhaval Patel",
+            "Nianjun Zhou",
+            "Shrey Shrivastava",
+            "Arun Iyengar",
+            "Anuradha Bhamidipaty"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Retrofitting GDPR Compliance onto Legacy Databases",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p958-george.pdf",
+        "paper_authors": [
+            "Archita Agarwal",
+            "Marilyn George",
+            "Aaron R. Jeyaraj",
+            "Malte Schwarzkopf"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AutoCTS: Automated Correlated Time Series Forecasting",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p971-wu.pdf",
+        "paper_authors": [
+            "Xinle Wu",
+            "Dalin Zhang",
+            "Chenjuan Guo",
+            "Chaoyang He",
+            "Bin Yang",
+            "Christian S. Jensen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Replicated Layout for In-Memory Database Systems",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p984-sudhir.pdf",
+        "paper_authors": [
+            "Sivaprasad Sudhir",
+            "Michael J. Cafarella",
+            "Samuel Madden"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Front Matter",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/FrontMatterVol15No5.pdf",
+        "paper_authors": [
+            "Fatma Ozcan",
+            "Juliana Freire",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Projection-Compliant Database Generation",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p998-sanghi.pdf",
+        "paper_authors": [
+            "Anupam Sanghi",
+            "Shadab Ahmed",
+            "Jayant R. Haritsa"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Making RDBMSs Efficient on Graph Workloads Through Predefined Joins",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1011-jin.pdf",
+        "paper_authors": [
+            "Guodong Jin",
+            "Semih Salihoglu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Ranked Enumeration of Join Queries with Projections",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1024-deep.pdf",
+        "paper_authors": [
+            "Shaleen Deep",
+            "Xiao Hu",
+            "Paraschos Koutris"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hippo: Sharing Computations in Hyper-Parameter Optimization",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1038-shin.pdf",
+        "paper_authors": [
+            "Ahnjae Shin",
+            "Joo Seong Jeong",
+            "Do Yoon Kim",
+            "Soyoung Jung",
+            "Byung-Gon Chun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DSON: JSON CRDT Using Delta-Mutations For Document Stores",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1053-rinberg.pdf",
+        "paper_authors": [
+            "Arik Rinberg",
+            "Tomer Solomon",
+            "Roee Shlomo",
+            "Guy Khazma",
+            "Gal Lushi",
+            "Idit Keidar",
+            "Paula Ta-Shma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Neural Database for Differentially Private Spatial Range Queries",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1066-zeighami.pdf",
+        "paper_authors": [
+            "Sepanta Zeighami",
+            "Ritesh Ahuja",
+            "Gabriel Ghinita",
+            "Cyrus Shahabi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Critical Analysis of Recursive Model Indexes",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1079-maltry.pdf",
+        "paper_authors": [
+            "Marcel Maltry",
+            "Jens Dittrich"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hybrid Blockchain Database Systems: Design and Performance",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1092-loghin.pdf",
+        "paper_authors": [
+            "Zerui Ge",
+            "Dumitrel Loghin",
+            "Beng Chin Ooi",
+            "Pingcheng Ruan",
+            "Tianwen Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Threshold Queries in Theory and in the Wild",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1105-staworko.pdf",
+        "paper_authors": [
+            "Angela Bonifati",
+            "Stefania Dumbrava",
+            "George Fletcher",
+            "Jan Hidders",
+            "Matthias Hofer",
+            "Wim Martens",
+            "Filip Murlak",
+            "Joshua Shinavier",
+            "Slawek Staworko",
+            "Dominik Tomaszuk"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "User-Defined Operators: Efficiently Integrating Custom Algorithms into Modern Databases",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1119-sichert.pdf",
+        "paper_authors": [
+            "Moritz Sichert",
+            "Thomas Neumann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Front Matter",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/FrontMatterVol15No6.pdf",
+        "paper_authors": [
+            "Fatma Ozcan",
+            "Juliana Freire",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PACk: An Efficient Partition-based Distributed Agglomerative Hierarchical Clustering Algorithm for Deduplication",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1132-wang.pdf",
+        "paper_authors": [
+            "Yue Wang",
+            "Vivek R. Narasayya",
+            "Yeye He",
+            "Surajit Chaudhuri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Near-Optimal Approach to Edge Connectivity-Based Hierarchical Graph Decomposition",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1146-chang.pdf",
+        "paper_authors": [
+            "Lijun Chang",
+            "Zhiyi Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hu-Fu: Efficient and Secure Spatial Queries over Data Federation",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1159-tong.pdf",
+        "paper_authors": [
+            "Yongxin Tong",
+            "Xuchen Pan",
+            "Yuxiang Zeng",
+            "Yexuan Shi",
+            "Chunbo Xue",
+            "Zimu Zhou",
+            "Xiaofei Zhang",
+            "Lei Chen",
+            "Yi Xu",
+            "Ke Xu",
+            "Weifeng Lv"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sortledton: a universal, transactional graph data structure",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf",
+        "paper_authors": [
+            "Per Fuchs",
+            "Jana Giceva",
+            "Domagoj Margan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "NBTree: a Lock-free PM-friendly Persistent B+-Tree for eADR-enabled PM Systems",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1187-zhang.pdf",
+        "paper_authors": [
+            "Bowen Zhang",
+            "Shengan Zheng",
+            "Zhenlin Qi",
+            "Linpeng Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1201-tuli.pdf",
+        "paper_authors": [
+            "Shreshth Tuli",
+            "Giuliano Casale",
+            "Nicholas R. Jennings"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SpaceSaving\u00b1 An Optimal Algorithm for Frequency Estimation and Frequent items in the Bounded Deletion Model",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1215-zhao.pdf",
+        "paper_authors": [
+            "Fuheng Zhao",
+            "Divy Agrawal",
+            "Amr El Abbadi",
+            "Ahmed Metwally"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ByteGNN: Efficient Graph Neural Network Training at Large Scale",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1228-zheng.pdf",
+        "paper_authors": [
+            "Chenguang Zheng",
+            "Hongzhi Chen",
+            "Yuxuan Cheng",
+            "Zhezheng Song",
+            "Yifan Wu",
+            "Changji Li",
+            "James Cheng",
+            "Hao Yang",
+            "Shuai Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Query Driven-Graph Neural Networks for Community Search: From Non-Attributed, Attributed, to Interactive Attributed",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1243-jiang.pdf",
+        "paper_authors": [
+            "Yuli Jiang",
+            "Yu Rong",
+            "Hong Cheng",
+            "Xin Huang",
+            "Kangfei Zhao",
+            "Junzhou Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1256-li.pdf",
+        "paper_authors": [
+            "Yang Li",
+            "Yu Shen",
+            "Huaijun Jiang",
+            "Wentao Zhang",
+            "Jixiang Li",
+            "Ji Liu",
+            "Ce Zhang",
+            "Bin Cui"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multivariate correlations discovery in static and streaming data",
+        "paper_url": "http://www.vldb.org/pvldb/vol15/p1266-papapetrou.pdf",
+        "paper_authors": [
+            "Koen Minartz",
+            "Jens E. d'Hondt",
+            "Odysseas Papapetrou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Moneyball: Proactive Auto-Scaling in Microsoft Azure SQL Database Serverless",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1279-poppe.pdf",
+        "paper_authors": [
+            "Olga Poppe",
+            "Qun Guo",
+            "Willis Lang",
+            "Pankaj Arora",
+            "Morgan Oslake",
+            "Shize Xu",
+            "Ajay Kalhan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PGE: Robust Product Graph Embedding Learning for Error Detection",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1288-cheng.pdf",
+        "paper_authors": [
+            "Kewei Cheng",
+            "Xian Li",
+            "Yifan Ethan Xu",
+            "Xin Luna Dong",
+            "Yizhou Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CHEX: Multiversion Replay with Ordered Checkpoints",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1297-malik.pdf",
+        "paper_authors": [
+            "Naga Nithin Manne",
+            "Shilvi Satpati",
+            "Tanu Malik",
+            "Amitabha Bagchi",
+            "Ashish Gehani",
+            "Amitabh Chaudhary"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Front Matter",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/FrontMatterVol15No7.pdf",
+        "paper_authors": [
+            "Fatma Ozcan",
+            "Juliana Freire",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Prefix Filter: Practically and Theoretically Better Than Bloom",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1311-even.pdf",
+        "paper_authors": [
+            "Tomer Even",
+            "Guy Even",
+            "Adam Morrison"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scalar DL: Scalable and Practical Byzantine Fault Detection for Transactional Database Systems",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1324-yamada.pdf",
+        "paper_authors": [
+            "Hiroyuki Yamada",
+            "Jun Nemoto"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "In-Network Leaderless Replication for Distributed Data Stores",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1337-lee.pdf",
+        "paper_authors": [
+            "Gyuyeong Kim",
+            "Wonjun Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Algorithms for Core Maximization on Large Graphs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1350-sun.pdf",
+        "paper_authors": [
+            "Xin Sun",
+            "Xin Huang",
+            "Di Jin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "NLC: Search Correlated Window Pairs on Long Time Series",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1363-pan.pdf",
+        "paper_authors": [
+            "Shuye Pan",
+            "Peng Wang",
+            "Chen Wang",
+            "Wei Wang",
+            "Jianmin Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Edge-based Local Push for Personalized PageRank",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1376-wang.pdf",
+        "paper_authors": [
+            "Hanzhi Wang",
+            "Zhewei Wei",
+            "Junhao Gan",
+            "Ye Yuan",
+            "Xiaoyong Du",
+            "Ji-Rong Wen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Continuous Social Distance Monitoring in Indoor Space",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1390-chan.pdf",
+        "paper_authors": [
+            "Harry Kai-Ho Chan",
+            "Huan Li",
+            "Xiao Li",
+            "Hua Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An In-Depth Study of Continuous Subgraph Matching",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1403-sun.pdf",
+        "paper_authors": [
+            "Xibo Sun",
+            "Shixuan Sun",
+            "Qiong Luo",
+            "Bingsheng He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "OnlineSTL: Scaling Time Series Decomposition by 100x",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1417-mishra.pdf",
+        "paper_authors": [
+            "Abhinav Mishra",
+            "Ram Sriharsha",
+            "Sichen Zhong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Stingy Sketch: A Sketch Framework for Accurate and Fast Frequency Estimation",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1426-li.pdf",
+        "paper_authors": [
+            "Haoyu Li",
+            "Qizhi Chen",
+            "Yixin Zhang",
+            "Tong Yang",
+            "Bin Cui"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Study of Database Performance Sensitivity to Experiment Settings",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1439-wang.pdf",
+        "paper_authors": [
+            "Yang Wang",
+            "Miao Yu",
+            "Yujie Hui",
+            "Fang Zhou",
+            "Yuyang Huang",
+            "Rui Zhu",
+            "Xueyuan Ren",
+            "Tianxi Li",
+            "Xiaoyi Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Inherent Time Complexity and An Efficient Algorithm for Subsequence Matching Problem",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1453-chao.pdf",
+        "paper_authors": [
+            "Zemin Chao",
+            "Hong Gao",
+            "Yinan An",
+            "Jianzhong Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Selective Data Acquisition in the Wild for Model Charging",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1466-li.pdf",
+        "paper_authors": [
+            "Chengliang Chai",
+            "Jiabin Liu",
+            "Nan Tang",
+            "Guoliang Li",
+            "Yuyu Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Discovering Association Rules from Big Graphs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1479-tian.pdf",
+        "paper_authors": [
+            "Wenfei Fan",
+            "Wenzhi Fu",
+            "Ruochun Jin",
+            "Ping Lu",
+            "Chao Tian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DeepTEA: Effective and Efficient Online Time-dependent Trajectory Outlier Detection",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1493-han.pdf",
+        "paper_authors": [
+            "Xiaolin Han",
+            "Reynold Cheng",
+            "Chenhao Ma",
+            "Tobias Grubenmann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Entity Resolution On-Demand",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1506-simonini.pdf",
+        "paper_authors": [
+            "Giovanni Simonini",
+            "Luca Zecchini",
+            "Sonia Bergamaschi",
+            "Felix Naumann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Front Matter",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/FrontMatterVol15No8.pdf",
+        "paper_authors": [
+            "Fatma Ozcan",
+            "Juliana Freire",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ForBackBench: A Benchmark for Chasing vs. Query-Rewriting",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1519-alhazmi.pdf",
+        "paper_authors": [
+            "Afnan G. Alhazmi",
+            "Tom Blount",
+            "George Konstantinidis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Accurate Summary-based Cardinality Estimation Through the Lens of Cardinality Estimation Graphs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1533-chen.pdf",
+        "paper_authors": [
+            "Jeremy Chen",
+            "Yuqing Huang",
+            "Mushi Wang",
+            "Semih Salihoglu",
+            "Kenneth Salem"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Distributed D-core Decomposition over Large Directed Graphs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1546-liao.pdf",
+        "paper_authors": [
+            "Xuankun Liao",
+            "Qing Liu",
+            "Jiaxin Jiang",
+            "Xin Huang",
+            "Jianliang Xu",
+            "Byron Choi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Maximal Biclique Enumeration for Large Sparse Bipartite Graphs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1559-chen.pdf",
+        "paper_authors": [
+            "Lu Chen",
+            "Chengfei Liu",
+            "Rui Zhou",
+            "Jiajie Xu",
+            "Jianxin Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TGL: A General Framework for Temporal GNN Training onBillion-Scale Graphs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1572-zhou.pdf",
+        "paper_authors": [
+            "Hongkuan Zhou",
+            "Da Zheng",
+            "Israt Nisa",
+            "Vassilis N. Ioannidis",
+            "Xiang Song",
+            "George Karypis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Distributed Learning of Fully Connected Neural Networks using Independent Subnet Training",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1581-wolfe.pdf",
+        "paper_authors": [
+            "Binhang Yuan",
+            "Cameron R. Wolfe",
+            "Chen Dun",
+            "Yuxin Tang",
+            "Anastasios Kyrillidis",
+            "Chris Jermaine"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Netherite: Efficient Execution of Serverless Workflows",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1591-burckhardt.pdf",
+        "paper_authors": [
+            "Sebastian Burckhardt",
+            "Badrish Chandramouli",
+            "Chris Gillum",
+            "David Justo",
+            "Konstantinos Kallas",
+            "Connor McMahon",
+            "Christopher Meiklejohn",
+            "Xiangfeng Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Endure: A Robust Tuning Paradigm for LSM Trees Under Workload Uncertainty",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1605-huynh.pdf",
+        "paper_authors": [
+            "Andy Huynh",
+            "Harshal A. Chaudhari",
+            "Evimaria Terzi",
+            "Manos Athanassoulis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An I/O-Efficient Disk-based Graph System for Scalable Second-Order Random Walk of Large Graphs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1619-shao.pdf",
+        "paper_authors": [
+            "Hongzheng Li",
+            "Yingxia Shao",
+            "Junping Du",
+            "Bin Cui",
+            "Lei Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SNARF: A Learning-Enhanced Range Filter",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1632-vaidya.pdf",
+        "paper_authors": [
+            "Kapil Vaidya",
+            "Tim Kraska",
+            "Subarna Chatterjee",
+            "Eric R. Knorr",
+            "Michael Mitzenmacher",
+            "Stratos Idreos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DLCR: Efficient Indexing for Label-Constrained Reachability Queries on Large Dynamic Graphs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1645-chen.pdf",
+        "paper_authors": [
+            "Xin Chen",
+            "You Peng",
+            "Sibo Wang",
+            "Jeffrey Xu Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "QueryFormer: A Tree Transformer Model for Query Plan Representation",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1658-zhao.pdf",
+        "paper_authors": [
+            "Yue Zhao",
+            "Gao Cong",
+            "Jiachen Shi",
+            "Chunyan Miao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Index Checkpoints for Instant Recovery in In-Memory Database Systems",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1671-lee.pdf",
+        "paper_authors": [
+            "Leon Lee",
+            "Siphrey Xie",
+            "Yunus Ma",
+            "Shimin Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MATE: Multi-Attribute Table Extraction",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1684-esmailoghli.pdf",
+        "paper_authors": [
+            "Mahdi Esmailoghli",
+            "Jorge-Arnulfo Quian\u00e9-Ruiz",
+            "Ziawasch Abedjan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TSB-UAD: An End-to-End Benchmark Suite for Univariate Time-Series Anomaly Detection",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1697-paparrizos.pdf",
+        "paper_authors": [
+            "John Paparrizos",
+            "Yuhao Kang",
+            "Paul Boniol",
+            "Ruey S. Tsay",
+            "Themis Palpanas",
+            "Michael J. Franklin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Critical Re-evaluation of Neural Methods for Entity Alignment",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1712-arora.pdf",
+        "paper_authors": [
+            "Manuel Leone",
+            "Stefano Huber",
+            "Akhil Arora",
+            "Alberto Garc\u00eda-Dur\u00e1n",
+            "Robert West"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Analyzing How BERT Performs Entity Matching",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1726-paganelli.pdf",
+        "paper_authors": [
+            "Matteo Paganelli",
+            "Francesco Del Buono",
+            "Andrea Baraldi",
+            "Francesco Guerra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Front Matter",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/FrontMatterVol15No9.pdf",
+        "paper_authors": [
+            "Fatma Ozcan",
+            "Juliana Freire",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scalable Byzantine Fault Tolerance via Partial Decentralization",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1739-arun.pdf",
+        "paper_authors": [
+            "Balaji Arun",
+            "Binoy Ravindran"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient and Error-bounded Spatiotemporal Quantile Monitoring in Edge Computing Environments",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1753-li.pdf",
+        "paper_authors": [
+            "Huan Li",
+            "Lanjing Yi",
+            "Bo Tang",
+            "Hua Lu",
+            "Christian S. Jensen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "HDPView: Differentially Private Materialized View for Exploring High Dimensional Relational Data",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1766-kato.pdf",
+        "paper_authors": [
+            "Fumiyuki Kato",
+            "Tsubasa Takahashi",
+            "Shun Takagi",
+            "Yang Cao",
+            "Seng Pei Liew",
+            "Masatoshi Yoshikawa"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Anomaly Detection in Time Series: A Comprehensive Evaluation",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1779-wenig.pdf",
+        "paper_authors": [
+            "Sebastian Schmidl",
+            "Phillip Wenig",
+            "Thorsten Papenbrock"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Guided Exploration of Data Summaries",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1798-youngmann.pdf",
+        "paper_authors": [
+            "Brit Youngmann",
+            "Sihem Amer-Yahia",
+            "Aur\u00e9lien Personnaz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Facilitating Database Tuning with Hyper-Parameter Optimization: A Comprehensive Experimental Evaluation",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1808-cui.pdf",
+        "paper_authors": [
+            "Xinyi Zhang",
+            "Zhuo Chang",
+            "Yang Li",
+            "Hong Wu",
+            "Jian Tan",
+            "Feifei Li",
+            "Bin Cui"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Secure and Verifiable Location-Based Skyline Queries over Encrypted Data",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1822-ding.pdf",
+        "paper_authors": [
+            "Zuan Wang",
+            "Xiaofeng Ding",
+            "Hai Jin",
+            "Pan Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AB-tree: Index for Concurrent Random Sampling and Updates",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1835-zhao.pdf",
+        "paper_authors": [
+            "Zhuoyue Zhao",
+            "Dong Xie",
+            "Feifei Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On Repairing Timestamps for Regular Interval Time Series",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1848-song.pdf",
+        "paper_authors": [
+            "Chenguang Fang",
+            "Shaoxu Song",
+            "Yinan Mei"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Event Prediction in Temporal Graphs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1861-tian.pdf",
+        "paper_authors": [
+            "Wenfei Fan",
+            "Ruochun Jin",
+            "Ping Lu",
+            "Chao Tian",
+            "Ruiqi Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Decentralized Crowdsourcing for Human Intelligence Tasks with Efficient On-Chain Cost",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1875-shin.pdf",
+        "paper_authors": [
+            "Yihuai Liang",
+            "Yan Li",
+            "Byeong-Seok Shin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Distributed Bitruss Decomposition on Bipartite Graphs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1889-wang.pdf",
+        "paper_authors": [
+            "Yue Wang",
+            "Ruiqi Xu",
+            "Xun Jian",
+            "Alexander Zhou",
+            "Lei Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generalized Supervised Meta-blocking",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1902-gagliardelli.pdf",
+        "paper_authors": [
+            "Luca Gagliardelli",
+            "George Papadakis",
+            "Giovanni Simonini",
+            "Sonia Bergamaschi",
+            "Themis Palpanas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Your Read is Our Priority in Flash Storage",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1911-lee.pdf",
+        "paper_authors": [
+            "Mijin An",
+            "Soojun Im",
+            "Dawoon Jung",
+            "Sang Won Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "New Wine in an Old Bottle: Data-aware Hash Functions for Bloom Filters",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1924-bhattacharya.pdf",
+        "paper_authors": [
+            "Arindam Bhattacharya",
+            "Chathur Gudesa",
+            "Amitabha Bagchi",
+            "Srikanta Bedathur"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SANCUS: Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1937-peng.pdf",
+        "paper_authors": [
+            "Jingshu Peng",
+            "Zhao Chen",
+            "Yingxia Shao",
+            "Yanyan Shen",
+            "Lei Chen",
+            "Jiannong Cao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CORE: a COmplex event Recognition Engine",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1951-riveros.pdf",
+        "paper_authors": [
+            "Marco Bucchi",
+            "Alejandro Grez",
+            "Andr\u00e9s Quintana",
+            "Cristian Riveros",
+            "Stijn Vansummeren"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TAOBench: An End-to-End Benchmark for Social Networking Workloads",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1965-cheng.pdf",
+        "paper_authors": [
+            "Audrey Cheng",
+            "Xiao Shi",
+            "Aaron N. Kabcenell",
+            "Shilpa Lawande",
+            "Hamza Qadeer",
+            "Jason Chan",
+            "Harrison Tin",
+            "Ryan Zhao",
+            "Peter Bailis",
+            "Mahesh Balakrishnan",
+            "Nathan Bronson",
+            "Natacha Crooks",
+            "Ion Stoica"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Front Matter",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/FrontMatterVol15No10.pdf",
+        "paper_authors": [
+            "Fatma Ozcan",
+            "Juliana Freire",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "VIP Hashing - Adapting to Skew in Popularity of Data on the Fly",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1978-kakaraparthy.pdf",
+        "paper_authors": [
+            "Aarati Kakaraparthy",
+            "Jignesh M. Patel",
+            "Brian Kroth",
+            "Kwanghyun Park"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Near-Data Processing in Database Systems on Native Computational Storage under HTAP Workloads",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p1991-petrov.pdf",
+        "paper_authors": [
+            "Tobias Vin\u00e7on",
+            "Christian Kn\u00f6dler",
+            "Leonardo Solis-Vasquez",
+            "Arthur Bernhardt",
+            "Sajjad Tamimi",
+            "Lukas Weber",
+            "Florian Stock",
+            "Andreas Koch",
+            "Ilia Petrov"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hercules Against Data Series Similarity Search",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2005-echihabi.pdf",
+        "paper_authors": [
+            "Karima Echihabi",
+            "Panagiota Fatourou",
+            "Kostas Zoumpatianos",
+            "Themis Palpanas",
+            "Houda Benbrahim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DISTILL: Low-Overhead Data-Driven Techniques for Filtering and Costing Indexes for Scalable Index Tuning",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2019-siddiqui.pdf",
+        "paper_authors": [
+            "Tarique Siddiqui",
+            "Wentao Wu",
+            "Vivek R. Narasayya",
+            "Surajit Chaudhuri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimizing Machine Learning Inference Queries with Correlative Proxy Models",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2032-yang.pdf",
+        "paper_authors": [
+            "Zhihui Yang",
+            "Zuozhi Wang",
+            "Yicong Huang",
+            "Yao Lu",
+            "Chen Li",
+            "X. Sean Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Banyan: A Scoped Dataflow Engine for Graph Query Service",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2045-su.pdf",
+        "paper_authors": [
+            "Li Su",
+            "Xiaoming Qin",
+            "Zichao Zhang",
+            "Rui Yang",
+            "Le Xu",
+            "Indranil Gupta",
+            "Wenyuan Yu",
+            "Kai Zeng",
+            "Jingren Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Frequency Estimation Under Multiparty Differential Privacy: One-shot and Streaming",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2058-huang.pdf",
+        "paper_authors": [
+            "Ziyue Huang",
+            "Yuan Qiu",
+            "Ke Yi",
+            "Graham Cormode"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimizing Inference Serving on Serverless Platforms",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2071-ali.pdf",
+        "paper_authors": [
+            "Ahsan Ali",
+            "Riccardo Pinciroli",
+            "Feng Yan",
+            "Evgenia Smirni"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Columnar Formats for Schemaless LSM-based Document Stores",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2085-alkowaileet.pdf",
+        "paper_authors": [
+            "Wail Y. Alkowaileet",
+            "Michael J. Carey"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Shortest Path Counting on Large Road Networks",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2098-qiu.pdf",
+        "paper_authors": [
+            "Yu-Xuan Qiu",
+            "Dong Wen",
+            "Lu Qin",
+            "Wentao Li",
+            "Ronghua Li",
+            "Ying Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Communication-efficient Vertical Federated Learning Training via Cache-enabled Local Update",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2111-fu.pdf",
+        "paper_authors": [
+            "Fangcheng Fu",
+            "Xupeng Miao",
+            "Jiawei Jiang",
+            "Huanran Xue",
+            "Bin Cui"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DESIRE: An Efficient Dynamic Cluster-based Forest Indexing for Similarity Search in Multi-Metric Spaces",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2121-gao.pdf",
+        "paper_authors": [
+            "Yifan Zhu",
+            "Lu Chen",
+            "Yunjun Gao",
+            "Baihua Zheng",
+            "Pengfei Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ABC: Attributed Bipartite Co-clustering",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2134-kim.pdf",
+        "paper_authors": [
+            "Junghoon Kim",
+            "Kaiyu Feng",
+            "Gao Cong",
+            "Diwen Zhu",
+            "Wenyuan Yu",
+            "Chunyan Miao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Time Series Data Encoding for Efficient Storage: A Comparative Analysis in Apache IoTDB",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2148-song.pdf",
+        "paper_authors": [
+            "Jinzhao Xiao",
+            "Yuxiang Huang",
+            "Changyu Hu",
+            "Shaoxu Song",
+            "Xiangdong Huang",
+            "Jianmin Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SA-LSM : Optimize Data Layout for LSM-tree Based Storage using Survival Analysis",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2161-zhang.pdf",
+        "paper_authors": [
+            "Teng Zhang",
+            "Jian Tan",
+            "Xin Cai",
+            "Jianying Wang",
+            "Feifei Li",
+            "Jianling Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Matrix-vector Multiplication via Lossless Grammar-Compressed Matrices",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2175-tosoni.pdf",
+        "paper_authors": [
+            "Paolo Ferragina",
+            "Giovanni Manzini",
+            "Travis Gagie",
+            "Dominik K\u00f6ppl",
+            "Gonzalo Navarro",
+            "Manuel Striani",
+            "Francesco Tosoni"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "NFL: Robust Learned Index via Distribution Transformation",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2188-wu.pdf",
+        "paper_authors": [
+            "Shangyu Wu",
+            "Yufei Cui",
+            "Jinghuan Yu",
+            "Xuan Sun",
+            "Tei-Wei Kuo",
+            "Chun Jason Xue"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LEGOStore: A Linearizable Geo-Distributed Store Combining Replication and Erasure Coding",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2201-zare.pdf",
+        "paper_authors": [
+            "HamidReza Zare",
+            "Viveck R. Cadambe",
+            "Bhuvan Urgaonkar",
+            "Nader Alfares",
+            "Praneet Soni",
+            "Chetan Sharma",
+            "Arif Merchant"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Misinformation Mitigation under Differential Propagation Rates and Temporal Penalties",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2216-simpson.pdf",
+        "paper_authors": [
+            "Michael Simpson",
+            "Laks V. S. Lakshmanan",
+            "Farnoosh Hashemi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Serving Deep Learning Models with Deduplication from Relational Databases",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2230-zou.pdf",
+        "paper_authors": [
+            "Lixi Zhou",
+            "Jiaqing Chen",
+            "Amitabh Das",
+            "Hong Min",
+            "Lei Yu",
+            "Ming Zhao",
+            "Jia Zou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Density-optimized Intersection-free Mapping and Matrix Multiplication for Join-Project Operations",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2244-chen.pdf",
+        "paper_authors": [
+            "Zichun Huang",
+            "Shimin Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Design Trade-offs for a Robust Dynamic Hybrid Hash Join",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2257-jahangiri.pdf",
+        "paper_authors": [
+            "Shiva Jahangiri",
+            "Michael J. Carey",
+            "Johann-Christoph Freytag"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "YeSQL: \"You extend SQL\" with Rich and Highly Performant User-Defined Functions in Relational Databases",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2270-foufoulas.pdf",
+        "paper_authors": [
+            "Yannis E. Foufoulas",
+            "Alkis Simitsis",
+            "Eleftherios Stamatogiannakis",
+            "Yannis E. Ioannidis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Magic Shapes for SHACL Validation",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2284-ahmetaj.pdf",
+        "paper_authors": [
+            "Shqiponja Ahmetaj",
+            "Bianca L\u00f6hnert",
+            "Magdalena Ortiz",
+            "Mantas Simkus"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Front Matter",
+        "paper_url": "https://vldb.org/pvldb/vol15/FrontMatterVol15No11.pdf",
+        "paper_authors": [
+            "Fatma Ozcan",
+            "Juliana Freire",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Succinct Graph Representations as Distance Oracles: An Experimental Evaluation",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2297-merchant.pdf",
+        "paper_authors": [
+            "Arpit Merchant",
+            "Aristides Gionis",
+            "Michael Mathioudakis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Effective Community Search over Large Star-Schema Heterogeneous Information Networks",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2307-jiang.pdf",
+        "paper_authors": [
+            "Yangqin Jiang",
+            "Yixiang Fang",
+            "Chenhao Ma",
+            "Xin Cao",
+            "Chunshan Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A New Distributional Treatment for Time Series and An Anomaly Detection Investigation",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2321-liu.pdf",
+        "paper_authors": [
+            "Kai Ming Ting",
+            "Zongyou Liu",
+            "Hang Zhang",
+            "Ye Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Witan: Unsupervised Labelling Function Generation for Assisted Data Programming",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2334-denham.pdf",
+        "paper_authors": [
+            "Benjamin Denham",
+            "Edmund M.-K. Lai",
+            "Roopak Sinha",
+            "M. Asif Naeem"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2348-bao.pdf",
+        "paper_authors": [
+            "Ergute Bao",
+            "Yizheng Zhu",
+            "Xiaokui Xiao",
+            "Yin Yang",
+            "Beng Chin Ooi",
+            "Benjamin Hong Meng Tan",
+            "Khin Mi Mi Aung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Zero-Shot Cost Models for Out-of-the-box Learned Cost Prediction",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2361-hilprecht.pdf",
+        "paper_authors": [
+            "Benjamin Hilprecht",
+            "Carsten Binnig"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Waffle: In-memory Grid Index for Moving Objects with Reinforcement Learning-based Configuration Tuning System",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2375-chung.pdf",
+        "paper_authors": [
+            "Dalsu Choi",
+            "Hyunsik Yoon",
+            "Hyubjin Lee",
+            "Yon Dohn Chung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Designing an Open Framework for Query Optimization and Compilation",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2389-jungmair.pdf",
+        "paper_authors": [
+            "Michael Jungmair",
+            "Andr\u00e9 Kohn",
+            "Jana Giceva"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "In-Page Shadowing and Two-Version Timestamp Ordering for Mobile DBMSs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2402-nam.pdf",
+        "paper_authors": [
+            "Lam-Duy Nguyen",
+            "Sang Won Lee",
+            "Beomseok Nam"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RapidFlow: An Efficient Approach to Continuous Subgraph Matching",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2415-sun.pdf",
+        "paper_authors": [
+            "Shixuan Sun",
+            "Xibo Sun",
+            "Bingsheng He",
+            "Qiong Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Scalable AutoML Approach Based on Graph Neural Networks",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2428-helali.pdf",
+        "paper_authors": [
+            "Mossad Helali",
+            "Essam Mansour",
+            "Ibrahim Abdelaziz",
+            "Julian Dolby",
+            "Kavitha Srinivas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Don't Be a Tattle-Tale: Preventing Leakages through Data Dependencies on Access Control Protected Data",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2437-pappachan.pdf",
+        "paper_authors": [
+            "Primal Pappachan",
+            "Shufan Zhang",
+            "Xi He",
+            "Sharad Mehrotra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Load-Balanced Butterfly Counting on GPU",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2450-zhang.pdf",
+        "paper_authors": [
+            "Qingyu Xu",
+            "Feng Zhang",
+            "Zhiming Yao",
+            "Lv Lu",
+            "Xiaoyong Du",
+            "Dong Deng",
+            "Bingsheng He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PerMA-Bench: Benchmarking Persistent Memory Access",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2463-benson.pdf",
+        "paper_authors": [
+            "Lawrence Benson",
+            "Leon Papke",
+            "Tilmann Rabl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Evaluating Persistent Memory Range Indexes: Part Two",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2477-wang.pdf",
+        "paper_authors": [
+            "Yuliang He",
+            "Duo Lu",
+            "Kaisong Huang",
+            "Tianzheng Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Orchestrating Data Placement and Query Execution in Heterogeneous CPU-GPU DBMS",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2491-yogatama.pdf",
+        "paper_authors": [
+            "Bobbi W. Yogatama",
+            "Weiwei Gong",
+            "Xiangyao Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Interactive Mining with Ordered and Unordered Attributes",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2504-wang.pdf",
+        "paper_authors": [
+            "Weicheng Wang",
+            "Raymond Chi-Wing Wong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Dataset Search with Earth Mover's Distance",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2517-yang.pdf",
+        "paper_authors": [
+            "Wenzhe Yang",
+            "Sheng Wang",
+            "Yuan Sun",
+            "Zhiyong Peng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AcX: System, Techniques, and Experiments for Acronym Expansion",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2530-pereira.pdf",
+        "paper_authors": [
+            "Jo\u00e3o L. M. Pereira",
+            "Jo\u00e3o Casanova",
+            "Helena Galhardas",
+            "Dennis E. Shasha"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "G-Tran: A High Performance Distributed Graph Database with a Decentralized Architecture",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2545-chen.pdf",
+        "paper_authors": [
+            "Hongzhi Chen",
+            "Changji Li",
+            "Chenguang Zheng",
+            "Chenghuan Huang",
+            "Juncheng Fang",
+            "James Cheng",
+            "Jie Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tenant Placement in Over-subscribed Database-as-a-Service Clusters",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2559-k%f6nig.pdf",
+        "paper_authors": [
+            "Arnd Christian K\u00f6nig",
+            "Yi Shan",
+            "Tobias Ziegler",
+            "Aarati Kakaraparthy",
+            "Willis Lang",
+            "Justin Moeller",
+            "Ajay Kalhan",
+            "Vivek R. Narasayya"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Example-based Spatial Pattern Matching",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2572-chen.pdf",
+        "paper_authors": [
+            "Yue Chen",
+            "Kaiyu Feng",
+            "Gao Cong",
+            "Han Mao Kiah"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "NeuChain: A Fast Permissioned Blockchain System with Deterministic Ordering",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2585-zhang.pdf",
+        "paper_authors": [
+            "Zeshun Peng",
+            "Yanfeng Zhang",
+            "Qian Xu",
+            "Haixu Liu",
+            "Yuxiao Gao",
+            "Xiaohua Li",
+            "Ge Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AIM: An Adaptive and Iterative Mechanism for Differentially Private Synthetic Data",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2599-mckenna.pdf",
+        "paper_authors": [
+            "Ryan McKenna",
+            "Brett Mullins",
+            "Daniel Sheldon",
+            "Gerome Miklau"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Troubles with Nulls, Views from the Users",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2613-guagliardo.pdf",
+        "paper_authors": [
+            "Etienne Toussaint",
+            "Paolo Guagliardo",
+            "Leonid Libkin",
+            "Juan Sequeda"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Ginex: SSD-enabled Billion-scale Graph Neural Network Training on a Single Machine via Provably Optimal In-memory Caching",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2626-park.pdf",
+        "paper_authors": [
+            "Yeonhong Park",
+            "Sunhong Min",
+            "Jae W. Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Shortest-Path Queries on Complex Networks: Experiments, Analyses, and Improvement",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2640-li.pdf",
+        "paper_authors": [
+            "Junhua Zhang",
+            "Wentao Li",
+            "Long Yuan",
+            "Lu Qin",
+            "Ying Zhang",
+            "Lijun Chang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MIDE: Accuracy Aware Minimally Invasive Data Exploration For Decision Support",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2653-ghayyur.pdf",
+        "paper_authors": [
+            "Sameera Ghayyur",
+            "Dhrubajyoti Ghosh",
+            "Xi He",
+            "Sharad Mehrotra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "JENNER: Just-in-time Enrichment in Query Processing",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2666-ghosh.pdf",
+        "paper_authors": [
+            "Dhrubajyoti Ghosh",
+            "Peeyush Gupta",
+            "Sharad Mehrotra",
+            "Roberto Yus",
+            "Yasser Altowim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CARMI: A Cache-Aware Learned Index with a Cost-based Construction Algorithm",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2679-gao.pdf",
+        "paper_authors": [
+            "Jiaoyi Zhang",
+            "Yihan Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Maximizing Fair Content Spread via Edge Suggestion in Social Networks",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2692-swift.pdf",
+        "paper_authors": [
+            "Ian P. Swift",
+            "Sana Ebrahimi",
+            "Azade Nova",
+            "Abolfazl Asudeh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Turbo-Charging SPJ Query Plans with Learned Physical Join Operator Selections",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2706-hertzschuch.pdf",
+        "paper_authors": [
+            "Axel Hertzschuch",
+            "Claudio Hartmann",
+            "Dirk Habich",
+            "Wolfgang Lehner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Finding Locally Densest Subgraphs: A Convex Programming Approach",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2719-ma.pdf",
+        "paper_authors": [
+            "Chenhao Ma",
+            "Reynold Cheng",
+            "Laks V. S. Lakshmanan",
+            "Xiaolin Han"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2733-shao.pdf",
+        "paper_authors": [
+            "Zezhi Shao",
+            "Zhao Zhang",
+            "Wei Wei",
+            "Fei Wang",
+            "Yongjun Xu",
+            "Xin Cao",
+            "Christian S. Jensen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Harmony: Overcoming the hurdles of GPU memory capacity to train massive DNN models on commodity servers",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2747-li.pdf",
+        "paper_authors": [
+            "Youjie Li",
+            "Amar Phanishayee",
+            "Derek Murray",
+            "Jakub Tarnawski",
+            "Nam Sung Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On Shapley Value in Data Assemblage Under Independent Utility",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2761-luo.pdf",
+        "paper_authors": [
+            "Xuan Luo",
+            "Jian Pei",
+            "Zicun Cong",
+            "Cheng Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Volume Under the Surface: A New Accuracy Evaluation Measure for Time-Series Anomaly Detection",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2774-paparrizos.pdf",
+        "paper_authors": [
+            "John Paparrizos",
+            "Paul Boniol",
+            "Themis Palpanas",
+            "Ruey Tsay",
+            "Aaron J. Elmore",
+            "Michael J. Franklin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Algorithm and System Co-design for Efficient Subgraph-based Graph Representation Learning",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2788-yin.pdf",
+        "paper_authors": [
+            "Haoteng Yin",
+            "Muhan Zhang",
+            "Yanbang Wang",
+            "Jianguo Wang",
+            "Pan Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Memory-Optimized Multi-Version Concurrency Control for Disk-Based Database Systems",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2797-freitag.pdf",
+        "paper_authors": [
+            "Michael J. Freitag",
+            "Alfons Kemper",
+            "Thomas Neumann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Query Processing on Tensor Computation Runtimes",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2811-he.pdf",
+        "paper_authors": [
+            "Dong He",
+            "Supun Chathuranga Nakandala",
+            "Dalitso Banda",
+            "Rathijit Sen",
+            "Karla Saur",
+            "Kwanghyun Park",
+            "Carlo Curino",
+            "Jes\u00fas Camacho-Rodr\u00edguez",
+            "Konstantinos Karanasos",
+            "Matteo Interlandi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reliable Community Search in Dynamic Networks",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2826-li.pdf",
+        "paper_authors": [
+            "Yifu Tang",
+            "Jianxin Li",
+            "Nur Al Hasan Haldar",
+            "Ziyu Guan",
+            "Jia-Jie Xu",
+            "Chengfei Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Qanaat: A Scalable Multi-Enterprise Permissioned Blockchain System with Confidentiality Guarantees",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2839-amiri.pdf",
+        "paper_authors": [
+            "Mohammad Javad Amiri",
+            "Boon Thau Loo",
+            "Divy Agrawal",
+            "Amr El Abbadi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Network K-function-based Spatial Analysis",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2853-chan.pdf",
+        "paper_authors": [
+            "Tsz Nam Chan",
+            "Leong Hou U",
+            "Yun Peng",
+            "Byron Choi",
+            "Jianliang Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cost Modelling for Optimal Data Placement in Heterogeneous Main Memory",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2867-lasch.pdf",
+        "paper_authors": [
+            "Robert Lasch",
+            "Thomas Legler",
+            "Norman May",
+            "Bernhard Scheirle",
+            "Kai-Uwe Sattler"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SwitchTx: Scalable In-Network Coordination for Distributed Transaction Processing",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2881-li.pdf",
+        "paper_authors": [
+            "Junru Li",
+            "Youyou Lu",
+            "Yiming Zhang",
+            "Qing Wang",
+            "Zhuo Cheng",
+            "Keji Huang",
+            "Jiwu Shu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Plush: A Write-Optimized Persistent Log-Structured Hash-Table",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2895-vogel.pdf",
+        "paper_authors": [
+            "Lukas Vogel",
+            "Alexander van Renen",
+            "Satoshi Imamura",
+            "Jana Giceva",
+            "Thomas Neumann",
+            "Alfons Kemper"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Effective Indexing for Dynamic Structural Graph Clustering",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2908-wang.pdf",
+        "paper_authors": [
+            "Fangyuan Zhang",
+            "Sibo Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CodexDB: Synthesizing Code for Query Processing from Natural Language Instructions using GPT-3 Codex",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2921-trummer.pdf",
+        "paper_authors": [
+            "Immanuel Trummer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "UPLIFT: Parallelization Strategies for Feature Transformations in Machine Learning Workloads",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2929-phani.pdf",
+        "paper_authors": [
+            "Arnab Phani",
+            "Lukas Erlbacher",
+            "Matthias Boehm"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Lotus: Scalable Multi-Partition Transactions on Single-Threaded Partitioned Databases",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2939-zhou.pdf",
+        "paper_authors": [
+            "Xinjing Zhou",
+            "Xiangyao Yu",
+            "Goetz Graefe",
+            "Michael Stonebraker"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LlamaTune: Sample-Efficient DBMS Configuration Tuning",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2953-kanellis.pdf",
+        "paper_authors": [
+            "Konstantinos Kanellis",
+            "Cong Ding",
+            "Brian Kroth",
+            "Andreas M\u00fcller",
+            "Carlo Curino",
+            "Shivaram Venkataraman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On-Demand State Separation for Cloud Data Warehousing",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2966-winter.pdf",
+        "paper_authors": [
+            "Christian Winter",
+            "Jana Giceva",
+            "Thomas Neumann",
+            "Alfons Kemper"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BABOONS: Black-Box Optimization of Data Summaries in Natural Language",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2980-trummer.pdf",
+        "paper_authors": [
+            "Immanuel Trummer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ConnectorX: Accelerating Data Loading From Databases to Dataframes",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p2994-wang.pdf",
+        "paper_authors": [
+            "Xiaoying Wang",
+            "Weiyuan Wu",
+            "Jinze Wu",
+            "Yizhou Chen",
+            "Nick Zrymiak",
+            "Changbo Qu",
+            "Lampros Flokas",
+            "George Chow",
+            "Jiannan Wang",
+            "Tianzheng Wang",
+            "Eugene Wu",
+            "Qingqing Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Are Updatable Learned Indexes Ready?",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3004-wongkham.pdf",
+        "paper_authors": [
+            "Chaichon Wongkham",
+            "Baotong Lu",
+            "Chris Liu",
+            "Zhicong Zhong",
+            "Eric Lo",
+            "Tianzheng Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Scalable and Generic Approach to Range Joins",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3018-reif.pdf",
+        "paper_authors": [
+            "Maximilian Reif",
+            "Thomas Neumann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SCAR - Spectral Clustering Accelerated and Robustified",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3031-beer.pdf",
+        "paper_authors": [
+            "Ellen Hohma",
+            "Christian M. M. Frey",
+            "Anna Beer",
+            "Thomas Seidl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rewriting the Infinite Chase",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3045-benedikt.pdf",
+        "paper_authors": [
+            "Michael Benedikt",
+            "Maxime Buron",
+            "Stefano Germano",
+            "Kevin Kappelmann",
+            "Boris Motik"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Chimp: Efficient Lossless Floating Point Compression for Time Series Databases",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3058-liakos.pdf",
+        "paper_authors": [
+            "Panagiotis Liakos",
+            "Katia Papakonstantinopoulou",
+            "Yannis Kotidis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spooky: Granulating LSM-Tree Compactions Correctly",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3071-dayan.pdf",
+        "paper_authors": [
+            "Niv Dayan",
+            "Tamar Weiss",
+            "Shmuel Dashevsky",
+            "Michael Pan",
+            "Edward Bortnikov",
+            "Moshe Twitto"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Identifying Similar-Bicliques in Bipartite Graphs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3085-yao.pdf",
+        "paper_authors": [
+            "Kai Yao",
+            "Lijun Chang",
+            "Jeffrey Xu Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fine-Grained Modeling and Optimization for Intelligent Resource Management in Big Data Processing",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3098-lyu.pdf",
+        "paper_authors": [
+            "Chenghao Lyu",
+            "Qi Fan",
+            "Fei Song",
+            "Arnab Sinha",
+            "Yanlei Diao",
+            "Wei Chen",
+            "Li Ma",
+            "Yihui Feng",
+            "Yaliang Li",
+            "Kai Zeng",
+            "Jingren Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FHL-Cube: Multi-Constraint Shortest Path Querying with Flexible Combination of Constraints",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3112-liu.pdf",
+        "paper_authors": [
+            "Ziyi Liu",
+            "Lei Li",
+            "Mengxuan Zhang",
+            "Wen Hua",
+            "Xiaofang Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tiresias: Enabling Predictive Autonomous Storage and Indexing",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3126-abebe.pdf",
+        "paper_authors": [
+            "Michael Abebe",
+            "Horatiu Lazu",
+            "Khuzaima Daudjee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Distribution-aware Query Answering in Data Markets",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3137-asudeh.pdf",
+        "paper_authors": [
+            "Abolfazl Asudeh",
+            "Fatemeh Nargesian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cardinality Estimation of Approximate Substring Queries using Deep Learning",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3145-jung.pdf",
+        "paper_authors": [
+            "Suyong Kwon",
+            "Woohwan Jung",
+            "Kyuseok Shim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Containerized Execution of UDFs: An Experimental Evaluation",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3158-saur.pdf",
+        "paper_authors": [
+            "Karla Saur",
+            "Tara Mirmira",
+            "Konstantinos Karanasos",
+            "Jes\u00fas Camacho-Rodr\u00edguez"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Data Station: Delegated, Trustworthy, and Auditable Computation to Enable Data-Sharing Consortia with a Data Escrow",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3172-xia.pdf",
+        "paper_authors": [
+            "Siyuan Xia",
+            "Zhiru Zhu",
+            "Chris Zhu",
+            "Jinjin Zhao",
+            "Kyle Chard",
+            "Aaron J. Elmore",
+            "Ian T. Foster",
+            "Michael J. Franklin",
+            "Sanjay Krishnan",
+            "Raul Castro Fernandez"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimizing Differentially-Maintained Recursive Queries on Dynamic Graphs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3186-ammar.pdf",
+        "paper_authors": [
+            "Khaled Ammar",
+            "Siddhartha Sahu",
+            "Semih Salihoglu",
+            "M. Tamer \u00d6zsu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Diversified Top-k Route Planning in Road Network",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3199-luo.pdf",
+        "paper_authors": [
+            "Zihan Luo",
+            "Lei Li",
+            "Mengxuan Zhang",
+            "Wen Hua",
+            "Yehong Xu",
+            "Xiaofang Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Migrating Social Event Recommendation Over Microblogs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3213-zhou.pdf",
+        "paper_authors": [
+            "Xiangmin Zhou",
+            "Lei Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatial and Temporal Constrained Ranked Retrieval over Videos",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3226-yu.pdf",
+        "paper_authors": [
+            "Yueting Chen",
+            "Nick Koudas",
+            "Xiaohui Yu",
+            "Ziqiang Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3240-liao.pdf",
+        "paper_authors": [
+            "Ningyi Liao",
+            "Dingheng Mo",
+            "Siqiang Luo",
+            "Xiang Li",
+            "Pengcheng Yin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Enabling Efficient and General Subpopulation Analytics in Multidimensional Data Streams",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3249-manousis.pdf",
+        "paper_authors": [
+            "Antonis Manousis",
+            "Zhuo Cheng",
+            "Ran Ben Basat",
+            "Zaoxing Liu",
+            "Vyas Sekar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dynamic Spanning Trees for Connectivity Queries on Fully-dynamic Undirected Graphs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3263-chen.pdf",
+        "paper_authors": [
+            "Qing Chen",
+            "Oded Lachish",
+            "Sven Helmer",
+            "Michael H. B\u00f6hlen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Front Matter",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/FrontMatterVol15No12.pdf",
+        "paper_authors": [
+            "Fatma Ozcan",
+            "Juliana Freire",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hardware Acceleration of Compression and Encryption in SAP HANA",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3277-chiosa.pdf",
+        "paper_authors": [
+            "Monica Chiosa",
+            "Fabio Maschi",
+            "Ingo M\u00fcller",
+            "Gustavo Alonso",
+            "Norman May"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Frost: A Platform for Benchmarking and Exploring Data Matching Results",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3292-panse.pdf",
+        "paper_authors": [
+            "Martin Graf",
+            "Lukas Laskowski",
+            "Florian Papsdorf",
+            "Florian Sold",
+            "Roland Gremmelspacher",
+            "Felix Naumann",
+            "Fabian Panse"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ByteGraph: A High-Performance Distributed Graph Database in ByteDance",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3306-li.pdf",
+        "paper_authors": [
+            "Changji Li",
+            "Hongzhi Chen",
+            "Shuai Zhang",
+            "Yingqian Hu",
+            "Chao Chen",
+            "Zhenjie Zhang",
+            "Meng Li",
+            "Xiangchen Li",
+            "Dongqing Han",
+            "Xiaohui Chen",
+            "Xudong Wang",
+            "Huiming Zhu",
+            "Xuwei Fu",
+            "Tingwei Wu",
+            "Hongfei Tan",
+            "Hengtian Ding",
+            "Mengjin Liu",
+            "Kangcheng Wang",
+            "Ting Ye",
+            "Lei Li",
+            "Xin Li",
+            "Yu Wang",
+            "Chenguang Zheng",
+            "Hao Yang",
+            "James Cheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CDI-E: An Elastic Cloud Service for Data Engineering",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3319-moskovich.pdf",
+        "paper_authors": [
+            "Prakash C. Das",
+            "Shivangi Srivastava",
+            "Valentin Moskovich",
+            "Anmol Chaturvedi",
+            "Anant Mittal",
+            "Yongqin Xiao",
+            "Mosharaf Chowdhury"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Operon: An Encrypted Database for Ownership-Preserving Data Management",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3332-wang.pdf",
+        "paper_authors": [
+            "Sheng Wang",
+            "Yiran Li",
+            "Huorong Li",
+            "Feifei Li",
+            "Chengjin Tian",
+            "Le Su",
+            "Yanshan Zhang",
+            "Yubing Ma",
+            "Lie Yan",
+            "Yuanyuan Sun",
+            "Xuntao Cheng",
+            "Xiaolong Xie",
+            "Yu Zou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tair-PMem: a Fully Durable Non-Volatile Memory Database",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3346-gong.pdf",
+        "paper_authors": [
+            "Caixin Gong",
+            "Chengjin Tian",
+            "Zhengheng Wang",
+            "Sheng Wang",
+            "Xiyu Wang",
+            "Qiulei Fu",
+            "Wu Qin",
+            "Qian Long",
+            "Rui Chen",
+            "Jiang Qi",
+            "Ruo Wang",
+            "Guoyun Zhu",
+            "Chenghu Yang",
+            "Wei Zhang",
+            "Feifei Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Trie memtables in Cassandra",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3359-lambov.pdf",
+        "paper_authors": [
+            "Branimir Lambov"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Velox: Meta's Unified Execution Engine",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3372-pedreira.pdf",
+        "paper_authors": [
+            "Pedro Pedreira",
+            "Orri Erling",
+            "Maria Basmanova",
+            "Kevin Wilfong",
+            "Laith S. Sakka",
+            "Krishna Pai",
+            "Wei He",
+            "Biswapesh Chattopadhyay"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "OceanBase: A 707 Million tpmC Distributed Relational Database System",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3385-xu.pdf",
+        "paper_authors": [
+            "Zhenkun Yang",
+            "Chuanhui Yang",
+            "Fusheng Han",
+            "Mingqiang Zhuang",
+            "Bing Yang",
+            "Zhifeng Yang",
+            "Xiaojun Cheng",
+            "Yuzhong Zhao",
+            "Wenhui Shi",
+            "Huafeng Xi",
+            "Huang Yu",
+            "Bin Liu",
+            "Yi Pan",
+            "Boxue Yin",
+            "Junquan Chen",
+            "Quanqing Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "VRE: A Versatile, Robust, and Economical Trajectory Data System",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3398-bao.pdf",
+        "paper_authors": [
+            "Hai Lan",
+            "Jiong Xie",
+            "Zhifeng Bao",
+            "Feifei Li",
+            "Wei Tian",
+            "Fang Wang",
+            "Sheng Wang",
+            "Ailin Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ByteHTAP: ByteDance's HTAP System with High Data Freshness and Strong Data Consistency",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3411-chen.pdf",
+        "paper_authors": [
+            "Jianjun Chen",
+            "Yonghua Ding",
+            "Ye Liu",
+            "Fangshi Li",
+            "Li Zhang",
+            "Mingyi Zhang",
+            "Kui Wei",
+            "Lixun Cao",
+            "Dan Zou",
+            "Yang Liu",
+            "Lei Zhang",
+            "Rui Shi",
+            "Wei Ding",
+            "Kai Wu",
+            "Shangyu Luo",
+            "Jason Sun",
+            "Yuming Liang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Beaconnect: Continuous Web Performance A/B Testing at Scale",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3425-wingerath.pdf",
+        "paper_authors": [
+            "Wolfram Wingerath",
+            "Benjamin Wollmer",
+            "Markus Bestehorn",
+            "Stephan Succo",
+            "Sophie Ferrlein",
+            "Florian B\u00fccklers",
+            "J\u00f6rn Domnik",
+            "Fabian Panse",
+            "Erik Witt",
+            "Anil Sener",
+            "Felix Gessert",
+            "Norbert Ritter"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CloudJump: Optimizing Cloud Databases for Cloud Storages",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3432-chen.pdf",
+        "paper_authors": [
+            "Zongzhi Chen",
+            "Xinjun Yang",
+            "Feifei Li",
+            "Xuntao Cheng",
+            "Qingda Hu",
+            "Zheyu Miao",
+            "Rongbiao Xie",
+            "Xiaofei Wu",
+            "Kang Wang",
+            "Zhao Song",
+            "Haiqing Sun",
+            "Zechao Zhuang",
+            "Yuming Yang",
+            "Jie Xu",
+            "Liang Yin",
+            "Wenchao Zhou",
+            "Sheng Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DyHealth: Making Neural Networks Dynamic for Effective Healthcare Analytics",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3445-ooi.pdf",
+        "paper_authors": [
+            "Kaiping Zheng",
+            "Shaofeng Cai",
+            "Horng Ruey Chua",
+            "Melanie Herschel",
+            "Meihui Zhang",
+            "Beng Chin Ooi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Blueprint: a constraint-solving approach for document extraction",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3459-jindal.pdf",
+        "paper_authors": [
+            "Andrey Mishchenko",
+            "Dominique Danco",
+            "Abhilash Jindal",
+            "Adrian Blue"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TencentCLS: The Cloud Log Service with High Query Performances",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3472-yu.pdf",
+        "paper_authors": [
+            "Muzhi Yu",
+            "Zhaoxiang Lin",
+            "Jinan Sun",
+            "Runyun Zhou",
+            "Guoqiang Jiang",
+            "Hua Huang",
+            "Shikun Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Ganos: A Multidimensional, Dynamic, and Scene-Oriented Cloud-Native Spatial Database Engine",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3483-chen.pdf",
+        "paper_authors": [
+            "Jiong Xie",
+            "Zhen Chen",
+            "Jianwei Liu",
+            "Fang Wang",
+            "Feifei Li",
+            "Zhida Chen",
+            "Yinpei Liu",
+            "Songlu Cai",
+            "Zhenhua Fan",
+            "Fei Xiao",
+            "Yue Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Magma: A high data density storage engine used in Couchbase",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3496-lakshman.pdf",
+        "paper_authors": [
+            "Sarath Lakshman",
+            "Apaar Gupta",
+            "Rohan Suri",
+            "Scott D. Lashley",
+            "John Liang",
+            "Srinath Duvuru",
+            "Ravi Mayuram"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Doppler: Automated SKU Recommendation in Migrating SQL Workloads to the Cloud",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3509-zhu.pdf",
+        "paper_authors": [
+            "Joyce Cahoon",
+            "Wenjing Wang",
+            "Yiwen Zhu",
+            "Katherine Lin",
+            "Sean Liu",
+            "Raymond Truong",
+            "Neetu Singh",
+            "Chengcheng Wan",
+            "Alexandra M. Ciortea",
+            "Sreraman Narasimhan",
+            "Subru Krishnan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Meta's Next-generation Realtime Monitoring and Analytics Platform",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3522-mo.pdf",
+        "paper_authors": [
+            "Stavros Harizopoulos",
+            "Taylor Hopper",
+            "Morton Mo",
+            "Shyam Sundar Chandrasekaran",
+            "Tongguang Chen",
+            "Yan Cui",
+            "Nandini Ganesh",
+            "Gary Helmling",
+            "Hieu Pham",
+            "Sebastian Wong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SQLite: Past, Present, and Future",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3535-gaffney.pdf",
+        "paper_authors": [
+            "Kevin P. Gaffney",
+            "Martin Prammer",
+            "Laurence C. Brasfield",
+            "D. Richard Hipp",
+            "Dan R. Kennedy",
+            "Jignesh M. Patel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Manu: A Cloud Native Vector Database Management System",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3548-yan.pdf",
+        "paper_authors": [
+            "Rentong Guo",
+            "Xiaofan Luan",
+            "Long Xiang",
+            "Xiao Yan",
+            "Xiaomeng Yi",
+            "Jigao Luo",
+            "Qianya Cheng",
+            "Weizhi Xu",
+            "Jiarui Luo",
+            "Frank Liu",
+            "Zhenshan Cao",
+            "Yanliang Qiao",
+            "Ting Wang",
+            "Bo Tang",
+            "Charles Xie"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automated Relational Data Explanation using External Semantic Knowledge",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3562-galhotra.pdf",
+        "paper_authors": [
+            "Sainyam Galhotra",
+            "Udayan Khurana"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Kelpie: an Explainability Framework for Embedding-based Link Prediction Models",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3566-rossi.pdf",
+        "paper_authors": [
+            "Andrea Rossi",
+            "Donatella Firmani",
+            "Paolo Merialdo",
+            "Tommaso Teofili"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "OREO: Detection of Cherry-picked Generalizations",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3570-lin.pdf",
+        "paper_authors": [
+            "Yin Lin",
+            "Brit Youngmann",
+            "Yuval Moskovitch",
+            "H. V. Jagadish",
+            "Tova Milo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DuckDB-Wasm: Fast Analytical Processing for the Web",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3574-kohn.pdf",
+        "paper_authors": [
+            "Andr\u00e9 Kohn",
+            "Dominik Moritz",
+            "Mark Raasveldt",
+            "Hannes M\u00fchleisen",
+            "Thomas Neumann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "EasyDR: A Human-in-the-loop Error Detection&Repair Platform for Holistic Table Cleaning",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3578-wang.pdf",
+        "paper_authors": [
+            "Yihai Xi",
+            "Ning Wang",
+            "Xinyu Chen",
+            "Yiyi Zhang",
+            "Zilong Wang",
+            "Zhihong Xu",
+            "Yue Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hu-Fu: A Data Federation System for Secure Spatial Queries",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3582-tong.pdf",
+        "paper_authors": [
+            "Xuchen Pan",
+            "Yongxin Tong",
+            "Chunbo Xue",
+            "Zimu Zhou",
+            "Junping Du",
+            "Yuxiang Zeng",
+            "Yexuan Shi",
+            "Xiaofei Zhang",
+            "Lei Chen",
+            "Yi Xu",
+            "Ke Xu",
+            "Weifeng Lv"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Demonstrating CAT: Synthesizing Data-Aware Conversational Agents for Transactional Databases",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3586-h%C3%A4ttasch.pdf",
+        "paper_authors": [
+            "Marius Gassen",
+            "Benjamin H\u00e4ttasch",
+            "Benjamin Hilprecht",
+            "Nadja Geisler",
+            "Alexander Fraser",
+            "Carsten Binnig"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "EDA4SUM: Guided Exploration of Data Summaries",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3590-youngmann.pdf",
+        "paper_authors": [
+            "Aur\u00e9lien Personnaz",
+            "Brit Youngmann",
+            "Sihem Amer-Yahia"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CaJaDE: Explaining Query Results by Augmenting Provenance with Context",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3594-li.pdf",
+        "paper_authors": [
+            "Chenjie Li",
+            "Juseung Lee",
+            "Zhengjie Miao",
+            "Boris Glavic",
+            "Sudeepa Roy"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf",
+        "paper_authors": [
+            "Yuki Asada",
+            "Victor Fu",
+            "Apurva Gandhi",
+            "Advitya Gemawat",
+            "Lihao Zhang",
+            "Vivek Gupta",
+            "Ehi Nosakhare",
+            "Dalitso Banda",
+            "Rathijit Sen",
+            "Matteo Interlandi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MOCHA: A Tool for Visualizing Impact of Operator Choices in Query Execution Plans for Database Education",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3602-bhowmick.pdf",
+        "paper_authors": [
+            "Jess Tan",
+            "Desmond Yeo",
+            "Rachael Neoh",
+            "Huey-Eng Chua",
+            "Sourav S. Bhowmick"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LIBKDV: A Versatile Kernel Density Visualization Library for Geospatial Analytics",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3606-chan.pdf",
+        "paper_authors": [
+            "Tsz Nam Chan",
+            "Pak Lon Ip",
+            "Kaiyan Zhao",
+            "Leong Hou U",
+            "Byron Choi",
+            "Jianliang Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Demonstration of Multi-Region CockroachDB",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3610-taft.pdf",
+        "paper_authors": [
+            "Arul Ajmani",
+            "Aayush Shah",
+            "Alexander Shraer",
+            "Adam Storm",
+            "Rebecca Taft",
+            "Oliver Tan",
+            "Nathan VanBenschoten"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DPDS: Assisting Data Science with Data Provenance",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3614-torlone.pdf",
+        "paper_authors": [
+            "Adriane Chapman",
+            "Luca Lauro",
+            "Paolo Missier",
+            "Riccardo Torlone"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "POEM: Pattern-Oriented Explanations of CNN Models",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3618-golab.pdf",
+        "paper_authors": [
+            "Vargha Dadvar",
+            "Lukasz Golab",
+            "Divesh Srivastava"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "WebArrayDB: A Geospatial Array DBMS in Your Web Browser",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3622-zalipynis.pdf",
+        "paper_authors": [
+            "Ramon Antonio Rodriges Zalipynis",
+            "Nikita A. Terlych"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AutoDI: Towards an Automatic Plan Regression Analysis",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3626-lan.pdf",
+        "paper_authors": [
+            "Hai Lan",
+            "Yuanjia Zhang",
+            "Zhifeng Bao",
+            "Yu Dong",
+            "Dongxu Huang",
+            "Liu Tang",
+            "Jian Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PHOcus: Efficiently Archiving Photos",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3630-novgorodov.pdf",
+        "paper_authors": [
+            "Susan B. Davidson",
+            "Shay Gershtein",
+            "Tova Milo",
+            "Slava Novgorodov",
+            "May Shoshan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "VINCENT: Towards Efficient Exploratory Subgraph Search in Graph Databases",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3634-huang.pdf",
+        "paper_authors": [
+            "Kai Huang",
+            "Qingqing Ye",
+            "Jing Zhao",
+            "Xi Zhao",
+            "Haibo Hu",
+            "Xiaofang Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ActivePDB: Active Probabilistic Databases",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3638-amsterdamer.pdf",
+        "paper_authors": [
+            "Osnat Drien",
+            "Matanya Freiman",
+            "Yael Amsterdamer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CERTEM: Explaining and Debugging Black-box Entity Resolution Systems with CERTA",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3642-teofili.pdf",
+        "paper_authors": [
+            "Tommaso Teofili",
+            "Donatella Firmani",
+            "Nick Koudas",
+            "Paolo Merialdo",
+            "Divesh Srivastava"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Satellite Image Search in AgoraEO",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3646-zacharatou.pdf",
+        "paper_authors": [
+            "Ahmet Kerem Aksoy",
+            "Pavel Dushev",
+            "Eleni Tzirita Zacharatou",
+            "Holmer Hemsen",
+            "Marcela Charfuelan",
+            "Jorge-Arnulfo Quian\u00e9-Ruiz",
+            "Beg\u00fcm Demir",
+            "Volker Markl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SENSOR: Data-driven Construction of Sketch-based Visual Query Interfaces for Time Series Data",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3650-bhowmick.pdf",
+        "paper_authors": [
+            "Li Yan",
+            "Nerissa Xu",
+            "Guozhong Li",
+            "Sourav S. Bhowmick",
+            "Byron Choi",
+            "Jianliang Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DiscoPG: Property Graph Schema Discovery and Exploration",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3654-bonifati.pdf",
+        "paper_authors": [
+            "Angela Bonifati",
+            "Stefania-Gabriela Dumbrava",
+            "Emile Martinez",
+            "Fatemeh Ghasemi",
+            "Malo Jaffr\u00e9",
+            "Pacome Luton",
+            "Thomas Pickles"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SA-Q: Observing, Evaluating, and Enhancing the Quality of the Results of Sentiment Analysis Tools",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3658-benbernou.pdf",
+        "paper_authors": [
+            "Wissam Mammar Kouadri",
+            "Salima Benbernou",
+            "Mourad Ouziri",
+            "Themis Palpanas",
+            "Iheb Ben Amor"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SmartBench: Demonstrating Automatic Generation of Comprehensive Benchmarks for Question Answering Over Knowledge Graphs",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3662-orogat.pdf",
+        "paper_authors": [
+            "Abdelghny Orogat",
+            "Ahmed El-Roby"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DADER: Hands-Off Entity Resolution with Domain Adaptation",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3666-fan.pdf",
+        "paper_authors": [
+            "Jianhong Tu",
+            "Xiaoyue Han",
+            "Ju Fan",
+            "Nan Tang",
+            "Chengliang Chai",
+            "Guoliang Li",
+            "Xiaoyong Du"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sigma Workbook: A Spreadsheet for Cloud Data Warehouses",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3670-gale.pdf",
+        "paper_authors": [
+            "James Gale",
+            "Max Seiden",
+            "Deepanshu Utkarsh",
+            "Jason Frantz",
+            "Rob Woollen",
+            "\u00c7agatay Demiralp"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ReMac: A Matrix Computation System with Redundancy Elimination",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3674-xu.pdf",
+        "paper_authors": [
+            "Zihao Chen",
+            "Zhizhen Xu",
+            "Baokun Han",
+            "Chen Xu",
+            "Weining Qian",
+            "Aoying Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TimeEval: A Benchmarking Toolkit for Time Series Anomaly Detection Algorithms",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3678-schmidl.pdf",
+        "paper_authors": [
+            "Phillip Wenig",
+            "Sebastian Schmidl",
+            "Thorsten Papenbrock"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DBMS Annihilator: A High-Performance Database Workload Generator in Action",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3682-lerner.pdf",
+        "paper_authors": [
+            "Alberto Lerner",
+            "Matthias Jasny",
+            "Theo Jepsen",
+            "Carsten Binnig",
+            "Philippe Cudr\u00e9-Mauroux"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FedTSC: A Secure Federated Learning System for Interpretable Time Series Classification",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3686-wang.pdf",
+        "paper_authors": [
+            "Zhiyu Liang",
+            "Hongzhi Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AMRAS: A Visual Analysis System for Spatial Crowdsourcing",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3690-li.pdf",
+        "paper_authors": [
+            "Qingshun Wu",
+            "Yafei Li",
+            "Huiling Li",
+            "Di Zhang",
+            "Guanglei Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SparkCAD: Caching Anomalies Detector for Spark Applications",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3694-al-sayeh.pdf",
+        "paper_authors": [
+            "Hani Al-Sayeh",
+            "Muhammad Attahir Jibril",
+            "Muhammad Waleed Bin Saeed",
+            "Kai-Uwe Sattler"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AvantGraph Query Processing Engine",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3698-yakovets.pdf",
+        "paper_authors": [
+            "Wilco van Leeuwen",
+            "Thomas Mulder",
+            "Bram Van De Wall",
+            "George Fletcher",
+            "Nikolay Yakovets"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Theseus: Navigating the Labyrinth of Time-Series Anomaly Detection",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3702-boniol.pdf",
+        "paper_authors": [
+            "Paul Boniol",
+            "John Paparrizos",
+            "Yuhao Kang",
+            "Themis Palpanas",
+            "Ruey S. Tsay",
+            "Aaron J. Elmore",
+            "Michael J. Franklin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Demonstration of AutoOD: A Self-tuning Anomaly Detection System",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3706-cao.pdf",
+        "paper_authors": [
+            "Dennis M. Hofmann",
+            "Peter M. VanNostrand",
+            "Huayi Zhang",
+            "Yizhou Yan",
+            "Lei Cao",
+            "Samuel Madden",
+            "Elke A. Rundensteiner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pipemizer: An Optimizer for Analytics Data Pipelines",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3710-leeka.pdf",
+        "paper_authors": [
+            "Sunny Gakhar",
+            "Joyce Cahoon",
+            "Wangchao Le",
+            "Xiangnan Li",
+            "Kaushik Ravichandran",
+            "Hiren Patel",
+            "Marc T. Friedman",
+            "Brandon Haynes",
+            "Shi Qiao",
+            "Alekh Jindal",
+            "Jyoti Leeka"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DORIAN in action: Assisted Design of Data Science Pipelines",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3714-redyuk.pdf",
+        "paper_authors": [
+            "Sergey Redyuk",
+            "Zoi Kaoudi",
+            "Sebastian Schelter",
+            "Volker Markl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "WebMILE: Democratizing Network Representation Learning at Scale",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3718-he.pdf",
+        "paper_authors": [
+            "Yuntian He",
+            "Yue Zhang",
+            "Saket Gurukar",
+            "Srinivasan Parthasarathy"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Demonstrating Quest: A Query-Driven Framework to Explain Classification Models on Tabular Data",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3722-geisler.pdf",
+        "paper_authors": [
+            "Nadja Geisler",
+            "Benjamin H\u00e4ttasch",
+            "Carsten Binnig"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "IsoBugView: Interactively Debugging Isolation Bugs in Database Applications",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3726-ripberger.pdf",
+        "paper_authors": [
+            "Drew Ripberger",
+            "Yifan Gan",
+            "Xueyuan Ren",
+            "Spyros Blanas",
+            "Yang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "YeSQL: Rich User-Defined Functions without the Overhead",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3730-foufoulas.pdf",
+        "paper_authors": [
+            "Yannis E. Foufoulas",
+            "Alkis Simitsis",
+            "Yannis E. Ioannidis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Demonstration of Accelerating Machine Learning Inference Queries with Correlative Proxy Models",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3734-yang.pdf",
+        "paper_authors": [
+            "Zhihui Yang",
+            "Yicong Huang",
+            "Zuozhi Wang",
+            "Feng Gao",
+            "Yao Lu",
+            "Chen Li",
+            "X. Sean Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Demonstration of Collaborative and Interactive Workflow-Based Data Analytics in Texera",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3738-liu.pdf",
+        "paper_authors": [
+            "Xiaozhen Liu",
+            "Zuozhi Wang",
+            "Shengquan Ni",
+            "Sadeem Alsudais",
+            "Yicong Huang",
+            "Avinash Kumar",
+            "Chen Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SimDB in Action: Road Trafic Simulations Completely Inside Array DBMS",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3742-zalipynis.pdf",
+        "paper_authors": [
+            "Ramon Antonio Rodriges Zalipynis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Transformers for Tabular Data Representation: A Tutorial on Models and Applications",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3746-badaro.pdf",
+        "paper_authors": [
+            "Gilbert Badaro",
+            "Paolo Papotti"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Polyglot Data Management: State of the Art & Open Challenges",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3750-panse.pdf",
+        "paper_authors": [
+            "Felix Kiehn",
+            "Mareike Schmidt",
+            "Daniel Glake",
+            "Fabian Panse",
+            "Wolfram Wingerath",
+            "Benjamin Wollmer",
+            "Martin Poppinga",
+            "Norbert Ritter"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Machine Programming: Turning Data into Programmer Productivity",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3754-wasay.pdf",
+        "paper_authors": [
+            "Abdul Wasay",
+            "Nesime Tatbul",
+            "Justin Gottschlich"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cloud Databases: New Techniques, Challenges, and Opportunities",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3758-li.pdf",
+        "paper_authors": [
+            "Guoliang Li",
+            "Haowen Dong",
+            "Chao Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Modern Techniques for Querying Graph-Structured Relations: Foundations, System Implementations, and Open Challenges",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3762-mhedhbi.pdf",
+        "paper_authors": [
+            "Amine Mhedhbi",
+            "Semih Salihoglu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Densest Subgraph Discovery on Large Graphs: Applications, Challenges, and Techniques",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3766-luo.pdf",
+        "paper_authors": [
+            "Yixiang Fang",
+            "Wensheng Luo",
+            "Chenhao Ma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "From BERT to GPT-3 Codex: Harnessing the Potential of Very Large Language Models for Data Management",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3770-trummer.pdf",
+        "paper_authors": [
+            "Immanuel Trummer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Past, Present and Future of Indexing on Persistent Memory",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3774-wang.pdf",
+        "paper_authors": [
+            "Kaisong Huang",
+            "Yuliang He",
+            "Tianzheng Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unified Data Analytics: State-of-the-art and Open Problems",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3778-kaoudi.pdf",
+        "paper_authors": [
+            "Zoi Kaoudi",
+            "Jorge-Arnulfo Quian\u00e9-Ruiz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Big Graphs: Challenges and Opportunities",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3782-fan.pdf",
+        "paper_authors": [
+            "Wenfei Fan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards AI-Powered Data-Driven Education",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3798-amer-yahia.pdf",
+        "paper_authors": [
+            "Sihem Amer-Yahia"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Heterogeneous Information Networks: the Past, the Present, and the Future",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3807-sun.pdf",
+        "paper_authors": [
+            "Yizhou Sun",
+            "Jiawei Han",
+            "Xifeng Yan",
+            "Philip S. Yu",
+            "Tianyi Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Toward Interpretable and Actionable Data Analysis with Explanations and Causality",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3812-roy.pdf",
+        "paper_authors": [
+            "Sudeepa Roy"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reflections On My Data Management Research Journey (VLDB Women in Database Research Award Talk)",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3821-%f6zcan.pdf",
+        "paper_authors": [
+            "Fatma \u00d6zcan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Panel: Startups Founded by Database Researchers",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3823-mohan.pdf",
+        "paper_authors": [
+            "C. Mohan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cloud Data Systems: What are the Opportunities for the Database Research Community?",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3826-chaudhuri.pdf",
+        "paper_authors": [
+            "Magdalena Balazinska",
+            "Surajit Chaudhuri",
+            "AnHai Doan",
+            "Joseph M. Hellerstein",
+            "Hanuma Kodavalla",
+            "Ippokratis Pandis",
+            "Matei Zaharia"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Front Matter",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/FrontMatterVol15No13.pdf",
+        "paper_authors": [
+            "Fatma \u00d6zcan",
+            "Juliana Freire",
+            "Xuemin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "High-dimensional Data Cubes",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3828-john.pdf",
+        "paper_authors": [
+            "Sachin Basil John",
+            "Christoph Koch"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast and Scalable Mining of Time Series Motifs with Probabilistic Guarantees",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3841-ceccarello.pdf",
+        "paper_authors": [
+            "Matteo Ceccarello",
+            "Johann Gamper"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FEDEX: An Explainability Framework for Data Exploration Steps",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3854-gilad.pdf",
+        "paper_authors": [
+            "Daniel Deutch",
+            "Amir Gilad",
+            "Tova Milo",
+            "Amit Mualem",
+            "Amit Somech"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Enabling Transparent Acceleration of Big Data Frameworks using Heterogeneous Hardware",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3869-xekalaki.pdf",
+        "paper_authors": [
+            "Maria Xekalaki",
+            "Juan Fumero",
+            "Athanasios Stratikopoulos",
+            "Katerina Doka",
+            "Christos Katsakioris",
+            "Constantinos Bitsakos",
+            "Nectarios Koziris",
+            "Christos Kotselidis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Discovering Polarization Niches via Dense Subgraphs with Attractors and Repulsers",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3883-bonchi.pdf",
+        "paper_authors": [
+            "Adriano Fazzone",
+            "Tommaso Lanciano",
+            "Riccardo Denni",
+            "Charalampos E. Tsourakakis",
+            "Francesco Bonchi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sage: A System for Uncertain Network Analysis",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3897-seo.pdf",
+        "paper_authors": [
+            "Eunjae Lee",
+            "Sam H. Noh",
+            "Jiwon Seo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mining Bursting Core in Large Temporal Graph",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3911-wang.pdf",
+        "paper_authors": [
+            "Hongchao Qin",
+            "Ronghua Li",
+            "Ye Yuan",
+            "Guoren Wang",
+            "Lu Qin",
+            "Zhiwei Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cost-based or Learning-based? A Hybrid Query Optimizer for Query Plan Selection",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3924-li.pdf",
+        "paper_authors": [
+            "Xiang Yu",
+            "Chengliang Chai",
+            "Guoliang Li",
+            "Jiabin Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ONe Index for All Kernels (ONIAK): A Zero Re-Indexing LSH Solution to ANNS-ALT",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3937-meng.pdf",
+        "paper_authors": [
+            "Jingfan Meng",
+            "Huayi Wang",
+            "Jun Xu",
+            "Mitsunori Ogihara"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learned Index Benefits: Machine Learning Based Index Performance Estimation",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3950-shi.pdf",
+        "paper_authors": [
+            "Jiachen Shi",
+            "Gao Cong",
+            "Xiaoli Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Online Ridesharing with Meeting Points",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3963-cheng.pdf",
+        "paper_authors": [
+            "Jiachuan Wang",
+            "Peng Cheng",
+            "Libin Zheng",
+            "Lei Chen",
+            "Wenjie Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploiting the Power of Equality-generating Dependencies in Ontological Reasoning",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3976-bellomarini.pdf",
+        "paper_authors": [
+            "Luigi Bellomarini",
+            "Davide Benedetto",
+            "Matteo Brandetti",
+            "Emanuel Sallinger"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "No Repetition: Fast and Reliable Sampling with Highly Concentrated Hashing",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p3989-kipouridis.pdf",
+        "paper_authors": [
+            "Anders Aamand",
+            "Debarati Das",
+            "Evangelos Kipouridis",
+            "Jakob B\u00e6k Tejs Knudsen",
+            "Peter M. R. Rasmussen",
+            "Mikkel Thorup"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Witness Generation for JSON Schema",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p4002-sartiani.pdf",
+        "paper_authors": [
+            "Lyes Attouche",
+            "Mohamed Amine Baazizi",
+            "Dario Colazzo",
+            "Giorgio Ghelli",
+            "Carlo Sartiani",
+            "Stefanie Scherzinger"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Observability for Production Machine Learning Pipelines [Vision]",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p4015-shankar.pdf",
+        "paper_authors": [
+            "Shreya Shankar",
+            "Aditya G. Parameswaran"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DINOMO: An Elastic, Scalable, High-Performance Key-Value Store for Disaggregated Persistent Memory",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p4023-lee.pdf",
+        "paper_authors": [
+            "Se Kwon Lee",
+            "Soujanya Ponnapalli",
+            "Sharad Singhal",
+            "Marcos K. Aguilera",
+            "Kimberly Keeton",
+            "Vijay Chidambaram"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bolt-on, Compact, and Rapid Program Slicing for Notebooks [Scalable Data Science]",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p4038-macke.pdf",
+        "paper_authors": [
+            "Shreya Shankar",
+            "Stephen Macke",
+            "Sarah E. Chasins",
+            "Andrew Head",
+            "Aditya G. Parameswaran"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fairness Matters: A Tit-For-Tat Strategy Against Selfish Mining",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p4048-chen.pdf",
+        "paper_authors": [
+            "Weijie Sun",
+            "Zihuan Xu",
+            "Lei Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SageDB: An Instance-Optimized Data Analytics System",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p4062-ding.pdf",
+        "paper_authors": [
+            "Jialin Ding",
+            "Ryan Marcus",
+            "Andreas Kipf",
+            "Vikram Nathan",
+            "Aniruddha Nrusimha",
+            "Kapil Vaidya",
+            "Alexander van Renen",
+            "Tim Kraska"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Budget-Conscious Fine-Grained Configuration Optimization for Spatio-Temporal Applications",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p4079-richly.pdf",
+        "paper_authors": [
+            "Keven Richly",
+            "Rainer Schlosser",
+            "Martin Boissier"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming",
+        "paper_url": "https://www.vldb.org/pvldb/vol15/p4093-hsieh.pdf",
+        "paper_authors": [
+            "Cheng-Yu Hsieh",
+            "Jieyu Zhang",
+            "Alexander J. Ratner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

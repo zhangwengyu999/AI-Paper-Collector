@@ -1,0 +1,357 @@
+[
+    {
+        "paper_name": "18th USENIX Conference on File and Storage Technologies, FAST 2020, Santa Clara, CA, USA, February 24-27, 2020",
+        "paper_url": "https://www.usenix.org/conference/fast20",
+        "paper_authors": [
+            "Sam H. Noh",
+            "Brent Welch"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MAPX: Controlled Data Migration in the Expansion of Decentralized Object-Based Storage Systems",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/wang-li",
+        "paper_authors": [
+            "Li Wang",
+            "Yiming Zhang",
+            "Jiawei Xu",
+            "Guangtao Xue"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Lock-Free Collaboration Support for Cloud Storage Services with Operation Inference and Transformation",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/chen",
+        "paper_authors": [
+            "Jian Chen",
+            "Minghao Zhao",
+            "Zhenhua Li",
+            "Ennan Zhai",
+            "Feng Qian",
+            "Hongyi Chen",
+            "Yunhao Liu",
+            "Tianyin Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "POLARDB Meets Computational Storage: Efficiently Support Analytical Workloads in Cloud-Native Relational Database",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/cao-wei",
+        "paper_authors": [
+            "Wei Cao",
+            "Yang Liu",
+            "Zhushi Cheng",
+            "Ning Zheng",
+            "Wei Li",
+            "Wenjie Wu",
+            "Linqiang Ouyang",
+            "Peng Wang",
+            "Yijing Wang",
+            "Ray Kuan",
+            "Zhenjun Liu",
+            "Feng Zhu",
+            "Tong Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Carver: Finding Important Parameters for Storage System Tuning",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/cao-zhen",
+        "paper_authors": [
+            "Zhen Cao",
+            "Geoff Kuenning",
+            "Erez Zadok"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Read as Needed: Building WiSER, a Flash-Optimized Search Engine",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/he",
+        "paper_authors": [
+            "Jun He",
+            "Kan Wu",
+            "Sudarsun Kannan",
+            "Andrea C. Arpaci-Dusseau",
+            "Remzi H. Arpaci-Dusseau"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "How to Copy Files",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/zhan",
+        "paper_authors": [
+            "Yang Zhan",
+            "Alexander Conway",
+            "Yizheng Jiao",
+            "Nirjhar Mukherjee",
+            "Ian Groombridge",
+            "Michael A. Bender",
+            "Martin Farach-Colton",
+            "William Jannen",
+            "Rob Johnson",
+            "Donald E. Porter",
+            "Jun Yuan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Uncovering Access, Reuse, and Sharing Characteristics of I/O-Intensive Files on Large-Scale Production HPC Systems",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/patel-hpc-systems",
+        "paper_authors": [
+            "Tirthak Patel",
+            "Suren Byna",
+            "Glenn K. Lockwood",
+            "Nicholas J. Wright",
+            "Philip H. Carns",
+            "Robert B. Ross",
+            "Devesh Tiwari"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GIFT: A Coupon Based Throttle-and-Reward Mechanism for Fair and Efficient I/O Bandwidth Management on Parallel Storage Systems",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/patel-gift",
+        "paper_authors": [
+            "Tirthak Patel",
+            "Rohan Garg",
+            "Devesh Tiwari"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scalable Parallel Flash Firmware for Many-core Architectures",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/zhang-jie",
+        "paper_authors": [
+            "Jie Zhang",
+            "Miryeong Kwon",
+            "Michael M. Swift",
+            "Myoungsoo Jung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Study of SSD Reliability in Large Scale Enterprise Storage Deployments",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/maneas",
+        "paper_authors": [
+            "Stathis Maneas",
+            "Kaveh Mahdaviani",
+            "Tim Emami",
+            "Bianca Schroeder"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Making Disk Failure Predictions SMARTer!",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/lu",
+        "paper_authors": [
+            "Sidi Lu",
+            "Bing Luo",
+            "Tirthak Patel",
+            "Yongtao Yao",
+            "Devesh Tiwari",
+            "Weisong Shi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Empirical Guide to the Behavior and Use of Scalable Persistent Memory",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/yang",
+        "paper_authors": [
+            "Jian Yang",
+            "Juno Kim",
+            "Morteza Hoseinzadeh",
+            "Joseph Izraelevitz",
+            "Steven Swanson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DC-Store: Eliminating Noisy Neighbor Containers using Deterministic I/O Performance and Resource Isolation",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/kwon",
+        "paper_authors": [
+            "Miryeong Kwon",
+            "Donghyun Gouk",
+            "Changrim Lee",
+            "Byounggeun Kim",
+            "Jooyoung Hwang",
+            "Myoungsoo Jung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GoSeed: Generating an Optimal Seeding Plan for Deduplicated Storage",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/nachman",
+        "paper_authors": [
+            "Aviv Nachman",
+            "Gala Yadgar",
+            "Sarai Sheinvald"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Characterizing, Modeling, and Benchmarking RocksDB Key-Value Workloads at Facebook",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/cao-zhichao",
+        "paper_authors": [
+            "Zhichao Cao",
+            "Siying Dong",
+            "Sagar Vemuri",
+            "David H. C. Du"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FPGA-Accelerated Compactions for LSM-based Key-Value Store",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/zhang-teng",
+        "paper_authors": [
+            "Teng Zhang",
+            "Jianying Wang",
+            "Xuntao Cheng",
+            "Hao Xu",
+            "Nanlong Yu",
+            "Gui Huang",
+            "Tieying Zhang",
+            "Dengcheng He",
+            "Feifei Li",
+            "Wei Cao",
+            "Zhongdong Huang",
+            "Jianling Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "HotRing: A Hotspot-Aware In-Memory Key-Value Store",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/chen-jiqiang",
+        "paper_authors": [
+            "Jiqiang Chen",
+            "Liang Chen",
+            "Sheng Wang",
+            "Guoyun Zhu",
+            "Yuanyuan Sun",
+            "Huan Liu",
+            "Feifei Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BCW: Buffer-Controlled Writes to HDDs for SSD-HDD Hybrid Storage Server",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/wang-shucheng",
+        "paper_authors": [
+            "Shucheng Wang",
+            "Ziyi Lu",
+            "Qiang Cao",
+            "Hong Jiang",
+            "Jie Yao",
+            "Yuanyuan Dong",
+            "Puyuan Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "InfiniCache: Exploiting Ephemeral Serverless Functions to Build a Cost-Effective Memory Cache",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/wang-ao",
+        "paper_authors": [
+            "Ao Wang",
+            "Jingyuan Zhang",
+            "Xiaolong Ma",
+            "Ali Anwar",
+            "Lukas Rupprecht",
+            "Dimitrios Skourtis",
+            "Vasily Tarasov",
+            "Feng Yan",
+            "Yue Cheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Quiver: An Informed Storage Cache for Deep Learning",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/kumar",
+        "paper_authors": [
+            "Abhishek Vijaya Kumar",
+            "Muthian Sivathanu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CRaft: An Erasure-coding-supported Version of Raft for Reducing Storage Cost and Network Cost",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/wang-zizhong",
+        "paper_authors": [
+            "Zizhong Wang",
+            "Tongliang Li",
+            "Haixia Wang",
+            "Airan Shao",
+            "Yunren Bai",
+            "Shangming Cai",
+            "Zihan Xu",
+            "Dongsheng Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hybrid Data Reliability for Emerging Key-Value Storage Devices",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/pitchumani",
+        "paper_authors": [
+            "Rekha Pitchumani",
+            "Yang-Suk Kee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Strong and Efficient Consistency with Consistency-Aware Durability",
+        "paper_url": "https://www.usenix.org/conference/fast20/presentation/ganesan",
+        "paper_authors": [
+            "Aishwarya Ganesan",
+            "Ramnatthan Alagappan",
+            "Andrea C. Arpaci-Dusseau",
+            "Remzi H. Arpaci-Dusseau"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

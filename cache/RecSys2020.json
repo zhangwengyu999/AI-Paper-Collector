@@ -1,0 +1,1734 @@
+[
+    {
+        "paper_name": "RecSys 2020: Fourteenth ACM Conference on Recommender Systems, Virtual Event, Brazil, September 22-26, 2020",
+        "paper_url": "https://doi.org/10.1145/3383313",
+        "paper_authors": [
+            "Rodrygo L. T. Santos",
+            "Leandro Balby Marinho",
+            "Elizabeth M. Daly",
+            "Li Chen",
+            "Kim Falk",
+            "Noam Koenigstein",
+            "Edleno Silva de Moura"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "4 Reasons Why Social Media Make Us Vulnerable to Manipulation",
+        "paper_url": "https://doi.org/10.1145/3383313.3418434",
+        "paper_authors": [
+            "Filippo Menczer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bias in Search and Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3418435",
+        "paper_authors": [
+            "Ricardo Baeza-Yates"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "\"You Really Get Me\": Conversational AI Agents That Can Truly Understand and Help Users",
+        "paper_url": "https://doi.org/10.1145/3383313.3418436",
+        "paper_authors": [
+            "Michelle X. Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Method to Anonymize Business Metrics to Publishing Implicit Feedback Datasets",
+        "paper_url": "https://doi.org/10.1145/3383313.3412256",
+        "paper_authors": [
+            "Yoshifumi Seki",
+            "Takanori Maehara"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Ranking Optimization Approach to Latent Linear Critiquing for Conversational Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3412240",
+        "paper_authors": [
+            "Hanze Li",
+            "Scott Sanner",
+            "Kai Luo",
+            "Ga Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Are We Evaluating Rigorously? Benchmarking Recommendation for Reproducible Evaluation and Fair Comparison",
+        "paper_url": "https://doi.org/10.1145/3383313.3412489",
+        "paper_authors": [
+            "Zhu Sun",
+            "Di Yu",
+            "Hui Fang",
+            "Jie Yang",
+            "Xinghua Qu",
+            "Jie Zhang",
+            "Cong Geng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cascading Hybrid Bandits: Online Learning to Rank for Relevance and Diversity",
+        "paper_url": "https://doi.org/10.1145/3383313.3412245",
+        "paper_authors": [
+            "Chang Li",
+            "Haoyun Feng",
+            "Maarten de Rijke"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Content-Collaborative Disentanglement Representation Learning for Enhanced Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3412239",
+        "paper_authors": [
+            "Yin Zhang",
+            "Ziwei Zhu",
+            "Yun He",
+            "James Caverlee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Contextual and Sequential User Embeddings for Large-Scale Music Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3412248",
+        "paper_authors": [
+            "Casper Hansen",
+            "Christian Hansen",
+            "Lucas Maystre",
+            "Rishabh Mehrotra",
+            "Brian Brost",
+            "Federico Tomasi",
+            "Mounia Lalmas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Contextual User Browsing Bandits for Large-Scale Online Mobile Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3412234",
+        "paper_authors": [
+            "Xu He",
+            "Bo An",
+            "Yanghua Li",
+            "Haikai Chen",
+            "Qingyu Guo",
+            "Xin Li",
+            "Zhirong Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Debiasing Item-to-Item Recommendations With Small Annotated Datasets",
+        "paper_url": "https://doi.org/10.1145/3383313.3412265",
+        "paper_authors": [
+            "Tobias Schnabel",
+            "Paul N. Bennett"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deconstructing the Filter Bubble: User Decision-Making and Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3412246",
+        "paper_authors": [
+            "Guy Aridor",
+            "Duarte Gon\u00e7alves",
+            "Shan Sikdar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions",
+        "paper_url": "https://doi.org/10.1145/3383313.3412262",
+        "paper_authors": [
+            "Yuta Saito"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Ensuring Fairness in Group Recommendations by Rank-Sensitive Balancing of Relevance",
+        "paper_url": "https://doi.org/10.1145/3383313.3412232",
+        "paper_authors": [
+            "Mesut Kaya",
+            "Derek G. Bridge",
+            "Nava Tintarev"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploiting Performance Estimates for Augmenting Recommendation Ensembles",
+        "paper_url": "https://doi.org/10.1145/3383313.3412264",
+        "paper_authors": [
+            "Gustavo Penha",
+            "Rodrygo L. T. Santos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploring Clustering of Bandits for Online Recommendation System",
+        "paper_url": "https://doi.org/10.1145/3383313.3412250",
+        "paper_authors": [
+            "Liu Yang",
+            "Bo Liu",
+            "Leyu Lin",
+            "Feng Xia",
+            "Kai Chen",
+            "Qiang Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FISSA: Fusing Item Similarity Models with Self-Attention Networks for Sequential Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3412247",
+        "paper_authors": [
+            "Jing Lin",
+            "Weike Pan",
+            "Zhong Ming"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "From the lab to production: A case study of session-based recommendations in the home-improvement domain",
+        "paper_url": "https://doi.org/10.1145/3383313.3412235",
+        "paper_authors": [
+            "Pigi Kouki",
+            "Ilias Fountalis",
+            "Nikolaos Vasiloglou",
+            "Xiquan Cui",
+            "Edo Liberty",
+            "Khalifeh Al Jadda"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Global and Local Differential Privacy for Collaborative Bandits",
+        "paper_url": "https://doi.org/10.1145/3383313.3412254",
+        "paper_authors": [
+            "Huazheng Wang",
+            "Qian Zhao",
+            "Qingyun Wu",
+            "Shubham Chopra",
+            "Abhinav Khaitan",
+            "Hongning Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Goal-driven Command Recommendations for Analysts",
+        "paper_url": "https://doi.org/10.1145/3383313.3412255",
+        "paper_authors": [
+            "Samarth Aggarwal",
+            "Rohin Garg",
+            "Abhilasha Sancheti",
+            "Bhanu Prakash Reddy Guda",
+            "Iftikhar Ahamath Burhanuddin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ImRec: Learning Reciprocal Preferences Using Images",
+        "paper_url": "https://doi.org/10.1145/3383313.3411476",
+        "paper_authors": [
+            "James Neve",
+            "Ryan McConville"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "In-Store Augmented Reality-Enabled Product Comparison and Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3412266",
+        "paper_authors": [
+            "Jes\u00fas Omar \u00c1lvarez M\u00e1rquez",
+            "J\u00fcrgen Ziegler"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Keeping Dataset Biases out of the Simulation: A Debiased Simulator for Reinforcement Learning based Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3412252",
+        "paper_authors": [
+            "Jin Huang",
+            "Harrie Oosterhuis",
+            "Maarten de Rijke",
+            "Herke van Hoof"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "KRED: Knowledge-Aware Document Representation for News Recommendations",
+        "paper_url": "https://doi.org/10.1145/3383313.3412237",
+        "paper_authors": [
+            "Danyang Liu",
+            "Jianxun Lian",
+            "Shiyin Wang",
+            "Ying Qiao",
+            "Jiun-Hung Chen",
+            "Guangzhong Sun",
+            "Xing Xie"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication",
+        "paper_url": "https://doi.org/10.1145/3383313.3412233",
+        "paper_authors": [
+            "Xu He",
+            "Bo An",
+            "Yanghua Li",
+            "Haikai Chen",
+            "Rundong Wang",
+            "Xinrun Wang",
+            "Runsheng Yu",
+            "Xin Li",
+            "Zhirong Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Making Neural Networks Interpretable with Attribution: Application to Implicit Signals Prediction",
+        "paper_url": "https://doi.org/10.1145/3383313.3412253",
+        "paper_authors": [
+            "Darius Afchar",
+            "Romain Hennequin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MultiRec: A Multi-Relational Approach for Unique Item Recommendation in Auction Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3412242",
+        "paper_authors": [
+            "Ahmed Rashed",
+            "Shayan Jawed",
+            "Lars Schmidt-Thieme",
+            "Andre Hintsches"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Neural Collaborative Filtering vs. Matrix Factorization Revisited",
+        "paper_url": "https://doi.org/10.1145/3383313.3412488",
+        "paper_authors": [
+            "Steffen Rendle",
+            "Walid Krichene",
+            "Li Zhang",
+            "John R. Anderson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Offline Contextual Multi-armed Bandits for Mobile Health Interventions: A Case Study on Emotion Regulation",
+        "paper_url": "https://doi.org/10.1145/3383313.3412244",
+        "paper_authors": [
+            "Mawulolo K. Ameko",
+            "Miranda L. Beltzer",
+            "Lihua Cai",
+            "Mehdi Boukhechba",
+            "Bethany A. Teachman",
+            "Laura E. Barnes"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On Target Item Sampling in Offline Recommender System Evaluation",
+        "paper_url": "https://doi.org/10.1145/3383313.3412259",
+        "paper_authors": [
+            "Roc\u00edo Ca\u00f1amares",
+            "Pablo Castells"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations",
+        "paper_url": "https://doi.org/10.1145/3383313.3412236",
+        "paper_authors": [
+            "Hongyan Tang",
+            "Junning Liu",
+            "Ming Zhao",
+            "Xudong Gong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PURS: Personalized Unexpected Recommender System for Improving User Satisfaction",
+        "paper_url": "https://doi.org/10.1145/3383313.3412238",
+        "paper_authors": [
+            "Pan Li",
+            "Maofei Que",
+            "Zhichao Jiang",
+            "Yao Hu",
+            "Alexander Tuzhilin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Recommendations as Graph Explorations",
+        "paper_url": "https://doi.org/10.1145/3383313.3412269",
+        "paper_authors": [
+            "Marialena Kyriakidi",
+            "Georgia Koutrika",
+            "Yannis E. Ioannidis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Recommending the Video to Watch Next: An Offline and Online Evaluation at YOUTV.de",
+        "paper_url": "https://doi.org/10.1145/3383313.3412257",
+        "paper_authors": [
+            "Panagiotis Symeonidis",
+            "Andrea Janes",
+            "Dmitry Chaltsev",
+            "Philip Giuliani",
+            "Daniel Morandini",
+            "Andreas Unterhuber",
+            "Ludovik Coba",
+            "Markus Zanker"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RecSeats: A Hybrid Convolutional Neural Network Choice Model for Seat Recommendations at Reserved Seating Venues",
+        "paper_url": "https://doi.org/10.1145/3383313.3412263",
+        "paper_authors": [
+            "Th\u00e9o Moins",
+            "Daniel Aloise",
+            "Simon J. Blanchard"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Revisiting Adversarially Learned Injection Attacks Against Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3412243",
+        "paper_authors": [
+            "Jiaxi Tang",
+            "Hongyi Wen",
+            "Ke Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SSE-PT: Sequential Recommendation Via Personalized Transformer",
+        "paper_url": "https://doi.org/10.1145/3383313.3412258",
+        "paper_authors": [
+            "Liwei Wu",
+            "Shuqing Li",
+            "Cho-Jui Hsieh",
+            "James Sharpnack"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TAFA: Two-headed Attention Fused Autoencoder for Context-Aware Recommendations",
+        "paper_url": "https://doi.org/10.1145/3383313.3412268",
+        "paper_authors": [
+            "Jin Peng Zhou",
+            "Zhaoyue Cheng",
+            "Felipe P\u00e9rez",
+            "Maksims Volkovs"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Theoretical Modeling of the Iterative Properties of User Discovery in a Collaborative Filtering Recommender System",
+        "paper_url": "https://doi.org/10.1145/3383313.3412260",
+        "paper_authors": [
+            "Sami Khenissi",
+            "Mariem Boujelbene",
+            "Olfa Nasraoui"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Safety and Sustainability: Designing Local Recommendations for Post-pandemic World",
+        "paper_url": "https://doi.org/10.1145/3383313.3412251",
+        "paper_authors": [
+            "Gourab K. Patro",
+            "Abhijnan Chakraborty",
+            "Ashmi Banerjee",
+            "Niloy Ganguly"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unbiased Ad Click Prediction for Position-aware Advertising Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3412241",
+        "paper_authors": [
+            "Bo-Wen Yuan",
+            "Yaxu Liu",
+            "Jui-Yang Hsia",
+            "Zhenhua Dong",
+            "Chih-Jen Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unbiased Learning for the Causal Effect of Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3412261",
+        "paper_authors": [
+            "Masahiro Sato",
+            "Sho Takemori",
+            "Janmajay Singh",
+            "Tomoko Ohkuma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "What does BERT know about books, movies and music? Probing BERT for Conversational Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3412249",
+        "paper_authors": [
+            "Gustavo Penha",
+            "Claudia Hauff"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "\"Who doesn't like dinosaurs?\" Finding and Eliciting Richer Preferences for Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3412267",
+        "paper_authors": [
+            "Tobias Schnabel",
+            "Gonzalo A. Ramos",
+            "Saleema Amershi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ADER: Adaptively Distilled Exemplar Replay Towards Continual Learning for Session-based Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3412218",
+        "paper_authors": [
+            "Fei Mi",
+            "Xiaoyu Lin",
+            "Boi Faltings"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive Pointwise-Pairwise Learning-to-Rank for Content-based Personalized Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3412229",
+        "paper_authors": [
+            "Yagmur Gizem Cinar",
+            "Jean-Michel Renders"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Carousel Personalization in Music Streaming Apps with Contextual Bandits",
+        "paper_url": "https://doi.org/10.1145/3383313.3412217",
+        "paper_authors": [
+            "Walid Bendada",
+            "Guillaume Salha",
+            "Th\u00e9o Bontempelli"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Causal Inference for Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3412225",
+        "paper_authors": [
+            "Yixin Wang",
+            "Dawen Liang",
+            "Laurent Charlin",
+            "David M. Blei"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ClusterExplorer: Enable User Control over Related Recommendations via Collaborative Filtering and Clustering",
+        "paper_url": "https://doi.org/10.1145/3383313.3412221",
+        "paper_authors": [
+            "Denis Kotkov",
+            "Qian Zhao",
+            "Kati Launis",
+            "Mats Neovius"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Combining Rating and Review Data by Initializing Latent Factor Models with Topic Models for Top-N Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3412207",
+        "paper_authors": [
+            "Francisco J. Pe\u00f1a",
+            "Diarmuid O'Reilly-Morgan",
+            "Elias Z. Tragos",
+            "Neil Hurley",
+            "Erika Duriakova",
+            "Barry Smyth",
+            "Aonghus Lawlor"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Contextual Meta-Bandit for Recommender Systems Selection",
+        "paper_url": "https://doi.org/10.1145/3383313.3412209",
+        "paper_authors": [
+            "Marlesson R. O. Santana",
+            "Luckeciano C. Melo",
+            "Fernando H. F. Camargo",
+            "Bruno Brand\u00e3o",
+            "Anderson Soares",
+            "Renan M. Oliveira",
+            "Sandor Caetano"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deconfounding User Satisfaction Estimation from Response Rate Bias",
+        "paper_url": "https://doi.org/10.1145/3383313.3412208",
+        "paper_authors": [
+            "Konstantina Christakopoulou",
+            "Madeleine Traverse",
+            "Trevor Potter",
+            "Emma Marriott",
+            "Daniel Li",
+            "Chris Haulk",
+            "Ed H. Chi",
+            "Minmin Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Bayesian Bandits: Exploring in Online Personalized Recommendations",
+        "paper_url": "https://doi.org/10.1145/3383313.3412214",
+        "paper_authors": [
+            "Dalin Guo",
+            "Sofia Ira Ktena",
+            "Pranay Kumar Myana",
+            "Ferenc Huszar",
+            "Wenzhe Shi",
+            "Alykhan Tejani",
+            "Michael Kneier",
+            "Sourav Das"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Explainable Recommendation for Repeat Consumption",
+        "paper_url": "https://doi.org/10.1145/3383313.3412230",
+        "paper_authors": [
+            "Kosetsu Tsukuda",
+            "Masataka Goto"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Explainable Recommendations via Attentive Multi-Persona Collaborative Filtering",
+        "paper_url": "https://doi.org/10.1145/3383313.3412226",
+        "paper_authors": [
+            "Oren Barkan",
+            "Yonatan Fuchs",
+            "Avi Caciularu",
+            "Noam Koenigstein"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploring Longitudinal Effects of Session-based Recommendations",
+        "paper_url": "https://doi.org/10.1145/3383313.3412213",
+        "paper_authors": [
+            "Andres Ferraro",
+            "Dietmar Jannach",
+            "Xavier Serra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fit to Run: Personalised Recommendations for Marathon Training",
+        "paper_url": "https://doi.org/10.1145/3383313.3412228",
+        "paper_authors": [
+            "Jakim Berndsen",
+            "Barry Smyth",
+            "Aonghus Lawlor"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Free Lunch! Retrospective Uplift Modeling for Dynamic Promotions Recommendation within ROI Constraints",
+        "paper_url": "https://doi.org/10.1145/3383313.3412215",
+        "paper_authors": [
+            "Dmitri Goldenberg",
+            "Javier Albert",
+            "Lucas Bernardi",
+            "Pablo Estevez"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "History-Augmented Collaborative Filtering for Financial Recommendations",
+        "paper_url": "https://doi.org/10.1145/3383313.3412206",
+        "paper_authors": [
+            "Baptiste Barreau",
+            "Laurent Carlier"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving One-class Recommendation with Multi-tasking on Various Preference Intensities",
+        "paper_url": "https://doi.org/10.1145/3383313.3412224",
+        "paper_authors": [
+            "Chu-Jen Shao",
+            "Hao-Ming Fu",
+            "Pu-Jen Cheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Interpretable Contextual Team-aware Item Recommendation: Application in Multiplayer Online Battle Arena Games",
+        "paper_url": "https://doi.org/10.1145/3383313.3412211",
+        "paper_authors": [
+            "Andr\u00e9s Villa",
+            "Vladimir Araujo",
+            "Francisca Cattan",
+            "Denis Parra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Long-tail Session-based Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3412222",
+        "paper_authors": [
+            "Siyi Liu",
+            "Yujia Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MEANTIME: Mixture of Attention Mechanisms with Multi-temporal Embeddings for Sequential Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3412216",
+        "paper_authors": [
+            "Sung Min Cho",
+            "Eunhyeok Park",
+            "Sungjoo Yoo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Model Size Reduction Using Frequency Based Double Hashing for Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3412227",
+        "paper_authors": [
+            "Caojin Zhang",
+            "Yicun Liu",
+            "Yuanpu Xie",
+            "Sofia Ira Ktena",
+            "Alykhan Tejani",
+            "Akshay Gupta",
+            "Pranay Kumar Myana",
+            "Deepak Dilipkumar",
+            "Suvadip Paul",
+            "Ikuhiro Ihara",
+            "Prasang Upadhyaya",
+            "Ferenc Huszar",
+            "Wenzhe Shi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Performance of Hyperbolic Geometry Models on Top-N Recommendation Tasks",
+        "paper_url": "https://doi.org/10.1145/3383313.3412219",
+        "paper_authors": [
+            "Leyla Mirvakhabova",
+            "Evgeny Frolov",
+            "Valentin Khrulkov",
+            "Ivan V. Oseledets",
+            "Alexander Tuzhilin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Personality Bias of Music Recommendation Algorithms",
+        "paper_url": "https://doi.org/10.1145/3383313.3412223",
+        "paper_authors": [
+            "Alessandro B. Melchiorre",
+            "Eva Zangerle",
+            "Markus Schedl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Providing Explainable Race-Time Predictions and Training Plan Recommendations to Marathon Runners",
+        "paper_url": "https://doi.org/10.1145/3383313.3412220",
+        "paper_authors": [
+            "Ciara Feely",
+            "Brian Caulfield",
+            "Aonghus Lawlor",
+            "Barry Smyth"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reducing energy waste in households through real-time recommendations",
+        "paper_url": "https://doi.org/10.1145/3383313.3412212",
+        "paper_authors": [
+            "Janhavi Dahihande",
+            "Akshay Jaiswal",
+            "Akshay Anil Pagar",
+            "Ajinkya Thakare",
+            "Magdalini Eirinaki",
+            "Iraklis Varlamis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unbiased Implicit Recommendation and Propensity Estimation via Combinational Joint Learning",
+        "paper_url": "https://doi.org/10.1145/3383313.3412210",
+        "paper_authors": [
+            "Ziwei Zhu",
+            "Yun He",
+            "Yin Zhang",
+            "James Caverlee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Using conceptual incongruity as a basis for making recommendations",
+        "paper_url": "https://doi.org/10.1145/3383313.3412231",
+        "paper_authors": [
+            "Tushar Shandhilya",
+            "Nisheeth Srivastava"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Human Perspective on Algorithmic Similarity",
+        "paper_url": "https://doi.org/10.1145/3383313.3411549",
+        "paper_authors": [
+            "Zachary A. Schendel",
+            "Faraz Farzin",
+            "Siddhi Sundar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Balancing Relevance and Discovery to Inspire Customers in the IKEA App",
+        "paper_url": "https://doi.org/10.1145/3383313.3411550",
+        "paper_authors": [
+            "Bal\u00e1zs T\u00f3th",
+            "Sandhya Sachidanandan",
+            "Emil S. J\u00f8rgensen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Behavior-based Popularity Ranking on Amazon Video",
+        "paper_url": "https://doi.org/10.1145/3383313.3411555",
+        "paper_authors": [
+            "Lakshmi Ramachandran"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Building a reciprocal recommendation system at scale from scratch: Learnings from one of Japan's prominent dating applications",
+        "paper_url": "https://doi.org/10.1145/3383313.3411558",
+        "paper_authors": [
+            "R. Ramanathan",
+            "Nicolas K. Shinada",
+            "Sucheendra K. Palaniappan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Counterfactual learning for recommender system",
+        "paper_url": "https://doi.org/10.1145/3383313.3411552",
+        "paper_authors": [
+            "Zhenhua Dong",
+            "Hong Zhu",
+            "Pengxiang Cheng",
+            "Xinhua Feng",
+            "Guohao Cai",
+            "Xiuqiang He",
+            "Jun Xu",
+            "Jirong Wen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Developing Recommendation System to provide a Personalized Learning experience at Chegg",
+        "paper_url": "https://doi.org/10.1145/3383313.3411557",
+        "paper_authors": [
+            "Sanghamitra Deb"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Investigating Multimodal Features for Video Recommendations at Globoplay",
+        "paper_url": "https://doi.org/10.1145/3383313.3411553",
+        "paper_authors": [
+            "Felipe Ferreira",
+            "Daniele R. Souza",
+            "Igor Moura",
+            "Matheus Barbieri",
+            "H\u00e9lio C\u00f4rtes Vieira Lopes"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On the Heterogeneous Information Needs in the Job Domain: A Unified Platform for Student Career",
+        "paper_url": "https://doi.org/10.1145/3383313.3411554",
+        "paper_authors": [
+            "Markus Reiter-Haas",
+            "David Wittenbrink",
+            "Emanuel Lacic"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Query as Context for Item-to-Item Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3411480",
+        "paper_authors": [
+            "Moumita Bhattacharya",
+            "Amey Barapatre"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference",
+        "paper_url": "https://doi.org/10.1145/3383313.3411477",
+        "paper_authors": [
+            "Jacopo Tagliabue",
+            "Bingqing Yu",
+            "Federico Bianchi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Federated Recommender System for Online Services",
+        "paper_url": "https://doi.org/10.1145/3383313.3411528",
+        "paper_authors": [
+            "Ben Tan",
+            "Bo Liu",
+            "Vincent W. Zheng",
+            "Qiang Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AutoRec: An Automated Recommender System",
+        "paper_url": "https://doi.org/10.1145/3383313.3411529",
+        "paper_authors": [
+            "Ting-Hsiang Wang",
+            "Xia Hu",
+            "Haifeng Jin",
+            "Qingquan Song",
+            "Xiaotian Han",
+            "Zirui Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Auto-Surprise: An Automated Recommender-System (AutoRecSys) Library with Tree of Parzens Estimator (TPE) Optimization",
+        "paper_url": "https://doi.org/10.1145/3383313.3411467",
+        "paper_authors": [
+            "Rohan Anand",
+            "Joeran Beel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BETA-Rec: Build, Evaluate and Tune Automated Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3411524",
+        "paper_authors": [
+            "Zaiqiao Meng",
+            "Richard McCreadie",
+            "Craig Macdonald",
+            "Iadh Ounis",
+            "Siwei Liu",
+            "Yaxiong Wu",
+            "Xi Wang",
+            "Shangsong Liang",
+            "Yucheng Liang",
+            "Guangtao Zeng",
+            "Junhua Liang",
+            "Qiang Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Demonstrating Principled Uncertainty Modeling for Recommender Ecosystems with RecSim NG",
+        "paper_url": "https://doi.org/10.1145/3383313.3411527",
+        "paper_authors": [
+            "Martin Mladenov",
+            "Chih-Wei Hsu",
+            "Vihan Jain",
+            "Eugene Ie",
+            "Christopher Colby",
+            "Nicolas Mayoraz",
+            "Hubert Pham",
+            "Dustin Tran",
+            "Ivan Vendrov",
+            "Craig Boutilier"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fairness-aware Recommendation with librec-auto",
+        "paper_url": "https://doi.org/10.1145/3383313.3411525",
+        "paper_authors": [
+            "Nasim Sonboli",
+            "Robin Burke",
+            "Zijun Liu",
+            "Masoud Mansoury"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PicTouRe - A Picture-Based Tourism Recommender",
+        "paper_url": "https://doi.org/10.1145/3383313.3411526",
+        "paper_authors": [
+            "Mete Sertkan",
+            "Julia Neidhardt",
+            "Hannes Werthner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Recommender-Systems.com: A Central Platform for the Recommender-System Community",
+        "paper_url": "https://doi.org/10.1145/3383313.3411522",
+        "paper_authors": [
+            "Joeran Beel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "VMI-PSL: Visual Model Inspector for Probabilistic Soft Logic",
+        "paper_url": "https://doi.org/10.1145/3383313.3411530",
+        "paper_authors": [
+            "Aaron Rodden",
+            "Tarun Salh",
+            "Eriq Augustine",
+            "Lise Getoor"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "3rd FAccTRec Workshop: Responsible Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3411538",
+        "paper_authors": [
+            "Michael D. Ekstrand",
+            "Pierre-Nicolas Schwab",
+            "Jean Garcia-Gathright",
+            "Toshihiro Kamishima",
+            "Nasim Sonboli"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ComplexRec 2020: Workshop on Recommendation in Complex Environments",
+        "paper_url": "https://doi.org/10.1145/3383313.3411535",
+        "paper_authors": [
+            "Toine Bogers",
+            "Marijn Koolen",
+            "Casper Petersen",
+            "Bamshad Mobasher",
+            "Alexander Tuzhilin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fifth International Workshop on Health Recommender Systems (HealthRecSys 2020)",
+        "paper_url": "https://doi.org/10.1145/3383313.3411540",
+        "paper_authors": [
+            "Alan Said",
+            "Hanna Sch\u00e4fer",
+            "Helma Torkamaan",
+            "Christoph Trattner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Interfaces and Human Decision Making for Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3411539",
+        "paper_authors": [
+            "Peter Brusilovsky",
+            "Marco de Gemmis",
+            "Alexander Felfernig",
+            "Pasquale Lops",
+            "John O'Donovan",
+            "Giovanni Semeraro",
+            "Martijn C. Willemsen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ORSUM - Workshop on Online Recommender Systems and User Modeling",
+        "paper_url": "https://doi.org/10.1145/3383313.3411531",
+        "paper_authors": [
+            "Jo\u00e3o Vinagre",
+            "Al\u00edpio M\u00e1rio Jorge",
+            "Marie Al-Ghossein",
+            "Albert Bifet"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PodRecs: Workshop on Podcast Recommendations",
+        "paper_url": "https://doi.org/10.1145/3383313.3411444",
+        "paper_authors": [
+            "Ching-Wei Chen",
+            "Longqi Yang",
+            "Hongyi Wen",
+            "Rosie Jones",
+            "Vladan Radosavljevic",
+            "Hugues Bouchard"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RecSys 2020 Challenge Workshop: Engagement Prediction on Twitter's Home Timeline",
+        "paper_url": "https://doi.org/10.1145/3383313.3411532",
+        "paper_authors": [
+            "Vito Walter Anelli",
+            "Amra Delic",
+            "Gabriele Sottocornola",
+            "Jessie Smith",
+            "Nazareno Andrade",
+            "Luca Belli",
+            "Michael M. Bronstein",
+            "Akshay Gupta",
+            "Sofia Ira Ktena",
+            "Alexandre Lung-Yut-Fong",
+            "Frank Portman",
+            "Alykhan Tejani",
+            "Yuanpu Xie",
+            "Xiao Zhu",
+            "Wenzhe Shi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "REVEAL 2020: Bandit and Reinforcement Learning from User Interactions",
+        "paper_url": "https://doi.org/10.1145/3383313.3411536",
+        "paper_authors": [
+            "Thorsten Joachims",
+            "Yves Raimond",
+            "Olivier Koch",
+            "Maria Dimakopoulou",
+            "Flavian Vasile",
+            "Adith Swaminathan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Second Workshop on the Impact of Recommender Systems at ACM RecSys '20",
+        "paper_url": "https://doi.org/10.1145/3383313.3411471",
+        "paper_authors": [
+            "Oren Sar Shalom",
+            "Dietmar Jannach",
+            "Joseph A. Konstan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Second Workshop on Recommender Systems in Fashion - fashionXrecsys2020",
+        "paper_url": "https://doi.org/10.1145/3383313.3411534",
+        "paper_authors": [
+            "Shatha Jaradat",
+            "Nima Dokoohaki",
+            "Humberto Jes\u00fas Corona Pamp\u00edn",
+            "Reza Shirvany"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Workshop on Context-Aware Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3411533",
+        "paper_authors": [
+            "Gediminas Adomavicius",
+            "Konstantin Bauman",
+            "Bamshad Mobasher",
+            "Francesco Ricci",
+            "Alexander Tuzhilin",
+            "Moshe Unger"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Workshop on Online Misinformation- and Harm-Aware Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3411537",
+        "paper_authors": [
+            "Antonela Tommasel",
+            "Daniela Godoy",
+            "Arkaitz Zubiaga"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A College Major Recommendation System",
+        "paper_url": "https://doi.org/10.1145/3383313.3418488",
+        "paper_authors": [
+            "Samuel Alexander Stein",
+            "Gary M. Weiss",
+            "Yiwen Chen",
+            "Daniel D. Leeds"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Joint Dynamic Ranking System with DNN and Vector-based Clustering Bandit",
+        "paper_url": "https://doi.org/10.1145/3383313.3418485",
+        "paper_authors": [
+            "Yu Liu",
+            "Xiaoxiao Xu",
+            "Jincheng Wang",
+            "Yong Li",
+            "Changping Peng",
+            "Yongjun Bao",
+            "Weipeng P. Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Closed-Form Models for Collaborative Filtering with Side-Information",
+        "paper_url": "https://doi.org/10.1145/3383313.3418480",
+        "paper_authors": [
+            "Olivier Jeunen",
+            "Jan Van Balen",
+            "Bart Goethals"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Context-aware Graph Embedding for Session-based News Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3418477",
+        "paper_authors": [
+            "Heng-Shiou Sheu",
+            "Sheng Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Do Channels Matter? Illuminating Interpersonal Influence on Music Recommendations",
+        "paper_url": "https://doi.org/10.1145/3383313.3418489",
+        "paper_authors": [
+            "Hyun Jeong Kim",
+            "So Yeon Park",
+            "Minju Park",
+            "Kyogu Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "\"Don't Judge a Book by its Cover\": Exploring Book Traits Children Favor",
+        "paper_url": "https://doi.org/10.1145/3383313.3418490",
+        "paper_authors": [
+            "Ashlee Milton",
+            "Levesson Batista",
+            "Garrett Allen",
+            "Siqi Gao",
+            "Yiu-Kai Ng",
+            "Maria Soledad Pera"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DRecPy: A Python Framework for Developing Deep Learning-Based Recommenders",
+        "paper_url": "https://doi.org/10.1145/3383313.3418483",
+        "paper_authors": [
+            "F\u00e1bio Cola\u00e7o",
+            "M\u00e1rcia Barros",
+            "Francisco M. Couto"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploring Data Splitting Strategies for the Evaluation of Recommendation Models",
+        "paper_url": "https://doi.org/10.1145/3383313.3418479",
+        "paper_authors": [
+            "Zaiqiao Meng",
+            "Richard McCreadie",
+            "Craig Macdonald",
+            "Iadh Ounis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Inferring the Causal Impact of New Track Releases on Music Recommendation Platforms through Counterfactual Predictions",
+        "paper_url": "https://doi.org/10.1145/3383313.3418491",
+        "paper_authors": [
+            "Rishabh Mehrotra",
+            "Prasanta Bhattacharya",
+            "Mounia Lalmas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Investigating Listeners' Responses to Divergent Recommendations",
+        "paper_url": "https://doi.org/10.1145/3383313.3418482",
+        "paper_authors": [
+            "Rishabh Mehrotra",
+            "Chirag Shah",
+            "Benjamin A. Carterette"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Investigating the Impact of Audio States & Transitions for Track Sequencing in Music Streaming Sessions",
+        "paper_url": "https://doi.org/10.1145/3383313.3418493",
+        "paper_authors": [
+            "Aaron Ng",
+            "Rishabh Mehrotra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Representations of Hierarchical Slates in Collaborative Filtering",
+        "paper_url": "https://doi.org/10.1145/3383313.3418484",
+        "paper_authors": [
+            "Ehtsham Elahi",
+            "Ashok Chandrashekar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Multi-Language Recipe Personalisation and Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3418478",
+        "paper_authors": [
+            "Niall Twomey",
+            "Mikhail Fain",
+            "Andrey Ponikar",
+            "Nadine Sarraf"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Recommending in changing times",
+        "paper_url": "https://doi.org/10.1145/3383313.3418492",
+        "paper_authors": [
+            "Shruti Kunde",
+            "Mayank Mishra",
+            "Amey Pandit",
+            "Rekha Singhal",
+            "Manoj Karunakaran Nambiar",
+            "Gautam Shroff",
+            "Shashank Gupta"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Smart Targeting: A Relevance-driven and Configurable Targeting Framework for Advertising System",
+        "paper_url": "https://doi.org/10.1145/3383313.3418481",
+        "paper_authors": [
+            "Yong Li",
+            "Zihao Zhao",
+            "Zhiwei Fang",
+            "Kui Ma",
+            "Yafei Yao",
+            "Changping Peng",
+            "Yongjun Bao",
+            "Weipeng Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Connection Between Popularity Bias, Calibration, and Fairness in Recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3418487",
+        "paper_authors": [
+            "Himan Abdollahpouri",
+            "Masoud Mansoury",
+            "Robin Burke",
+            "Bamshad Mobasher"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tuning Word2vec for Large Scale Recommendation Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3418486",
+        "paper_authors": [
+            "Benjamin Paul Chamberlain",
+            "Emanuele Rossi",
+            "Dan Shiebler",
+            "Suvash Sedhain",
+            "Michael M. Bronstein"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code",
+        "paper_url": "https://doi.org/10.1145/3383313.3411447",
+        "paper_authors": [
+            "Vito Walter Anelli",
+            "Yashar Deldjoo",
+            "Tommaso Di Noia",
+            "Felice Antonio Merra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bayesian Value Based Recommendation: A modelling based alternative to proxy and counterfactual policy based recommendation",
+        "paper_url": "https://doi.org/10.1145/3383313.3411544",
+        "paper_authors": [
+            "David Rohde",
+            "Flavian Vasile",
+            "Sergey Ivanov",
+            "Otmane Sakhi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Counteracting Bias and Increasing Fairness in Search and Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3411545",
+        "paper_authors": [
+            "Ruoyuan Gao",
+            "Chirag Shah"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Introduction to Bandits in Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3411547",
+        "paper_authors": [
+            "Andrea Barraza-Urbina",
+            "Dorota Glowacka"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tutorial on Conversational Recommendation Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3411548",
+        "paper_authors": [
+            "Zuohui Fu",
+            "Yikun Xian",
+            "Yongfeng Zhang",
+            "Yi Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tutorial: Feature Engineering for Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3411543",
+        "paper_authors": [
+            "Benedikt Schifferer",
+            "Chris Deotte",
+            "Even Oldridge"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Characterizing and Mitigating the Impact of Data Imbalance for Stakeholders in Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3411454",
+        "paper_authors": [
+            "Elizabeth G\u00f3mez"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Conversational Agents for Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3411453",
+        "paper_authors": [
+            "Andrea Iovine"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Developing Work in Confidence, Similarity Structure, and Modeling User Event Time",
+        "paper_url": "https://doi.org/10.1145/3383313.3411457",
+        "paper_authors": [
+            "Jacob Munson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficiency-Effectiveness Trade-offs in Recommendation Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3411452",
+        "paper_authors": [
+            "Iulia Paun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Evolutionary Approach in Recommendation Systems for Complex Structured Objects",
+        "paper_url": "https://doi.org/10.1145/3383313.3411455",
+        "paper_authors": [
+            "Bartolom\u00e9 Ortiz Viso"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploratory Methods for Evaluating Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3383313.3411456",
+        "paper_authors": [
+            "Joey De Pauw"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Online Recommender system for Accessible Tourism Destinations",
+        "paper_url": "https://doi.org/10.1145/3383313.3411450",
+        "paper_authors": [
+            "Luchiana Cezara Brodeala"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Taking advantage of images and texts in recommender systems: semantics and explainability",
+        "paper_url": "https://doi.org/10.1145/3383313.3411451",
+        "paper_authors": [
+            "Pablo P\u00e9rez-N\u00fa\u00f1ez"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

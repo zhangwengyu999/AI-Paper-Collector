@@ -1,0 +1,2943 @@
+[
+    {
+        "paper_name": "30th British Machine Vision Conference 2019, BMVC 2019, Cardiff, UK, September 9-12, 2019",
+        "paper_url": "https://bmvc2019.org/programme/detailed-programme/",
+        "paper_authors": [],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial View-Consistent Learning for Monocular Depth Estimation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0018-paper.pdf",
+        "paper_authors": [
+            "Yixuan Liu",
+            "Yuwang Wang",
+            "Shengjin Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Joint Spatial and Layer Attention for Convolutional Networks",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0258-paper.pdf",
+        "paper_authors": [
+            "Tony Joseph",
+            "Konstantinos G. Derpanis",
+            "Faisal Z. Qureshi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Less Biased Evaluation of Out-of-distribution Sample Detectors",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0333-paper.pdf",
+        "paper_authors": [
+            "Alireza Shafaei",
+            "Mark Schmidt",
+            "James J. Little"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unmasking the Devil in the Details: What Works for Deep Facial Action Coding?",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0403-paper.pdf",
+        "paper_authors": [
+            "Koichiro Niinuma",
+            "L\u00e1szl\u00f3 A. Jeni",
+            "Itir \u00d6nal Ertugrul",
+            "Jeffrey F. Cohn"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Weight Partial Domain Adaptation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0406-paper.pdf",
+        "paper_authors": [
+            "Jian Hu",
+            "Hongya Tuo",
+            "Chao Wang",
+            "Lingfeng Qiao",
+            "Haowen Zhong",
+            "Zhongliang Jing"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Text Recognition using local correlation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0469-paper.pdf",
+        "paper_authors": [
+            "Yujia Li",
+            "Hongchao Gao",
+            "Xi Wang",
+            "Jizhong Han",
+            "Ruixuan Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DetectFusion: Detecting and Segmenting Both Known and Unknown Dynamic Objects in Real-time SLAM",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0499-paper.pdf",
+        "paper_authors": [
+            "Ryo Hachiuma",
+            "Christian Pirchheim",
+            "Dieter Schmalstieg",
+            "Hideo Saito"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bilinear Siamese Networks with Background Suppression for Visual Object Tracking",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0564-paper.pdf",
+        "paper_authors": [
+            "Hankyeol Lee",
+            "Seokeon Choi",
+            "Youngeun Kim",
+            "Changick Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Examples for Handcrafted Features",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0629-paper.pdf",
+        "paper_authors": [
+            "Zohaib Ali",
+            "Muhammad Latif Anjum",
+            "Wajahat Hussain"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "One-shot Face Reenactment",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0690-paper.pdf",
+        "paper_authors": [
+            "Yunxuan Zhang",
+            "Siwei Zhang",
+            "Yue He",
+            "Cheng Li",
+            "Chen Change Loy",
+            "Ziwei Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning to Focus and Track Extreme Climate Events",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0728-paper.pdf",
+        "paper_authors": [
+            "Sookyung Kim",
+            "Sunghyun Park",
+            "Sunghyo Chung",
+            "Joonseok Lee",
+            "Yunsung Lee",
+            "Hyojin Kim",
+            "Prabhat",
+            "Jaegul Choo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Revisiting Residual Networks with Nonlinear Shortcuts",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0740-paper.pdf",
+        "paper_authors": [
+            "Chaoning Zhang",
+            "Fran\u00e7ois Rameau",
+            "Seokju Lee",
+            "Junsik Kim",
+            "Philipp Benz",
+            "Dawit Mureja Argaw",
+            "Jean-Charles Bazin",
+            "In So Kweon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unified 2D and 3D Hand Pose Estimation from a Single Visible or X-ray Image",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0931-paper.pdf",
+        "paper_authors": [
+            "Akila Pemasiri",
+            "Kien Nguyen",
+            "Sridha Sridharan",
+            "Clinton Fookes"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Perspective-n-Learned-Point: Pose Estimation from Relative Depth",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0981-paper.pdf",
+        "paper_authors": [
+            "Nathan Piasco",
+            "D\u00e9sir\u00e9 Sidib\u00e9",
+            "C\u00e9dric Demonceaux",
+            "Val\u00e9rie Gouet-Brunet"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Joint Multi-view Texture Super-resolution and Intrinsic Decomposition",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1049-paper.pdf",
+        "paper_authors": [
+            "Vagia Tsiminaki",
+            "Wei Dong",
+            "Martin R. Oswald",
+            "Marc Pollefeys"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Class-Distinct and Class-Mutual Image Generation with GANs",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1114-paper.pdf",
+        "paper_authors": [
+            "Takuhiro Kaneko",
+            "Yoshitaka Ushiku",
+            "Tatsuya Harada"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Guided Zoom: Questioning Network Evidence for Fine-grained Classification",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0061-paper.pdf",
+        "paper_authors": [
+            "Sarah Adel Bargal",
+            "Andrea Zunino",
+            "Vitali Petsiuk",
+            "Jianming Zhang",
+            "Kate Saenko",
+            "Vittorio Murino",
+            "Stan Sclaroff"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Embodied Vision-and-Language Navigation with Dynamic Convolutional Filters",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0384-paper.pdf",
+        "paper_authors": [
+            "Federico Landi",
+            "Lorenzo Baraldi",
+            "Massimiliano Corsini",
+            "Rita Cucchiara"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Accurate and Compact Convolutional Neural Networks with Trained Binarization",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0588-paper.pdf",
+        "paper_authors": [
+            "Zhe Xu",
+            "Ray C. C. Cheung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Show, Infer and Tell: Contextual Inference for Creative Captioning",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0655-paper.pdf",
+        "paper_authors": [
+            "Ankit Khare",
+            "Manfred Huber"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Push for Quantization: Deep Fisher Hashing",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0938-paper.pdf",
+        "paper_authors": [
+            "Yunqiang Li",
+            "Wenjie Pei",
+            "Yufei Zha",
+            "Jan van Gemert"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RecNets: Channel-wise Recurrent Convolutional Neural Networks",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1073-paper.pdf",
+        "paper_authors": [
+            "George Retsinas",
+            "Athena Elafrou",
+            "Georgios I. Goumas",
+            "Petros Maragos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pixel-Wise Confidences for Stereo Disparities Using Recurrent Neural Networks",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0274-paper.pdf",
+        "paper_authors": [
+            "Muhammad Shahzeb Khan Gul",
+            "Michel B\u00e4tz",
+            "Joachim Keinert"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pan-tilt-zoom SLAM for Sports Videos",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0329-paper.pdf",
+        "paper_authors": [
+            "Jikai Lu",
+            "Jianhui Chen",
+            "James J. Little"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Evaluation of Feature Matchers for Fundamental Matrix Estimation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0450-paper.pdf",
+        "paper_authors": [
+            "Jia-Wang Bian",
+            "Yu-Huan Wu",
+            "Ji Zhao",
+            "Yun Liu",
+            "Le Zhang",
+            "Ming-Ming Cheng",
+            "Ian Reid"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Simple Direct Solution to the Perspective-Three-Point Problem",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0533-paper.pdf",
+        "paper_authors": [
+            "Gaku Nakano"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Physical Cue based Depth-Sensing by Color Coding with Deaberration Network",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0156-paper.pdf",
+        "paper_authors": [
+            "Nao Mishima",
+            "Tatsuo Kozakaya",
+            "Akihisa Moriya",
+            "Ryuzo Okada",
+            "Shinsaku Hiura"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Merge-SfM: Merging Partial Reconstructions",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1004-paper.pdf",
+        "paper_authors": [
+            "Meiling Fang",
+            "Thomas Pollok",
+            "Chengchao Qu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semi-supervised Macromolecule Structural Classification in Cellular Electron Cryo-Tomograms using 3D Autoencoding Classifier",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0337-paper.pdf",
+        "paper_authors": [
+            "Siyuan Liu",
+            "Xuefeng Du",
+            "Rong Xi",
+            "Fuya Xu",
+            "Xiangrui Zeng",
+            "Bo Zhou",
+            "Min Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Large scale joint semantic re-localisation and scene understanding via globally unique instance coordinate regression",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0431-paper.pdf",
+        "paper_authors": [
+            "Ignas Budvytis",
+            "Marvin Teichmann",
+            "Tomas Vojir",
+            "Roberto Cipolla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Matching Features without Descriptors: Implicitly Matched Interest Points",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0974-paper.pdf",
+        "paper_authors": [
+            "Titus Cieslewski",
+            "Michael Bloesch",
+            "Davide Scaramuzza"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Few-Shot Viewpoint Estimation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0125-paper.pdf",
+        "paper_authors": [
+            "Hung-Yu Tseng",
+            "Shalini De Mello",
+            "Jonathan Tremblay",
+            "Sifei Liu",
+            "Stan Birchfield",
+            "Ming-Hsuan Yang",
+            "Jan Kautz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Differentiable Fixed-Rank Regularisation using Bilinear Parameterisation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0199-paper.pdf",
+        "paper_authors": [
+            "Marcus Valtonen \u00d6rnhag",
+            "Carl Olsson",
+            "Anders Heyden"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mitigating the Hubness Problem for Zero-Shot Learning of 3D Objects",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0233-paper.pdf",
+        "paper_authors": [
+            "Ali Cheraghian",
+            "Shafin Rahman",
+            "Dylan Campbell",
+            "Lars Petersson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimising 3D-CNN Design towards Human Pose Estimation on Low Power Devices",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0327-paper.pdf",
+        "paper_authors": [
+            "Manolis Vasileiadis",
+            "Christos-Savvas Bouganis",
+            "Georgios Stavropoulos",
+            "Dimitrios Tzovaras"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DublinCity: Annotated LiDAR Point Cloud and its Applications",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0644-paper.pdf",
+        "paper_authors": [
+            "S. M. Iman Zolanvari",
+            "Susana Ruano",
+            "Aakanksha Rana",
+            "Alan Cummins",
+            "Rog\u00e9rio Eduardo da Silva",
+            "Morteza Rahbar",
+            "Aljosa Smolic"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Single Image 3D Hand Reconstruction with Mesh Convolutions",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0653-paper.pdf",
+        "paper_authors": [
+            "Dominik Kulon",
+            "Haoyang Wang",
+            "Riza Alp G\u00fcler",
+            "Michael M. Bronstein",
+            "Stefanos Zafeiriou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0710-paper.pdf",
+        "paper_authors": [
+            "Ammar Qammaz",
+            "Antonis A. Argyros"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Evaluation of Feature Encoding Techniques for Non-Rigid and Rigid 3D Point Cloud Retrieval",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0932-paper.pdf",
+        "paper_authors": [
+            "Sindhu B. Hegde",
+            "Shankar Gangisetty"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Depth-aware Heatmaps for 3D Human Pose Estimation in the Wild",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1217-paper.pdf",
+        "paper_authors": [
+            "Zerui Chen",
+            "Yiru Guo",
+            "Yan Huang",
+            "Liang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DwNet: Dense warp-based network for pose-guided human video generation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1039-paper.pdf",
+        "paper_authors": [
+            "Polina Zablotskaia",
+            "Aliaksandr Siarohin",
+            "Bo Zhao",
+            "Leonid Sigal"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Annotation-free Quality Estimation of Food Grains using Deep Neural Network",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1232-paper.pdf",
+        "paper_authors": [
+            "Akankshya Kar",
+            "Prakhar Kulshreshtha",
+            "Ayush Agrawal",
+            "Sandeep Palakkal",
+            "Lokesh R. Boregowda"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pose from Shape: Deep Pose Estimation for Arbitrary 3D Objects",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0120-paper.pdf",
+        "paper_authors": [
+            "Yang Xiao",
+            "Xuchong Qiu",
+            "Pierre-Alain Langlois",
+            "Mathieu Aubry",
+            "Renaud Marlet"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "XNOR-Net++: Improved binary neural networks",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0121-paper.pdf",
+        "paper_authors": [
+            "Adrian Bulat",
+            "Georgios Tzimiropoulos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Curriculum based Dropout Discriminator for Domain Adaptation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0214-paper.pdf",
+        "paper_authors": [
+            "Vinod Kumar Kurmi",
+            "Vipul Bajaj",
+            "Venkatesh K. Subramanian",
+            "Vinay P. Namboodiri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Directed-Weighting Group Lasso For Eltwise Blocked CNN Pruning",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0286-paper.pdf",
+        "paper_authors": [
+            "Ke Zhan",
+            "Shimiao Jiang",
+            "Yu Bai",
+            "Yi Li",
+            "Xu Liu",
+            "Zhuoran Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Camera Style and Identity Disentangling Network for Person Re-identification",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0335-paper.pdf",
+        "paper_authors": [
+            "Ruochen Zheng",
+            "Lerenhan Li",
+            "Chuchu Han",
+            "Changxin Gao",
+            "Nong Sang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pseudo-Labeling Curriculum for Unsupervised Domain Adaptation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0350-paper.pdf",
+        "paper_authors": [
+            "Jaehoon Choi",
+            "Minki Jeong",
+            "Taekyung Kim",
+            "Changick Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BioFaceNet: Deep Biophysical Face Image Interpretation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0369-paper.pdf",
+        "paper_authors": [
+            "Sarah Alotaibi",
+            "William A. P. Smith"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semantically-Aware Attentive Neural Embeddings for 2D Long-Term Visual Localization",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0443-paper.pdf",
+        "paper_authors": [
+            "Zachary Seymour",
+            "Karan Sikka",
+            "Han-Pang Chiu",
+            "Supun Samarasekera",
+            "Rakesh Kumar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "EPNAS: Efficient Progressive Neural Architecture Search",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0456-paper.pdf",
+        "paper_authors": [
+            "Yanqi Zhou",
+            "Peng Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Batch-wise Logit-Similarity: Generalizing Logit-Squeezing and Label-Smoothing",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0559-paper.pdf",
+        "paper_authors": [
+            "Ali Shafahi",
+            "Amin Ghiasi",
+            "Mahyar Najibi",
+            "Furong Huang",
+            "John P. Dickerson",
+            "Tom Goldstein"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scrutinizing and De-Biasing Intuitive Physics with Neural Stethoscopes",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0574-paper.pdf",
+        "paper_authors": [
+            "Fabian B. Fuchs",
+            "Oliver Groth",
+            "Adam R. Kosiorek",
+            "Alex Bewley",
+            "Markus Wulfmeier",
+            "Andrea Vedaldi",
+            "Ingmar Posner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MixConv: Mixed Depthwise Convolutional Kernels",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0583-paper.pdf",
+        "paper_authors": [
+            "Mingxing Tan",
+            "Quoc V. Le"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Look and Modify: Modification Networks for Image Captioning",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0597-paper.pdf",
+        "paper_authors": [
+            "Fawaz Sammani",
+            "Mahmoud Elsayed"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Ordinal Pooling",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0609-paper.pdf",
+        "paper_authors": [
+            "Adrien Deli\u00e8ge",
+            "Maxime Istasse",
+            "Ashwani Kumar",
+            "Christophe De Vleeschouwer",
+            "Marc Van Droogenbroeck"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Defending against adversarial examples using defense kernel network",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0675-paper.pdf",
+        "paper_authors": [
+            "Yuying Hao",
+            "Tuanhui Li",
+            "Yong Jiang",
+            "Xuanye Cheng",
+            "Li Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Predicting Visual Memory Schemas with Variational Autoencoders",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0734-paper.pdf",
+        "paper_authors": [
+            "Cameron P. Kyle-Davidson",
+            "Adrian G. Bors",
+            "Karla K. Evans"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PMC-GANs: Generating Multi-Scale High-Quality Pedestrian with Multimodal Cascaded GANs",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0790-paper.pdf",
+        "paper_authors": [
+            "Jie Wu",
+            "Ying Peng",
+            "Chenghao Zheng",
+            "Zongbo Hao",
+            "Jian Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Contrastive Learning for Lifted Networks",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0830-paper.pdf",
+        "paper_authors": [
+            "Christopher Zach",
+            "Virginia Estellers"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive Graphical Model Network for 2D Handpose Estimation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0907-paper.pdf",
+        "paper_authors": [
+            "Deying Kong",
+            "Yifei Chen",
+            "Haoyu Ma",
+            "Xiangyi Yan",
+            "Xiaohui Xie"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bag of Negatives for Siamese Architectures",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0934-paper.pdf",
+        "paper_authors": [
+            "Bojana Gajic",
+            "Ariel Amato",
+            "Ram\u00f3n Baldrich",
+            "Carlo Gatta"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SC-RANK: Improving Convolutional Image Captioning with Self-Critical Learning and Ranking Metric-based Reward",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0936-paper.pdf",
+        "paper_authors": [
+            "Shiyang Yan",
+            "Yang Hua",
+            "Neil Robertson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SO(2)-equivariance in Neural networks using tensor nonlinearity",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0944-paper.pdf",
+        "paper_authors": [
+            "Muthuvel Murugan Issakkimuthu",
+            "K. V. Subrahmanyam"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Discriminative Features Matter: Multi-layer Bilinear Pooling for Camera Localization",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0968-paper.pdf",
+        "paper_authors": [
+            "Xin Wang",
+            "Xiang Wang",
+            "Chen Wang",
+            "Xiao Bai",
+            "Jing Wu",
+            "Edwin Robert Hancock"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PrOSe: Product of Orthogonal Spheres Parameterization for Disentangled Representation Learning",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1056-paper.pdf",
+        "paper_authors": [
+            "Ankita Shukla",
+            "Sarthak Bhagat",
+            "Shagun Uppal",
+            "Saket Anand",
+            "Pavan K. Turaga"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dynamic Neural Network Channel Execution for Efficient Training",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1071-paper.pdf",
+        "paper_authors": [
+            "Simeon E. Spasov",
+            "Pietro Li\u00f2"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Classification is a Strong Baseline for Deep Metric Learning",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1206-paper.pdf",
+        "paper_authors": [
+            "Andrew Zhai",
+            "Hao-Yu Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Functionality-Oriented Convolutional Filter Pruning",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1240-paper.pdf",
+        "paper_authors": [
+            "Zhuwei Qin",
+            "Fuxun Yu",
+            "Chenchen Liu",
+            "Xiang Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Learning-based Text Synthesis Engine for Scene Text Detection",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0480-paper.pdf",
+        "paper_authors": [
+            "Xiao Yang",
+            "Dafang He",
+            "Daniel Kifer",
+            "C. Lee Giles"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Document Binarization using Recurrent Attention Generative Model",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0647-paper.pdf",
+        "paper_authors": [
+            "Shuchun Liu",
+            "Feiyun Zhang",
+            "Mingxi Chen",
+            "Yufei Xie",
+            "Pan He",
+            "Jie Shao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "End-to-End Information Extraction by Character-Level Embedding and Multi-Stage Attentional U-Net",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0870-paper.pdf",
+        "paper_authors": [
+            "Tuan Anh Nguyen Dang",
+            "Dat Nguyen Thanh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Two-stage Image Classification Supervised by a Single Teacher Single Student Model",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0155-paper.pdf",
+        "paper_authors": [
+            "Jianhang Zhou",
+            "Shaoning Zeng",
+            "Bob Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MS-ASL: A Large-Scale Data Set and Benchmark for Understanding American Sign Language",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0254-paper.pdf",
+        "paper_authors": [
+            "Hamid Reza Vaezi Joze",
+            "Oscar Koller"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Trajectory Space Factorization for Deep Video-Based 3D Human Pose Estimation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0257-paper.pdf",
+        "paper_authors": [
+            "Jiahao Lin",
+            "Gim Hee Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BIRD: Learning Binary and Illumination Robust Descriptor for Face Recognition",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0268-paper.pdf",
+        "paper_authors": [
+            "Zhuo Su",
+            "Matti Pietik\u00e4inen",
+            "Li Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Construct Dynamic Graphs for Hand Gesture Recognition via Spatial-Temporal Attention",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0281-paper.pdf",
+        "paper_authors": [
+            "Yuxiao Chen",
+            "Long Zhao",
+            "Xi Peng",
+            "Jianbo Yuan",
+            "Dimitris N. Metaxas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Annealed Label Transfer for Face Expression Recognition",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0321-paper.pdf",
+        "paper_authors": [
+            "Corneliu Florea",
+            "Laura Florea",
+            "Mihai-Sorin Badea",
+            "Constantin Vertan",
+            "Andrei Racoviteanu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FlickerNet: Adaptive 3D Gesture Recognition from Sparse Point Clouds",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0326-paper.pdf",
+        "paper_authors": [
+            "Yuecong Min",
+            "Xiujuan Chai",
+            "Lei Zhao",
+            "Xilin Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pose-Aware Face Alignment based on CNN and 3DMM",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0352-paper.pdf",
+        "paper_authors": [
+            "Songjiang Li",
+            "Honggai Li",
+            "Jinshi Cui",
+            "Hongbin Zha"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Large Margin Loss for Learning Facial Movements from Pseudo-Emotions",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0498-paper.pdf",
+        "paper_authors": [
+            "Andrei Racoviteanu",
+            "Mihai-Sorin Badea",
+            "Corneliu Florea",
+            "Laura Florea",
+            "Constantin Vertan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Body Part Alignment and Temporal Attention Pooling for Video-Based Person Re-Identification",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0576-paper.pdf",
+        "paper_authors": [
+            "Sai Saketh Rambhatla",
+            "Michael Jones"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automatic 4D Facial Expression Recognition via Collaborative Cross-domain Dynamic Image Network",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0729-paper.pdf",
+        "paper_authors": [
+            "Muzammil Behzad",
+            "Nhat Vo",
+            "Xiaobai Li",
+            "Guoying Zhao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Enhanced Normalized Mean Error loss for Robust Facial Landmark detection",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0772-paper.pdf",
+        "paper_authors": [
+            "Shenqi Lai",
+            "Zhenhua Chai",
+            "Shengxi Li",
+            "Huanhuan Meng",
+            "Mengzhao Yang",
+            "Xiaoming Wei"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SRN: Stacked Regression Network for Real-time 3D Hand Pose Estimation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0918-paper.pdf",
+        "paper_authors": [
+            "Pengfei Ren",
+            "Haifeng Sun",
+            "Qi Qi",
+            "Jingyu Wang",
+            "Weiting Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Face Anti-Spoofing via Sample Learning Based Recurrent Neural Network (RNN)",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0973-paper.pdf",
+        "paper_authors": [
+            "Usman Muhammad",
+            "Tuomas Holmberg",
+            "Wheidima Carneiro de Melo",
+            "Abdenour Hadid"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PAttNet: Patch-attentive deep network for action unit detection",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0988-paper.pdf",
+        "paper_authors": [
+            "Itir \u00d6nal Ertugrul",
+            "L\u00e1szl\u00f3 A. Jeni",
+            "Jeffrey F. Cohn"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TAGAN: Tonality Aligned Generative Adversarial Networks for Realistic Hand Pose Synthesis",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0408-paper.pdf",
+        "paper_authors": [
+            "Liangjian Chen",
+            "Shih-Yao Lin",
+            "Yusheng Xie",
+            "Hui Tang",
+            "Yufan Xue",
+            "Yen-Yu Lin",
+            "Xiaohui Xie",
+            "Wei Fan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Frustratingly Easy Person Re-Identification: Generalizing Person Re-ID in Practice",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0702-paper.pdf",
+        "paper_authors": [
+            "Jieru Jia",
+            "Qiuqi Ruan",
+            "Timothy M. Hospedales"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Delving Deep into Least Square Regression Model for Subspace Clustering",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0539-paper.pdf",
+        "paper_authors": [
+            "Masataka Yamaguchi",
+            "Go Irie",
+            "Takahito Kawanishi",
+            "Kunio Kashino"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Variational Saccading: Efficient Inference for Large Resolution Images",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0555-paper.pdf",
+        "paper_authors": [
+            "Jason Ramapuram",
+            "Maurits Diephuis",
+            "Frantzeska Lavda",
+            "Russ Webb",
+            "Alexandros Kalousis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Acceleration Scheme for Mini-batch, Streaming PCA",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0852-paper.pdf",
+        "paper_authors": [
+            "Salaheddin Alakkari",
+            "John Dingliana"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Generic Active Learning Framework for Class Imbalance Applications",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1067-paper.pdf",
+        "paper_authors": [
+            "Aditya R. Bhattacharya",
+            "Ji Liu",
+            "Shayok Chakraborty"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Transductive Learning Via Improved Geodesic Sampling",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0807-paper.pdf",
+        "paper_authors": [
+            "Youshan Zhang",
+            "Sihong Xie",
+            "Brian D. Davison"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A General Transductive Regularizer for Zero-Shot Learning",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0310-paper.pdf",
+        "paper_authors": [
+            "Huaqi Mao",
+            "Haofeng Zhang",
+            "Yang Long",
+            "Shidong Wang",
+            "Longzhi Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Video Upright Adjustment and Stabilization",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0265-paper.pdf",
+        "paper_authors": [
+            "Jucheol Won",
+            "Sunghyun Cho"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Video Stitching for Linear Camera Arrays",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0453-paper.pdf",
+        "paper_authors": [
+            "Wei-Sheng Lai",
+            "Orazio Gallo",
+            "Jinwei Gu",
+            "Deqing Sun",
+            "Ming-Hsuan Yang",
+            "Jan Kautz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Target-aware Attention for Robust Tracking with Conditional Adversarial Network",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0562-paper.pdf",
+        "paper_authors": [
+            "Xiao Wang",
+            "Rui Yang",
+            "Tao Sun",
+            "Bin Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Features for Ground Texture Based Localization - A Survey",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0949-paper.pdf",
+        "paper_authors": [
+            "Jan Fabian Schmid",
+            "Stephan F. Simon",
+            "Rudolf Mester"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PMnet: Learning of Disentangled Pose and Movement for Unsupervised Motion Retargeting",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0997-paper.pdf",
+        "paper_authors": [
+            "Jongin Lim",
+            "Hyung Jin Chang",
+            "Jin Young Choi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Do Saliency Models Detect Odd-One-Out Targets? New Datasets and Evaluations",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0203-paper.pdf",
+        "paper_authors": [
+            "Iuliia Kotseruba",
+            "Calden Wloka",
+            "Amir Rasouli",
+            "John K. Tsotsos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PCAS: Pruning Channels with Attention Statistics for Deep Network Compression",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0550-paper.pdf",
+        "paper_authors": [
+            "Kohei Yamamoto",
+            "Kurato Maeno"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Large Margin In Softmax Cross-Entropy Loss",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0636-paper.pdf",
+        "paper_authors": [
+            "Takumi Kobayashi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Differentiable Unrolled Alternating Direction Method of Multipliers for OneNet",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0717-paper.pdf",
+        "paper_authors": [
+            "Zolt\u00e1n \u00c1d\u00e1m Milacski",
+            "Barnab\u00e1s P\u00f3czos",
+            "Andr\u00e1s Lorincz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Graph-based Knowledge Distillation by Multi-head Attention Network",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0821-paper.pdf",
+        "paper_authors": [
+            "Seunghyun Lee",
+            "Byung Cheol Song"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Convolutional CRFs for Semantic Segmentation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0865-paper.pdf",
+        "paper_authors": [
+            "Marvin Teichmann",
+            "Roberto Cipolla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Group Based Deep Shared Feature Learning for Fine-grained Image Classification",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0885-paper.pdf",
+        "paper_authors": [
+            "Xuelu Li",
+            "Vishal Monga"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Addressing Data Bias Problems for Chest X-ray Image Report Generation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1007-paper.pdf",
+        "paper_authors": [
+            "Philipp Harzig",
+            "Yan-Ying Chen",
+            "Francine Chen",
+            "Rainer Lienhart"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Object Affordances Graph Network for Action Recognition",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0078-paper.pdf",
+        "paper_authors": [
+            "Haoliang Tan",
+            "Le Wang",
+            "Qilin Zhang",
+            "Zhanning Gao",
+            "Nanning Zheng",
+            "Gang Hua"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Image Captioning with Unseen Objects",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0124-paper.pdf",
+        "paper_authors": [
+            "Berkan Demirel",
+            "Ramazan Gokberk Cinbis",
+            "Nazli Ikizler-Cinbis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Residual Multiscale Based Single Image Deraining",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0168-paper.pdf",
+        "paper_authors": [
+            "Yupei Zheng",
+            "Xin Yu",
+            "Miaomiao Liu",
+            "Shunli Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Open-set Recognition of Unseen Macromolecules in Cellular Electron Cryo-Tomograms by Soft Large Margin Centralized Cosine Loss",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0347-paper.pdf",
+        "paper_authors": [
+            "Xuefeng Du",
+            "Xiangrui Zeng",
+            "Bo Zhou",
+            "Alex Singh",
+            "Min Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learnable Gated Temporal Shift Module for Free-form Video Inpainting",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0355-paper.pdf",
+        "paper_authors": [
+            "Ya-Liang Chang",
+            "Zhe Yu Liu",
+            "Kuan-Ying Lee",
+            "Winston H. Hsu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MS-GAN: Text to Image Synthesis with Attention-Modulated Generators and Similarity-aware Discriminators",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0413-paper.pdf",
+        "paper_authors": [
+            "Fengling Mao",
+            "Bingpeng Ma",
+            "Hong Chang",
+            "Shiguang Shan",
+            "Xilin Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsupervised and Explainable Assessment of Video Similarity",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0417-paper.pdf",
+        "paper_authors": [
+            "Konstantinos E. Papoutsakis",
+            "Antonis A. Argyros"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AutoCorrect: Deep Inductive Alignment of Noisy Geometric Annotations",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0474-paper.pdf",
+        "paper_authors": [
+            "Honglie Chen",
+            "Weidi Xie",
+            "Andrea Vedaldi",
+            "Andrew Zisserman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive Compression-based Lifelong Learning",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0649-paper.pdf",
+        "paper_authors": [
+            "Shivangi Srivastava",
+            "Maxim Berman",
+            "Matthew B. Blaschko",
+            "Devis Tuia"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TARN: Temporal Attentive Relation Network for Few-Shot and Zero-Shot Action Recognition",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0650-paper.pdf",
+        "paper_authors": [
+            "Mina Bishay",
+            "Georgios Zoumpourlis",
+            "Ioannis Patras"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive Lighting for Data-Driven Non-Line-of-Sight 3D Localization and Object Identification",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0723-paper.pdf",
+        "paper_authors": [
+            "Sreenithy Chandran",
+            "Suren Jayasuriya"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hybrid Deep Network for Anomaly Detection",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0726-paper.pdf",
+        "paper_authors": [
+            "Trong-Nguyen Nguyen",
+            "Jean Meunier"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast and Multilevel Semantic-Preserving Discrete Hashing",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0788-paper.pdf",
+        "paper_authors": [
+            "Wanqian Zhang",
+            "Dayan Wu",
+            "Jing Liu",
+            "Bo Li",
+            "Xiaoyan Gu",
+            "Weiping Wang",
+            "Dan Meng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mining Discriminative Food Regions for Accurate Food Recognition",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0839-paper.pdf",
+        "paper_authors": [
+            "Jianing Qiu",
+            "Frank Po Wen Lo",
+            "Yingnan Sun",
+            "Siyao Wang",
+            "Benny Lo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Attentional demand estimation with attentive driving models",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0996-paper.pdf",
+        "paper_authors": [
+            "Petar Palasek",
+            "Nilli Lavie",
+            "Luke Palmer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generalised Visual Microphone",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1218-paper.pdf",
+        "paper_authors": [
+            "Juhyun Ahn"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "End-to-End 3D Hand Pose Estimation from Stereo Cameras",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0219-paper.pdf",
+        "paper_authors": [
+            "Yuncheng Li",
+            "Zehao Xue",
+            "Yingying Wang",
+            "Liuhao Ge",
+            "Zhou Ren",
+            "Jonathan Rodriguez"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Triangulation: Why Optimize?",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0331-paper.pdf",
+        "paper_authors": [
+            "Seong Hun Lee",
+            "Javier Civera"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Single-view Object Shape Reconstruction Using Deep Shape Prior and Silhouette",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0392-paper.pdf",
+        "paper_authors": [
+            "Kejie Li",
+            "Ravi Garg",
+            "Ming Cai",
+            "Ian Reid"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Embedding of 3D models with Quadric Loss",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0452-paper.pdf",
+        "paper_authors": [
+            "Nitin Agarwal",
+            "Sung-Eui Yoon",
+            "M. Gopi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Probabilistic Reconstruction Networks for 3D Shape Inference from a Single Image",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0568-paper.pdf",
+        "paper_authors": [
+            "Roman Klokov",
+            "Jakob Verbeek",
+            "Edmond Boyer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimal Multi-view Correction of Local Affine Frames",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0816-paper.pdf",
+        "paper_authors": [
+            "Ivan Eichhardt",
+            "Daniel Barath"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Zero-Shot Sign Language Recognition: Can Textual Data Uncover Sign Languages?",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0122-paper.pdf",
+        "paper_authors": [
+            "Yunus Can Bilge",
+            "Nazli Ikizler-Cinbis",
+            "Ramazan Gokberk Cinbis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Efficient 3D CNN for Action/Object Segmentation in Video",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0162-paper.pdf",
+        "paper_authors": [
+            "Rui Hou",
+            "Chen Chen",
+            "Rahul Sukthankar",
+            "Mubarak Shah"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pedestrian Action Anticipation using Contextual Feature Fusion in Stacked RNNs",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0283-paper.pdf",
+        "paper_authors": [
+            "Amir Rasouli",
+            "Iuliia Kotseruba",
+            "John K. Tsotsos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Focused Attention for Action Recognition",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0299-paper.pdf",
+        "paper_authors": [
+            "Vladyslav Sydorov",
+            "Karteek Alahari",
+            "Cordelia Schmid"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dynamic Graph Modules for Modeling Object-Object Interactions in Activity Recognition",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0524-paper.pdf",
+        "paper_authors": [
+            "Hao Huang",
+            "Luowei Zhou",
+            "Wei Zhang",
+            "Jason J. Corso",
+            "Chenliang Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Weakly-Supervised 3D Pose Estimation from a Single Image using Multi-View Consistency",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0552-paper.pdf",
+        "paper_authors": [
+            "Guillaume Rochette",
+            "Chris Russell",
+            "Richard Bowden"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Visual Actions Using Multiple Verb-Only Labels",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0615-paper.pdf",
+        "paper_authors": [
+            "Michael Wray",
+            "Dima Damen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Spatiotemporal Pre-processing Network for Activity Recognition under Rain",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0880-paper.pdf",
+        "paper_authors": [
+            "Minah Lee",
+            "Burhan Ahmad Mudassar",
+            "Taesik Na",
+            "Saibal Mukhopadhyay"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Edge Detection for Event Cameras using Intra-pixel-area Events",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1140-paper.pdf",
+        "paper_authors": [
+            "Sangil Lee",
+            "Haram Kim",
+            "H. Jin Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Simple vs complex temporal recurrences for video saliency prediction",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0952-paper.pdf",
+        "paper_authors": [
+            "Panagiotis Linardos",
+            "Eva Mohedano",
+            "Juan Jos\u00e9 Nieto",
+            "Noel E. O'Connor",
+            "Xavier Gir\u00f3-i-Nieto",
+            "Kevin McGuinness"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Convolutional Mean: A Simple Convolutional Neural Network for Illuminant Estimation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0216-paper.pdf",
+        "paper_authors": [
+            "Han Gong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Quantitative Analysis of Similarity Measures of Distributions",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0039-paper.pdf",
+        "paper_authors": [
+            "Eric Baz\u00e1n",
+            "Petr Dokl\u00e1dal",
+            "Eva Dokl\u00e1dalov\u00e1"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Gated Multiple Feedback Network for Image Super-Resolution",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0103-paper.pdf",
+        "paper_authors": [
+            "Qilei Li",
+            "Zhen Li",
+            "Lu Lu",
+            "Gwanggil Jeon",
+            "Kai Liu",
+            "Xiaomin Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Wide Activation for Efficient Image and Video Super-Resolution",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0288-paper.pdf",
+        "paper_authors": [
+            "Jiahui Yu",
+            "Yuchen Fan",
+            "Thomas S. Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Higher order Dictionary Learning for Compressed Sensing based Dynamic MRI reconstruction",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0553-paper.pdf",
+        "paper_authors": [
+            "Minha Mubarak",
+            "Thomas James Thomas",
+            "J. Sheeba Rani",
+            "Deepak Mishra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Joint Image Reconstruction from Color and Monochrome Cameras",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0754-paper.pdf",
+        "paper_authors": [
+            "Muxingzi Li",
+            "Peihan Tu",
+            "Wolfgang Heidrich"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Progressive Face Super-Resolution via Attention to Facial Landmark",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0820-paper.pdf",
+        "paper_authors": [
+            "Deokyun Kim",
+            "Minseon Kim",
+            "Gihyun Kwon",
+            "Daeshik Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Unsupervised Subspace Ranking Method for Continuous Emotions in Face Images",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0831-paper.pdf",
+        "paper_authors": [
+            "Pooyan Balouchian",
+            "Marjaneh Safaei",
+            "Xiaochun Cao",
+            "Hassan Foroosh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Learning for Robust end-to-end Tone Mapping",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0849-paper.pdf",
+        "paper_authors": [
+            "Rico Montulet",
+            "Alexia Briassouli"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Base-detail image inpainting",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1116-paper.pdf",
+        "paper_authors": [
+            "Ruonan Zhang",
+            "Yurui Ren",
+            "Jingfei Qiu",
+            "Ge Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Guide Your Eyes: Learning Image Manipulation under Saliency Guidance",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0160-paper.pdf",
+        "paper_authors": [
+            "Yen-Chung Chen",
+            "Keng-Jui Chang",
+            "Yi-Hsuan Tsai",
+            "Yu-Chiang Frank Wang",
+            "Wei-Chen Chiu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Element-Embedded Style Transfer Networks for Style Harmonization",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0425-paper.pdf",
+        "paper_authors": [
+            "Hwai-Jin Peng",
+            "Chia-Ming Wang",
+            "Yu-Chiang Frank Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Harmonic Networks for Image Classification",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0628-paper.pdf",
+        "paper_authors": [
+            "Matej Ulicny",
+            "Vladimir A. Krylov",
+            "Rozenn Dahyot"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semi-supervised Feature-Level Attribute Manipulation for Fashion Image Retrieval",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0773-paper.pdf",
+        "paper_authors": [
+            "Minchul Shin",
+            "Sanghyuk Park",
+            "Taeksoo Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Blind Image Deconvolution using Pretrained Generative Priors",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1042-paper.pdf",
+        "paper_authors": [
+            "Muhammad Asim",
+            "Fahad Shamshad",
+            "Ali Ahmed"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Single Image Super-Resolution via CNN Architectures and TV-TV Minimization",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1119-paper.pdf",
+        "paper_authors": [
+            "Marija Vella",
+            "Jo\u00e3o F. C. Mota"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PtychoNet: Fast and High Quality Phase Retrieval for Ptychography",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1172-paper.pdf",
+        "paper_authors": [
+            "Ziqiao Guan",
+            "Esther H. R. Tsai",
+            "Xiaojing Huang",
+            "Kevin G. Yager",
+            "Hong Qin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Style-Guided Zero-Shot Sketch-based Image Retrieval",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0703-paper.pdf",
+        "paper_authors": [
+            "Titir Dutta",
+            "Soma Biswas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generalized Zero-shot Learning using Open Set Recognition",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0035-paper.pdf",
+        "paper_authors": [
+            "Omkar Gune",
+            "Amit More",
+            "Biplab Banerjee",
+            "Subhasis Chaudhuri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "High Frequency Residual Learning for Multi-Scale Image Classification",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0144-paper.pdf",
+        "paper_authors": [
+            "Bowen Cheng",
+            "Rong Xiao",
+            "Jianfeng Wang",
+            "Thomas S. Huang",
+            "Lei Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Efficient Detector with Semi-supervised Adaptive Distillation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0145-paper.pdf",
+        "paper_authors": [
+            "Shitao Tang",
+            "Litong Feng",
+            "Wenqi Shao",
+            "Zhanghui Kuang",
+            "Wayne Zhang",
+            "Zheng Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Knowledge Distillation for End-to-End Person Search",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0198-paper.pdf",
+        "paper_authors": [
+            "Bharti Munjal",
+            "Fabio Galasso",
+            "Sikandar Amin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "One-Shot Scene-Specific Crowd Counting",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0209-paper.pdf",
+        "paper_authors": [
+            "Mohammad Asiful Hossain",
+            "Mahesh Kumar K.",
+            "Mehrdad Hosseinzadeh",
+            "Omit Chanda",
+            "Yang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploring the Vulnerability of Single Shot Module in Object Detectors via Imperceptible Background Patches",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0284-paper.pdf",
+        "paper_authors": [
+            "Yuezun Li",
+            "Xiao Bian",
+            "Ming-Ching Chang",
+            "Siwei Lyu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Balancing Specialization, Generalization, and Compression for Detection and Tracking",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0289-paper.pdf",
+        "paper_authors": [
+            "Dotan Kaufman",
+            "Koby Bibas",
+            "Eran Borenstein",
+            "Michael Chertok",
+            "Tal Hassner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Coarse-to-Fine Non-Local Module for the Detection of Small Objects",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0334-paper.pdf",
+        "paper_authors": [
+            "Hila Levi",
+            "Shimon Ullman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-scale Template Matching with Scalable Diversity Similarity in an Unconstrained Environment",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0541-paper.pdf",
+        "paper_authors": [
+            "Yi Zhang",
+            "Chao Zhang",
+            "Takuya Akashi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Multi-stage Object Detection via Iterative Proposal Refinement",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0545-paper.pdf",
+        "paper_authors": [
+            "Jicheng Gong",
+            "Zhao Zhao",
+            "Nic Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generating Expensive Relationship Features from Cheap Objects",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0657-paper.pdf",
+        "paper_authors": [
+            "Xiaogang Wang",
+            "Qianru Sun",
+            "Tat-Seng Chua",
+            "Marcelo H. Ang Jr."
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Soft Sampling for Robust Object Detection",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0662-paper.pdf",
+        "paper_authors": [
+            "Zhe Wu",
+            "Navaneeth Bodla",
+            "Bharat Singh",
+            "Mahyar Najibi",
+            "Rama Chellappa",
+            "Larry S. Davis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Joint Learning of Attended Zero-Shot Features and Visual-Semantic Mapping",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0681-paper.pdf",
+        "paper_authors": [
+            "Yanan Li",
+            "Donghui Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cascade RetinaNet: Maintaining Consistency for Single-Stage Object Detection",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0809-paper.pdf",
+        "paper_authors": [
+            "Hongkai Zhang",
+            "Hong Chang",
+            "Bingpeng Ma",
+            "Shiguang Shan",
+            "Xilin Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Learning Fusion of RGB and Depth Images for Pedestrian Detection",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0847-paper.pdf",
+        "paper_authors": [
+            "Zhixin Guo",
+            "Wenzhi Liao",
+            "Yifan Xiao",
+            "Peter Veelaert",
+            "Wilfried Philips"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BMNet: A Reconstructed Network for Lightweight Object Detection via Branch Merging",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0908-paper.pdf",
+        "paper_authors": [
+            "Hefei Ling",
+            "Li Zhang",
+            "Yangyang Qin",
+            "Yuxuan Shi",
+            "Lei Wu",
+            "Jiazhong Chen",
+            "Baiyan Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Adaptive Supervision Framework for Active Learning in Object Detection",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0921-paper.pdf",
+        "paper_authors": [
+            "Sai Vikas Desai",
+            "Akshay Chandra Lagandula",
+            "Wei Guo",
+            "Seishi Ninomiya",
+            "Vineeth N. Balasubramanian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Signboard against Object Detector",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1017-paper.pdf",
+        "paper_authors": [
+            "Yi Huang",
+            "Adams Wai-Kin Kong",
+            "Kwok-Yan Lam"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Domain Adaptation for Object Detection via Style Consistency",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1038-paper.pdf",
+        "paper_authors": [
+            "Adrian Lopez Rodriguez",
+            "Krystian Mikolajczyk"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "HydraPicker: Fully Automated Particle Picking in Cryo-EM by Utilizing Dataset Bias in Single Shot Detection",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1044-paper.pdf",
+        "paper_authors": [
+            "Abbas Masoumzadeh",
+            "Marcus A. Brubaker"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rethinking Convolutional Feature Extraction for Small Object Detection",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1057-paper.pdf",
+        "paper_authors": [
+            "Burhan Ahmad Mudassar",
+            "Saibal Mukhopadhyay"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Top-Down Unified Framework for Instance-level Human Parsing",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0041-paper.pdf",
+        "paper_authors": [
+            "Haifang Qin",
+            "Weixiang Hong",
+            "Wei-Chih Hung",
+            "Yi-Hsuan Tsai",
+            "Ming-Hsuan Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rethinking Classification and Localization for Cascade R-CNN",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0085-paper.pdf",
+        "paper_authors": [
+            "Ang Li",
+            "Xue Yang",
+            "Chongyang Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatially and Temporally Efficient Non-local Attention Network for Video-based Person Re-Identification",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0398-paper.pdf",
+        "paper_authors": [
+            "Chih-Ting Liu",
+            "Chih-Wei Wu",
+            "Yu-Chiang Frank Wang",
+            "Shao-Yi Chien"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Global Aggregation then Local Distribution in Fully Convolutional Networks",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0432-paper.pdf",
+        "paper_authors": [
+            "Xiangtai Li",
+            "Li Zhang",
+            "Ansheng You",
+            "Maoke Yang",
+            "Kuiyuan Yang",
+            "Yunhai Tong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ClueNet : A Deep Framework for Occluded Pedestrian Pose Estimation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0466-paper.pdf",
+        "paper_authors": [
+            "Perla Sai Raj Kishore",
+            "Sudip Das",
+            "Partha Sarathi Mukherjee",
+            "Ujjwal Bhattacharya"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Object Detection from Scratch via Gated Feature Reuse",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0663-paper.pdf",
+        "paper_authors": [
+            "Zhiqiang Shen",
+            "Honghui Shi",
+            "Jiahui Yu",
+            "Hai Phan",
+            "Rog\u00e9rio Feris",
+            "Liangliang Cao",
+            "Ding Liu",
+            "Xinchao Wang",
+            "Thomas S. Huang",
+            "Marios Savvides"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Meta Learning for Unsupervised Clustering",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1016-paper.pdf",
+        "paper_authors": [
+            "Han-Ul Kim",
+            "Yeong Jun Koh",
+            "Chang-Su Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Enhanced 3D convolutional networks for crowd counting",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1082-paper.pdf",
+        "paper_authors": [
+            "Zhikang Zou",
+            "Huiliang Shao",
+            "Xiaoye Qu",
+            "Wei Wei",
+            "Pan Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Image Classification with Hierarchical Multigraph Networks",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1186-paper.pdf",
+        "paper_authors": [
+            "Boris Knyazev",
+            "Xiao Lin",
+            "Mohamed R. Amer",
+            "Graham W. Taylor"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dual Graph Convolutional Network for Semantic Segmentation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0089-paper.pdf",
+        "paper_authors": [
+            "Li Zhang",
+            "Xiangtai Li",
+            "Anurag Arnab",
+            "Kuiyuan Yang",
+            "Yunhai Tong",
+            "Philip H. S. Torr"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Where are the Masks: Instance Segmentation with Image-level Supervision",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0112-paper.pdf",
+        "paper_authors": [
+            "Issam H. Laradji",
+            "David V\u00e1zquez",
+            "Mark Schmidt"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Geometry-Aware End-to-End Skeleton Detection",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0175-paper.pdf",
+        "paper_authors": [
+            "Weijian Xu",
+            "Gaurav Parmar",
+            "Zhuowen Tu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "WorkingHands: A Hand-Tool Assembly Dataset for Image Segmentation and Activity Mining",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0874-paper.pdf",
+        "paper_authors": [
+            "Roy Shilkrot",
+            "Supreeth Narasimhaswamy",
+            "Saif Vazir",
+            "Minh Hoai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0955-paper.pdf",
+        "paper_authors": [
+            "Gen Li",
+            "Joongkyu Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Feature Pyramid Encoding Network for Real-time Semantic Segmentation",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1031-paper.pdf",
+        "paper_authors": [
+            "Mengyu Liu",
+            "Hujun Yin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Visuomotor Understanding for Representation Learning of Driving Scenes",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0002-paper.pdf",
+        "paper_authors": [
+            "Seokju Lee",
+            "Junsik Kim",
+            "Tae-Hyun Oh",
+            "Yongseop Jeong",
+            "Donggeun Yoo",
+            "Stephen Lin",
+            "In So Kweon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Referring Expression Object Segmentation with Caption-Aware Consistency",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0196-paper.pdf",
+        "paper_authors": [
+            "Yi-Wen Chen",
+            "Yi-Hsuan Tsai",
+            "Tiantian Wang",
+            "Yen-Yu Lin",
+            "Ming-Hsuan Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dispersion based Clustering for Unsupervised Person Re-identification",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0459-paper.pdf",
+        "paper_authors": [
+            "Guodong Ding",
+            "Salman H. Khan",
+            "Zhenmin Tang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Oval Shape Constraint based Optic Disc and Cup Segmentation in Fundus Photographs",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0677-paper.pdf",
+        "paper_authors": [
+            "Jun Wu",
+            "Kaiwei Wang",
+            "Zongjiang Shang",
+            "Jie Xu",
+            "Dayong Ding",
+            "Xirong Li",
+            "Gang Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An end-to-end deep learning approach for simultaneous background modeling and subtraction",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0984-paper.pdf",
+        "paper_authors": [
+            "V\u00edctor Manuel Mond\u00e9jar-Guerra",
+            "Jos\u00e9 Rouco",
+            "Jorge Novo",
+            "Marcos Ortega"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Spatio-Temporal Features with Two-Stream Deep 3D CNNs for Lipreading",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0016-paper.pdf",
+        "paper_authors": [
+            "Xinshuo Weng",
+            "Kris Kitani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Motion-Aware Feature for Improved Video Anomaly Detection",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0129-paper.pdf",
+        "paper_authors": [
+            "Yi Zhu",
+            "Shawn D. Newsam"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Attention-based Facial Behavior Analytics inSocial Communication",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0491-paper.pdf",
+        "paper_authors": [
+            "Lezi Wang",
+            "Chongyang Bai",
+            "Maksim Bolonkin",
+            "Judee K. Burgoon",
+            "Norah E. Dunbar",
+            "V. S. Subrahmanian",
+            "Dimitris N. Metaxas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Searching for Ambiguous Objects in Videos using Relational Referring Expressions",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0697-paper.pdf",
+        "paper_authors": [
+            "Hazan Anayurt",
+            "Sezai Artun Ozyegin",
+            "Ulfet Cetin",
+            "Utku Aktas",
+            "Sinan Kalkan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "VStegNET: Video Steganography Network using Spatio-Temporal features and Micro-Bottleneck",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0966-paper.pdf",
+        "paper_authors": [
+            "Aayush Mishra",
+            "Suraj Kumar",
+            "Aditya Nigam",
+            "Saiful Islam"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Order Matters: Shuffling Sequence Generation for Video Prediction",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1023-paper.pdf",
+        "paper_authors": [
+            "Junyan Wang",
+            "Bingzhang Hu",
+            "Yang Long",
+            "Yu Guan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Grained Spatio-temporal Modeling for Lip-reading",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1211-paper.pdf",
+        "paper_authors": [
+            "Chenhao Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Remote Photoplethysmograph Signal Measurement from Facial Videos Using Spatio-Temporal Networks",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0186-paper.pdf",
+        "paper_authors": [
+            "Zitong Yu",
+            "Xiaobai Li",
+            "Guoying Zhao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatio-Temporal Associative Representation for Video Person Re-Identification",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0332-paper.pdf",
+        "paper_authors": [
+            "Guile Wu",
+            "Xiatian Zhu",
+            "Shaogang Gong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Use What You Have: Video retrieval using representations from collaborative experts",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0363-paper.pdf",
+        "paper_authors": [
+            "Yang Liu",
+            "Samuel Albanie",
+            "Arsha Nagrani",
+            "Andrew Zisserman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1125-paper.pdf",
+        "paper_authors": [
+            "Catalina Cangea",
+            "Eugene Belilovsky",
+            "Aaron C. Courville"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MLGCN: Multi-Laplacian Graph Convolutional Networks for Human Action Recognition",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1103-paper.pdf",
+        "paper_authors": [
+            "Ahmed Mazari",
+            "Hichem Sahbi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sensor-Independent Illumination Estimation for DNN Models",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0105-paper.pdf",
+        "paper_authors": [
+            "Mahmoud Afifi",
+            "Michael S. Brown"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Synthesis of Adversarial Visual Examples Using a Deep Image Prior",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0165-paper.pdf",
+        "paper_authors": [
+            "Thomas Gittings",
+            "Steve A. Schneider",
+            "John P. Collomosse"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Weakly Supervised Semantic Segmentation in 3D Graph-Structured Point Clouds of Wild Scenes",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0221-paper.pdf",
+        "paper_authors": [
+            "Haiyan Wang",
+            "Xuejian Rong",
+            "Liang Yang",
+            "Shuihua Wang",
+            "Yingli Tian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Orthographic Feature Transform for Monocular 3D Object Detection",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0328-paper.pdf",
+        "paper_authors": [
+            "Thomas Roddick",
+            "Alex Kendall",
+            "Roberto Cipolla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Texel-Att: Representing and Classifying Element-Based Textures by Attributes",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0359-paper.pdf",
+        "paper_authors": [
+            "Marco Godi",
+            "Christian Joppi",
+            "Andrea Giachetti",
+            "Fabio Pellacini",
+            "Marco Cristani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Content and Colour Distillation for Learning Image Translations with the Spatial Profile Loss",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0721-paper.pdf",
+        "paper_authors": [
+            "M. Saquib Sarfraz",
+            "Constantin Seibold",
+            "Haroon Khalid",
+            "Rainer Stiefelhagen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Empirical Study on Leveraging Scene Graphs for Visual Question Answering",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0739-paper.pdf",
+        "paper_authors": [
+            "Cheng Zhang",
+            "Wei-Lun Chao",
+            "Dong Xuan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast-SCNN: Fast Semantic Segmentation Network",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0959-paper.pdf",
+        "paper_authors": [
+            "Rudra P. K. Poudel",
+            "Stephan Liwicki",
+            "Roberto Cipolla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Relation-aware Multiple Attention Siamese Networks for Robust Visual Tracking",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0416-paper.pdf",
+        "paper_authors": [
+            "Fangyi Zhang",
+            "Bingpeng Ma",
+            "Hong Chang",
+            "Shiguang Shan",
+            "Xilin Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatial Transformer Spectral Kernels for Deformable Image Registration",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0589-paper.pdf",
+        "paper_authors": [
+            "Ebrahim Al Safadi",
+            "Xubo Song"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tracking the Known and the Unknown by Leveraging Semantic Information",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1003-paper.pdf",
+        "paper_authors": [
+            "Ardhendu Shekhar Tripathi",
+            "Martin Danelljan",
+            "Luc Van Gool",
+            "Radu Timofte"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tracking Holistic Object Representations",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/1065-paper.pdf",
+        "paper_authors": [
+            "Axel Sauer",
+            "Elie Aljalbout",
+            "Sami Haddadin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Geometry-Aware Video Object Detection for Static Cameras",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0218-paper.pdf",
+        "paper_authors": [
+            "Dan Xu",
+            "Weidi Xie",
+            "Andrew Zisserman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatio-temporal Relational Reasoning for Video Question Answering",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0269-paper.pdf",
+        "paper_authors": [
+            "Gursimran Singh",
+            "Leonid Sigal",
+            "James J. Little"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mutual Suppression Network for Video Prediction using Disentangled Features",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0336-paper.pdf",
+        "paper_authors": [
+            "Jungbeom Lee",
+            "Jangho Lee",
+            "Sungmin Lee",
+            "Sungroh Yoon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Expression, Affect, Action Unit Recognition: Aff-Wild2, Multi-Task Learning and ArcFace",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0399-paper.pdf",
+        "paper_authors": [
+            "Dimitrios Kollias",
+            "Stefanos Zafeiriou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Forecasting Future Action Sequences with Neural Memory Networks",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0585-paper.pdf",
+        "paper_authors": [
+            "Harshala Gammulle",
+            "Simon Denman",
+            "Sridha Sridharan",
+            "Clinton Fookes"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Self-supervised Video Representation Learning for Correspondence Flow",
+        "paper_url": "https://bmvc2019.org/wp-content/uploads/papers/0599-paper.pdf",
+        "paper_authors": [
+            "Zihang Lai",
+            "Weidi Xie"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

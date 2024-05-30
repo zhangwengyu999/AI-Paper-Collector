@@ -1,0 +1,1000 @@
+[
+    {
+        "paper_name": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2022 - 25th International Conference, Singapore, September 18-22, 2022, Proceedings, Part VIII",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1",
+        "paper_authors": [
+            "Linwei Wang",
+            "Qi Dou",
+            "P. Thomas Fletcher",
+            "Stefanie Speidel",
+            "Shuo Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CS2: A Controllable and Simultaneous Synthesizer of Images and Annotations with Minimal Human Intervention",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_1",
+        "paper_authors": [
+            "Xiaodan Xing",
+            "Jiahao Huang",
+            "Yang Nan",
+            "Chengjia Wang",
+            "Zhifan Gao",
+            "Simon Walsh",
+            "Guang Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Stabilize, Decompose, and Denoise: Self-supervised Fluoroscopy Denoising",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_2",
+        "paper_authors": [
+            "Ruizhou Liu",
+            "Qiang Ma",
+            "Zhiwei Cheng",
+            "Yuanyuan Lyu",
+            "Jianji Wang",
+            "S. Kevin Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Discrepancy-Based Active Learning for Weakly Supervised Bleeding Segmentation in Wireless Capsule Endoscopy Images",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_3",
+        "paper_authors": [
+            "Fan Bai",
+            "Xiaohan Xing",
+            "Yantao Shen",
+            "Han Ma",
+            "Max Q.-H. Meng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Diffusion Models for Medical Anomaly Detection",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_4",
+        "paper_authors": [
+            "Julia Wolleb",
+            "Florentin Bieder",
+            "Robin Sandk\u00fchler",
+            "Philippe C. Cattin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Few-Shot Generation of Personalized Neural Surrogates for Cardiac Simulation via Bayesian Meta-learning",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_5",
+        "paper_authors": [
+            "Xiajun Jiang",
+            "Zhiyuan Li",
+            "Ryan Missel",
+            "Md Shakil Zaman",
+            "Brian Zenger",
+            "Wilson W. Good",
+            "Rob S. MacLeod",
+            "John L. Sapp",
+            "Linwei Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Aggregative Self-supervised Feature Learning from Limited Medical Images",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_6",
+        "paper_authors": [
+            "Jiuwen Zhu",
+            "Yuexiang Li",
+            "Lian Ding",
+            "S. Kevin Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_7",
+        "paper_authors": [
+            "Nanqing Dong",
+            "Michael Kampffmeyer",
+            "Irina Voiculescu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarially Robust Prototypical Few-Shot Segmentation with Neural-ODEs",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_8",
+        "paper_authors": [
+            "Prashant Pandey",
+            "Aleti Vardhan",
+            "Mustafa Chasmai",
+            "Tanuj Sur",
+            "Brejesh Lall"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Uni4Eye: Unified 2D and 3D Self-supervised Pre-training via Masked Image Modeling Transformer for Ophthalmic Image Classification",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_9",
+        "paper_authors": [
+            "Zhiyuan Cai",
+            "Li Lin",
+            "Huaqing He",
+            "Xiaoying Tang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Self-supervised Learning of Morphological Representation for 3D EM Segments with Cluster-Instance Correlations",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_10",
+        "paper_authors": [
+            "Chi Zhang",
+            "Qihua Chen",
+            "Xuejin Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Calibrating Label Distribution for Class-Imbalanced Barely-Supervised Knee Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_11",
+        "paper_authors": [
+            "Yiqun Lin",
+            "Huifeng Yao",
+            "Zezhong Li",
+            "Guoyan Zheng",
+            "Xiaomeng Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semi-supervised Medical Image Classification with Temporal Knowledge-Aware Regularization",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_12",
+        "paper_authors": [
+            "Qiushi Yang",
+            "Xinyu Liu",
+            "Zhen Chen",
+            "Bulat Ibragimov",
+            "Yixuan Yuan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GaitForeMer: Self-supervised Pre-training of Transformers via Human Motion Forecasting for Few-Shot Gait Impairment Severity Estimation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_13",
+        "paper_authors": [
+            "Mark Endo",
+            "Kathleen L. Poston",
+            "Edith V. Sullivan",
+            "Li Fei-Fei",
+            "Kilian M. Pohl",
+            "Ehsan Adeli-Mosabbeb"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semi-supervised Medical Image Segmentation Using Cross-Model Pseudo-Supervision with Shape Awareness and Local Context Constraints",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_14",
+        "paper_authors": [
+            "Jinhua Liu",
+            "Christian Desrosiers",
+            "Yuanfeng Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MUSCLE: Multi-task Self-supervised Continual Learning to Pre-train Deep Models for X-Ray Images of Multiple Body Parts",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_15",
+        "paper_authors": [
+            "Weibin Liao",
+            "Haoyi Xiong",
+            "Qingzhong Wang",
+            "Yan Mo",
+            "Xuhong Li",
+            "Yi Liu",
+            "Zeyu Chen",
+            "Siyu Huang",
+            "Dejing Dou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ShapePU: A New PU Learning Framework Regularized by Global Consistency for Scribble Supervised Cardiac Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_16",
+        "paper_authors": [
+            "Ke Zhang",
+            "Xiahai Zhuang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ProCo: Prototype-Aware Contrastive Learning for Long-Tailed Medical Image Classification",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_17",
+        "paper_authors": [
+            "Zhixiong Yang",
+            "Junwen Pan",
+            "Yanzhan Yang",
+            "Xiaozhou Shi",
+            "Hong-Yu Zhou",
+            "Zhicheng Zhang",
+            "Cheng Bian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Combining Mixed-Format Labels for AI-Based Pathology Detection Pipeline in a Large-Scale Knee MRI Study",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_18",
+        "paper_authors": [
+            "Micha Kornreich",
+            "JinHyeong Park",
+            "Joschka Braun",
+            "Jayashri Pawar",
+            "James Browning",
+            "Richard Herzog",
+            "Benjamin Odry",
+            "Li Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Task-Oriented Self-supervised Learning for Anomaly Detection in Electroencephalography",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_19",
+        "paper_authors": [
+            "Yaojia Zheng",
+            "Zhouwu Liu",
+            "Rong Mo",
+            "Ziyi Chen",
+            "Wei-Shi Zheng",
+            "Ruixuan Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multiple Instance Learning with Mixed Supervision in Gleason Grading",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_20",
+        "paper_authors": [
+            "Hao Bian",
+            "Zhuchen Shao",
+            "Yang Chen",
+            "Yifeng Wang",
+            "Haoqian Wang",
+            "Jian Zhang",
+            "Yongbing Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Accurate Unsupervised Liver Lesion Detection Method Using Pseudo-lesions",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_21",
+        "paper_authors": [
+            "He Li",
+            "Yutaro Iwamoto",
+            "Xianhua Han",
+            "Lanfen Lin",
+            "Hongjie Hu",
+            "Yen-Wei Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Addressing Class Imbalance in Semi-supervised Image Segmentation: A Study on Cardiac MRI",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_22",
+        "paper_authors": [
+            "Hritam Basak",
+            "Sagnik Ghosal",
+            "Ram Sarkar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scribble2D5: Weakly-Supervised Volumetric Image Segmentation via Scribble Annotations",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_23",
+        "paper_authors": [
+            "Qiuhui Chen",
+            "Yi Hong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Self-learning and One-Shot Learning Based Single-Slice Annotation for 3D Medical Image Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_24",
+        "paper_authors": [
+            "Yixuan Wu",
+            "Bo Zheng",
+            "Jintai Chen",
+            "Danny Z. Chen",
+            "Jian Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Longitudinal Infant Functional Connectivity Prediction via Conditional Intensive Triplet Network",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_25",
+        "paper_authors": [
+            "Xiaowei Yu",
+            "Dan Hu",
+            "Lu Zhang",
+            "Ying Huang",
+            "Zhengwang Wu",
+            "Tianming Liu",
+            "Li Wang",
+            "Weili Lin",
+            "Dajiang Zhu",
+            "Gang Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Leveraging Labeling Representations in Uncertainty-Based Semi-supervised Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_26",
+        "paper_authors": [
+            "Sukesh Adiga V",
+            "Jose Dolz",
+            "Herve Lombaert"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Analyzing Brain Structural Connectivity as Continuous Random Functions",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_27",
+        "paper_authors": [
+            "William Consagra",
+            "Martin Cole",
+            "Zhengwu Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning with Context Encoding for Single-Stage Cranial Bone Labeling and Landmark Localization",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_28",
+        "paper_authors": [
+            "Jiawei Liu",
+            "Fuyong Xing",
+            "Abbas Shaikh",
+            "Marius George Linguraru",
+            "Antonio R. Porras"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Warm Start Active Learning with Proxy Labels and Selection via Semi-supervised Fine-Tuning",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_29",
+        "paper_authors": [
+            "Vishwesh Nath",
+            "Dong Yang",
+            "Holger R. Roth",
+            "Daguang Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Intervention & Interaction Federated Abnormality Detection with Noisy Clients",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_30",
+        "paper_authors": [
+            "Xinyu Liu",
+            "Wuyang Li",
+            "Yixuan Yuan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SD-LayerNet: Semi-supervised Retinal Layer Segmentation in OCT Using Disentangled Representation with Anatomical Priors",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_31",
+        "paper_authors": [
+            "Botond Fazekas",
+            "Guilherme Aresta",
+            "Dmitry A. Lachinov",
+            "Sophie Riedl",
+            "Julia Mai",
+            "Ursula Schmidt-Erfurth",
+            "Hrvoje Bogunovic"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Physiology-Based Simulation of the Retinal Vasculature Enables Annotation-Free Segmentation of OCT Angiographs",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_32",
+        "paper_authors": [
+            "Martin J. Menten",
+            "Johannes C. Paetzold",
+            "Alina Dima",
+            "Bjoern H. Menze",
+            "Benjamin Knier",
+            "Daniel Rueckert"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Anomaly-Aware Multiple Instance Learning for Rare Anemia Disorder Classification",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_33",
+        "paper_authors": [
+            "Salome Kazeminia",
+            "Ario Sadafi",
+            "Asya Makhro",
+            "Anna Bogdanova",
+            "Shadi Albarqouni",
+            "Carsten Marr"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsupervised Domain Adaptation with Contrastive Learning for OCT Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_34",
+        "paper_authors": [
+            "Alvaro Gomariz",
+            "Huanxiang Lu",
+            "Yun Yvonna Li",
+            "Thomas Albrecht",
+            "Andreas Maunz",
+            "Fethallah Benmansour",
+            "Alessandra M. Valcarcel",
+            "Jennifer Luu",
+            "Daniela Ferrara",
+            "Orcun Goksel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Neuro-RDM: An Explainable Neural Network Landscape of Reaction-Diffusion Model for Cognitive Task Recognition",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_35",
+        "paper_authors": [
+            "Tingting Dan",
+            "Hongmin Cai",
+            "Zhuobin Huang",
+            "Paul J. Laurienti",
+            "Won Hwa Kim",
+            "Guorong Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Interpretable Graph Neural Networks for Connectome-Based Brain Disorder Analysis",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_36",
+        "paper_authors": [
+            "Hejie Cui",
+            "Wei Dai",
+            "Yanqiao Zhu",
+            "Xiaoxiao Li",
+            "Lifang He",
+            "Carl Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Consistency-Preserving Visual Question Answering in Medical Imaging",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_37",
+        "paper_authors": [
+            "Sergio Tascon-Morales",
+            "Pablo M\u00e1rquez-Neila",
+            "Raphael Sznitman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Graph Emotion Decoding from Visually Evoked Neural Responses",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_38",
+        "paper_authors": [
+            "Zhongyu Huang",
+            "Changde Du",
+            "Yingheng Wang",
+            "Huiguang He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dual-Graph Learning Convolutional Networks for Interpretable Alzheimer's Disease Diagnosis",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_39",
+        "paper_authors": [
+            "Tingsong Xiao",
+            "Lu Zeng",
+            "Xiaoshuang Shi",
+            "Xiaofeng Zhu",
+            "Guorong Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Asymmetry Disentanglement Network for Interpretable Acute Ischemic Stroke Infarct Segmentation in Non-contrast CT Scans",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_40",
+        "paper_authors": [
+            "Haomiao Ni",
+            "Yuan Xue",
+            "Kelvin K. Wong",
+            "John Volpi",
+            "Stephen T. C. Wong",
+            "James Z. Wang",
+            "Xiaolei Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Regression Metric Loss: Learning a Semantic Representation Space for Medical Images",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_41",
+        "paper_authors": [
+            "Hanqing Chao",
+            "Jiajin Zhang",
+            "Pingkun Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The (de)biasing Effect of GAN-Based Augmentation Methods on Skin Lesion Images",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_42",
+        "paper_authors": [
+            "Agnieszka Mikolajczyk",
+            "Sylwia Majchrowska",
+            "Sandra Carrasco Limeros"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Accurate and Explainable Image-Based Prediction Using a Lightweight Generative Model",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_43",
+        "paper_authors": [
+            "Chiara Mauri",
+            "Stefano Cerri",
+            "Oula Puonti",
+            "Mark M\u00fchlau",
+            "Koen Van Leemput"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Interpretable Modeling and Reduction of Unknown Errors in Mechanistic Operators",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_44",
+        "paper_authors": [
+            "Maryam Toloubidokhti",
+            "Nilesh Kumar",
+            "Zhiyuan Li",
+            "Prashnna K. Gyawali",
+            "Brian Zenger",
+            "Wilson W. Good",
+            "Rob S. MacLeod",
+            "Linwei Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sparse Interpretation of Graph Convolutional Networks for Multi-modal Diagnosis of Alzheimer's Disease",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_45",
+        "paper_authors": [
+            "Houliang Zhou",
+            "Yu Zhang",
+            "Brian Y. Chen",
+            "Li Shen",
+            "Lifang He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FUSSNet: Fusing Two Sources of Uncertainty for Semi-supervised Medical Image Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_46",
+        "paper_authors": [
+            "Jinyi Xiang",
+            "Peng Qiu",
+            "Yang Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CRISP - Reliable Uncertainty Estimation for Medical Image Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_47",
+        "paper_authors": [
+            "Thierry Judge",
+            "Olivier Bernard",
+            "Mihaela Porumb",
+            "Agisilaos Chartsias",
+            "Arian Beqiri",
+            "Pierre-Marc Jodoin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TBraTS: Trusted Brain Tumor Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_48",
+        "paper_authors": [
+            "Ke Zou",
+            "Xuedong Yuan",
+            "Xiaojing Shen",
+            "Meng Wang",
+            "Huazhu Fu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Layer Ensembles: A Single-Pass Uncertainty Estimation in Deep Learning for Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_49",
+        "paper_authors": [
+            "Kaisar Kushibar",
+            "V\u00edctor M. Campello",
+            "Lidia Garrucho",
+            "Akis Linardos",
+            "Petia Radeva",
+            "Karim Lekadir"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DEUE: Delta Ensemble Uncertainty Estimation for a More Robust Estimation of Ejection Fraction",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_50",
+        "paper_authors": [
+            "Mohammad Mahdi Kazemi Esfeh",
+            "Zahra Gholami",
+            "Christina Luong",
+            "Teresa Tsang",
+            "Purang Abolmaesumi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Bayesian Uncertainty Estimation for nnU-Net",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_51",
+        "paper_authors": [
+            "Yidong Zhao",
+            "Changchun Yang",
+            "Artur M. Schweidtmann",
+            "Qian Tao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Trustworthiness of AI Disease Severity Rating in Medical Imaging with Ordinal Conformal Prediction Sets",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_52",
+        "paper_authors": [
+            "Charles Lu",
+            "Anastasios N. Angelopoulos",
+            "Stuart R. Pomerantz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Poisson2Sparse: Self-supervised Poisson Denoising from a Single Image",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_53",
+        "paper_authors": [
+            "Calvin-Khang Ta",
+            "Abhishek Aich",
+            "Akash Gupta",
+            "Amit K. Roy-Chowdhury"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "An Inclusive Task-Aware Framework for Radiology Report Generation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_54",
+        "paper_authors": [
+            "Lin Wang",
+            "Munan Ning",
+            "Donghuan Lu",
+            "Dong Wei",
+            "Yefeng Zheng",
+            "Jie Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Removal of Confounders via Invariant Risk Minimization for Medical Diagnosis",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_55",
+        "paper_authors": [
+            "Samira Zare",
+            "Hien Van Nguyen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Self-guided Framework for Radiology Report Generation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_56",
+        "paper_authors": [
+            "Jun Li",
+            "Shibo Li",
+            "Ying Hu",
+            "Huiren Tao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "D'ARTAGNAN: Counterfactual Video Generation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_57",
+        "paper_authors": [
+            "Hadrien Reynaud",
+            "Athanasios Vlontzos",
+            "Mischa Dombrowski",
+            "Ciar\u00e1n M. Gilligan-Lee",
+            "Arian Beqiri",
+            "Paul Leeson",
+            "Bernhard Kainz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TranSQ: Transformer-Based Semantic Query for Medical Report Generation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_58",
+        "paper_authors": [
+            "Ming Kong",
+            "Zhengxing Huang",
+            "Kun Kuang",
+            "Qiang Zhu",
+            "Fei Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pseudo Bias-Balanced Learning for Debiased Chest X-Ray Classification",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_59",
+        "paper_authors": [
+            "Luyang Luo",
+            "Dunyuan Xu",
+            "Hao Chen",
+            "Tien-Tsin Wong",
+            "Pheng-Ann Heng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Why Patient Data Cannot Be Easily Forgotten?",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_60",
+        "paper_authors": [
+            "Ruolin Su",
+            "Xiao Liu",
+            "Sotirios A. Tsaftaris"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Calibration of Medical Imaging Classification Systems with Weight Scaling",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_61",
+        "paper_authors": [
+            "Lior Frenkel",
+            "Jacob Goldberger"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Online Reflective Learning for Robust Medical Image Segmentation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_62",
+        "paper_authors": [
+            "Yuhao Huang",
+            "Xin Yang",
+            "Xiaoqiong Huang",
+            "Jiamin Liang",
+            "Xinrui Zhou",
+            "Cheng Chen",
+            "Haoran Dou",
+            "Xindi Hu",
+            "Yan Cao",
+            "Dong Ni"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fine-Grained Correlation Loss for Regression",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_63",
+        "paper_authors": [
+            "Chaoyu Chen",
+            "Xin Yang",
+            "Ruobing Huang",
+            "Xindi Hu",
+            "Yankai Huang",
+            "Xiduo Lu",
+            "Xinrui Zhou",
+            "Mingyuan Luo",
+            "Yinyu Ye",
+            "Xue Shuang",
+            "Juzheng Miao",
+            "Yi Xiong",
+            "Dong Ni"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Suppressing Poisoning Attacks on Federated Learning for Medical Imaging",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_64",
+        "paper_authors": [
+            "Naif Alkhunaizi",
+            "Dmitry Kamzolov",
+            "Martin Tak\u00e1c",
+            "Karthik Nandakumar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Intrinsic Manifolds of Radiological Images and Their Role in Deep Learning",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_65",
+        "paper_authors": [
+            "Nicholas Konz",
+            "Hanxue Gu",
+            "Haoyu Dong",
+            "Maciej A. Mazurowski"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FedHarmony: Unlearning Scanner Bias with Distributed Data",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_66",
+        "paper_authors": [
+            "Nicola K. Dinsdale",
+            "Mark Jenkinson",
+            "Ana I. L. Namburete"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_67",
+        "paper_authors": [
+            "Walter H. L. Pinaya",
+            "Mark S. Graham",
+            "Robert J. Gray",
+            "Pedro F. Da Costa",
+            "Petru-Daniel Tudosiu",
+            "Paul Wright",
+            "Yee H. Mah",
+            "Andrew D. MacKinnon",
+            "James T. Teo",
+            "Hans Rolf J\u00e4ger",
+            "David Werring",
+            "Geraint Rees",
+            "Parashkev Nachev",
+            "S\u00e9bastien Ourselin",
+            "M. Jorge Cardoso"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reliability of Quantification Estimates in MR Spectroscopy: CNNs vs Traditional Model Fitting",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_68",
+        "paper_authors": [
+            "Rudy Rizzo",
+            "Martyna Dziadosz",
+            "Sreenath P. Kyathanahally",
+            "Mauricio Reyes",
+            "Roland Kreis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching",
+        "paper_url": "https://doi.org/10.1007/978-3-031-16452-1_69",
+        "paper_authors": [
+            "Khanh Nguyen",
+            "Huy Hoang Nguyen",
+            "Aleksei Tiulpin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

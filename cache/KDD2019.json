@@ -1,0 +1,5123 @@
+[
+    {
+        "paper_name": "Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, KDD 2019, Anchorage, AK, USA, August 4-8, 2019",
+        "paper_url": "https://doi.org/10.1145/3292500",
+        "paper_authors": [
+            "Ankur Teredesai",
+            "Vipin Kumar",
+            "Ying Li",
+            "R\u00f3mer Rosales",
+            "Evimaria Terzi",
+            "George Karypis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Do Simpler Models Exist and How Can We Find Them?",
+        "paper_url": "https://doi.org/10.1145/3292500.3330823",
+        "paper_authors": [
+            "Cynthia Rudin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Unreasonable Effectiveness, and Difficulty, of Data in Healthcare",
+        "paper_url": "https://doi.org/10.1145/3292500.3330645",
+        "paper_authors": [
+            "Peter Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Free Energy Based Approach for Distance Metric Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330975",
+        "paper_authors": [
+            "Sho Inaba",
+            "Carl Tony Fakhry",
+            "Rahul V. Kulkarni",
+            "Kourosh Zarringhalam"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Hierarchical Career-Path-Aware Neural Network for Job Mobility Prediction",
+        "paper_url": "https://doi.org/10.1145/3292500.3330969",
+        "paper_authors": [
+            "Qingxin Meng",
+            "Hengshu Zhu",
+            "Keli Xiao",
+            "Le Zhang",
+            "Hui Xiong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Memory-Efficient Sketch Method for Estimating High Similarities in Streaming Sets",
+        "paper_url": "https://doi.org/10.1145/3292500.3330825",
+        "paper_authors": [
+            "Pinghui Wang",
+            "Yiyan Qi",
+            "Yuanming Zhang",
+            "Qiaozhu Zhai",
+            "Chenxu Wang",
+            "John C. S. Lui",
+            "Xiaohong Guan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Minimax Game for Instance based Selective Transfer Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330841",
+        "paper_authors": [
+            "Bo Wang",
+            "Minghui Qiu",
+            "Xisen Wang",
+            "Yaliang Li",
+            "Yu Gong",
+            "Xiaoyi Zeng",
+            "Jun Huang",
+            "Bo Zheng",
+            "Deng Cai",
+            "Jingren Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Multiscale Scan Statistic for Adaptive Submatrix Localization",
+        "paper_url": "https://doi.org/10.1145/3292500.3330916",
+        "paper_authors": [
+            "Yuchao Liu",
+            "Ery Arias-Castro"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Permutation Approach to Assess Confounding in Machine Learning Applications for Digital Health",
+        "paper_url": "https://doi.org/10.1145/3292500.3330903",
+        "paper_authors": [
+            "Elias Chaibub Neto",
+            "Abhishek Pratap",
+            "Thanneer M. Perumal",
+            "Meghasyam Tummalacherla",
+            "Brian M. Bot",
+            "Lara M. Mangravite",
+            "Larsson Omberg"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Representation Learning Framework for Property Graphs",
+        "paper_url": "https://doi.org/10.1145/3292500.3330948",
+        "paper_authors": [
+            "Yifan Hou",
+            "Hongzhi Chen",
+            "Changji Li",
+            "James Cheng",
+            "Ming-Chang Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive Deep Models for Incremental Learning: Considering Capacity Scalability and Sustainability",
+        "paper_url": "https://doi.org/10.1145/3292500.3330865",
+        "paper_authors": [
+            "Yang Yang",
+            "Da-Wei Zhou",
+            "De-Chuan Zhan",
+            "Hui Xiong",
+            "Yuan Jiang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive Graph Guided Disambiguation for Partial Label Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330840",
+        "paper_authors": [
+            "Deng-Bao Wang",
+            "Li Li",
+            "Min-Ling Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive Unsupervised Feature Selection on Attributed Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330856",
+        "paper_authors": [
+            "Jundong Li",
+            "Ruocheng Guo",
+            "Chenghao Liu",
+            "Huan Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive-Halting Policy Network for Early Classification",
+        "paper_url": "https://doi.org/10.1145/3292500.3330974",
+        "paper_authors": [
+            "Thomas Hartvigsen",
+            "Cansu Sen",
+            "Xiangnan Kong",
+            "Elke A. Rundensteiner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ADMM for Efficient Deep Learning with Global Convergence",
+        "paper_url": "https://doi.org/10.1145/3292500.3330936",
+        "paper_authors": [
+            "Junxiang Wang",
+            "Fuxun Yu",
+            "Xiang Chen",
+            "Liang Zhao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Learning on Heterogeneous Information Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330970",
+        "paper_authors": [
+            "Binbin Hu",
+            "Yuan Fang",
+            "Chuan Shi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Substructured Representation Learning for Mobile User Profiling",
+        "paper_url": "https://doi.org/10.1145/3292500.3330869",
+        "paper_authors": [
+            "Pengyang Wang",
+            "Yanjie Fu",
+            "Hui Xiong",
+            "Xiaolin Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Variational Embedding for Robust Semi-supervised Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330966",
+        "paper_authors": [
+            "Xiang Zhang",
+            "Lina Yao",
+            "Feng Yuan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarially Robust Submodular Maximization under Knapsack Constraints",
+        "paper_url": "https://doi.org/10.1145/3292500.3330911",
+        "paper_authors": [
+            "Dmitrii Avdiukhin",
+            "Slobodan Mitrovic",
+            "Grigory Yaroslavtsev",
+            "Samson Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Visual Dialog Augmented Interactive Recommender System",
+        "paper_url": "https://doi.org/10.1145/3292500.3330991",
+        "paper_authors": [
+            "Tong Yu",
+            "Yilin Shen",
+            "Hongxia Jin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Assessing The Factual Accuracy of Generated Text",
+        "paper_url": "https://doi.org/10.1145/3292500.3330955",
+        "paper_authors": [
+            "Ben Goodrich",
+            "Vinay Rao",
+            "Peter J. Liu",
+            "Mohammad Saleh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AtSNE: Efficient and Robust Visualization on GPU through Hierarchical Optimization",
+        "paper_url": "https://doi.org/10.1145/3292500.3330834",
+        "paper_authors": [
+            "Cong Fu",
+            "Yonghui Zhang",
+            "Deng Cai",
+            "Xiang Ren"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Attribute-Driven Backbone Discovery",
+        "paper_url": "https://doi.org/10.1145/3292500.3330934",
+        "paper_authors": [
+            "Sheng Guan",
+            "Hanchao Ma",
+            "Yinghui Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Auditing Data Provenance in Text-Generation Models",
+        "paper_url": "https://doi.org/10.1145/3292500.3330885",
+        "paper_authors": [
+            "Congzheng Song",
+            "Vitaly Shmatikov"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automating Feature Subspace Exploration via Multi-Agent Reinforcement Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330868",
+        "paper_authors": [
+            "Kunpeng Liu",
+            "Yanjie Fu",
+            "Pengfei Wang",
+            "Le Wu",
+            "Rui Bo",
+            "Xiaolin Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AutoNE: Hyperparameter Optimization for Massive Network Embedding",
+        "paper_url": "https://doi.org/10.1145/3292500.3330848",
+        "paper_authors": [
+            "Ke Tu",
+            "Jianxin Ma",
+            "Peng Cui",
+            "Jian Pei",
+            "Wenwu Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Axiomatic Interpretability for Multiclass Additive Models",
+        "paper_url": "https://doi.org/10.1145/3292500.3330898",
+        "paper_authors": [
+            "Xuezhou Zhang",
+            "Sarah Tan",
+            "Paul Koch",
+            "Yin Lou",
+            "Urszula Chajewska",
+            "Rich Caruana"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Beyond Personalization: Social Content Recommendation for Creator Equality and Consumer Satisfaction",
+        "paper_url": "https://doi.org/10.1145/3292500.3330965",
+        "paper_authors": [
+            "Wenyi Xiao",
+            "Huan Zhao",
+            "Haojie Pan",
+            "Yangqiu Song",
+            "Vincent W. Zheng",
+            "Qiang Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Certifiable Robustness and Robust Training for Graph Convolutional Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330905",
+        "paper_authors": [
+            "Daniel Z\u00fcgner",
+            "Stephan G\u00fcnnemann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330925",
+        "paper_authors": [
+            "Wei-Lin Chiang",
+            "Xuanqing Liu",
+            "Si Si",
+            "Yang Li",
+            "Samy Bengio",
+            "Cho-Jui Hsieh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Clustering without Over-Representation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330987",
+        "paper_authors": [
+            "Sara Ahmadian",
+            "Alessandro Epasto",
+            "Ravi Kumar",
+            "Mohammad Mahdian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Conditional Random Field Enhanced Graph Convolutional Neural Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330888",
+        "paper_authors": [
+            "Hongchang Gao",
+            "Jian Pei",
+            "Heng Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Contextual Fact Ranking and Its Applications in Table Synthesis and Compression",
+        "paper_url": "https://doi.org/10.1145/3292500.3330980",
+        "paper_authors": [
+            "Silu Huang",
+            "Jialu Liu",
+            "Flip Korn",
+            "Xuezhi Wang",
+            "You Wu",
+            "Dale Markowitz",
+            "Cong Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Contrastive Antichains in Hierarchies",
+        "paper_url": "https://doi.org/10.1145/3292500.3330954",
+        "paper_authors": [
+            "Anes Bendimerad",
+            "Jefrey Lijffijt",
+            "Marc Plantevit",
+            "C\u00e9line Robardet",
+            "Tijl De Bie"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Co-Prediction of Multiple Transportation Demands Based on Deep Spatio-Temporal Neural Network",
+        "paper_url": "https://doi.org/10.1145/3292500.3330887",
+        "paper_authors": [
+            "Junchen Ye",
+            "Leilei Sun",
+            "Bowen Du",
+            "Yanjie Fu",
+            "Xinran Tong",
+            "Hui Xiong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Coresets for Minimum Enclosing Balls over Sliding Windows",
+        "paper_url": "https://doi.org/10.1145/3292500.3330826",
+        "paper_authors": [
+            "Yanhao Wang",
+            "Yuchen Li",
+            "Kian-Lee Tan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CoSTCo: A Neural Tensor Completion Model for Sparse Tensors",
+        "paper_url": "https://doi.org/10.1145/3292500.3330881",
+        "paper_authors": [
+            "Hanpeng Liu",
+            "Yaguang Li",
+            "Michael Tsang",
+            "Yan Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Coupled Variational Recurrent Collaborative Filtering",
+        "paper_url": "https://doi.org/10.1145/3292500.3330940",
+        "paper_authors": [
+            "Qingquan Song",
+            "Shiyu Chang",
+            "Xia Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330906",
+        "paper_authors": [
+            "Donghua Liu",
+            "Jing Li",
+            "Bo Du",
+            "Jun Chang",
+            "Rong Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Anomaly Detection with Deviation Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330871",
+        "paper_authors": [
+            "Guansong Pang",
+            "Chunhua Shen",
+            "Anton van den Hengel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Landscape Forecasting for Real-time Bidding Advertising",
+        "paper_url": "https://doi.org/10.1145/3292500.3330870",
+        "paper_authors": [
+            "Kan Ren",
+            "Jiarui Qin",
+            "Lei Zheng",
+            "Zhengyu Yang",
+            "Weinan Zhang",
+            "Yong Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Mixture Point Processes: Spatio-temporal Event Prediction with Rich Contextual Information",
+        "paper_url": "https://doi.org/10.1145/3292500.3330937",
+        "paper_authors": [
+            "Maya Okawa",
+            "Tomoharu Iwata",
+            "Takeshi Kurashima",
+            "Yusuke Tanaka",
+            "Hiroyuki Toda",
+            "Naonori Ueda"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DeepGBM: A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330858",
+        "paper_authors": [
+            "Guolin Ke",
+            "Zhenhui Xu",
+            "Jia Zhang",
+            "Jiang Bian",
+            "Tie-Yan Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "dEFEND: Explainable Fake News Detection",
+        "paper_url": "https://doi.org/10.1145/3292500.3330935",
+        "paper_authors": [
+            "Kai Shu",
+            "Limeng Cui",
+            "Suhang Wang",
+            "Dongwon Lee",
+            "Huan Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification",
+        "paper_url": "https://doi.org/10.1145/3292500.3330950",
+        "paper_authors": [
+            "Jun Wu",
+            "Jingrui He",
+            "Jiejun Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Disambiguation Enabled Linear Discriminant Analysis for Partial Label Dimensionality Reduction",
+        "paper_url": "https://doi.org/10.1145/3292500.3330901",
+        "paper_authors": [
+            "Jing-Han Wu",
+            "Min-Ling Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Discovering Unexpected Local Nonlinear Interactions in Scientific Black-box Models",
+        "paper_url": "https://doi.org/10.1145/3292500.3330886",
+        "paper_authors": [
+            "Michael Doron",
+            "Idan Segev",
+            "Dafna Shahaf"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dual Averaging Method for Online Graph-structured Sparsity",
+        "paper_url": "https://doi.org/10.1145/3292500.3330915",
+        "paper_authors": [
+            "Baojian Zhou",
+            "Feng Chen",
+            "Yiming Ying"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dual Sequential Prediction Models Linking Sequential Recommendation and Information Dissemination",
+        "paper_url": "https://doi.org/10.1145/3292500.3330959",
+        "paper_authors": [
+            "Qitian Wu",
+            "Yirui Gao",
+            "Xiaofeng Gao",
+            "Paul Weng",
+            "Guihai Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dynamic Modeling and Forecasting of Time-evolving Data Streams",
+        "paper_url": "https://doi.org/10.1145/3292500.3330947",
+        "paper_authors": [
+            "Yasuko Matsubara",
+            "Yasushi Sakurai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dynamical Origins of Distribution Functions",
+        "paper_url": "https://doi.org/10.1145/3292500.3330842",
+        "paper_authors": [
+            "Chengxi Zang",
+            "Peng Cui",
+            "Wenwu Zhu",
+            "Fei Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "EdMot: An Edge Enhancement Approach for Motif-aware Community Detection",
+        "paper_url": "https://doi.org/10.1145/3292500.3330882",
+        "paper_authors": [
+            "Pei-Zhen Li",
+            "Ling Huang",
+            "Chang-Dong Wang",
+            "Jian-Huang Lai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Effective and Efficient Reuse of Past Travel Behavior for Route Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330835",
+        "paper_authors": [
+            "Lisi Chen",
+            "Shuo Shang",
+            "Christian S. Jensen",
+            "Bin Yao",
+            "Zhiwei Zhang",
+            "Ling Shao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Effective and Efficient Sports Play Retrieval with Deep Representation Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330927",
+        "paper_authors": [
+            "Zheng Wang",
+            "Cheng Long",
+            "Gao Cong",
+            "Ce Ju"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient and Effective Express via Contextual Cooperative Reinforcement Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330968",
+        "paper_authors": [
+            "Yexin Li",
+            "Yu Zheng",
+            "Qiang Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Global String Kernel with Random Features: Beyond Counting Substructures",
+        "paper_url": "https://doi.org/10.1145/3292500.3330923",
+        "paper_authors": [
+            "Lingfei Wu",
+            "Ian En-Hsu Yen",
+            "Siyu Huo",
+            "Liang Zhao",
+            "Kun Xu",
+            "Liang Ma",
+            "Shouling Ji",
+            "Charu C. Aggarwal"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Maximum Clique Computation over Large Sparse Graphs",
+        "paper_url": "https://doi.org/10.1145/3292500.3330986",
+        "paper_authors": [
+            "Lijun Chang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Empowering A* Search Algorithms with Neural Networks for Personalized Route Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330824",
+        "paper_authors": [
+            "Jingyuan Wang",
+            "Ning Wu",
+            "Wayne Xin Zhao",
+            "Fanzhang Peng",
+            "Xin Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Enhancing Collaborative Filtering with Generative Augmentation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330873",
+        "paper_authors": [
+            "Qinyong Wang",
+            "Hongzhi Yin",
+            "Hao Wang",
+            "Quoc Viet Hung Nguyen",
+            "Zi Huang",
+            "Lizhen Cui"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Enhancing Domain Word Embedding via Latent Semantic Imputation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330926",
+        "paper_authors": [
+            "Shibo Yao",
+            "Dantong Yu",
+            "Keli Xiao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Environment Reconstruction with Hidden Confounders for Reinforcement Learning based Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330933",
+        "paper_authors": [
+            "Wenjie Shang",
+            "Yang Yu",
+            "Qingyang Li",
+            "Zhiwei (Tony) Qin",
+            "Yiping Meng",
+            "Jieping Ye"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "EpiDeep: Exploiting Embeddings for Epidemic Forecasting",
+        "paper_url": "https://doi.org/10.1145/3292500.3330917",
+        "paper_authors": [
+            "Bijaya Adhikari",
+            "Xinfeng Xu",
+            "Naren Ramakrishnan",
+            "B. Aditya Prakash"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Estimating Graphlet Statistics via Lifting",
+        "paper_url": "https://doi.org/10.1145/3292500.3330995",
+        "paper_authors": [
+            "Kirill Paramonov",
+            "Dmitry Shemetov",
+            "James Sharpnack"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330855",
+        "paper_authors": [
+            "Namyong Park",
+            "Andrey Kan",
+            "Xin Luna Dong",
+            "Tong Zhao",
+            "Christos Faloutsos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ET-Lasso: A New Efficient Tuning of Lasso-type Regularization for High-Dimensional Data",
+        "paper_url": "https://doi.org/10.1145/3292500.3330910",
+        "paper_authors": [
+            "Songshan Yang",
+            "Jiawei Wen",
+            "Xiang Zhan",
+            "Daniel Kifer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exact-K Recommendation via Maximal Clique Optimization",
+        "paper_url": "https://doi.org/10.1145/3292500.3330832",
+        "paper_authors": [
+            "Yu Gong",
+            "Yu Zhu",
+            "Lu Duan",
+            "Qingwen Liu",
+            "Ziyu Guan",
+            "Fei Sun",
+            "Wenwu Ou",
+            "Kenny Q. Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploiting Cognitive Structure for Adaptive Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330922",
+        "paper_authors": [
+            "Qi Liu",
+            "Shiwei Tong",
+            "Chuanren Liu",
+            "Hongke Zhao",
+            "Enhong Chen",
+            "Haiping Ma",
+            "Shijin Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Factorization Bandits for Online Influence Maximization",
+        "paper_url": "https://doi.org/10.1145/3292500.3330874",
+        "paper_authors": [
+            "Qingyun Wu",
+            "Zhige Li",
+            "Huazheng Wang",
+            "Wei Chen",
+            "Hongning Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast and Accurate Anomaly Detection in Dynamic Graphs with a Two-Pronged Approach",
+        "paper_url": "https://doi.org/10.1145/3292500.3330946",
+        "paper_authors": [
+            "Minji Yoon",
+            "Bryan Hooi",
+            "Kijung Shin",
+            "Christos Faloutsos"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Approximation of Empirical Entropy via Subsampling",
+        "paper_url": "https://doi.org/10.1145/3292500.3330938",
+        "paper_authors": [
+            "Chi Wang",
+            "Bailu Ding"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fates of Microscopic Social Ecosystems: Keep Alive or Dead?",
+        "paper_url": "https://doi.org/10.1145/3292500.3330827",
+        "paper_authors": [
+            "Haoyang Li",
+            "Peng Cui",
+            "Chengxi Zang",
+            "Tianyang Zhang",
+            "Wenwu Zhu",
+            "Yishi Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fighting Opinion Control in Social Networks via Link Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330960",
+        "paper_authors": [
+            "Victor Amelkin",
+            "Ambuj K. Singh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Figuring out the User in a Few Steps: Bayesian Multifidelity Active Search with Cokriging",
+        "paper_url": "https://doi.org/10.1145/3292500.3330893",
+        "paper_authors": [
+            "Nikita Klyuchnikov",
+            "Davide Mottin",
+            "Georgia Koutrika",
+            "Emmanuel M\u00fcller",
+            "Panagiotis Karras"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Focused Context Balancing for Robust Offline Policy Evaluation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330852",
+        "paper_authors": [
+            "Hao Zou",
+            "Kun Kuang",
+            "Boqi Chen",
+            "Peixuan Chen",
+            "Peng Cui"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GCN-MF: Disease-Gene Association Identification By Graph Convolutional Networks and Matrix Factorization",
+        "paper_url": "https://doi.org/10.1145/3292500.3330912",
+        "paper_authors": [
+            "Peng Han",
+            "Peng Yang",
+            "Peilin Zhao",
+            "Shuo Shang",
+            "Yong Liu",
+            "Jiayu Zhou",
+            "Xin Gao",
+            "Panos Kalnis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Gradient-based Hierarchical Clustering using Continuous Representations of Trees in Hyperbolic Space",
+        "paper_url": "https://doi.org/10.1145/3292500.3330997",
+        "paper_authors": [
+            "Nicholas Monath",
+            "Manzil Zaheer",
+            "Daniel Silva",
+            "Andrew McCallum",
+            "Amr Ahmed"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Graph Convolutional Networks with EigenPooling",
+        "paper_url": "https://doi.org/10.1145/3292500.3330982",
+        "paper_authors": [
+            "Yao Ma",
+            "Suhang Wang",
+            "Charu C. Aggarwal",
+            "Jiliang Tang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Graph Recurrent Networks With Attributed Random Walks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330941",
+        "paper_authors": [
+            "Xiao Huang",
+            "Qingquan Song",
+            "Yuening Li",
+            "Xia Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Graph Representation Learning via Hard and Channel-Wise Attention Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330897",
+        "paper_authors": [
+            "Hongyang Gao",
+            "Shuiwang Ji"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Graph Transformation Policy Network for Chemical Reaction Prediction",
+        "paper_url": "https://doi.org/10.1145/3292500.3330958",
+        "paper_authors": [
+            "Kien Do",
+            "Truyen Tran",
+            "Svetha Venkatesh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Graph-based Semi-Supervised & Active Learning for Edge Flows",
+        "paper_url": "https://doi.org/10.1145/3292500.3330872",
+        "paper_authors": [
+            "Junteng Jia",
+            "Michael T. Schaub",
+            "Santiago Segarra",
+            "Austin R. Benson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GroupINN: Grouping-based Interpretable Neural Network for Classification of Limited, Noisy Brain Data",
+        "paper_url": "https://doi.org/10.1145/3292500.3330921",
+        "paper_authors": [
+            "Yujun Yan",
+            "Jiong Zhu",
+            "Marlena Duda",
+            "Eric Solarz",
+            "Chandra Sekhar Sripada",
+            "Danai Koutra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "HATS: A Hierarchical Sequence-Attention Framework for Inductive Set-of-Sets Embeddings",
+        "paper_url": "https://doi.org/10.1145/3292500.3330876",
+        "paper_authors": [
+            "Changping Meng",
+            "Jiasen Yang",
+            "Bruno Ribeiro",
+            "Jennifer Neville"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Heterogeneous Graph Neural Network",
+        "paper_url": "https://doi.org/10.1145/3292500.3330961",
+        "paper_authors": [
+            "Chuxu Zhang",
+            "Dongjin Song",
+            "Chao Huang",
+            "Ananthram Swami",
+            "Nitesh V. Chawla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hidden Markov Contour Tree: A Spatial Structured Model for Hydrological Applications",
+        "paper_url": "https://doi.org/10.1145/3292500.3330878",
+        "paper_authors": [
+            "Zhe Jiang",
+            "Arpan Man Sainju"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hidden POI Ranking with Spatial Crowdsourcing",
+        "paper_url": "https://doi.org/10.1145/3292500.3330844",
+        "paper_authors": [
+            "Yue Cui",
+            "Liwei Deng",
+            "Yan Zhao",
+            "Bin Yao",
+            "Vincent W. Zheng",
+            "Kai Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hierarchical Gating Networks for Sequential Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330984",
+        "paper_authors": [
+            "Chen Ma",
+            "Peng Kang",
+            "Xue Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hierarchical Multi-Task Word Embedding Learning for Synonym Prediction",
+        "paper_url": "https://doi.org/10.1145/3292500.3330914",
+        "paper_authors": [
+            "Hongliang Fei",
+            "Shulong Tan",
+            "Ping Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hypothesis Generation From Text Based On Co-Evolution Of Biomedical Concepts",
+        "paper_url": "https://doi.org/10.1145/3292500.3330977",
+        "paper_authors": [
+            "Kishlay Jha",
+            "Guangxu Xun",
+            "Yaqing Wang",
+            "Aidong Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Identifiability of Cause and Effect using Regularized Regression",
+        "paper_url": "https://doi.org/10.1145/3292500.3330854",
+        "paper_authors": [
+            "Alexander Marx",
+            "Jilles Vreeken"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving the Quality of Explanations with Local Embedding Perturbations",
+        "paper_url": "https://doi.org/10.1145/3292500.3330930",
+        "paper_authors": [
+            "Yunzhe Jia",
+            "James Bailey",
+            "Kotagiri Ramamohanarao",
+            "Christopher Leckie",
+            "Michael E. Houle"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Incorporating Interpretability into Latent Factor Models via Fast Influence Analysis",
+        "paper_url": "https://doi.org/10.1145/3292500.3330857",
+        "paper_authors": [
+            "Weiyu Cheng",
+            "Yanyan Shen",
+            "Linpeng Huang",
+            "Yanmin Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Individualized Indicator for All: Stock-wise Technical Indicator Optimization with Stock Embedding",
+        "paper_url": "https://doi.org/10.1145/3292500.3330833",
+        "paper_authors": [
+            "Zhige Li",
+            "Derek Yang",
+            "Li Zhao",
+            "Jiang Bian",
+            "Tao Qin",
+            "Tie-Yan Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Interpretable and Steerable Sequence Learning via Prototypes",
+        "paper_url": "https://doi.org/10.1145/3292500.3330908",
+        "paper_authors": [
+            "Yao Ming",
+            "Panpan Xu",
+            "Huamin Qu",
+            "Liu Ren"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Interview Choice Reveals Your Preference on the Market: To Improve Job-Resume Matching through Profiling Memories",
+        "paper_url": "https://doi.org/10.1145/3292500.3330963",
+        "paper_authors": [
+            "Rui Yan",
+            "Ran Le",
+            "Yang Song",
+            "Tao Zhang",
+            "Xiangliang Zhang",
+            "Dongyan Zhao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Investigating Cognitive Effects in Session-level Search User Satisfaction",
+        "paper_url": "https://doi.org/10.1145/3292500.3330981",
+        "paper_authors": [
+            "Mengyang Liu",
+            "Jiaxin Mao",
+            "Yiqun Liu",
+            "Min Zhang",
+            "Shaoping Ma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Is a Single Vector Enough?: Exploring Node Polysemy for Network Embedding",
+        "paper_url": "https://doi.org/10.1145/3292500.3330967",
+        "paper_authors": [
+            "Ninghao Liu",
+            "Qiaoyu Tan",
+            "Yuening Li",
+            "Hongxia Yang",
+            "Jingren Zhou",
+            "Xia Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Isolation Set-Kernel and Its Application to Multi-Instance Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330830",
+        "paper_authors": [
+            "Bi-Cun Xu",
+            "Kai Ming Ting",
+            "Zhi-Hua Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "KGAT: Knowledge Graph Attention Network for Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330989",
+        "paper_authors": [
+            "Xiang Wang",
+            "Xiangnan He",
+            "Yixin Cao",
+            "Meng Liu",
+            "Tat-Seng Chua"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "K-Multiple-Means: A Multiple-Means Clustering Method with Specified K Clusters",
+        "paper_url": "https://doi.org/10.1145/3292500.3330846",
+        "paper_authors": [
+            "Feiping Nie",
+            "Cheng-Long Wang",
+            "Xuelong Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3292500.3330836",
+        "paper_authors": [
+            "Hongwei Wang",
+            "Fuzheng Zhang",
+            "Mengdi Zhang",
+            "Jure Leskovec",
+            "Miao Zhao",
+            "Wenjie Li",
+            "Zhongyuan Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "\u03bbOpt: Learn to Regularize Recommender Models in Finer Levels",
+        "paper_url": "https://doi.org/10.1145/3292500.3330880",
+        "paper_authors": [
+            "Yihong Chen",
+            "Bei Chen",
+            "Xiangnan He",
+            "Chen Gao",
+            "Yong Li",
+            "Jian-Guang Lou",
+            "Yue Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Latent Network Summarization: Bridging Network Embedding and Summarization",
+        "paper_url": "https://doi.org/10.1145/3292500.3330992",
+        "paper_authors": [
+            "Di Jin",
+            "Ryan A. Rossi",
+            "Eunyee Koh",
+            "Sungchul Kim",
+            "Anup Rao",
+            "Danai Koutra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Class-Conditional GANs with Active Sampling",
+        "paper_url": "https://doi.org/10.1145/3292500.3330883",
+        "paper_authors": [
+            "Ming-Kun Xie",
+            "Sheng-Jun Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Dynamic Context Graphs for Predicting Social Events",
+        "paper_url": "https://doi.org/10.1145/3292500.3330919",
+        "paper_authors": [
+            "Songgaojun Deng",
+            "Huzefa Rangwala",
+            "Yue Ning"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning from Incomplete and Inaccurate Supervision",
+        "paper_url": "https://doi.org/10.1145/3292500.3330902",
+        "paper_authors": [
+            "Zhenyu Zhang",
+            "Peng Zhao",
+            "Yuan Jiang",
+            "Zhi-Hua Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Interpretable Metric between Graphs: Convex Formulation and Computation with Graph Mining",
+        "paper_url": "https://doi.org/10.1145/3292500.3330845",
+        "paper_authors": [
+            "Tomoki Yoshida",
+            "Ichiro Takeuchi",
+            "Masayuki Karasuyama"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Network-to-Network Model for Content-rich Network Embedding",
+        "paper_url": "https://doi.org/10.1145/3292500.3330924",
+        "paper_authors": [
+            "Zhicheng He",
+            "Jie Liu",
+            "Na Li",
+            "Yalou Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Link Prediction with Signed Latent Factors in Signed Social Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330850",
+        "paper_authors": [
+            "Pinghua Xu",
+            "Wenbin Hu",
+            "Jia Wu",
+            "Bo Du"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Log2Intent: Towards Interpretable User Modeling via Recurrent Semantics Memory Unit",
+        "paper_url": "https://doi.org/10.1145/3292500.3330889",
+        "paper_authors": [
+            "Zhiqiang Tao",
+            "Sheng Li",
+            "Zhaowen Wang",
+            "Chen Fang",
+            "Longqi Yang",
+            "Handong Zhao",
+            "Yun Fu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network",
+        "paper_url": "https://doi.org/10.1145/3292500.3330931",
+        "paper_authors": [
+            "Hao Wang",
+            "Tong Xu",
+            "Qi Liu",
+            "Defu Lian",
+            "Enhong Chen",
+            "Dongfang Du",
+            "Han Wu",
+            "Wen Su"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MeLU: Meta-Learned User Preference Estimator for Cold-Start Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330859",
+        "paper_authors": [
+            "Hoyeop Lee",
+            "Jinbae Im",
+            "Seongwon Jang",
+            "Hyunsouk Cho",
+            "Sehee Chung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mining Algorithm Roadmap in Scientific Publications",
+        "paper_url": "https://doi.org/10.1145/3292500.3330913",
+        "paper_authors": [
+            "Hanwen Zha",
+            "Wenhu Chen",
+            "Keqian Li",
+            "Xifeng Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MinJoin: Efficient Edit Similarity Joins via Local Hash Minima",
+        "paper_url": "https://doi.org/10.1145/3292500.3330853",
+        "paper_authors": [
+            "Haoyu Zhang",
+            "Qin Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Modeling Dwell Time Engagement on Visual Multimedia",
+        "paper_url": "https://doi.org/10.1145/3292500.3330973",
+        "paper_authors": [
+            "Hemank Lamba",
+            "Neil Shah"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Modeling Extreme Events in Time Series Prediction",
+        "paper_url": "https://doi.org/10.1145/3292500.3330896",
+        "paper_authors": [
+            "Daizong Ding",
+            "Mi Zhang",
+            "Xudong Pan",
+            "Min Yang",
+            "Xiangnan He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multiple Relational Attention Network for Multi-task Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330861",
+        "paper_authors": [
+            "Jiejie Zhao",
+            "Bowen Du",
+            "Leilei Sun",
+            "Fuzhen Zhuang",
+            "Weifeng Lv",
+            "Hui Xiong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Relational Classification via Bayesian Ranked Non-Linear Embeddings",
+        "paper_url": "https://doi.org/10.1145/3292500.3330863",
+        "paper_authors": [
+            "Ahmed Rashed",
+            "Josif Grabocka",
+            "Lars Schmidt-Thieme"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction: Multi-task RNN and Higer-order MRFs for Stock Price Classification",
+        "paper_url": "https://doi.org/10.1145/3292500.3330983",
+        "paper_authors": [
+            "Chang Li",
+            "Dongjin Song",
+            "Dacheng Tao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Network Density of States",
+        "paper_url": "https://doi.org/10.1145/3292500.3330891",
+        "paper_authors": [
+            "Kun Dong",
+            "Austin R. Benson",
+            "David Bindel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "NodeSketch: Highly-Efficient Graph Embeddings via Recursive Sketching",
+        "paper_url": "https://doi.org/10.1145/3292500.3330951",
+        "paper_authors": [
+            "Dingqi Yang",
+            "Paolo Rosso",
+            "Bin Li",
+            "Philippe Cudr\u00e9-Mauroux"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "OBOE: Collaborative Filtering for AutoML Model Selection",
+        "paper_url": "https://doi.org/10.1145/3292500.3330909",
+        "paper_authors": [
+            "Chengrun Yang",
+            "Yuji Akimoto",
+            "Dae Won Kim",
+            "Madeleine Udell"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Off-policy Learning for Multiple Loggers",
+        "paper_url": "https://doi.org/10.1145/3292500.3330864",
+        "paper_authors": [
+            "Li He",
+            "Long Xia",
+            "Wei Zeng",
+            "Zhi-Ming Ma",
+            "Yihong Zhao",
+            "Dawei Yin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On Dynamic Network Models and Application to Causal Impact",
+        "paper_url": "https://doi.org/10.1145/3292500.3330990",
+        "paper_authors": [
+            "Yu-Chia Chen",
+            "Avleen S. Bijral",
+            "Juan Lavista Ferres"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimizing Impression Counts for Outdoor Advertising",
+        "paper_url": "https://doi.org/10.1145/3292500.3330829",
+        "paper_authors": [
+            "Yipeng Zhang",
+            "Yuchen Li",
+            "Zhifeng Bao",
+            "Songsong Mo",
+            "Ping Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimizing Peer Learning in Online Groups with Affinities",
+        "paper_url": "https://doi.org/10.1145/3292500.3330945",
+        "paper_authors": [
+            "Mohammadreza Esfandiari",
+            "Dong Wei",
+            "Sihem Amer-Yahia",
+            "Senjuti Basu Roy"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling",
+        "paper_url": "https://doi.org/10.1145/3292500.3330877",
+        "paper_authors": [
+            "Yuandong Wang",
+            "Hongzhi Yin",
+            "Hongxu Chen",
+            "Tianyu Wo",
+            "Jie Xu",
+            "Kai Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pairwise Comparisons with Flexible Time-Dynamics",
+        "paper_url": "https://doi.org/10.1145/3292500.3330831",
+        "paper_authors": [
+            "Lucas Maystre",
+            "Victor Kristof",
+            "Matthias Grossglauser"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Paper Matching with Local Fairness Constraints",
+        "paper_url": "https://doi.org/10.1145/3292500.3330899",
+        "paper_authors": [
+            "Ari Kobren",
+            "Barna Saha",
+            "Andrew McCallum"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PerDREP: Personalized Drug Effectiveness Prediction from Longitudinal Observational Data",
+        "paper_url": "https://doi.org/10.1145/3292500.3330928",
+        "paper_authors": [
+            "Sanjoy Dey",
+            "Ping Zhang",
+            "Daby Sow",
+            "Kenney Ng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330895",
+        "paper_authors": [
+            "Srijan Kumar",
+            "Xikun Zhang",
+            "Jure Leskovec"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Predicting Path Failure In Time-Evolving Graphs",
+        "paper_url": "https://doi.org/10.1145/3292500.3330847",
+        "paper_authors": [
+            "Jia Li",
+            "Zhichao Han",
+            "Hong Cheng",
+            "Jiao Su",
+            "Pengyun Wang",
+            "Jianfeng Zhang",
+            "Lujia Pan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PressLight: Learning Max Pressure Control to Coordinate Traffic Signals in Arterial Network",
+        "paper_url": "https://doi.org/10.1145/3292500.3330949",
+        "paper_authors": [
+            "Hua Wei",
+            "Chacha Chen",
+            "Guanjie Zheng",
+            "Kan Wu",
+            "Vikash V. Gayah",
+            "Kai Xu",
+            "Zhenhui Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PrivPy: General and Scalable Privacy-Preserving Data Mining",
+        "paper_url": "https://doi.org/10.1145/3292500.3330920",
+        "paper_authors": [
+            "Yi Li",
+            "Wei Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ProGAN: Network Embedding via Proximity Generative Adversarial Network",
+        "paper_url": "https://doi.org/10.1145/3292500.3330866",
+        "paper_authors": [
+            "Hongchang Gao",
+            "Jian Pei",
+            "Heng Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Quantifying Long Range Dependence in Language and User Behavior to improve RNNs",
+        "paper_url": "https://doi.org/10.1145/3292500.3330944",
+        "paper_authors": [
+            "Francois Belletti",
+            "Minmin Chen",
+            "Ed H. Chi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "QuesNet: A Unified Representation for Heterogeneous Test Questions",
+        "paper_url": "https://doi.org/10.1145/3292500.3330900",
+        "paper_authors": [
+            "Yu Yin",
+            "Qi Liu",
+            "Zhenya Huang",
+            "Enhong Chen",
+            "Wei Tong",
+            "Shijin Wang",
+            "Yu Su"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Regularized Regression for Hierarchical Forecasting Without Unbiasedness Conditions",
+        "paper_url": "https://doi.org/10.1145/3292500.3330976",
+        "paper_authors": [
+            "Souhaib Ben Taieb",
+            "Bonsoo Koo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Relation Extraction via Domain-aware Transfer Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330890",
+        "paper_authors": [
+            "Shimin Di",
+            "Yanyan Shen",
+            "Lei Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Representation Learning for Attributed Multiplex Heterogeneous Network",
+        "paper_url": "https://doi.org/10.1145/3292500.3330964",
+        "paper_authors": [
+            "Yukuo Cen",
+            "Xu Zou",
+            "Jianwei Zhang",
+            "Hongxia Yang",
+            "Jingren Zhou",
+            "Jie Tang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Retaining Privileged Information for Multi-Task Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330907",
+        "paper_authors": [
+            "Fengyi Tang",
+            "Cao Xiao",
+            "Fei Wang",
+            "Jiayu Zhou",
+            "Li-Wei H. Lehman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Revisiting kd-tree for Nearest Neighbor Search",
+        "paper_url": "https://doi.org/10.1145/3292500.3330875",
+        "paper_authors": [
+            "Parikshit Ram",
+            "Kaushik Sinha"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Riker: Mining Rich Keyword Representations for Interpretable Product Question Answering",
+        "paper_url": "https://doi.org/10.1145/3292500.3330985",
+        "paper_authors": [
+            "Jie Zhao",
+            "Ziyu Guan",
+            "Huan Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Graph Convolutional Networks Against Adversarial Attacks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330851",
+        "paper_authors": [
+            "Dingyuan Zhu",
+            "Ziwei Zhang",
+            "Peng Cui",
+            "Wenwu Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Task Grouping with Representative Tasks for Clustered Multi-Task Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330904",
+        "paper_authors": [
+            "Yaqiang Yao",
+            "Jie Cao",
+            "Huanhuan Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scalable Global Alignment Graph Kernel Using Random Features: From Node Embedding to Graph Embedding",
+        "paper_url": "https://doi.org/10.1145/3292500.3330918",
+        "paper_authors": [
+            "Lingfei Wu",
+            "Ian En-Hsu Yen",
+            "Zhen Zhang",
+            "Kun Xu",
+            "Liang Zhao",
+            "Xi Peng",
+            "Yinglong Xia",
+            "Charu C. Aggarwal"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scalable Graph Embeddings via Sparse Transpose Proximities",
+        "paper_url": "https://doi.org/10.1145/3292500.3330860",
+        "paper_authors": [
+            "Yuan Yin",
+            "Zhewei Wei"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scalable Hierarchical Clustering with Tree Grafting",
+        "paper_url": "https://doi.org/10.1145/3292500.3330929",
+        "paper_authors": [
+            "Nicholas Monath",
+            "Ari Kobren",
+            "Akshay Krishnamurthy",
+            "Michael R. Glass",
+            "Andrew McCallum"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scaling Multi-Armed Bandit Algorithms",
+        "paper_url": "https://doi.org/10.1145/3292500.3330862",
+        "paper_authors": [
+            "Edouard Fouch\u00e9",
+            "Junpei Komiyama",
+            "Klemens B\u00f6hm"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scaling Multinomial Logistic Regression via Hybrid Parallelism",
+        "paper_url": "https://doi.org/10.1145/3292500.3330837",
+        "paper_authors": [
+            "Parameswaran Raman",
+            "Sriram Srinivasan",
+            "Shin Matsushima",
+            "Xinhua Zhang",
+            "Hyokun Yun",
+            "S. V. N. Vishwanathan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Separated Trust Regions Policy Optimization Method",
+        "paper_url": "https://doi.org/10.1145/3292500.3330892",
+        "paper_authors": [
+            "Luobao Zou",
+            "Zhiwei Zhuang",
+            "Yin Cheng",
+            "Xuechun Wang",
+            "Weidong Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sequential Anomaly Detection using Inverse Reinforcement Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330932",
+        "paper_authors": [
+            "Min-hwan Oh",
+            "Garud Iyengar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sets2Sets: Learning from Sequential Sets with Neural Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330979",
+        "paper_authors": [
+            "Haoji Hu",
+            "Xiangnan He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sherlock: A Deep Learning Approach to Semantic Data Type Detection",
+        "paper_url": "https://doi.org/10.1145/3292500.3330993",
+        "paper_authors": [
+            "Madelon Hulsebos",
+            "Kevin Zeng Hu",
+            "Michiel A. Bakker",
+            "Emanuel Zgraggen",
+            "Arvind Satyanarayan",
+            "Tim Kraska",
+            "\u00c7agatay Demiralp",
+            "C\u00e9sar A. Hidalgo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Significance of Patterns in Data Visualisations",
+        "paper_url": "https://doi.org/10.1145/3292500.3330994",
+        "paper_authors": [
+            "Rafael Savvides",
+            "Andreas Henelius",
+            "Emilia Oikarinen",
+            "Kai Puolam\u00e4ki"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Social Recommendation with Optimal Limited Attention",
+        "paper_url": "https://doi.org/10.1145/3292500.3330939",
+        "paper_authors": [
+            "Xin Wang",
+            "Wenwu Zhu",
+            "Chenghao Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SPuManTE: Significant Pattern Mining with Unconditional Testing",
+        "paper_url": "https://doi.org/10.1145/3292500.3330978",
+        "paper_authors": [
+            "Leonardo Pellegrina",
+            "Matteo Riondato",
+            "Fabio Vandin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Stability and Generalization of Graph Convolutional Neural Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330956",
+        "paper_authors": [
+            "Saurabh Verma",
+            "Zhi-Li Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "State-Sharing Sparse Hidden Markov Models for Personalized Sequences",
+        "paper_url": "https://doi.org/10.1145/3292500.3330828",
+        "paper_authors": [
+            "Hongzhi Shi",
+            "Chao Zhang",
+            "Quanming Yao",
+            "Yong Li",
+            "Funing Sun",
+            "Depeng Jin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Streaming Adaptation of Deep Forecasting Models using Adaptive Recurrent Units",
+        "paper_url": "https://doi.org/10.1145/3292500.3330996",
+        "paper_authors": [
+            "Prathamesh Deshpande",
+            "Sunita Sarawagi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Streaming Session-based Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330839",
+        "paper_authors": [
+            "Lei Guo",
+            "Hongzhi Yin",
+            "Qinyong Wang",
+            "Tong Chen",
+            "Alexander Zhou",
+            "Nguyen Quoc Viet Hung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SurfCon: Synonym Discovery on Privacy-Aware Clinical Data",
+        "paper_url": "https://doi.org/10.1145/3292500.3330894",
+        "paper_authors": [
+            "Zhen Wang",
+            "Xiang Yue",
+            "Soheil Moosavinasab",
+            "Yungui Huang",
+            "Simon M. Lin",
+            "Huan Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tackle Balancing Constraint for Incremental Semi-Supervised Support Vector Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330962",
+        "paper_authors": [
+            "Shuyang Yu",
+            "Bin Gu",
+            "Kunpeng Ning",
+            "Haiyan Chen",
+            "Jian Pei",
+            "Heng Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Task-Adversarial Co-Generative Nets",
+        "paper_url": "https://doi.org/10.1145/3292500.3330843",
+        "paper_authors": [
+            "Pei Yang",
+            "Qi Tan",
+            "Hanghang Tong",
+            "Jingrui He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tensorized Determinantal Point Processes for Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330952",
+        "paper_authors": [
+            "Romain Warlop",
+            "J\u00e9r\u00e9mie Mary",
+            "Mike Gartrell"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Testing Dynamic Incentive Compatibility in Display Ad Auctions",
+        "paper_url": "https://doi.org/10.1145/3292500.3330943",
+        "paper_authors": [
+            "Yuan Deng",
+            "S\u00e9bastien Lahaie"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Impact of Person-Organization Fit on Talent Management: A Structure-Aware Convolutional Neural Network Approach",
+        "paper_url": "https://doi.org/10.1145/3292500.3330849",
+        "paper_authors": [
+            "Ying Sun",
+            "Fuzhen Zhuang",
+            "Hengshu Zhu",
+            "Xin Song",
+            "Qing He",
+            "Hui Xiong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Role of: A Novel Scientific Knowledge Graph Representation and Construction Model",
+        "paper_url": "https://doi.org/10.1145/3292500.3330942",
+        "paper_authors": [
+            "Tianwen Jiang",
+            "Tong Zhao",
+            "Bing Qin",
+            "Ting Liu",
+            "Nitesh V. Chawla",
+            "Meng Jiang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Three-Dimensional Stable Matching Problem for Spatial Crowdsourcing Platforms",
+        "paper_url": "https://doi.org/10.1145/3292500.3330879",
+        "paper_authors": [
+            "Boyang Li",
+            "Yurong Cheng",
+            "Ye Yuan",
+            "Guoren Wang",
+            "Lei Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Time Critic Policy Gradient Methods for Traffic Signal Control in Complex and Congested Scenarios",
+        "paper_url": "https://doi.org/10.1145/3292500.3330988",
+        "paper_authors": [
+            "Stefano Giovanni Rizzo",
+            "Giovanna Vantini",
+            "Sanjay Chawla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Robust and Discriminative Sequential Data Learning: When and How to Perform Adversarial Training?",
+        "paper_url": "https://doi.org/10.1145/3292500.3330957",
+        "paper_authors": [
+            "Xiaowei Jia",
+            "Sheng Li",
+            "Handong Zhao",
+            "Sungchul Kim",
+            "Vipin Kumar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Training and Meta-Training Binary Neural Networks with Quantum Computing",
+        "paper_url": "https://doi.org/10.1145/3292500.3330953",
+        "paper_authors": [
+            "Abdulah Fawaz",
+            "Paul Klein",
+            "Sebastien Piat",
+            "Simone Severini",
+            "Peter Mountney"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TUBE: Embedding Behavior Outcomes for Predicting Success",
+        "paper_url": "https://doi.org/10.1145/3292500.3330867",
+        "paper_authors": [
+            "Daheng Wang",
+            "Tianwen Jiang",
+            "Nitesh V. Chawla",
+            "Meng Jiang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Uncovering Pattern Formation of Information Flow",
+        "paper_url": "https://doi.org/10.1145/3292500.3330971",
+        "paper_authors": [
+            "Chengxi Zang",
+            "Peng Cui",
+            "Chaoming Song",
+            "Wenwu Zhu",
+            "Fei Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unifying Inter-region Autocorrelation and Intra-region Structures for Spatial Embedding via Collective Adversarial Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330972",
+        "paper_authors": [
+            "Yunchao Zhang",
+            "Yanjie Fu",
+            "Pengyang Wang",
+            "Xiaolin Li",
+            "Yu Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts",
+        "paper_url": "https://doi.org/10.1145/3292500.3330838",
+        "paper_authors": [
+            "Junheng Hao",
+            "Muhao Chen",
+            "Wenchao Yu",
+            "Yizhou Sun",
+            "Wei Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330884",
+        "paper_authors": [
+            "Zheyi Pan",
+            "Yuxuan Liang",
+            "Weifeng Wang",
+            "Yong Yu",
+            "Yu Zheng",
+            "Junbo Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com",
+        "paper_url": "https://doi.org/10.1145/3292500.3330744",
+        "paper_authors": [
+            "Lucas Bernardi",
+            "Themistoklis Mavridis",
+            "Pablo Estevez"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Collaborative Learning Framework to Tag Refinement for Points of Interest",
+        "paper_url": "https://doi.org/10.1145/3292500.3330698",
+        "paper_authors": [
+            "Jingbo Zhou",
+            "Shan Gou",
+            "Renjun Hu",
+            "Dongxiang Zhang",
+            "Jin Xu",
+            "Airong Jiang",
+            "Ying Li",
+            "Hui Xiong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Data-Driven Approach for Multi-level Packing Problems in Manufacturing Industry",
+        "paper_url": "https://doi.org/10.1145/3292500.3330708",
+        "paper_authors": [
+            "Lei Chen",
+            "Xialiang Tong",
+            "Mingxuan Yuan",
+            "Jia Zeng",
+            "Lei Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Deep Generative Approach to Search Extrapolation and Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330786",
+        "paper_authors": [
+            "Fred X. Han",
+            "Di Niu",
+            "Haolan Chen",
+            "Kunfeng Lai",
+            "Yancheng He",
+            "Yu Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Deep Value-network Based Approach for Multi-Driver Order Dispatching",
+        "paper_url": "https://doi.org/10.1145/3292500.3330724",
+        "paper_authors": [
+            "Xiaocheng Tang",
+            "Zhiwei (Tony) Qin",
+            "Fan Zhang",
+            "Zhaodong Wang",
+            "Zhe Xu",
+            "Yintai Ma",
+            "Hongtu Zhu",
+            "Jieping Ye"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Generalized Framework for Population Based Training",
+        "paper_url": "https://doi.org/10.1145/3292500.3330649",
+        "paper_authors": [
+            "Ang Li",
+            "Ola Spyra",
+            "Sagi Perel",
+            "Valentin Dalibard",
+            "Max Jaderberg",
+            "Chenjie Gu",
+            "David Budden",
+            "Tim Harley",
+            "Pramod Gupta"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Robust Framework for Accelerated Outcome-driven Risk Factor Identification from EHR",
+        "paper_url": "https://doi.org/10.1145/3292500.3330718",
+        "paper_authors": [
+            "Prithwish Chakraborty",
+            "Faisal Farooq"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Severity Score for Retinopathy of Prematurity",
+        "paper_url": "https://doi.org/10.1145/3292500.3330713",
+        "paper_authors": [
+            "Peng Tian",
+            "Yuan Guo",
+            "Jayashree Kalpathy-Cramer",
+            "Susan Ostmo",
+            "John Peter Campbell",
+            "Michael F. Chiang",
+            "Jennifer G. Dy",
+            "Deniz Erdogmus",
+            "Stratis Ioannidis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Unified Framework for Marketing Budget Allocation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330700",
+        "paper_authors": [
+            "Kui Zhao",
+            "Junhao Hua",
+            "Ling Yan",
+            "Qi Zhang",
+            "Huan Xu",
+            "Cheng Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A User-Centered Concept Mining System for Query and Document Understanding at Tencent",
+        "paper_url": "https://doi.org/10.1145/3292500.3330727",
+        "paper_authors": [
+            "Bang Liu",
+            "Weidong Guo",
+            "Di Niu",
+            "Chaoyue Wang",
+            "Shunnan Xu",
+            "Jinghong Lin",
+            "Kunfeng Lai",
+            "Yu Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AccuAir: Winning Solution to Air Quality Prediction for KDD Cup 2018",
+        "paper_url": "https://doi.org/10.1145/3292500.3330787",
+        "paper_authors": [
+            "Zhipeng Luo",
+            "Jianqiang Huang",
+            "Ke Hu",
+            "Xue Li",
+            "Peng Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Actions Speak Louder than Goals: Valuing Player Actions in Soccer",
+        "paper_url": "https://doi.org/10.1145/3292500.3330758",
+        "paper_authors": [
+            "Tom Decroos",
+            "Lotte Bransen",
+            "Jan Van Haaren",
+            "Jesse Davis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Active Deep Learning for Activity Recognition with Context Aware Annotator Selection",
+        "paper_url": "https://doi.org/10.1145/3292500.3330688",
+        "paper_authors": [
+            "H. M. Sajjad Hossain",
+            "Nirmalya Roy"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Matching of Dark Net Market Vendor Accounts",
+        "paper_url": "https://doi.org/10.1145/3292500.3330763",
+        "paper_authors": [
+            "Xiao Hui Tai",
+            "Kyle Soska",
+            "Nicolas Christin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AiAds: Automated and Intelligent Advertising System for Sponsored Search",
+        "paper_url": "https://doi.org/10.1145/3292500.3330782",
+        "paper_authors": [
+            "Xiao Yang",
+            "Daren Sun",
+            "Ruiwei Zhu",
+            "Tao Deng",
+            "Zhi Guo",
+            "Zongyao Ding",
+            "Shouke Qin",
+            "Yanfeng Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AKUPM: Attention-Enhanced Knowledge-Aware User Preference Model for Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330705",
+        "paper_authors": [
+            "Xiaoli Tang",
+            "Tengyun Wang",
+            "Haizhi Yang",
+            "Hengjie Song"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AlphaStock: A Buying-Winners-and-Selling-Losers Investment Strategy using Interpretable Deep Reinforcement Attention Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330647",
+        "paper_authors": [
+            "Jingyuan Wang",
+            "Yang Zhang",
+            "Ke Tang",
+            "Junjie Wu",
+            "Zhang Xiong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography with Deep Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330657",
+        "paper_authors": [
+            "Yichen Shen",
+            "Maxime Voisin",
+            "Alireza Aliamiri",
+            "Anand Avati",
+            "Awni Y. Hannun",
+            "Andrew Y. Ng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Anomaly Detection for an E-commerce Pricing System",
+        "paper_url": "https://doi.org/10.1145/3292500.3330748",
+        "paper_authors": [
+            "Jagdish Ramakrishnan",
+            "Elham Shaabani",
+            "Chao Li",
+            "M\u00e1ty\u00e1s A. Sustik"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Applying Deep Learning to Airbnb Search",
+        "paper_url": "https://doi.org/10.1145/3292500.3330658",
+        "paper_authors": [
+            "Malay Haldar",
+            "Mustafa Abdool",
+            "Prashant Ramanathan",
+            "Tao Xu",
+            "Shulin Yang",
+            "Huizhong Duan",
+            "Qing Zhang",
+            "Nick Barrow-Williams",
+            "Bradley C. Turnbull",
+            "Brendan M. Collins",
+            "Thomas Legrand"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AutoCross: Automatic Feature Crossing for Tabular Data in Real-World Applications",
+        "paper_url": "https://doi.org/10.1145/3292500.3330679",
+        "paper_authors": [
+            "Yuanfei Luo",
+            "Mengshuo Wang",
+            "Hao Zhou",
+            "Quanming Yao",
+            "Wei-Wei Tu",
+            "Yuqiang Chen",
+            "Wenyuan Dai",
+            "Qiang Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Auto-Keras: An Efficient Neural Architecture Search System",
+        "paper_url": "https://doi.org/10.1145/3292500.3330648",
+        "paper_authors": [
+            "Haifeng Jin",
+            "Qingquan Song",
+            "Xia Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automatic Dialogue Summary Generation for Customer Service",
+        "paper_url": "https://doi.org/10.1145/3292500.3330683",
+        "paper_authors": [
+            "Chunyi Liu",
+            "Peng Wang",
+            "Jiang Xu",
+            "Zang Li",
+            "Jieping Ye"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bid Optimization by Multivariable Control in Display Advertising",
+        "paper_url": "https://doi.org/10.1145/3292500.3330681",
+        "paper_authors": [
+            "Xun Yang",
+            "Yasong Li",
+            "Hao Wang",
+            "Di Wu",
+            "Qing Tan",
+            "Jian Xu",
+            "Kun Gai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Blending Noisy Social Media Signals with Traditional Movement Variables to Predict Forced Migration",
+        "paper_url": "https://doi.org/10.1145/3292500.3330774",
+        "paper_authors": [
+            "Lisa Singh",
+            "Laila Wahedi",
+            "Yanchen Wang",
+            "Yifang Wei",
+            "Christo Kirov",
+            "Susan Martin",
+            "Katharine M. Donato",
+            "Yaguang Liu",
+            "Kornraphop Kawintiranon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Buying or Browsing?: Predicting Real-time Purchasing Intent using Attention-based Deep Network with Multiple Behavior",
+        "paper_url": "https://doi.org/10.1145/3292500.3330670",
+        "paper_authors": [
+            "Long Guo",
+            "Lifeng Hua",
+            "Rongfei Jia",
+            "Binqiang Zhao",
+            "Xiaobo Wang",
+            "Bin Cui"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Carousel Ads Optimization in Yahoo Gemini Native",
+        "paper_url": "https://doi.org/10.1145/3292500.3330740",
+        "paper_authors": [
+            "Michal Aharon",
+            "Oren Somekh",
+            "Avi Shahar",
+            "Assaf Singer",
+            "Baruch Trayvas",
+            "Hadas Vogel",
+            "Dobri Dobrev"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Chainer: A Deep Learning Framework for Accelerating the Research Cycle",
+        "paper_url": "https://doi.org/10.1145/3292500.3330756",
+        "paper_authors": [
+            "Seiya Tokui",
+            "Ryosuke Okuta",
+            "Takuya Akiba",
+            "Yusuke Niitani",
+            "Toru Ogawa",
+            "Shunta Saito",
+            "Shuji Suzuki",
+            "Kota Uenishi",
+            "Brian Vogel",
+            "Hiroyuki Yamazaki Vincent"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Characterizing and Detecting Malicious Accounts in Privacy-Centric Mobile Social Networks: A Case Study",
+        "paper_url": "https://doi.org/10.1145/3292500.3330702",
+        "paper_authors": [
+            "Zenghua Xia",
+            "Chang Liu",
+            "Neil Zhenqiang Gong",
+            "Qi Li",
+            "Yong Cui",
+            "Dawn Song"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Characterizing and Forecasting User Engagement with In-App Action Graph: A Case Study of Snapchat",
+        "paper_url": "https://doi.org/10.1145/3292500.3330750",
+        "paper_authors": [
+            "Yozen Liu",
+            "Xiaolin Shi",
+            "Lucas Pierce",
+            "Xiang Ren"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Combining Decision Trees and Neural Networks for Learning-to-Rank in Personal Search",
+        "paper_url": "https://doi.org/10.1145/3292500.3330676",
+        "paper_authors": [
+            "Pan Li",
+            "Zhen Qin",
+            "Xuanhui Wang",
+            "Donald Metzler"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Community Detection on Large Complex Attribute Network",
+        "paper_url": "https://doi.org/10.1145/3292500.3330721",
+        "paper_authors": [
+            "Chen Zhe",
+            "Aixin Sun",
+            "Xiaokui Xiao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Constructing High Precision Knowledge Bases with Subjective and Factual Attributes",
+        "paper_url": "https://doi.org/10.1145/3292500.3330720",
+        "paper_authors": [
+            "Ari Kobren",
+            "Pablo Barrio",
+            "Oksana Yakhnenko",
+            "Johann Hibschman",
+            "Ian Langmore"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Context by Proxy: Identifying Contextual Anomalies Using an Output Proxy",
+        "paper_url": "https://doi.org/10.1145/3292500.3330780",
+        "paper_authors": [
+            "Jan-Philipp Schulze",
+            "Artur Mrowca",
+            "Elizabeth Ren",
+            "Hans-Andrea Loeliger",
+            "Konstantin B\u00f6ttinger"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Conversion Prediction Using Multi-task Conditional Attention Networks to Support the Creation of Effective Ad Creatives",
+        "paper_url": "https://doi.org/10.1145/3292500.3330789",
+        "paper_authors": [
+            "Shunsuke Kitada",
+            "Hitoshi Iyatomi",
+            "Yoshifumi Seki"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction",
+        "paper_url": "https://doi.org/10.1145/3292500.3330655",
+        "paper_authors": [
+            "Wentao Ouyang",
+            "Xiuwu Zhang",
+            "Li Li",
+            "Heng Zou",
+            "Xin Xing",
+            "Zhaojie Liu",
+            "Yanlong Du"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Uncertainty Quantification: A Machine Learning Approach for Weather Forecasting",
+        "paper_url": "https://doi.org/10.1145/3292500.3330704",
+        "paper_authors": [
+            "Bin Wang",
+            "Jie Lu",
+            "Zheng Yan",
+            "Huaishao Luo",
+            "Tianrui Li",
+            "Yu Zheng",
+            "Guangquan Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DeepHoops: Evaluating Micro-Actions in Basketball Using Deep Feature Representations of Spatio-Temporal Data",
+        "paper_url": "https://doi.org/10.1145/3292500.3330719",
+        "paper_authors": [
+            "Anthony Sicilia",
+            "Konstantinos Pelechrinis",
+            "Kirk Goldsberry"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DeepRoof: A Data-driven Approach For Solar Potential Estimation Using Rooftop Imagery",
+        "paper_url": "https://doi.org/10.1145/3292500.3330741",
+        "paper_authors": [
+            "Stephen Lee",
+            "Srinivasan Iyengar",
+            "Menghong Feng",
+            "Prashant J. Shenoy",
+            "Subhransu Maji"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events",
+        "paper_url": "https://doi.org/10.1145/3292500.3330654",
+        "paper_authors": [
+            "Renhe Jiang",
+            "Xuan Song",
+            "Dou Huang",
+            "Xiaoya Song",
+            "Tianqi Xia",
+            "Zekun Cai",
+            "Zhaonan Wang",
+            "Kyoung-Sook Kim",
+            "Ryosuke Shibasaki"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Detecting Anomalies in Space using Multivariate Convolutional LSTM with Mixtures of Probabilistic PCA",
+        "paper_url": "https://doi.org/10.1145/3292500.3330776",
+        "paper_authors": [
+            "Shahroz Tariq",
+            "Sangyup Lee",
+            "Youjin Shin",
+            "Myeong Shin Lee",
+            "Okchul Jung",
+            "Daewon Chung",
+            "Simon S. Woo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Detection of Review Abuse via Semi-Supervised Binary Multi-Target Tensor Decomposition",
+        "paper_url": "https://doi.org/10.1145/3292500.3330678",
+        "paper_authors": [
+            "Anil R. Yelundur",
+            "Vineet Chaoji",
+            "Bamdev Mishra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Developing Measures of Cognitive Impairment in the Real World from Consumer-Grade Multimodal Sensor Streams",
+        "paper_url": "https://doi.org/10.1145/3292500.3330690",
+        "paper_authors": [
+            "Richard Chen",
+            "Filip Jankovic",
+            "Nikki Marinsek",
+            "Luca Foschini",
+            "Lampros Kourtis",
+            "Alessio Signorini",
+            "Melissa Pugh",
+            "Jie Shen",
+            "Roy Yaari",
+            "Vera Maljkovic",
+            "Marc Sunga",
+            "Han Hee Song",
+            "Hyun Joon Jung",
+            "Belle L. Tseng",
+            "Andrew Trister"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Diagnosing Sample Ratio Mismatch in Online Controlled Experiments: A Taxonomy and Rules of Thumb for Practitioners",
+        "paper_url": "https://doi.org/10.1145/3292500.3330722",
+        "paper_authors": [
+            "Aleksander Fabijan",
+            "Jayant Gupchup",
+            "Somit Gupta",
+            "Jeff Omhover",
+            "Wen Qin",
+            "Lukas Vermeer",
+            "Pavel A. Dmitriev"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DuerQuiz: A Personalized Question Recommender System for Intelligent Job Interview",
+        "paper_url": "https://doi.org/10.1145/3292500.3330706",
+        "paper_authors": [
+            "Chuan Qin",
+            "Hengshu Zhu",
+            "Chen Zhu",
+            "Tong Xu",
+            "Fuzhen Zhuang",
+            "Chao Ma",
+            "Jingshuai Zhang",
+            "Hui Xiong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dynamic Pricing for Airline Ancillaries with Customer Context",
+        "paper_url": "https://doi.org/10.1145/3292500.3330746",
+        "paper_authors": [
+            "Naman Shukla",
+            "Arinbj\u00f6rn Kolbeinsson",
+            "Ken Otwell",
+            "Lavanya Marla",
+            "Kartik Yellepeddi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "E.T.-RNN: Applying Deep Learning to Credit Loan Applications",
+        "paper_url": "https://doi.org/10.1145/3292500.3330693",
+        "paper_authors": [
+            "Dmitrii Babaev",
+            "Maxim Savchenko",
+            "Alexander Tuzhilin",
+            "Dmitrii Umerenkov"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Enabling Onboard Detection of Events of Scientific Interest for the Europa Clipper Spacecraft",
+        "paper_url": "https://doi.org/10.1145/3292500.3330656",
+        "paper_authors": [
+            "Kiri L. Wagstaff",
+            "Gary Doran",
+            "Ashley Davies",
+            "Saadat Anwar",
+            "Srija Chakraborty",
+            "Marissa Cameron",
+            "Ingrid Daubar",
+            "Cynthia A. Phillips"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Estimating Cellular Goals from High-Dimensional Biological Data",
+        "paper_url": "https://doi.org/10.1145/3292500.3330775",
+        "paper_authors": [
+            "Laurence Yang",
+            "Michael A. Saunders",
+            "Jean-Christophe Lachance",
+            "Bernhard O. Palsson",
+            "Jos\u00e9 Bento"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fairness in Recommendation Ranking through Pairwise Comparisons",
+        "paper_url": "https://doi.org/10.1145/3292500.3330745",
+        "paper_authors": [
+            "Alex Beutel",
+            "Jilin Chen",
+            "Tulsee Doshi",
+            "Hai Qian",
+            "Li Wei",
+            "Yi Wu",
+            "Lukasz Heldt",
+            "Zhe Zhao",
+            "Lichan Hong",
+            "Ed H. Chi",
+            "Cristos Goodrow"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search",
+        "paper_url": "https://doi.org/10.1145/3292500.3330691",
+        "paper_authors": [
+            "Sahin Cem Geyik",
+            "Stuart Ambler",
+            "Krishnaram Kenthapadi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FDML: A Collaborative Machine Learning Framework for Distributed Features",
+        "paper_url": "https://doi.org/10.1145/3292500.3330765",
+        "paper_authors": [
+            "Yaochen Hu",
+            "Di Niu",
+            "Jianming Yang",
+            "Shengping Zhou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Feedback Shaping: A Modeling Approach to Nurture Content Creation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330764",
+        "paper_authors": [
+            "Ye Tu",
+            "Chun Lo",
+            "Yiping Yuan",
+            "Shaunak Chatterjee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Finding Users Who Act Alike: Transfer Learning for Expanding Advertiser Audiences",
+        "paper_url": "https://doi.org/10.1145/3292500.3330714",
+        "paper_authors": [
+            "Stephanie deWet",
+            "Jiafan Ou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FoodAI: Food Image Recognition via Deep Learning for Smart Food Logging",
+        "paper_url": "https://doi.org/10.1145/3292500.3330734",
+        "paper_authors": [
+            "Doyen Sahoo",
+            "Hao Wang",
+            "Shu Ke",
+            "Xiongwei Wu",
+            "Hung Le",
+            "Palakorn Achananuparp",
+            "Ee-Peng Lim",
+            "Steven C. H. Hoi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generating Better Search Engine Text Advertisements with Deep Reinforcement Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330754",
+        "paper_authors": [
+            "J. Weston Hughes",
+            "Keng-hao Chang",
+            "Ruofei Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Glaucoma Progression Prediction Using Retinal Thickness via Latent Space Linear Regression",
+        "paper_url": "https://doi.org/10.1145/3292500.3330757",
+        "paper_authors": [
+            "Yuhui Zheng",
+            "Linchuan Xu",
+            "Taichi Kiwaki",
+            "Jing Wang",
+            "Hiroshi Murata",
+            "Ryo Asaoka",
+            "Kenji Yamanishi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Gmail Smart Compose: Real-Time Assisted Writing",
+        "paper_url": "https://doi.org/10.1145/3292500.3330723",
+        "paper_authors": [
+            "Mia Xu Chen",
+            "Benjamin N. Lee",
+            "Gagan Bansal",
+            "Yuan Cao",
+            "Shuyuan Zhang",
+            "Justin Lu",
+            "Jackie Tsay",
+            "Yinan Wang",
+            "Andrew M. Dai",
+            "Zhifeng Chen",
+            "Timothy Sohn",
+            "Yonghui Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hard to Park?: Estimating Parking Difficulty at Scale",
+        "paper_url": "https://doi.org/10.1145/3292500.3330767",
+        "paper_authors": [
+            "Neha Arora",
+            "James Cook",
+            "Ravi Kumar",
+            "Ivan Kuznetsov",
+            "Yechen Li",
+            "Huai-Jen Liang",
+            "Andrew Miller",
+            "Andrew Tomkins",
+            "Iveel Tsogsuren",
+            "Yi Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "How to Invest my Time: Lessons from Human-in-the-Loop Entity Extraction",
+        "paper_url": "https://doi.org/10.1145/3292500.3330773",
+        "paper_authors": [
+            "Shanshan Zhang",
+            "Lihong He",
+            "Eduard C. Dragut",
+            "Slobodan Vucetic"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System",
+        "paper_url": "https://doi.org/10.1145/3292500.3330660",
+        "paper_authors": [
+            "Hao Liu",
+            "Yongxin Tong",
+            "Panpan Zhang",
+            "Xinjiang Lu",
+            "Jianguo Duan",
+            "Hui Xiong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Subseasonal Forecasting in the Western U.S. with Machine Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330674",
+        "paper_authors": [
+            "Jessica Hwang",
+            "Paulo Orenstein",
+            "Judah Cohen",
+            "Karl Pfeiffer",
+            "Lester Mackey"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Infer Implicit Contexts in Real-time Online-to-Offline Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330716",
+        "paper_authors": [
+            "Xichen Ding",
+            "Jie Tang",
+            "Tracy Xiao Liu",
+            "Cheng Xu",
+            "Yaping Zhang",
+            "Feng Shi",
+            "Qixia Jiang",
+            "Dan Shen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "IntentGC: A Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330686",
+        "paper_authors": [
+            "Jun Zhao",
+            "Zhou Zhou",
+            "Ziyu Guan",
+            "Wei Zhao",
+            "Wei Ning",
+            "Guang Qiu",
+            "Xiaofei He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Internal Promotion Optimization",
+        "paper_url": "https://doi.org/10.1145/3292500.3330715",
+        "paper_authors": [
+            "Rupesh Gupta",
+            "Guangde Chen",
+            "Shipeng Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Investigate Transitions into Drug Addiction through Text Mining of Reddit Data",
+        "paper_url": "https://doi.org/10.1145/3292500.3330737",
+        "paper_authors": [
+            "John Lu",
+            "Sumati Sridhar",
+            "Ritika Pandey",
+            "Mohammad Al Hasan",
+            "George O. Mohler"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Investment Behaviors Can Tell What Inside: Exploring Stock Intrinsic Properties for Stock Trend Prediction",
+        "paper_url": "https://doi.org/10.1145/3292500.3330663",
+        "paper_authors": [
+            "Chi Chen",
+            "Li Zhao",
+            "Jiang Bian",
+            "Chunxiao Xing",
+            "Tie-Yan Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "IRNet: A General Purpose Deep Residual Regression Framework for Materials Discovery",
+        "paper_url": "https://doi.org/10.1145/3292500.3330703",
+        "paper_authors": [
+            "Dipendra Jha",
+            "Logan T. Ward",
+            "Zijiang Yang",
+            "Christopher Wolverton",
+            "Ian T. Foster",
+            "Wei-keng Liao",
+            "Alok N. Choudhary",
+            "Ankit Agrawal"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Large-Scale Training Framework for Video Annotation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330653",
+        "paper_authors": [
+            "Seong Jae Hwang",
+            "Joonseok Lee",
+            "Balakrishnan Varadarajan",
+            "Ariel Gordon",
+            "Zheng Xu",
+            "Apostol Natsev"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Large-scale User Visits Understanding and Forecasting with Deep Spatial-Temporal Tensor Factorization Framework",
+        "paper_url": "https://doi.org/10.1145/3292500.3330728",
+        "paper_authors": [
+            "Xiaoyang Ma",
+            "Lan Zhang",
+            "Lan Xu",
+            "Zhicheng Liu",
+            "Ge Chen",
+            "Zhili Xiao",
+            "Yang Wang",
+            "Zhengtao Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning a Unified Embedding for Visual Search at Pinterest",
+        "paper_url": "https://doi.org/10.1145/3292500.3330739",
+        "paper_authors": [
+            "Andrew Zhai",
+            "Hao-Yu Wu",
+            "Eric Tzeng",
+            "Dong Huk Park",
+            "Charles Rosenberg"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Sleep Quality from Daily Logs",
+        "paper_url": "https://doi.org/10.1145/3292500.3330792",
+        "paper_authors": [
+            "Sungkyu Park",
+            "Cheng-Te Li",
+            "Sungwon Han",
+            "Cheng Hsu",
+            "Sang Won Lee",
+            "Meeyoung Cha"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning to Prescribe Interventions for Tuberculosis Patients Using Digital Adherence Data",
+        "paper_url": "https://doi.org/10.1145/3292500.3330777",
+        "paper_authors": [
+            "Jackson A. Killian",
+            "Bryan Wilder",
+            "Amit Sharma",
+            "Vinod Choudhary",
+            "Bistra Dilkina",
+            "Milind Tambe"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LightNet: A Dual Spatiotemporal Encoder Network Model for Lightning Prediction",
+        "paper_url": "https://doi.org/10.1145/3292500.3330717",
+        "paper_authors": [
+            "Yangli-ao Geng",
+            "Qingyong Li",
+            "Tianyang Lin",
+            "Lei Jiang",
+            "Liangtao Xu",
+            "Dong Zheng",
+            "Wen Yao",
+            "Weitao Lyu",
+            "Yijun Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Machine Learning at Microsoft with ML.NET",
+        "paper_url": "https://doi.org/10.1145/3292500.3330667",
+        "paper_authors": [
+            "Zeeshan Ahmed",
+            "Saeed Amizadeh",
+            "Mikhail Bilenko",
+            "Rogan Carr",
+            "Wei-Sheng Chin",
+            "Yael Dekel",
+            "Xavier Dupr\u00e9",
+            "Vadim Eksarevskiy",
+            "Senja Filipi",
+            "Tom Finley",
+            "Abhishek Goswami",
+            "Monte Hoover",
+            "Scott Inglis",
+            "Matteo Interlandi",
+            "Najeeb Kazmi",
+            "Gleb Krivosheev",
+            "Pete Luferenko",
+            "Ivan Matantsev",
+            "Sergiy Matusevych",
+            "Shahab Moradi",
+            "Gani Nazirov",
+            "Justin Ormont",
+            "Gal Oshri",
+            "Artidoro Pagnoni",
+            "Jignesh Parmar",
+            "Prabhat Roy",
+            "Mohammad Zeeshan Siddiqui",
+            "Markus Weimer",
+            "Shauheen Zahirazami",
+            "Yiwen Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mathematical Notions vs. Human Perception of Fairness: A Descriptive Approach to Fairness for Machine Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330664",
+        "paper_authors": [
+            "Megha Srivastava",
+            "Hoda Heidari",
+            "Andreas Krause"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MediaRank: Computational Ranking of Online News Sources",
+        "paper_url": "https://doi.org/10.1145/3292500.3330709",
+        "paper_authors": [
+            "Junting Ye",
+            "Steven Skiena"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330673",
+        "paper_authors": [
+            "Shaohua Fan",
+            "Junxiong Zhu",
+            "Xiaotian Han",
+            "Chuan Shi",
+            "Linmei Hu",
+            "Biyu Ma",
+            "Yongliang Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MetaPred: Meta-Learning for Clinical Risk Prediction with Limited Patient Electronic Health Records",
+        "paper_url": "https://doi.org/10.1145/3292500.3330779",
+        "paper_authors": [
+            "Xi Sheryl Zhang",
+            "Fengyi Tang",
+            "Hiroko H. Dodge",
+            "Jiayu Zhou",
+            "Fei Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu's Sponsored Search",
+        "paper_url": "https://doi.org/10.1145/3292500.3330651",
+        "paper_authors": [
+            "Miao Fan",
+            "Jiacheng Guo",
+            "Shuai Zhu",
+            "Shuo Miao",
+            "Mingming Sun",
+            "Ping Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MSURU: Large Scale E-commerce Image Classification with Weakly Supervised Search Data",
+        "paper_url": "https://doi.org/10.1145/3292500.3330696",
+        "paper_authors": [
+            "Yina Tang",
+            "Fedor Borisyuk",
+            "Siddarth Malreddy",
+            "Yixuan Li",
+            "Yiqun Liu",
+            "Sergey Kirshner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-Horizon Time Series Forecasting with Temporal Attention Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330662",
+        "paper_authors": [
+            "Chenyou Fan",
+            "Yuze Zhang",
+            "Yi Pan",
+            "Xiaoyue Li",
+            "Chi Zhang",
+            "Rong Yuan",
+            "Di Wu",
+            "Wensheng Wang",
+            "Jian Pei",
+            "Heng Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MVAN: Multi-view Attention Networks for Real Money Trading Detection in Online Games",
+        "paper_url": "https://doi.org/10.1145/3292500.3330687",
+        "paper_authors": [
+            "Jianrong Tao",
+            "Jianshi Lin",
+            "Shize Zhang",
+            "Sha Zhao",
+            "Runze Wu",
+            "Changjie Fan",
+            "Peng Cui"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Naranjo Question Answering using End-to-End Multi-task Learning Model",
+        "paper_url": "https://doi.org/10.1145/3292500.3330770",
+        "paper_authors": [
+            "Bhanu Pratap Singh Rawat",
+            "Fei Li",
+            "Hong Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Nonparametric Mixture of Sparse Regressions on Spatio-Temporal Data - An Application to Climate Prediction",
+        "paper_url": "https://doi.org/10.1145/3292500.3330692",
+        "paper_authors": [
+            "Yumin Liu",
+            "Junxiang Chen",
+            "Auroop R. Ganguly",
+            "Jennifer G. Dy"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Nostalgin: Extracting 3D City Models from Historical Image Data",
+        "paper_url": "https://doi.org/10.1145/3292500.3330743",
+        "paper_authors": [
+            "Amol Kapoor",
+            "Hunter Larco",
+            "Raimondas Kiveris"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "NPA: Neural News Recommendation with Personalized Attention",
+        "paper_url": "https://doi.org/10.1145/3292500.3330665",
+        "paper_authors": [
+            "Chuhan Wu",
+            "Fangzhao Wu",
+            "Mingxiao An",
+            "Jianqiang Huang",
+            "Yongfeng Huang",
+            "Xing Xie"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "OAG: Toward Linking Large-scale Heterogeneous Entity Graphs",
+        "paper_url": "https://doi.org/10.1145/3292500.3330785",
+        "paper_authors": [
+            "Fanjin Zhang",
+            "Xiao Liu",
+            "Jie Tang",
+            "Yuxiao Dong",
+            "Peiran Yao",
+            "Jie Zhang",
+            "Xiaotao Gu",
+            "Yan Wang",
+            "Bin Shao",
+            "Rui Li",
+            "Kuansan Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "OCC: A Smart Reply System for Efficient In-App Communications",
+        "paper_url": "https://doi.org/10.1145/3292500.3330694",
+        "paper_authors": [
+            "Yue Weng",
+            "Huaixiu Zheng",
+            "Franziska Bell",
+            "G\u00f6khan T\u00fcr"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Online Amnestic DTW to allow Real-Time Golden Batch Monitoring",
+        "paper_url": "https://doi.org/10.1145/3292500.3330650",
+        "paper_authors": [
+            "Chin-Chia Michael Yeh",
+            "Yan Zhu",
+            "Hoang Anh Dau",
+            "Amirali Darvishzadeh",
+            "Mikhail Noskov",
+            "Eamonn J. Keogh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Online Purchase Prediction via Multi-Scale Modeling of Behavior Dynamics",
+        "paper_url": "https://doi.org/10.1145/3292500.3330790",
+        "paper_authors": [
+            "Chao Huang",
+            "Xian Wu",
+            "Xuchao Zhang",
+            "Chuxu Zhang",
+            "Jiashu Zhao",
+            "Dawei Yin",
+            "Nitesh V. Chawla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optuna: A Next-generation Hyperparameter Optimization Framework",
+        "paper_url": "https://doi.org/10.1145/3292500.3330701",
+        "paper_authors": [
+            "Takuya Akiba",
+            "Shotaro Sano",
+            "Toshihiko Yanase",
+            "Takeru Ohta",
+            "Masanori Koyama"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Personalized Attraction Enhanced Sponsored Search with Multi-task Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3330659",
+        "paper_authors": [
+            "Wei Zhao",
+            "Boxuan Zhang",
+            "Beidou Wang",
+            "Ziyu Guan",
+            "Wanxian Guan",
+            "Guang Qiu",
+            "Wei Ning",
+            "Jiming Chen",
+            "Hongmin Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Personalized Purchase Prediction of Market Baskets with Wasserstein-Based Sequence Matching",
+        "paper_url": "https://doi.org/10.1145/3292500.3330791",
+        "paper_authors": [
+            "Mathias Kraus",
+            "Stefan Feuerriegel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PinText: A Multitask Text Embedding System in Pinterest",
+        "paper_url": "https://doi.org/10.1145/3292500.3330671",
+        "paper_authors": [
+            "Jinfeng Zhuang",
+            "Yu Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion",
+        "paper_url": "https://doi.org/10.1145/3292500.3330652",
+        "paper_authors": [
+            "Wen Chen",
+            "Pipei Huang",
+            "Jiaming Xu",
+            "Xin Guo",
+            "Cheng Guo",
+            "Fei Sun",
+            "Chao Li",
+            "Andreas Pfadler",
+            "Huan Zhao",
+            "Binqiang Zhao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction",
+        "paper_url": "https://doi.org/10.1145/3292500.3330666",
+        "paper_authors": [
+            "Qi Pi",
+            "Weijie Bian",
+            "Guorui Zhou",
+            "Xiaoqiang Zhu",
+            "Kun Gai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Precipitation Nowcasting with Satellite Imagery",
+        "paper_url": "https://doi.org/10.1145/3292500.3330762",
+        "paper_authors": [
+            "Vadim Lebedev",
+            "Vladimir Ivashkin",
+            "Irina Rudenko",
+            "Alexander Ganshin",
+            "Alexander Molchanov",
+            "Sergey Ovcharenko",
+            "Ruslan Grokhovetskiy",
+            "Ivan Bushmarinov",
+            "Dmitry Solomentsev"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Predicting Different Types of Conversions with Multi-Task Learning in Online Advertising",
+        "paper_url": "https://doi.org/10.1145/3292500.3330783",
+        "paper_authors": [
+            "Junwei Pan",
+            "Yizhi Mao",
+            "Alfonso Lobos Ruiz",
+            "Yu Sun",
+            "Aaron Flores"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Predicting Economic Development using Geolocated Wikipedia Articles",
+        "paper_url": "https://doi.org/10.1145/3292500.3330784",
+        "paper_authors": [
+            "Evan Sheehan",
+            "Chenlin Meng",
+            "Matthew Tan",
+            "Burak Uzkent",
+            "Neal Jean",
+            "Marshall Burke",
+            "David B. Lobell",
+            "Stefano Ermon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Predicting Evacuation Decisions using Representations of Individuals' Pre-Disaster Web Search Behavior",
+        "paper_url": "https://doi.org/10.1145/3292500.3330697",
+        "paper_authors": [
+            "Takahiro Yabe",
+            "Kota Tsubouchi",
+            "Toru Shimizu",
+            "Yoshihide Sekimoto",
+            "Satish V. Ukkusuri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Probabilistic Latent Variable Modeling for Assessing Behavioral Influences on Well-Being",
+        "paper_url": "https://doi.org/10.1145/3292500.3330738",
+        "paper_authors": [
+            "Ehimwenma Nosakhare",
+            "Rosalind W. Picard"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pythia: AI-assisted Code Completion System",
+        "paper_url": "https://doi.org/10.1145/3292500.3330699",
+        "paper_authors": [
+            "Alexey Svyatkovskiy",
+            "Ying Zhao",
+            "Shengyu Fu",
+            "Neel Sundaresan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Raise to Speak: An Accurate, Low-power Detector for Activating Voice Assistants on Smartwatches",
+        "paper_url": "https://doi.org/10.1145/3292500.3330761",
+        "paper_authors": [
+            "Shiwen Zhao",
+            "Brandt Westing",
+            "Shawn Scully",
+            "Heri Nieto",
+            "Roman Holenstein",
+            "Minwoo Jeong",
+            "Krishna Sridhar",
+            "Brandon Newendorp",
+            "Mike Bastian",
+            "Sethu Raman",
+            "Tim Paek",
+            "Kevin Lynch",
+            "Carlos Guestrin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Randomized Experimental Design via Geographic Clustering",
+        "paper_url": "https://doi.org/10.1145/3292500.3330778",
+        "paper_authors": [
+            "David Rolnick",
+            "Kevin Aydin",
+            "Jean Pouget-Abadie",
+            "Shahab Kamali",
+            "Vahab S. Mirrokni",
+            "Amir Najmi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Ranking in Genealogy: Search Results Fusion at Ancestry",
+        "paper_url": "https://doi.org/10.1145/3292500.3330772",
+        "paper_authors": [
+            "Peng Jiang",
+            "Yingrui Yang",
+            "Gann Bierner",
+            "Fengjie Alex Li",
+            "Ruhan Wang",
+            "Azadeh Moghtaderi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Real-time Attention Based Look-alike Model for Recommender System",
+        "paper_url": "https://doi.org/10.1145/3292500.3330707",
+        "paper_authors": [
+            "Yudan Liu",
+            "Kaikai Ge",
+            "Xu Zhang",
+            "Leyu Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Real-time Event Detection on Social Data Streams",
+        "paper_url": "https://doi.org/10.1145/3292500.3330689",
+        "paper_authors": [
+            "Mateusz Fedoryszak",
+            "Brent Frederick",
+            "Vijay Rajaram",
+            "Changtao Zhong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Real-time On-Device Troubleshooting Recommendation for Smartphones",
+        "paper_url": "https://doi.org/10.1145/3292500.3330669",
+        "paper_authors": [
+            "Keiichi Ochiai",
+            "Kohei Senkawa",
+            "Naoki Yamamoto",
+            "Yuya Tanaka",
+            "Yusuke Fukazawa"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Real-World Product Deployment of Adaptive Push Notification Scheduling on Smartphones",
+        "paper_url": "https://doi.org/10.1145/3292500.3330732",
+        "paper_authors": [
+            "Tadashi Okoshi",
+            "Kota Tsubouchi",
+            "Hideyuki Tokuda"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Recurrent Neural Networks for Stochastic Control in Real-Time Bidding",
+        "paper_url": "https://doi.org/10.1145/3292500.3330749",
+        "paper_authors": [
+            "Nicolas Grislain",
+            "Nicolas Perrin",
+            "Antoine Thabault"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3292500.3330668",
+        "paper_authors": [
+            "Lixin Zou",
+            "Long Xia",
+            "Zhuoye Ding",
+            "Jiaxing Song",
+            "Weidong Liu",
+            "Dawei Yin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reserve Price Failure Rate Prediction with Header Bidding in Display Advertising",
+        "paper_url": "https://doi.org/10.1145/3292500.3330729",
+        "paper_authors": [
+            "Achir Kalra",
+            "Chong Wang",
+            "Cristian Borcea",
+            "Yi Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network",
+        "paper_url": "https://doi.org/10.1145/3292500.3330672",
+        "paper_authors": [
+            "Ya Su",
+            "Youjian Zhao",
+            "Chenhao Niu",
+            "Rong Liu",
+            "Wei Sun",
+            "Dan Pei"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Gaussian Process Regression for Real-Time High Precision GPS Signal Enhancement",
+        "paper_url": "https://doi.org/10.1145/3292500.3330695",
+        "paper_authors": [
+            "Ming Lin",
+            "Xiaomin Song",
+            "Qi Qian",
+            "Hao Li",
+            "Liang Sun",
+            "Shenghuo Zhu",
+            "Rong Jin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sample Adaptive Multiple Kernel Learning for Failure Prediction of Railway Points",
+        "paper_url": "https://doi.org/10.1145/3292500.3330731",
+        "paper_authors": [
+            "Zhibin Li",
+            "Jian Zhang",
+            "Qiang Wu",
+            "Yongshun Gong",
+            "Jinfeng Yi",
+            "Christina Kirsch"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Seasonal-adjustment Based Feature Selection Method for Predicting Epidemic with Large-scale Search Engine Logs",
+        "paper_url": "https://doi.org/10.1145/3292500.3330766",
+        "paper_authors": [
+            "Thien Q. Tran",
+            "Jun Sakuma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Seeker: Real-Time Interactive Search",
+        "paper_url": "https://doi.org/10.1145/3292500.3330733",
+        "paper_authors": [
+            "Ari Biswas",
+            "Thai T. Pham",
+            "Michael Vogelsong",
+            "Benjamin Snyder",
+            "Houssam Nassif"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semantic Product Search",
+        "paper_url": "https://doi.org/10.1145/3292500.3330759",
+        "paper_authors": [
+            "Priyanka Nigam",
+            "Yiwei Song",
+            "Vijai Mohan",
+            "Vihan Lakshman",
+            "Weitian Allen Ding",
+            "Ankit Shingavi",
+            "Choon Hui Teo",
+            "Hao Gu",
+            "Bing Yin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sequence Multi-task Learning to Forecast Mental Wellbeing from Sparse Self-reported Data",
+        "paper_url": "https://doi.org/10.1145/3292500.3330730",
+        "paper_authors": [
+            "Dimitris Spathis",
+            "Sandra Servia Rodr\u00edguez",
+            "Katayoun Farrahi",
+            "Cecilia Mascolo",
+            "Jason Rentfrow"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sequential Scenario-Specific Meta Learner for Online Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330726",
+        "paper_authors": [
+            "Zhengxiao Du",
+            "Xiaowei Wang",
+            "Hongxia Yang",
+            "Jingren Zhou",
+            "Jie Tang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Short and Long-term Pattern Discovery Over Large-Scale Geo-Spatiotemporal Data",
+        "paper_url": "https://doi.org/10.1145/3292500.3330755",
+        "paper_authors": [
+            "Sobhan Moosavi",
+            "Mohammad Hossein Samavatian",
+            "Arnab Nandi",
+            "Srinivasan Parthasarathy",
+            "Rajiv Ramnath"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Shrinkage Estimators in Online Experiments",
+        "paper_url": "https://doi.org/10.1145/3292500.3330771",
+        "paper_authors": [
+            "Drew Dimmery",
+            "Eytan Bakshy",
+            "Jasjeet S. Sekhon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Smart Roles: Inferring Professional Roles in Email Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330735",
+        "paper_authors": [
+            "Di Jin",
+            "Mark Heimann",
+            "Tara Safavi",
+            "Mengdi Wang",
+            "Wei Lee",
+            "Lindsay Snider",
+            "Danai Koutra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SMOILE: A Shopper Marketing Optimization and Inverse Learning Engine",
+        "paper_url": "https://doi.org/10.1145/3292500.3330788",
+        "paper_authors": [
+            "Abhilash Reddy Chenreddy",
+            "Parshan Pakiman",
+            "Selvaprabu Nadarajah",
+            "Ranganathan Chandrasekaran",
+            "Rick Abens"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Social Skill Validation at LinkedIn",
+        "paper_url": "https://doi.org/10.1145/3292500.3330752",
+        "paper_authors": [
+            "Xiao Yan",
+            "Jaewon Yang",
+            "Mikhail Obukhov",
+            "Lin Zhu",
+            "Joey Bai",
+            "Shiqi Wu",
+            "Qi He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Structured Noise Detection: Application on Well Test Pressure Derivative Data",
+        "paper_url": "https://doi.org/10.1145/3292500.3330661",
+        "paper_authors": [
+            "Farhan Asif Chowdhury",
+            "Satomi Suzuki",
+            "Abdullah Mueen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Temporal Probabilistic Profiles for Sepsis Prediction in the ICU",
+        "paper_url": "https://doi.org/10.1145/3292500.3330747",
+        "paper_authors": [
+            "Eitam Sheetrit",
+            "Nir Nissim",
+            "Denis Klimov",
+            "Yuval Shahar"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank",
+        "paper_url": "https://doi.org/10.1145/3292500.3330677",
+        "paper_authors": [
+            "Rama Kumar Pasumarthi",
+            "Sebastian Bruch",
+            "Xuanhui Wang",
+            "Cheng Li",
+            "Michael Bendersky",
+            "Marc Najork",
+            "Jan Pfeifer",
+            "Nadav Golbandi",
+            "Rohan Anil",
+            "Stephan Wolf"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Error is the Feature: How to Forecast Lightning using a Model Prediction Error",
+        "paper_url": "https://doi.org/10.1145/3292500.3330682",
+        "paper_authors": [
+            "Christian Sch\u00f6n",
+            "Jens Dittrich",
+            "Richard M\u00fcller"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Identification and Estimation of Direct and Indirect Effects in A/B Tests through Causal Mediation Analysis",
+        "paper_url": "https://doi.org/10.1145/3292500.3330769",
+        "paper_authors": [
+            "Xuan Yin",
+            "Liangjie Hong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Secret Lives of Names?: Name Embeddings from Social Media",
+        "paper_url": "https://doi.org/10.1145/3292500.3330751",
+        "paper_authors": [
+            "Junting Ye",
+            "Steven Skiena"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Time-Series Anomaly Detection Service at Microsoft",
+        "paper_url": "https://doi.org/10.1145/3292500.3330680",
+        "paper_authors": [
+            "Hansheng Ren",
+            "Bixiong Xu",
+            "Yujing Wang",
+            "Chao Yi",
+            "Congrui Huang",
+            "Xiaoyu Kou",
+            "Tony Xing",
+            "Mao Yang",
+            "Jie Tong",
+            "Qi Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Topic-Enhanced Memory Networks for Personalised Point-of-Interest Recommendation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330781",
+        "paper_authors": [
+            "Xiao Zhou",
+            "Cecilia Mascolo",
+            "Zhongxiang Zhao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Identifying Impacted Users in Cellular Services",
+        "paper_url": "https://doi.org/10.1145/3292500.3330711",
+        "paper_authors": [
+            "Shobha Venkataraman",
+            "Jia Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Knowledge-Based Personalized Product Description Generation in E-commerce",
+        "paper_url": "https://doi.org/10.1145/3292500.3330725",
+        "paper_authors": [
+            "Qibin Chen",
+            "Junyang Lin",
+            "Yichang Zhang",
+            "Hongxia Yang",
+            "Jingren Zhou",
+            "Jie Tang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Sustainable Dairy Management - A Machine Learning Enhanced Method for Estrus Detection",
+        "paper_url": "https://doi.org/10.1145/3292500.3330712",
+        "paper_authors": [
+            "Kevin Fauvel",
+            "V\u00e9ronique Masson",
+            "\u00c9lisa Fromont",
+            "Philippe Faverdin",
+            "Alexandre Termier"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TrajGuard: A Comprehensive Trajectory Copyright Protection Scheme",
+        "paper_url": "https://doi.org/10.1145/3292500.3330685",
+        "paper_authors": [
+            "Zheyi Pan",
+            "Jie Bao",
+            "Weinan Zhang",
+            "Yong Yu",
+            "Yu Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TV Advertisement Scheduling by Learning Expert Intentions",
+        "paper_url": "https://doi.org/10.1145/3292500.3330768",
+        "paper_authors": [
+            "Yasuhisa Suzuki",
+            "Wemer M. Wee",
+            "Itaru Nishioka"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Two-Sided Fairness for Repeated Matchings in Two-Sided Markets: A Case Study of a Ride-Hailing Platform",
+        "paper_url": "https://doi.org/10.1145/3292500.3330793",
+        "paper_authors": [
+            "Tom S\u00fchr",
+            "Asia J. Biega",
+            "Meike Zehlike",
+            "Krishna P. Gummadi",
+            "Abhijnan Chakraborty"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Uncovering the Co-driven Mechanism of Social and Content Links in User Churn Phenomena",
+        "paper_url": "https://doi.org/10.1145/3292500.3330736",
+        "paper_authors": [
+            "Yunfei Lu",
+            "Linyun Yu",
+            "Peng Cui",
+            "Chengxi Zang",
+            "Renzhe Xu",
+            "Yihao Liu",
+            "Lei Li",
+            "Wenwu Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Understanding Consumer Journey using Attention based Recurrent Neural Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3330753",
+        "paper_authors": [
+            "Yichao Zhou",
+            "Shaunak Mishra",
+            "Jelena Gligorijevic",
+            "Tarun Bhatia",
+            "Narayan Bhamidipati"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Understanding the Role of Style in E-commerce Shopping",
+        "paper_url": "https://doi.org/10.1145/3292500.3330760",
+        "paper_authors": [
+            "Hao Jiang",
+            "Aakash Sabharwal",
+            "Adam Henderson",
+            "Diane Hu",
+            "Liangjie Hong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsupervised Clinical Language Translation",
+        "paper_url": "https://doi.org/10.1145/3292500.3330710",
+        "paper_authors": [
+            "Wei-Hung Weng",
+            "Yu-An Chung",
+            "Peter Szolovits"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "UrbanFM: Inferring Fine-Grained Urban Flows",
+        "paper_url": "https://doi.org/10.1145/3292500.3330646",
+        "paper_authors": [
+            "Yuxuan Liang",
+            "Kun Ouyang",
+            "Lin Jing",
+            "Sijie Ruan",
+            "Ye Liu",
+            "Junbo Zhang",
+            "David S. Rosenblum",
+            "Yu Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Using Twitter to Predict When Vulnerabilities will be Exploited",
+        "paper_url": "https://doi.org/10.1145/3292500.3330742",
+        "paper_authors": [
+            "Haipeng Chen",
+            "Rui Liu",
+            "Noseong Park",
+            "V. S. Subrahmanian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Whole Page Optimization with Global Constraints",
+        "paper_url": "https://doi.org/10.1145/3292500.3330675",
+        "paper_authors": [
+            "Weicong Ding",
+            "Dinesh Govindaraj",
+            "S. V. N. Vishwanathan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "4 Perspectives in Human-Centered Machine Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3340399",
+        "paper_authors": [
+            "Carlos Guestrin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Addressing Challenges in Data Science: Scale, Skill Sets and Complexity",
+        "paper_url": "https://doi.org/10.1145/3292500.3340407",
+        "paper_authors": [
+            "Joseph Bradley"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AI for Small Businesses and Consumers: Applications and Innovations",
+        "paper_url": "https://doi.org/10.1145/3292500.3340398",
+        "paper_authors": [
+            "Ashok Srivastava"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AliGraph: A Comprehensive Graph Neural Network Platform",
+        "paper_url": "https://doi.org/10.1145/3292500.3340404",
+        "paper_authors": [
+            "Hongxia Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Analytics Journey Map: An Approach Enable to ML at Scale",
+        "paper_url": "https://doi.org/10.1145/3292500.3340402",
+        "paper_authors": [
+            "Ganesh Thondikulam"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Applications of AI/ML in Established and New Industries",
+        "paper_url": "https://doi.org/10.1145/3292500.3340403",
+        "paper_authors": [
+            "Hassan Sawaf"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Building a Better Self-Driving Car: Hardware, Software, and Knowledge",
+        "paper_url": "https://doi.org/10.1145/3292500.3340409",
+        "paper_authors": [
+            "Kumar Chellapilla"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Data Science Challenges @ LinkedIn",
+        "paper_url": "https://doi.org/10.1145/3292500.3340418",
+        "paper_authors": [
+            "Ya Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Earth Observations from a New Generation of Geostationary Satellites",
+        "paper_url": "https://doi.org/10.1145/3292500.3340413",
+        "paper_authors": [
+            "Ramakrishna R. Nemani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploiting High Dimensionality in Big Data",
+        "paper_url": "https://doi.org/10.1145/3292500.3340400",
+        "paper_authors": [
+            "David Heckerman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Facebook Disaster Maps: Aggregate Insights for Crisis Response & Recovery",
+        "paper_url": "https://doi.org/10.1145/3292500.3340412",
+        "paper_authors": [
+            "Paige Maas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Friends Don't Let Friends Deploy Black-Box Models: The Importance of Intelligibility in Machine Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3340414",
+        "paper_authors": [
+            "Richard Caruana"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "From Code to Data: AI at Scale for Developer Productivity",
+        "paper_url": "https://doi.org/10.1145/3292500.3340410",
+        "paper_authors": [
+            "Neel Sundaresan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Integrating Domain-Knowledge into Deep Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3340416",
+        "paper_authors": [
+            "Ruslan Salakhutdinov"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Preventing Rhino Poaching through Machine Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3340411",
+        "paper_authors": [
+            "Olga Liakhovich",
+            "Gabriel Dom\u00ednguez-Conde"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Product Ecosystem Optimization at LinkedIn",
+        "paper_url": "https://doi.org/10.1145/3292500.3340415",
+        "paper_authors": [
+            "R\u00f3mer Rosales"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Roll of Unified Graph Analysis Platforms",
+        "paper_url": "https://doi.org/10.1145/3292500.3340419",
+        "paper_authors": [
+            "Yinglong Xia"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Seven Years of Data Science at Airbnb",
+        "paper_url": "https://doi.org/10.1145/3292500.3340401",
+        "paper_authors": [
+            "Elena Grewal"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spinning the AI Pinwheel",
+        "paper_url": "https://doi.org/10.1145/3292500.3340405",
+        "paper_authors": [
+            "Jairam Ranganathan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards ML Engineering with TensorFlow Extended (TFX)",
+        "paper_url": "https://doi.org/10.1145/3292500.3340408",
+        "paper_authors": [
+            "Konstantinos Katsiapis",
+            "Kevin Haas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Transportation: A Data Driven Approach",
+        "paper_url": "https://doi.org/10.1145/3292500.3340406",
+        "paper_authors": [
+            "Jieping Ye"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Welfare Maximization in Online Two-sided Marketplaces",
+        "paper_url": "https://doi.org/10.1145/3292500.3340417",
+        "paper_authors": [
+            "Sreenivas Gollapudi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive Influence Maximization",
+        "paper_url": "https://doi.org/10.1145/3292500.3332285",
+        "paper_authors": [
+            "Bogdan Cautis",
+            "Silviu Maniu",
+            "Nikolaos Tziortziotis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Advances in Cost-sensitive Multiclass and Multilabel Classification",
+        "paper_url": "https://doi.org/10.1145/3292500.3332283",
+        "paper_authors": [
+            "Hsuan-Tien Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Challenges, Best Practices and Pitfalls in Evaluating Results of Online Controlled Experiments",
+        "paper_url": "https://doi.org/10.1145/3292500.3332297",
+        "paper_authors": [
+            "Xiaolin Shi",
+            "Pavel A. Dmitriev",
+            "Somit Gupta",
+            "Xin Fu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Constructing and Mining Heterogeneous Information Networks from Massive Text",
+        "paper_url": "https://doi.org/10.1145/3292500.3332275",
+        "paper_authors": [
+            "Jingbo Shang",
+            "Jiaming Shen",
+            "Liyuan Liu",
+            "Jiawei Han"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Data Integration and Machine Learning: A Natural Synergy",
+        "paper_url": "https://doi.org/10.1145/3292500.3332296",
+        "paper_authors": [
+            "Xin Luna Dong",
+            "Theodoros Rekatsinas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tutorial: Data Mining Methods for Drug Discovery and Development",
+        "paper_url": "https://doi.org/10.1145/3292500.3332273",
+        "paper_authors": [
+            "Cao Xiao",
+            "Jimeng Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Bayesian Mining, Learning and Understanding",
+        "paper_url": "https://doi.org/10.1145/3292500.3332267",
+        "paper_authors": [
+            "Jen-Tzung Chien"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Natural Language Processing for Search and Recommender Systems",
+        "paper_url": "https://doi.org/10.1145/3292500.3332290",
+        "paper_authors": [
+            "Weiwei Guo",
+            "Huiji Gao",
+            "Jun Shi",
+            "Bo Long",
+            "Liang Zhang",
+            "Bee-Chung Chen",
+            "Deepak Agarwal"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Reinforcement Learning with Applications in Transportation",
+        "paper_url": "https://doi.org/10.1145/3292500.3332299",
+        "paper_authors": [
+            "Zhiwei (Tony) Qin",
+            "Jian Tang",
+            "Jieping Ye"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Explainable AI in Industry",
+        "paper_url": "https://doi.org/10.1145/3292500.3332281",
+        "paper_authors": [
+            "Krishna Gade",
+            "Sahin Cem Geyik",
+            "Krishnaram Kenthapadi",
+            "Varun Mithal",
+            "Ankur Taly"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned",
+        "paper_url": "https://doi.org/10.1145/3292500.3332280",
+        "paper_authors": [
+            "Sarah Bird",
+            "Ben Hutchinson",
+            "Krishnaram Kenthapadi",
+            "Emre Kiciman",
+            "Margaret Mitchell"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fake News Research: Theories, Detection Strategies, and Open Problems",
+        "paper_url": "https://doi.org/10.1145/3292500.3332287",
+        "paper_authors": [
+            "Reza Zafarani",
+            "Xinyi Zhou",
+            "Kai Shu",
+            "Huan Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Forecasting Big Time Series: Theory and Practice",
+        "paper_url": "https://doi.org/10.1145/3292500.3332289",
+        "paper_authors": [
+            "Christos Faloutsos",
+            "Valentin Flunkert",
+            "Jan Gasthaus",
+            "Tim Januschowski",
+            "Yuyang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Foundations of Large-Scale Sequential Experimentation",
+        "paper_url": "https://doi.org/10.1145/3292500.3332282",
+        "paper_authors": [
+            "Aaditya Ramdas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Gold Panning from the Mess: Rare Category Exploration, Exposition, Representation, and Interpretation",
+        "paper_url": "https://doi.org/10.1145/3292500.3332268",
+        "paper_authors": [
+            "Dawei Zhou",
+            "Jingrui He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hypothesis Testing and Statistically-sound Pattern Mining",
+        "paper_url": "https://doi.org/10.1145/3292500.3332286",
+        "paper_authors": [
+            "Leonardo Pellegrina",
+            "Matteo Riondato",
+            "Fabio Vandin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Incompleteness in Networks: Biases, Skewed Results, and Some Solutions",
+        "paper_url": "https://doi.org/10.1145/3292500.3332276",
+        "paper_authors": [
+            "Tina Eliassi-Rad",
+            "Rajmonda Sulo Caceres",
+            "Timothy LaRock"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Interpretable Knowledge Discovery Reinforced by Visual Methods",
+        "paper_url": "https://doi.org/10.1145/3292500.3332278",
+        "paper_authors": [
+            "Boris Kovalerchuk"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning From Networks: Algorithms, Theory, and Applications",
+        "paper_url": "https://doi.org/10.1145/3292500.3332293",
+        "paper_authors": [
+            "Xiao Huang",
+            "Peng Cui",
+            "Yuxiao Dong",
+            "Jundong Li",
+            "Huan Liu",
+            "Jian Pei",
+            "Le Song",
+            "Jie Tang",
+            "Fei Wang",
+            "Hongxia Yang",
+            "Wenwu Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mining and Model Understanding on Medical Data",
+        "paper_url": "https://doi.org/10.1145/3292500.3332274",
+        "paper_authors": [
+            "Myra Spiliopoulou",
+            "Panagiotis Papapetrou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mining Temporal Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3332295",
+        "paper_authors": [
+            "Polina Rozenshtein",
+            "Aristides Gionis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Modeling and Applications for Temporal Point Processes",
+        "paper_url": "https://doi.org/10.1145/3292500.3332298",
+        "paper_authors": [
+            "Junchi Yan",
+            "Hongteng Xu",
+            "Liangda Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Modern MDL meets Data Mining Insights, Theory, and Practice",
+        "paper_url": "https://doi.org/10.1145/3292500.3332284",
+        "paper_authors": [
+            "Jilles Vreeken",
+            "Kenji Yamanishi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimizing the Wisdom of the Crowd: Inference, Learning, and Teaching",
+        "paper_url": "https://doi.org/10.1145/3292500.3332277",
+        "paper_authors": [
+            "Yao Zhou",
+            "Fenglong Ma",
+            "Jing Gao",
+            "Jingrui He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Recent Progress in Zeroth Order Optimization and Its Applications to Adversarial Robustness in Data Mining and Machine Learning",
+        "paper_url": "https://doi.org/10.1145/3292500.3332288",
+        "paper_authors": [
+            "Pin-Yu Chen",
+            "Sijia Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Social User Interest Mining: Methods and Applications",
+        "paper_url": "https://doi.org/10.1145/3292500.3332279",
+        "paper_authors": [
+            "Fattane Zarrinkalam",
+            "Hossein Fani",
+            "Ebrahim Bagheri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatio-temporal Event Forecasting and Precursor Identification",
+        "paper_url": "https://doi.org/10.1145/3292500.3332291",
+        "paper_authors": [
+            "Yue Ning",
+            "Liang Zhao",
+            "Feng Chen",
+            "Chang-Tien Lu",
+            "Huzefa Rangwala"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Statistical Mechanics Methods for Discovering Knowledge from Modern Production Quality Neural Networks",
+        "paper_url": "https://doi.org/10.1145/3292500.3332294",
+        "paper_authors": [
+            "Charles H. Martin",
+            "Michael W. Mahoney"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tutorial: Are You My Neighbor?: Bringing Order to Neighbor Computing Problems",
+        "paper_url": "https://doi.org/10.1145/3292500.3332292",
+        "paper_authors": [
+            "David C. Anastasiu",
+            "Huzefa Rangwala",
+            "Andrea Tagarelli"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

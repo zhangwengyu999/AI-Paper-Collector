@@ -1,0 +1,506 @@
+[
+    {
+        "paper_name": "21st USENIX Conference on File and Storage Technologies, FAST 2023, Santa Clara, CA, USA, February 21-23, 2023",
+        "paper_url": "https://www.usenix.org/conference/fast23",
+        "paper_authors": [
+            "Ashvin Goel",
+            "Dalit Naor"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3)",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/warfield",
+        "paper_authors": [
+            "Andy Warfield"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Practical Design Considerations for Wide Locally Recoverable Codes (LRCs)",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/kadekodi",
+        "paper_authors": [
+            "Saurabh Kadekodi",
+            "Shashwat Silas",
+            "David Clausen",
+            "Arif Merchant"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ParaRC: Embracing Sub-Packetization for Repair Parallelization in MSR-Coded Storage",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/li-xiaolu",
+        "paper_authors": [
+            "Xiaolu Li",
+            "Keyun Cheng",
+            "Kaicheng Tang",
+            "Patrick P. C. Lee",
+            "Yuchong Hu",
+            "Dan Feng",
+            "Jie Li",
+            "Ting-Yi Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "InftyDedup: Scalable and Cost-Effective Cloud Tiering with Deduplication",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/kotlarska",
+        "paper_authors": [
+            "Iwona Kotlarska",
+            "Andrzej Jackowski",
+            "Krzysztof Lichota",
+            "Michal Welnicki",
+            "Cezary Dubnicki",
+            "Konrad Iwanicki"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/lu",
+        "paper_authors": [
+            "Ruiming Lu",
+            "Erci Xu",
+            "Yiming Zhang",
+            "Fengyi Zhu",
+            "Zhaosheng Zhu",
+            "Mengtian Wang",
+            "Zongpeng Zhu",
+            "Guangtao Xue",
+            "Jiwu Shu",
+            "Minglu Li",
+            "Jiesheng Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ADOC: Automatically Harmonizing Dataflow Between Components in Log-Structured Key-Value Stores for Improved Performance",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/yu",
+        "paper_authors": [
+            "Jinghuan Yu",
+            "Sam H. Noh",
+            "Young-ri Choi",
+            "Chun Jason Xue"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FUSEE: A Fully Memory-Disaggregated Key-Value Store",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/shen",
+        "paper_authors": [
+            "Jiacheng Shen",
+            "Pengfei Zuo",
+            "Xuchuan Luo",
+            "Tianyi Yang",
+            "Yuxin Su",
+            "Yangfan Zhou",
+            "Michael R. Lyu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/li-pengfei",
+        "paper_authors": [
+            "Pengfei Li",
+            "Yu Hua",
+            "Pengfei Zuo",
+            "Zhangyu Chen",
+            "Jiajie Sheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GL-Cache: Group-level learning for efficient and high-performance caching",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/yang-juncheng",
+        "paper_authors": [
+            "Juncheng Yang",
+            "Ziming Mao",
+            "Yao Yue",
+            "K. V. Rashmi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SHADE: Enable Fundamental Cacheability for Distributed Deep Learning Training",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/khan",
+        "paper_authors": [
+            "Redwan Ibne Seraj Khan",
+            "Ahmad Hossein Yazdani",
+            "Yuqi Fu",
+            "Arnab K. Paul",
+            "Bo Ji",
+            "Xun Jian",
+            "Yue Cheng",
+            "Ali Raza Butt"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Intelligent Resource Scheduling for Co-located Latency-critical Services: A Multi-Model Collaborative Learning Approach",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/liu",
+        "paper_authors": [
+            "Lei Liu",
+            "Xinglei Dou",
+            "Yuetao Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CJFS: Concurrent Journaling for Better Scalability",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/oh",
+        "paper_authors": [
+            "Joontaek Oh",
+            "Seung Won Yoo",
+            "Hojin Nam",
+            "Changwoo Min",
+            "Youjip Won"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unsafe at Any Copy: Name Collisions from Mixing Case Sensitivities",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/basu",
+        "paper_authors": [
+            "Aditya Basu",
+            "John Sampson",
+            "Zhiyun Qian",
+            "Trent Jaeger"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ConfD: Analyzing Configuration Dependencies of File Systems for Fun and Profit",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/mahmud",
+        "paper_authors": [
+            "Tabassum Mahmud",
+            "Om Rameshwar Gatla",
+            "Duo Zhang",
+            "Carson Love",
+            "Ryan Bumann",
+            "Mai Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "HadaFS: A File System Bridging the Local and Shared Burst Buffer for Exascale Supercomputers",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/he",
+        "paper_authors": [
+            "Xiaobin He",
+            "Bin Yang",
+            "Jie Gao",
+            "Wei Xiao",
+            "Qi Chen",
+            "Shupeng Shi",
+            "Dexun Chen",
+            "Weiguo Liu",
+            "Wei Xue",
+            "Zuoning Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fisc: A Large-scale Cloud-native-oriented File System",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/li-qiang-fisc",
+        "paper_authors": [
+            "Qiang Li",
+            "Lulu Chen",
+            "Xiaoliang Wang",
+            "Shuo Huang",
+            "Qiao Xiang",
+            "Yuanyuan Dong",
+            "Wenhui Yao",
+            "Minfei Huang",
+            "Puyuan Yang",
+            "Shanyang Liu",
+            "Zhaosheng Zhu",
+            "Huayong Wang",
+            "Haonan Qiu",
+            "Derui Liu",
+            "Shaozong Liu",
+            "Yujie Zhou",
+            "Yaohui Wu",
+            "Zhiwu Wu",
+            "Shang Gao",
+            "Chao Han",
+            "Zicheng Luo",
+            "Yuchao Shao",
+            "Gexiao Tian",
+            "Zhongjie Wu",
+            "Zheng Cao",
+            "Jinbo Wu",
+            "Jiwu Shu",
+            "Jie Wu",
+            "Jiesheng Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TENET: Memory Safe and Fault Tolerant Persistent Transactional Memory",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/krishnan",
+        "paper_authors": [
+            "Madhava Krishnan Ramanathan",
+            "Diyu Zhou",
+            "Wook-Hee Kim",
+            "Sudarsun Kannan",
+            "Sanidhya Kashyap",
+            "Changwoo Min"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MadFS: Per-File Virtualization for Userspace Persistent Memory Filesystems",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/zhong",
+        "paper_authors": [
+            "Shawn Zhong",
+            "Chenhao Ye",
+            "Guanzhou Hu",
+            "Suyan Qu",
+            "Andrea C. Arpaci-Dusseau",
+            "Remzi H. Arpaci-Dusseau",
+            "Michael M. Swift"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On Stacking a Persistent Memory File System on Legacy File Systems",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/woo",
+        "paper_authors": [
+            "Hobin Woo",
+            "Daegyu Han",
+            "Seungjoon Ha",
+            "Sam H. Noh",
+            "Beomseok Nam"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Citron: Distributed Range Lock Management with One-sided RDMA",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/gao",
+        "paper_authors": [
+            "Jian Gao",
+            "Youyou Lu",
+            "Minhui Xie",
+            "Qing Wang",
+            "Jiwu Shu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Patronus: High-Performance and Protective Remote Memory",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/yan",
+        "paper_authors": [
+            "Bin Yan",
+            "Youyou Lu",
+            "Qing Wang",
+            "Minhui Xie",
+            "Jiwu Shu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "More Than Capacity: Performance-oriented Evolution of Pangu in Alibaba",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/li-qiang-deployed",
+        "paper_authors": [
+            "Qiang Li",
+            "Qiao Xiang",
+            "Yuxin Wang",
+            "Haohao Song",
+            "Ridi Wen",
+            "Wenhui Yao",
+            "Yuanyuan Dong",
+            "Shuqi Zhao",
+            "Shuo Huang",
+            "Zhaosheng Zhu",
+            "Huayong Wang",
+            "Shanyang Liu",
+            "Lulu Chen",
+            "Zhiwu Wu",
+            "Haonan Qiu",
+            "Derui Liu",
+            "Gexiao Tian",
+            "Chao Han",
+            "Shaozong Liu",
+            "Yaohui Wu",
+            "Zicheng Luo",
+            "Yuchao Shao",
+            "Junping Wu",
+            "Zheng Cao",
+            "Zhongjie Wu",
+            "Jiaji Zhu",
+            "Jinbo Wu",
+            "Jiwu Shu",
+            "Jiesheng Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "\u03bb-IO: A Unified IO Stack for Computational Storage",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/yang-zhe",
+        "paper_authors": [
+            "Zhe Yang",
+            "Youyou Lu",
+            "Xiaojian Liao",
+            "Youmin Chen",
+            "Junru Li",
+            "Siyu He",
+            "Jiwu Shu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Revitalizing the Forgotten On-Chip DMA to Expedite Data Movement in NVM-based Storage Systems",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/su",
+        "paper_authors": [
+            "Jingbo Su",
+            "Jiahao Li",
+            "Luofan Chen",
+            "Cheng Li",
+            "Kai Zhang",
+            "Liang Yang",
+            "Sam H. Noh",
+            "Yinlong Xu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "NVMeVirt: A Versatile Software-defined Virtual NVMe Device",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/kim-sang-hoon",
+        "paper_authors": [
+            "Sang-Hoon Kim",
+            "Jaehoon Shim",
+            "Euidong Lee",
+            "Seong-Yeob Jeong",
+            "Ilkueon Kang",
+            "Jin-Soo Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SMRSTORE: A Storage Engine for Cloud Object Storage on HM-SMR Drives",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/zhou",
+        "paper_authors": [
+            "Su Zhou",
+            "Erci Xu",
+            "Hao Wu",
+            "Yu Du",
+            "Jiacheng Cui",
+            "Wanyu Fu",
+            "Chang Liu",
+            "Yingni Wang",
+            "Wenbo Wang",
+            "Shouqu Sun",
+            "Xianfei Wang",
+            "Bo Feng",
+            "Biyun Zhu",
+            "Xin Tong",
+            "Weikang Kong",
+            "Linyan Liu",
+            "Zhongjie Wu",
+            "Jinbo Wu",
+            "Qingchao Luo",
+            "Jiesheng Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-view Feature-based SSD Failure Prediction: What, When, and Why",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/zhang",
+        "paper_authors": [
+            "Yuqi Zhang",
+            "Wenwen Hao",
+            "Ben Niu",
+            "Kangkang Liu",
+            "Shuyang Wang",
+            "Na Liu",
+            "Xing He",
+            "Yongwong Gwon",
+            "Chankyu Koh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Application Launch on Personal Computing/Communication Devices",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/ryu",
+        "paper_authors": [
+            "Junhee Ryu",
+            "Dongeun Lee",
+            "Kang G. Shin",
+            "Kyungtae Kang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Integrated Host-SSD Mapping Table Management for Improving User Experience of Smartphones",
+        "paper_url": "https://www.usenix.org/conference/fast23/presentation/kim-yoona",
+        "paper_authors": [
+            "Yoona Kim",
+            "Inhyuk Choi",
+            "Juhyung Park",
+            "Jaeheon Lee",
+            "Sungjin Lee",
+            "Jihong Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

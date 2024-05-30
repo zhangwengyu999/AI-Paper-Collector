@@ -1,0 +1,377 @@
+[
+    {
+        "paper_name": "17th USENIX Conference on File and Storage Technologies, FAST 2019, Boston, MA, February 25-28, 2019",
+        "paper_url": "https://www.usenix.org/conference/fast19",
+        "paper_authors": [
+            "Arif Merchant",
+            "Hakim Weatherspoon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reaping the performance of fast NVM storage with uDepot",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/kourtis",
+        "paper_authors": [
+            "Kornilios Kourtis",
+            "Nikolas Ioannou",
+            "Ioannis Koltsidas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Optimizing Systems for Byte-Addressable NVM by Reducing Bit Flipping",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/bittman",
+        "paper_authors": [
+            "Daniel Bittman",
+            "Darrell D. E. Long",
+            "Peter Alvaro",
+            "Ethan L. Miller"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Write-Optimized Dynamic Hashing for Persistent Memory",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/nam",
+        "paper_authors": [
+            "Moohyeon Nam",
+            "Hokeun Cha",
+            "Young-ri Choi",
+            "Sam H. Noh",
+            "Beomseok Nam"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Software Wear Management for Persistent Memories",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/gogte",
+        "paper_authors": [
+            "Vaibhav Gogte",
+            "William Wang",
+            "Stephan Diestelhorst",
+            "Aasheesh Kolli",
+            "Peter M. Chen",
+            "Satish Narayanasamy",
+            "Thomas F. Wenisch"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Storage Gardening: Using a Virtualization Layer for Efficient Defragmentation in the WAFL File System",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/kesavan",
+        "paper_authors": [
+            "Ram Kesavan",
+            "Matthew Curtis-Maury",
+            "Vinay Devadas",
+            "Kesari Mishra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pay Migration Tax to Homeland: Anchor-based Scalable Reference Counting for Multicores",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/jung",
+        "paper_authors": [
+            "Seokyong Jung",
+            "Jong-Bin Kim",
+            "Minsoo Ryu",
+            "Sooyong Kang",
+            "Hyungsoo Jung"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Speculative Encryption on GPU Applied to Cryptographic File Systems",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/eduardo",
+        "paper_authors": [
+            "Vandeir Eduardo",
+            "Luis Carlos Erpen De Bona",
+            "Wagner M. Nunan Zola"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sketching Volume Capacities in Deduplicated Storage",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/harnik",
+        "paper_authors": [
+            "Danny Harnik",
+            "Moshik Hershcovitch",
+            "Yosef Shatsky",
+            "Amir Epstein",
+            "Ronen I. Kat"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Finesse: Fine-Grained Feature Locality based Fast Resemblance Detection for Post-Deduplication Delta Compression",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/zhang",
+        "paper_authors": [
+            "Yucheng Zhang",
+            "Wen Xia",
+            "Dan Feng",
+            "Hong Jiang",
+            "Yu Hua",
+            "Qiang Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sliding Look-Back Window Assisted Data Chunk Rewriting for Improving Deduplication Restore Performance",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/cao",
+        "paper_authors": [
+            "Zhichao Cao",
+            "Shiyong Liu",
+            "Fenggang Wu",
+            "Guohua Wang",
+            "Bingzhe Li",
+            "David H. C. Du"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DistCache: Provable Load Balancing for Large-Scale Storage Systems with Distributed Caching",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/liu",
+        "paper_authors": [
+            "Zaoxing Liu",
+            "Zhihao Bai",
+            "Zhenming Liu",
+            "Xiaozhou Li",
+            "Changhoon Kim",
+            "Vladimir Braverman",
+            "Xin Jin",
+            "Ion Stoica"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GearDB: A GC-free Key-Value Store on HM-SMR Drives with Gear Compaction",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/yao",
+        "paper_authors": [
+            "Ting Yao",
+            "Jiguang Wan",
+            "Ping Huang",
+            "Yiwen Zhang",
+            "Zhiwen Liu",
+            "Changsheng Xie",
+            "Xubin He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SPEICHER: Securing LSM-based Key-Value Stores using Shielded Execution",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/bailleu",
+        "paper_authors": [
+            "Maurice Bailleu",
+            "J\u00f6rg Thalheim",
+            "Pramod Bhatotia",
+            "Christof Fetzer",
+            "Michio Honda",
+            "Kapil Vaswani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SLM-DB: Single-Level Key-Value Store with Persistent Memory",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/kaiyrakhmet",
+        "paper_authors": [
+            "Olzhas Kaiyrakhmet",
+            "Songyi Lee",
+            "Beomseok Nam",
+            "Sam H. Noh",
+            "Young-ri Choi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Ziggurat: A Tiered File System for Non-Volatile Main Memories and Disks",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/zheng",
+        "paper_authors": [
+            "Shengan Zheng",
+            "Morteza Hoseinzadeh",
+            "Steven Swanson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Orion: A Distributed File System for Non-Volatile Main Memory and RDMA-Capable Networks",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/yang",
+        "paper_authors": [
+            "Jian Yang",
+            "Joseph Izraelevitz",
+            "Steven Swanson"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "INSTalytics: Cluster Filesystem Co-design for Big-data Analytics",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/sivathanu",
+        "paper_authors": [
+            "Muthian Sivathanu",
+            "Midhul Vuppalapati",
+            "Bhargav S. Gulavani",
+            "Kaushik Rajan",
+            "Jyoti Leeka",
+            "Jayashree Mohan",
+            "Piyus Kedia"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GraphOne: A Data Store for Real-time Analytics on Evolving Graphs",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/kumar",
+        "paper_authors": [
+            "Pradeep Kumar",
+            "H. Howie Huang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automatic, Application-Aware I/O Forwarding Resource Allocation",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/ji",
+        "paper_authors": [
+            "Xu Ji",
+            "Bin Yang",
+            "Tianyu Zhang",
+            "Xiaosong Ma",
+            "Xiupeng Zhu",
+            "Xiyang Wang",
+            "Nosayba El-Sayed",
+            "Jidong Zhai",
+            "Weiguo Liu",
+            "Wei Xue"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Design Tradeoffs for SSD Reliability",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/kim-bryan",
+        "paper_authors": [
+            "Bryan S. Kim",
+            "Jongmoo Choi",
+            "Sang Lyul Min"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fully Automatic Stream Management for Multi-Streamed SSDs Using Program Contexts",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/kim-taejin",
+        "paper_authors": [
+            "Taejin Kim",
+            "Duwon Hong",
+            "Sangwook Shane Hahn",
+            "Myoungjun Chun",
+            "Sungjin Lee",
+            "Joo Young Hwang",
+            "Jongyoul Lee",
+            "Jihong Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Large-Scale Graph Processing on Emerging Storage Devices",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/elyasi",
+        "paper_authors": [
+            "Nima Elyasi",
+            "Changho Choi",
+            "Anand Sivasubramaniam"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast Erasure Coding for Data Storage: A Comprehensive Study of the Acceleration Techniques",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/zhou",
+        "paper_authors": [
+            "Tianli Zhou",
+            "Chao Tian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "OpenEC: Toward Unified and Configurable Erasure Coding Management in Distributed Storage Systems",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/li",
+        "paper_authors": [
+            "Xiaolu Li",
+            "Runhui Li",
+            "Patrick P. C. Lee",
+            "Yuchong Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cluster storage systems gotta have HeART: improving storage efficiency by exploiting disk-reliability heterogeneity",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/kadekodi",
+        "paper_authors": [
+            "Saurabh Kadekodi",
+            "K. V. Rashmi",
+            "Gregory R. Ganger"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ScaleCheck: A Single-Machine Approach for Discovering Scalability Bugs in Large Distributed Systems",
+        "paper_url": "https://www.usenix.org/conference/fast19/presentation/stuardo",
+        "paper_authors": [
+            "Cesar A. Stuardo",
+            "Tanakorn Leesatapornwongsa",
+            "Riza O. Suminto",
+            "Huan Ke",
+            "Jeffrey F. Lukman",
+            "Wei-Chiu Chuang",
+            "Shan Lu",
+            "Haryadi S. Gunawi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

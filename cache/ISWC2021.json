@@ -1,0 +1,583 @@
+[
+    {
+        "paper_name": "The Semantic Web - ISWC 2021 - 20th International Semantic Web Conference, ISWC 2021, Virtual Event, October 24-28, 2021, Proceedings",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4",
+        "paper_authors": [
+            "Andreas Hotho",
+            "Eva Blomqvist",
+            "Stefan Dietze",
+            "Achille Fokoue",
+            "Ying Ding",
+            "Payam M. Barnaghi",
+            "Armin Haller",
+            "Mauro Dragoni",
+            "Harith Alani"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PCSG: Pattern-Coverage Snippet Generation for RDF Datasets",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_1",
+        "paper_authors": [
+            "Xiaxia Wang",
+            "Gong Cheng",
+            "Tengteng Lin",
+            "Jing Xu",
+            "Jeff Z. Pan",
+            "Evgeny Kharlamov",
+            "Yuzhong Qu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Source-to-Target Constraint Rewriting for Direct Mapping",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_2",
+        "paper_authors": [
+            "Ratan Bahadur Thapa",
+            "Martin Giese"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning to Predict the Departure Dynamics of Wikidata Editors",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_3",
+        "paper_authors": [
+            "Guangyuan Piao",
+            "Weip\u00e9ng Hu\u00e1ng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Neural Schema Alignment for OpenStreetMap and Knowledge Graphs",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_4",
+        "paper_authors": [
+            "Alishiba Dsouza",
+            "Nicolas Tempelmeier",
+            "Elena Demidova"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Inductive Link Prediction Using Hyper-relational Facts",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_5",
+        "paper_authors": [
+            "Mehdi Ali",
+            "Max Berrendorf",
+            "Mikhail Galkin",
+            "Veronika Thost",
+            "Tengfei Ma",
+            "Volker Tresp",
+            "Jens Lehmann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Large-Scale Multi-granular Concept Extraction Based on Machine Reading Comprehension",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_6",
+        "paper_authors": [
+            "Siyu Yuan",
+            "Deqing Yang",
+            "Jiaqing Liang",
+            "Jilun Sun",
+            "Jingyue Huang",
+            "Kaiyan Cao",
+            "Yanghua Xiao",
+            "Rui Xie"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Graphhopper: Multi-hop Scene Graph Reasoning for Visual Question Answering",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_7",
+        "paper_authors": [
+            "Rajat Koner",
+            "Hang Li",
+            "Marcel Hildebrandt",
+            "Deepan Das",
+            "Volker Tresp",
+            "Stephan G\u00fcnnemann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "EDG-Based Question Decomposition for Complex Question Answering over Knowledge Bases",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_8",
+        "paper_authors": [
+            "Xixin Hu",
+            "Yiheng Shu",
+            "Xiang Huang",
+            "Yuzhong Qu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Zero-Shot Visual Question Answering Using Knowledge Graph",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_9",
+        "paper_authors": [
+            "Zhuo Chen",
+            "Jiaoyan Chen",
+            "Yuxia Geng",
+            "Jeff Z. Pan",
+            "Zonggang Yuan",
+            "Huajun Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning to Recommend Items to Wikidata Editors",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_10",
+        "paper_authors": [
+            "Kholoud Alghamdi",
+            "Miaojing Shi",
+            "Elena Simperl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Graph-Boosted Active Learning for Multi-source Entity Resolution",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_11",
+        "paper_authors": [
+            "Anna Primpeli",
+            "Christian Bizer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Computing CQ Lower-Bounds over OWL 2 Through Approximation to RSA",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_12",
+        "paper_authors": [
+            "Federico Igne",
+            "Stefano Germano",
+            "Ian Horrocks"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fast ObjectRank for Large Knowledge Databases",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_13",
+        "paper_authors": [
+            "Hiroaki Shiokawa"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Open Domain Question Answering over Knowledge Graphs Using Keyword Search, Answer Type Prediction, SPARQL and Pre-trained Neural Models",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_14",
+        "paper_authors": [
+            "Christos Nikas",
+            "Pavlos Fafalios",
+            "Yannis Tzitzikas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Automatically Extracting OWL Versions of FOL Ontologies",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_15",
+        "paper_authors": [
+            "Torsten Hahmann",
+            "Robert W. Powell II"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Using Compositional Embeddings for Fact Checking",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_16",
+        "paper_authors": [
+            "Ana Alexandra Morim da Silva",
+            "Michael R\u00f6der",
+            "Axel-Cyrille Ngonga Ngomo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Background Knowledge in Schema Matching: Strategy vs. Data",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_17",
+        "paper_authors": [
+            "Jan Portisch",
+            "Michael Hladik",
+            "Heiko Paulheim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Graph-Based Approach for Inferring Semantic Descriptions of Wikipedia Tables",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_18",
+        "paper_authors": [
+            "Binh Vu",
+            "Craig A. Knoblock",
+            "Pedro A. Szekely",
+            "Minh Pham",
+            "Jay Pujara"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generative Relation Linking for Question Answering over Knowledge Bases",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_19",
+        "paper_authors": [
+            "Gaetano Rossiello",
+            "Nandana Mihindukulasooriya",
+            "Ibrahim Abdelaziz",
+            "Mihaela A. Bornea",
+            "Alfio Gliozzo",
+            "Tahira Naseem",
+            "Pavan Kapanipathi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dataset or Not? A Study on the Veracity of Semantic Markup for Dataset Pages",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_20",
+        "paper_authors": [
+            "Tarfah Alrashed",
+            "Dimitris Paparas",
+            "Omar Benjelloun",
+            "Ying Sheng",
+            "Natasha F. Noy"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Visual Models Using a Knowledge Graph as a Trainer",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_21",
+        "paper_authors": [
+            "Sebastian Monka",
+            "Lavdim Halilaj",
+            "Stefan Schmid",
+            "Achim Rettinger"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Controlled Query Evaluation over Prioritized Ontologies with Expressive Data Protection Policies",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_22",
+        "paper_authors": [
+            "Gianluca Cima",
+            "Domenico Lembo",
+            "Lorenzo Marconi",
+            "Riccardo Rosati",
+            "Domenico Fabio Savo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ProGS: Property Graph Shapes Language",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_23",
+        "paper_authors": [
+            "Philipp Seifer",
+            "Ralf L\u00e4mmel",
+            "Steffen Staab"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Improving Knowledge Graph Embeddings with Ontological Reasoning",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_24",
+        "paper_authors": [
+            "Nitisha Jain",
+            "Trung-Kien Tran",
+            "Mohamed H. Gad-Elrab",
+            "Daria Stepanova"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CKGG: A Chinese Knowledge Graph for High-School Geography Education and Beyond",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_25",
+        "paper_authors": [
+            "Yulin Shen",
+            "Ziheng Chen",
+            "Gong Cheng",
+            "Yuzhong Qu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A High-Level Ontology Network for ICT Infrastructures",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_26",
+        "paper_authors": [
+            "\u00d3scar Corcho",
+            "David Chaves-Fraga",
+            "Jhon Toledo",
+            "Juli\u00e1n Arenas-Guerrero",
+            "Carlos Badenes-Olmedo",
+            "Mingxue Wang",
+            "Hu Peng",
+            "Nicholas Burrett",
+            "Jose Mora",
+            "Puchao Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Chimera: A Bridge Between Big Data Analytics and Semantic Technologies",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_27",
+        "paper_authors": [
+            "Matteo Belcao",
+            "Emanuele Falzone",
+            "Enea Bionda",
+            "Emanuele Della Valle"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scalable Transformation of Big Geospatial Data into Linked Data",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_28",
+        "paper_authors": [
+            "George M. Mandilaras",
+            "Manolis Koubarakis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AgroLD: A Knowledge Graph for the Plant Sciences",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_29",
+        "paper_authors": [
+            "Pierre Larmande",
+            "Konstantin Todorov"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LiterallyWikidata - A Benchmark for Knowledge Graph Completion Using Literals",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_30",
+        "paper_authors": [
+            "Genet Asefa Gesese",
+            "Mehwish Alam",
+            "Harald Sack"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Framework for Quality Assessment of Semantic Annotations of Tabular Data",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_31",
+        "paper_authors": [
+            "Roberto Avogadro",
+            "Marco Cremaschi",
+            "Ernesto Jim\u00e9nez-Ruiz",
+            "Anisa Rula"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "EduCOR: An Educational and Career-Oriented Recommendation Ontology",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_32",
+        "paper_authors": [
+            "Eleni Ilkou",
+            "Hasan Abu-Rasheed",
+            "MohammadReza Tavakoli",
+            "Sherzod Hakimov",
+            "G\u00e1bor Kismih\u00f3k",
+            "S\u00f6ren Auer",
+            "Wolfgang Nejdl"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Punya Platform: Building Mobile Research Apps with Linked Data and Semantic Features",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_33",
+        "paper_authors": [
+            "Evan W. Patton",
+            "William Van Woensel",
+            "Oshani Seneviratne",
+            "Giuseppe Loseto",
+            "Floriano Scioscia",
+            "Lalana Kagal"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BEEO: Semantic Support forEvent-Based Data Analytics",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_34",
+        "paper_authors": [
+            "Michele Ciavotta",
+            "Vincenzo Cutrona",
+            "Flavio De Paoli",
+            "Matteo Palmonari",
+            "Blerina Spahiu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rail Topology Ontology: A Rail Infrastructure Base Ontology",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_35",
+        "paper_authors": [
+            "Stefan Bischof",
+            "Gottfried Schenner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mapping Manuscript Migrations on the Semantic Web: A Semantic Portal and Linked Open Data Service for Premodern Manuscript Research",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_36",
+        "paper_authors": [
+            "Eero Hyv\u00f6nen",
+            "Esko Ikkala",
+            "Mikko Koho",
+            "Jouni Tuominen",
+            "Toby Burrows",
+            "Lynn Ransom",
+            "Hanno Wijsman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Wikibase as an Infrastructure for Knowledge Graphs: The EU Knowledge Graph",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_37",
+        "paper_authors": [
+            "Dennis Diefenbach",
+            "Max De Wilde",
+            "Samantha Alipio"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Leveraging Semantic Technologies for Digital Interoperability in the European Railway Domain",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_38",
+        "paper_authors": [
+            "Juli\u00e1n Andr\u00e9s Rojas",
+            "Marina Aguado",
+            "Polymnia Vasilopoulou",
+            "Ivo Velitchkov",
+            "Dylan Van Assche",
+            "Pieter Colpaert",
+            "Ruben Verborgh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Use of Semantic Technologies to Inform Progress Toward Zero-Carbon Economy",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_39",
+        "paper_authors": [
+            "Stefano Germano",
+            "Carla Saunders",
+            "Ian Horrocks",
+            "Rick Lupton"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Semantic Interoperability inHistorical Research: Documenting Research Data and Knowledge withSynthesis",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_40",
+        "paper_authors": [
+            "Pavlos Fafalios",
+            "Konstantina Konsolaki",
+            "Lida Charami",
+            "Kostas Petrakis",
+            "Manos Paterakis",
+            "Dimitris Angelakis",
+            "Yannis Tzitzikas",
+            "Chrysoula Bekiari",
+            "Martin Doerr"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "On Constructing Enterprise Knowledge Graphs Under Quality and Availability Constraints",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_41",
+        "paper_authors": [
+            "Matthew Kujawinski",
+            "Christophe Gu\u00e9ret",
+            "Chandan Kumar",
+            "Brennan Woods",
+            "Pavel Klinov",
+            "Evren Sirin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Reconciling and Using Historical Person Registers as Linked Open Data in the AcademySampo Portal and Data Service",
+        "paper_url": "https://doi.org/10.1007/978-3-030-88361-4_42",
+        "paper_authors": [
+            "Petri Leskinen",
+            "Eero Hyv\u00f6nen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

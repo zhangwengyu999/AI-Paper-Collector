@@ -1,0 +1,595 @@
+[
+    {
+        "paper_name": "Computer Vision - ECCV 2022 - 17th European Conference, Tel Aviv, Israel, October 23-27, 2022, Proceedings, Part XXXIX",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7",
+        "paper_authors": [
+            "Shai Avidan",
+            "Gabriel J. Brostow",
+            "Moustapha Ciss\u00e9",
+            "Giovanni Maria Farinella",
+            "Tal Hassner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Lane Detection Transformer Based on Multi-frame Horizontal and Vertical Attention and Visual Transformer Module",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_1",
+        "paper_authors": [
+            "Han Zhang",
+            "Yunchao Gu",
+            "Xinliang Wang",
+            "Junjun Pan",
+            "Minghui Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "ProposalContrast: Unsupervised Pre-training for LiDAR-Based 3D Object Detection",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_2",
+        "paper_authors": [
+            "Junbo Yin",
+            "Dingfu Zhou",
+            "Liangjun Zhang",
+            "Jin Fang",
+            "Cheng-Zhong Xu",
+            "Jianbing Shen",
+            "Wenguan Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "PreTraM: Self-supervised Pre-training via Connecting Trajectory and Map",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_3",
+        "paper_authors": [
+            "Chenfeng Xu",
+            "Tian Li",
+            "Chen Tang",
+            "Lingfeng Sun",
+            "Kurt Keutzer",
+            "Masayoshi Tomizuka",
+            "Alireza Fathi",
+            "Wei Zhan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Master of All: Simultaneous Generalization of Urban-Scene Segmentation to All Adverse Weather Conditions",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_4",
+        "paper_authors": [
+            "Nikhil Reddy",
+            "Abhinav Singhal",
+            "Abhishek Kumar",
+            "Mahsa Baktashmotlagh",
+            "Chetan Arora"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LESS: Label-Efficient Semantic Segmentation for LiDAR Point Clouds",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_5",
+        "paper_authors": [
+            "Minghua Liu",
+            "Yin Zhou",
+            "Charles R. Qi",
+            "Boqing Gong",
+            "Hao Su",
+            "Dragomir Anguelov"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Visual Cross-View Metric Localization with Dense Uncertainty Estimates",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_6",
+        "paper_authors": [
+            "Zimin Xia",
+            "Olaf Booij",
+            "Marco Manfredi",
+            "Julian F. P. Kooij"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_7",
+        "paper_authors": [
+            "Runsheng Xu",
+            "Hao Xiang",
+            "Zhengzhong Tu",
+            "Xin Xia",
+            "Ming-Hsuan Yang",
+            "Jiaqi Ma"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DevNet: Self-supervised Monocular Depth Learning via Density Volume Construction",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_8",
+        "paper_authors": [
+            "Kaichen Zhou",
+            "Lanqing Hong",
+            "Changhao Chen",
+            "Hang Xu",
+            "Chaoqiang Ye",
+            "Qingyong Hu",
+            "Zhenguo Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Action-Based Contrastive Learning for Trajectory Prediction",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_9",
+        "paper_authors": [
+            "Marah Halawa",
+            "Olaf Hellwich",
+            "Pia Bideau"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Radatron: Accurate Detection Using Multi-resolution Cascaded MIMO Radar",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_10",
+        "paper_authors": [
+            "Sohrab Madani",
+            "Jayden Guan",
+            "Waleed Ahmed",
+            "Saurabh Gupta",
+            "Haitham Hassanieh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_11",
+        "paper_authors": [
+            "Yi Wei",
+            "Zibu Wei",
+            "Yongming Rao",
+            "Jiaxin Li",
+            "Jie Zhou",
+            "Jiwen Lu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Point Cloud Segmentation with Geometry-Aware Sparse Networks",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_12",
+        "paper_authors": [
+            "Maosheng Ye",
+            "Rui Wan",
+            "Shuangjie Xu",
+            "Tongyi Cao",
+            "Qifeng Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FH-Net: A Fast Hierarchical Network for Scene Flow Estimation on Real-World Point Clouds",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_13",
+        "paper_authors": [
+            "Lihe Ding",
+            "Shaocong Dong",
+            "Tingfa Xu",
+            "Xinli Xu",
+            "Jie Wang",
+            "Jianan Li"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SpatialDETR: Robust Scalable Transformer-Based 3D Object Detection From Multi-view Camera Images With Global Cross-Sensor Attention",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_14",
+        "paper_authors": [
+            "Simon Doll",
+            "Richard Schulz",
+            "Lukas Schneider",
+            "Viviane Benzin",
+            "Markus Enzweiler",
+            "Hendrik P. A. Lensch"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pixel-Wise Energy-Biased Abstention Learning for Anomaly Segmentation on Complex Urban Driving Scenes",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_15",
+        "paper_authors": [
+            "Yu Tian",
+            "Yuyuan Liu",
+            "Guansong Pang",
+            "Fengbei Liu",
+            "Yuanhong Chen",
+            "Gustavo Carneiro"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rethinking Closed-Loop Training for Autonomous Driving",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_16",
+        "paper_authors": [
+            "Chris Zhang",
+            "Runsheng Guo",
+            "Wenyuan Zeng",
+            "Yuwen Xiong",
+            "Binbin Dai",
+            "Rui Hu",
+            "Mengye Ren",
+            "Raquel Urtasun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SLiDE: Self-supervised LiDAR De-snowing Through Reconstruction Difficulty",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_17",
+        "paper_authors": [
+            "Gwangtak Bae",
+            "Byungjun Kim",
+            "Seongyong Ahn",
+            "Jihong Min",
+            "Inwook Shim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generative Meta-Adversarial Network for Unseen Object Navigation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_18",
+        "paper_authors": [
+            "Sixian Zhang",
+            "Weijie Li",
+            "Xinhang Song",
+            "Yubing Bai",
+            "Shuqiang Jiang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Object Manipulation via Visual Target Localization",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_19",
+        "paper_authors": [
+            "Kiana Ehsani",
+            "Ali Farhadi",
+            "Aniruddha Kembhavi",
+            "Roozbeh Mottaghi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MoDA: Map Style Transfer for Self-supervised Domain Adaptation of Embodied Agents",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_20",
+        "paper_authors": [
+            "Eun Sun Lee",
+            "Junho Kim",
+            "SangWon Park",
+            "Young Min Kim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Housekeep: Tidying Virtual Households Using Commonsense Reasoning",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_21",
+        "paper_authors": [
+            "Yash Kant",
+            "Arun Ramachandran",
+            "Sriram Yenamandra",
+            "Igor Gilitschenski",
+            "Dhruv Batra",
+            "Andrew Szot",
+            "Harsh Agrawal"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Objects",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_22",
+        "paper_authors": [
+            "Qiyu Dai",
+            "Jiyao Zhang",
+            "Qiwei Li",
+            "Tianhao Wu",
+            "Hao Dong",
+            "Ziyuan Liu",
+            "Ping Tan",
+            "He Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Resolving Copycat Problems in Visual Imitation Learning via Residual Action Prediction",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_23",
+        "paper_authors": [
+            "Chia-Chi Chuang",
+            "Donglin Yang",
+            "Chuan Wen",
+            "Yang Gao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "OPD: Single-View 3D Openable Part Detection",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_24",
+        "paper_authors": [
+            "Hanxiao Jiang",
+            "Yongsen Mao",
+            "Manolis Savva",
+            "Angel X. Chang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "AirDet: Few-Shot Detection Without Fine-Tuning for Autonomous Exploration",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_25",
+        "paper_authors": [
+            "Bowen Li",
+            "Chen Wang",
+            "Pranay Reddy",
+            "Seungchan Kim",
+            "Sebastian A. Scherer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TransGrasp: Grasp Pose Estimation of a Category of Objects by Transferring Grasps from Only One Labeled Instance",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_26",
+        "paper_authors": [
+            "Hongtao Wen",
+            "Jianhang Yan",
+            "Wanli Peng",
+            "Yi Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "StARformer: Transformer with State-Action-Reward Representations for Visual Reinforcement Learning",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_27",
+        "paper_authors": [
+            "Jinghuan Shang",
+            "Kumara Kahatapitiya",
+            "Xiang Li",
+            "Michael S. Ryoo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "TIDEE: Tidying Up Novel Rooms Using Visuo-Semantic Commonsense Priors",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_28",
+        "paper_authors": [
+            "Gabriel Sarch",
+            "Zhaoyuan Fang",
+            "Adam W. Harley",
+            "Paul Schydlo",
+            "Michael J. Tarr",
+            "Saurabh Gupta",
+            "Katerina Fragkiadaki"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Efficient Multi-agent Cooperative Visual Exploration",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_29",
+        "paper_authors": [
+            "Chao Yu",
+            "Xinyi Yang",
+            "Jiaxuan Gao",
+            "Huazhong Yang",
+            "Yu Wang",
+            "Yi Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Zero-Shot Category-Level Object Pose Estimation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_30",
+        "paper_authors": [
+            "Walter Goodwin",
+            "Sagar Vaze",
+            "Ioannis Havoutis",
+            "Ingmar Posner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sim-to-Real 6D Object Pose Estimation via Iterative Self-training for Robotic Bin Picking",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_31",
+        "paper_authors": [
+            "Kai Chen",
+            "Rui Cao",
+            "Stephen James",
+            "Yichuan Li",
+            "Yun-Hui Liu",
+            "Pieter Abbeel",
+            "Qi Dou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Active Audio-Visual Separation of Dynamic Sound Sources",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_32",
+        "paper_authors": [
+            "Sagnik Majumder",
+            "Kristen Grauman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DexMV: Imitation Learning for Dexterous Manipulation from Human Videos",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_33",
+        "paper_authors": [
+            "Yuzhe Qin",
+            "Yueh-Hua Wu",
+            "Shaowei Liu",
+            "Hanwen Jiang",
+            "Ruihan Yang",
+            "Yang Fu",
+            "Xiaolong Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Sim-2-Sim Transfer for Vision-and-Language Navigation in Continuous Environments",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_34",
+        "paper_authors": [
+            "Jacob Krantz",
+            "Stefan Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Style-Agnostic Reinforcement Learning",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_35",
+        "paper_authors": [
+            "Juyong Lee",
+            "Seokjun Ahn",
+            "Jaesik Park"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Self-supervised Interactive Object Segmentation Through a Singulation-and-Grasping Approach",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_36",
+        "paper_authors": [
+            "Houjian Yu",
+            "Changhyun Choi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning from Unlabeled 3D Environments for Vision-and-Language Navigation",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_37",
+        "paper_authors": [
+            "Shizhe Chen",
+            "Pierre-Louis Guhur",
+            "Makarand Tapaswi",
+            "Cordelia Schmid",
+            "Ivan Laptev"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_38",
+        "paper_authors": [
+            "Dorian Henning",
+            "Tristan Laidlow",
+            "Stefan Leutenegger"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "FusionVAE: A Deep Hierarchical Variational Autoencoder for RGB Image Fusion",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_39",
+        "paper_authors": [
+            "Fabian Duffhauss",
+            "Ngo Anh Vien",
+            "Hanna Ziesche",
+            "Gerhard Neumann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Algebraic Representation for Systematic Generalization in Abstract Reasoning",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_40",
+        "paper_authors": [
+            "Chi Zhang",
+            "Sirui Xie",
+            "Baoxiong Jia",
+            "Ying Nian Wu",
+            "Song-Chun Zhu",
+            "Yixin Zhu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Video Dialog as Conversation About Objects Living in Space-Time",
+        "paper_url": "https://doi.org/10.1007/978-3-031-19842-7_41",
+        "paper_authors": [
+            "Hoang-Anh Pham",
+            "Thao Minh Le",
+            "Vuong Le",
+            "Tu Minh Phuong",
+            "Truyen Tran"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]

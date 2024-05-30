@@ -1,0 +1,2075 @@
+[
+    {
+        "paper_name": "ARBEE: Towards Automated Recognition of Bodily Expression of Emotion in the Wild",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01215-y",
+        "paper_authors": [
+            "Yu Luo",
+            "Jianbo Ye",
+            "Reginald B. Adams Jr.",
+            "Jia Li",
+            "Michelle G. Newman",
+            "James Z. Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Synchronization Problems in Computer Vision with Closed-Form Solutions",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01240-x",
+        "paper_authors": [
+            "Federica Arrigoni",
+            "Andrea Fusiello"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Attentional Aggregation of Deep Feature Sets for Multi-view 3D Reconstruction",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01217-w",
+        "paper_authors": [
+            "Bo Yang",
+            "Sen Wang",
+            "Andrew Markham",
+            "Niki Trigoni"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Temporal Action Detection with Structured Segment Networks",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01211-2",
+        "paper_authors": [
+            "Yue Zhao",
+            "Yuanjun Xiong",
+            "Limin Wang",
+            "Zhirong Wu",
+            "Xiaoou Tang",
+            "Dahua Lin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tracking Persons-of-Interest via Unsupervised Representation Adaptation",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01212-1",
+        "paper_authors": [
+            "Shun Zhang",
+            "Jia-Bin Huang",
+            "Jongwoo Lim",
+            "Yihong Gong",
+            "Jinjun Wang",
+            "Narendra Ahuja",
+            "Ming-Hsuan Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Shape-From-Template with Curves",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01214-z",
+        "paper_authors": [
+            "Mathias Gallardo",
+            "Daniel Pizarro",
+            "Toby Collins",
+            "Adrien Bartoli"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Classifier and Exemplar Synthesis for Zero-Shot Learning",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01193-1",
+        "paper_authors": [
+            "Soravit Changpinyo",
+            "Wei-Lun Chao",
+            "Boqing Gong",
+            "Fei Sha"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bi-Real Net: Binarizing Deep Network Towards Real-Network Performance",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01227-8",
+        "paper_authors": [
+            "Zechun Liu",
+            "Wenhan Luo",
+            "Baoyuan Wu",
+            "Xin Yang",
+            "Wei Liu",
+            "Kwang-Ting Cheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Predicting Intentions from Motion: The Subject-Adversarial Adaptation Approach",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01234-9",
+        "paper_authors": [
+            "Andrea Zunino",
+            "Jacopo Cavazza",
+            "Riccardo Volpi",
+            "Pietro Morerio",
+            "Andrea Cavallo",
+            "Cristina Becchio",
+            "Vittorio Murino"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Single Image Dehazing via Multi-scale Convolutional Neural Networks with Holistic Edges",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01235-8",
+        "paper_authors": [
+            "Wenqi Ren",
+            "Jinshan Pan",
+            "Hua Zhang",
+            "Xiaochun Cao",
+            "Ming-Hsuan Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Learning for Generic Object Detection: A Survey",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01247-4",
+        "paper_authors": [
+            "Li Liu",
+            "Wanli Ouyang",
+            "Xiaogang Wang",
+            "Paul W. Fieguth",
+            "Jie Chen",
+            "Xinwang Liu",
+            "Matti Pietik\u00e4inen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semantically Coherent 4D Scene Flow of Dynamic Scenes",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01241-w",
+        "paper_authors": [
+            "Armin Mustafa",
+            "Adrian Hilton"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01228-7",
+        "paper_authors": [
+            "Ramprasaath R. Selvaraju",
+            "Michael Cogswell",
+            "Abhishek Das",
+            "Ramakrishna Vedantam",
+            "Devi Parikh",
+            "Dhruv Batra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Dual L1-Normalized Context Aware Tensor Power Iteration and Its Applications to Multi-object Tracking and Multi-graph Matching",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01231-y",
+        "paper_authors": [
+            "Weiming Hu",
+            "Xinchu Shi",
+            "Zongwei Zhou",
+            "Junliang Xing",
+            "Haibin Ling",
+            "Stephen J. Maybank"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semantic Image Networks for Human Action Recognition",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01248-3",
+        "paper_authors": [
+            "Sunder Ali Khowaja",
+            "Seok-Lyong Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Insights into Convolutional Networks for Video Recognition",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01225-w",
+        "paper_authors": [
+            "Christoph Feichtenhofer",
+            "Axel Pinz",
+            "Richard P. Wildes",
+            "Andrew Zisserman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Corner Detection Using Multi-directional Structure Tensor with Multiple Scales",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01257-2",
+        "paper_authors": [
+            "Weichuan Zhang",
+            "Changming Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Recognizing Profile Faces by Imagining Frontal View",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01252-7",
+        "paper_authors": [
+            "Jian Zhao",
+            "Junliang Xing",
+            "Lin Xiong",
+            "Shuicheng Yan",
+            "Jiashi Feng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adaptive Importance Learning for Improving Lightweight Image Super-Resolution Network",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01253-6",
+        "paper_authors": [
+            "Lei Zhang",
+            "Peng Wang",
+            "Chunhua Shen",
+            "Lingqiao Liu",
+            "Wei Wei",
+            "Yanning Zhang",
+            "Anton van den Hengel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hallucinating Unaligned Face Images by Multiscale Transformative Discriminative Networks",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01254-5",
+        "paper_authors": [
+            "Xin Yu",
+            "Fatih Porikli",
+            "Basura Fernando",
+            "Richard Hartley"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SceneFlowFields++: Multi-frame Matching, Visibility Prediction, and Robust Interpolation for Scene Flow Estimation",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01258-1",
+        "paper_authors": [
+            "Ren\u00e9 Schuster",
+            "Oliver Wasenm\u00fcller",
+            "Christian Unger",
+            "Georg Kuschk",
+            "Didier Stricker"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Statistical Modeling of Craniofacial Shape and Texture",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01260-7",
+        "paper_authors": [
+            "Hang Dai",
+            "Nick E. Pears",
+            "William A. P. Smith",
+            "Christian Duncan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Special Issue: Advances in Architectures and Theories for Computer Vision",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01289-8",
+        "paper_authors": [
+            "Yair Weiss",
+            "Vittorio Ferrari",
+            "Cristian Sminchisescu",
+            "Martial Hebert"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Robust Fitting in Computer Vision: Easy or Hard?",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01207-y",
+        "paper_authors": [
+            "Tat-Jun Chin",
+            "Zhipeng Cai",
+            "Frank Neumann"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning SO(3) Equivariant Representations with Spherical CNNs",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01220-1",
+        "paper_authors": [
+            "Carlos Esteves",
+            "Christine Allen-Blanchette",
+            "Ameesh Makadia",
+            "Kostas Daniilidis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "EKLT: Asynchronous Photometric Feature Tracking Using Events and Frames",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01209-w",
+        "paper_authors": [
+            "Daniel Gehrig",
+            "Henri Rebecq",
+            "Guillermo Gallego",
+            "Davide Scaramuzza"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Correction to: EKLT: Asynchronous Photometric Feature Tracking Using Events and Frames",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01233-w",
+        "paper_authors": [
+            "Daniel Gehrig",
+            "Henri Rebecq",
+            "Guillermo Gallego",
+            "Davide Scaramuzza"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Jointly Discovering Visual Objects and Spoken Words from Raw Sensory Input",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01205-0",
+        "paper_authors": [
+            "David Harwath",
+            "Adri\u00e0 Recasens",
+            "D\u00eddac Sur\u00eds",
+            "Galen Chuang",
+            "Antonio Torralba",
+            "James R. Glass"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CornerNet: Detecting Objects as Paired Keypoints",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01204-1",
+        "paper_authors": [
+            "Hei Law",
+            "Jia Deng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DeepIM: Deep Iterative Matching for 6D Pose Estimation",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01250-9",
+        "paper_authors": [
+            "Yi Li",
+            "Gu Wang",
+            "Xiangyang Ji",
+            "Yu Xiang",
+            "Dieter Fox"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Differential Scene Flow from Light Field Gradients",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01230-z",
+        "paper_authors": [
+            "Sizhuo Ma",
+            "Brandon M. Smith",
+            "Mohit Gupta"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GANimation: One-Shot Anatomically Consistent Facial Animation",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01210-3",
+        "paper_authors": [
+            "Albert Pumarola",
+            "Antonio Agudo",
+            "Aleix M. Mart\u00ednez",
+            "Alberto Sanfeliu",
+            "Francesc Moreno-Noguer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Augmented Autoencoders: Implicit 3D Orientation Learning for 6D Object Detection",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01243-8",
+        "paper_authors": [
+            "Martin Sundermeyer",
+            "Zoltan-Csaba Marton",
+            "Maximilian Durner",
+            "Rudolph Triebel"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Convolutional Networks with Adaptive Inference Graphs",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01190-4",
+        "paper_authors": [
+            "Andreas Veit",
+            "Serge J. Belongie"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Group Normalization",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01198-w",
+        "paper_authors": [
+            "Yuxin Wu",
+            "Kaiming He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DeepTAM: Deep Tracking and Mapping with Convolutional Neural Networks",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01221-0",
+        "paper_authors": [
+            "Huizhong Zhou",
+            "Benjamin Ummenhofer",
+            "Thomas Brox"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Editorial: Special Issue on Machine Vision with Deep Learning",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01317-y",
+        "paper_authors": [
+            "Ling Shao",
+            "Hubert P. H. Shum",
+            "Timothy M. Hospedales"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning on the Edge: Investigating Boundary Filters in CNNs",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01223-y",
+        "paper_authors": [
+            "Carlo Innamorati",
+            "Tobias Ritschel",
+            "Tim Weyrich",
+            "Niloy J. Mitra"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Simple and Light-Weight Attention Module for Convolutional Neural Networks",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01283-0",
+        "paper_authors": [
+            "Jongchan Park",
+            "Sanghyun Woo",
+            "Joon-Young Lee",
+            "In So Kweon"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Simultaneous Deep Stereo Matching and Dehazing with Feature Attention",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01294-2",
+        "paper_authors": [
+            "Taeyong Song",
+            "Youngjung Kim",
+            "Changjae Oh",
+            "Hyunsung Jang",
+            "Namkoo Ha",
+            "Kwanghoon Sohn"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pixelated Semantic Colorization",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01271-4",
+        "paper_authors": [
+            "Jiaojiao Zhao",
+            "Jungong Han",
+            "Ling Shao",
+            "Cees G. M. Snoek"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Single-Image 3D Reconstruction by Generative Modelling of Shape, Pose and Shading",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01219-8",
+        "paper_authors": [
+            "Paul Henderson",
+            "Vittorio Ferrari"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Modeling Human Motion with Quaternion-Based Neural Networks",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01245-6",
+        "paper_authors": [
+            "Dario Pavllo",
+            "Christoph Feichtenhofer",
+            "Michael Auli",
+            "David Grangier"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Multi-human Optical Flow",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01279-w",
+        "paper_authors": [
+            "Anurag Ranjan",
+            "David T. Hoffmann",
+            "Dimitrios Tzionas",
+            "Siyu Tang",
+            "Javier Romero",
+            "Michael J. Black"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01281-2",
+        "paper_authors": [
+            "Stephanie Stoll",
+            "Necati Cihan Camg\u00f6z",
+            "Simon Hadfield",
+            "Richard Bowden"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Guest Editorial: Special Issue on ACCV 2018",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01296-0",
+        "paper_authors": [
+            "C. V. Jawahar",
+            "Hongdong Li",
+            "Greg Mori",
+            "Konrad Schindler"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "EdgeStereo: An Effective Multi-task Learning Network for Stereo Matching and Edge Detection",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01287-w",
+        "paper_authors": [
+            "Xiao Song",
+            "Xu Zhao",
+            "Liangji Fang",
+            "Hanwen Hu",
+            "Yizhou Yu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "VOSTR: Video Object Segmentation via Transferable Representations",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01224-x",
+        "paper_authors": [
+            "Yi-Wen Chen",
+            "Yi-Hsuan Tsai",
+            "Yen-Yu Lin",
+            "Ming-Hsuan Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Minimal Solvers for Rectifying from Radially-Distorted Scales and Change of Scales",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01216-x",
+        "paper_authors": [
+            "James Pritts",
+            "Zuzana Kukelova",
+            "Viktor Larsson",
+            "Yaroslava Lochman",
+            "Ondrej Chum"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Editor's Note",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01318-x",
+        "paper_authors": [
+            "Thomas Brox",
+            "Mario Fritz"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "KS(conf): A Light-Weight Test if a Multiclass Classifier Operates Outside of Its Specifications",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01232-x",
+        "paper_authors": [
+            "R\u00e9my Sun",
+            "Christoph H. Lampert"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Correction to: KS(conf): A Light-Weight Test if a Multiclass Classifier Operates Outside of Its Specifications",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01262-5",
+        "paper_authors": [
+            "R\u00e9my Sun",
+            "Christoph H. Lampert"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "End-to-End Learning of Decision Trees and Forests",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01237-6",
+        "paper_authors": [
+            "Thomas M. Hehn",
+            "Julian F. P. Kooij",
+            "Fred A. Hamprecht"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "3D Fluid Flow Estimation with Integrated Particle Reconstruction",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01261-6",
+        "paper_authors": [
+            "Katrin Lasinger",
+            "Christoph Vogel",
+            "Thomas Pock",
+            "Konrad Schindler"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scaling up the Randomized Gradient-Free Adversarial Attack Reveals Overestimation of Robustness Using Established Attacks",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01213-0",
+        "paper_authors": [
+            "Francesco Croce",
+            "Jonas Rauber",
+            "Matthias Hein"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Inference, Learning and Attention Mechanisms that Exploit and Preserve Sparsity in CNNs",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01302-5",
+        "paper_authors": [
+            "Timo Hackel",
+            "Mikhail Usvyatsov",
+            "Silvano Galliani",
+            "Jan D. Wegner",
+            "Konrad Schindler"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Object Annotation via Speaking and Pointing",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01255-4",
+        "paper_authors": [
+            "Michael Gygli",
+            "Vittorio Ferrari"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning to Draw Sight Lines",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01263-4",
+        "paper_authors": [
+            "Hao Zhao",
+            "Ming Lu",
+            "Anbang Yao",
+            "Yurong Chen",
+            "Li Zhang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Refractive Two-View Reconstruction for Underwater 3D Vision",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01218-9",
+        "paper_authors": [
+            "Fran\u00e7ois Chadebecq",
+            "Francisco Vasconcelos",
+            "Rene M. Lacher",
+            "Efthymios Maneas",
+            "Adrien E. Desjardins",
+            "S\u00e9bastien Ourselin",
+            "Tom Vercauteren",
+            "Danail Stoyanov"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01265-2",
+        "paper_authors": [
+            "Guo-Jun Qi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Unmanned Aerial Vehicle Benchmark: Object Detection, Tracking and Baseline",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01266-1",
+        "paper_authors": [
+            "Hongyang Yu",
+            "Guorong Li",
+            "Weigang Zhang",
+            "Qingming Huang",
+            "Dawei Du",
+            "Qi Tian",
+            "Nicu Sebe"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Special Issue on Deep Learning for Robotic Vision",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01324-z",
+        "paper_authors": [
+            "Anelia Angelova",
+            "Gustavo Carneiro",
+            "Niko S\u00fcnderhauf",
+            "J\u00fcrgen Leitner"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning 3D Shape Completion Under Weak Supervision",
+        "paper_url": "https://doi.org/10.1007/s11263-018-1126-y",
+        "paper_authors": [
+            "David Stutz",
+            "Andreas Geiger"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Curriculum Model Adaptation with Synthetic and Real Data for Semantic Foggy Scene Understanding",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01182-4",
+        "paper_authors": [
+            "Dengxin Dai",
+            "Christos Sakaridis",
+            "Simon Hecker",
+            "Luc Van Gool"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Image-Based Geo-Localization Using Satellite Imagery",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01186-0",
+        "paper_authors": [
+            "Sixing Hu",
+            "Gim Hee Lee"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semi-supervised Semantic Mapping Through Label Propagation with Semantic Texture Meshes",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01187-z",
+        "paper_authors": [
+            "Radu Alexandru Rosu",
+            "Jan Quenzel",
+            "Sven Behnke"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Self-Supervised Model Adaptation for Multimodal Semantic Segmentation",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01188-y",
+        "paper_authors": [
+            "Abhinav Valada",
+            "Rohit Mohan",
+            "Wolfram Burgard"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SeDAR: Reading Floorplans Like a Human - Using Deep Learning to Enable Human-Inspired Localisation",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01239-4",
+        "paper_authors": [
+            "Oscar Mendez Maldonado",
+            "Simon Hadfield",
+            "Nicolas Pugeault",
+            "Richard Bowden"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Cognitive Mapping and Planning for Visual Navigation",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01236-7",
+        "paper_authors": [
+            "Saurabh Gupta",
+            "Varun Tolani",
+            "James Davidson",
+            "Sergey Levine",
+            "Rahul Sukthankar",
+            "Jitendra Malik"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Multicameral Decoding for Localizing Unoccluded Object Instances from a Single RGB Image",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01323-0",
+        "paper_authors": [
+            "Matthieu Grard",
+            "Emmanuel Dellandr\u00e9a",
+            "Liming Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Model-Based Robot Imitation with Future Image Similarity",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01238-5",
+        "paper_authors": [
+            "Alan Wu",
+            "A. J. Piergiovanni",
+            "Michael S. Ryoo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Correction to: Model-Based Robot Imitation with Future Image Similarity",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01272-3",
+        "paper_authors": [
+            "Alan Wu",
+            "A. J. Piergiovanni",
+            "Michael S. Ryoo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Special Issue on Generating Realistic Visual Data of Human Behavior",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01319-w",
+        "paper_authors": [
+            "Xavier Alameda-Pineda",
+            "Elisa Ricci",
+            "Albert Ali Salah",
+            "Nicu Sebe",
+            "Shuicheng Yan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Framework for Unsupervised Learning of Motion Dynamics in Videos",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01246-5",
+        "paper_authors": [
+            "Concetto Spampinato",
+            "Simone Palazzo",
+            "P. D'Oro",
+            "Daniela Giordano",
+            "Mubarak Shah"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Realistic Speech-Driven Facial Animation with GANs",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01251-8",
+        "paper_authors": [
+            "Konstantinos Vougioukas",
+            "Stavros Petridis",
+            "Maja Pantic"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Weakly Supervised Multi-task Ranking Framework for Actor-Action Semantic Segmentation",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01244-7",
+        "paper_authors": [
+            "Yan Yan",
+            "Chenliang Xu",
+            "Dawen Cai",
+            "Jason J. Corso"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Masked Linear Regression for Learning Local Receptive Fields for Facial Expression Synthesis",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01256-3",
+        "paper_authors": [
+            "Nazar Khan",
+            "Arbish Akram",
+            "Arif Mahmood",
+            "Sania Ashraf",
+            "Kashif Murtaza"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Neural Network Augmentation: Generating Faces for Affect Analysis",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01304-3",
+        "paper_authors": [
+            "Dimitrios Kollias",
+            "Shiyang Cheng",
+            "Evangelos Ververas",
+            "Irene Kotsia",
+            "Stefanos Zafeiriou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards High Fidelity Face Frontalization in the Wild",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01229-6",
+        "paper_authors": [
+            "Jie Cao",
+            "Yibo Hu",
+            "Hongwen Zhang",
+            "Ran He",
+            "Zhenan Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Generating Human Action Videos by Coupling 3D Game Engines and Probabilistic Graphical Models",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01222-z",
+        "paper_authors": [
+            "C\u00e9sar Roberto de Souza",
+            "Adrien Gaidon",
+            "Yohann Cabon",
+            "Naila Murray",
+            "Antonio M. L\u00f3pez"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DGPose: Deep Generative Models for Human Body Analysis",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01306-1",
+        "paper_authors": [
+            "Rodrigo Andrade de Bem",
+            "Arnab Ghosh",
+            "Thalaiyasingam Ajanthan",
+            "Ondrej Miksik",
+            "Adnane Boukhayma",
+            "N. Siddharth",
+            "Philip H. S. Torr"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Face Fairness Framework for 3D Meshes",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01268-z",
+        "paper_authors": [
+            "Sk. Mohammadul Haque",
+            "Venu Madhav Govindu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GMS: Grid-Based Motion Statistics for Fast, Ultra-robust Feature Correspondence",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01280-3",
+        "paper_authors": [
+            "Jia-Wang Bian",
+            "Wen-Yan Lin",
+            "Yun Liu",
+            "Le Zhang",
+            "Sai-Kit Yeung",
+            "Ming-Ming Cheng",
+            "Ian Reid"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Real-Time Multi-person Motion Capture from Multi-view Video and IMUs",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01270-5",
+        "paper_authors": [
+            "Charles Malleson",
+            "John P. Collomosse",
+            "Adrian Hilton"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Representation Learning on Unit Ball with 3D Roto-translational Equivariance",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01278-x",
+        "paper_authors": [
+            "Sameera Ramasinghe",
+            "Salman H. Khan",
+            "Nick Barnes",
+            "Stephen Gould"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Scalable Person Re-Identification by Harmonious Attention",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01274-1",
+        "paper_authors": [
+            "Wei Li",
+            "Xiatian Zhu",
+            "Shaogang Gong"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fine-Grained Person Re-identification",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01259-0",
+        "paper_authors": [
+            "Jiahang Yin",
+            "Ancong Wu",
+            "Wei-Shi Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Siamese Dense Network for Reflection Removal with Flash and No-Flash Image Pairs",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01276-z",
+        "paper_authors": [
+            "Yakun Chang",
+            "Cheolkon Jung",
+            "Jun Sun",
+            "Fengqiao Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Gated Fusion Network for Degraded Image Super Resolution",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01285-y",
+        "paper_authors": [
+            "Xinyi Zhang",
+            "Hang Dong",
+            "Zhe Hu",
+            "Wei-Sheng Lai",
+            "Fei Wang",
+            "Ming-Hsuan Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Discriminative Training of Conditional Random Fields with Probably Submodular Constraints",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01277-y",
+        "paper_authors": [
+            "Maxim Berman",
+            "Matthew B. Blaschko"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01293-3",
+        "paper_authors": [
+            "Xiang Wang",
+            "Sifei Liu",
+            "Huimin Ma",
+            "Ming-Hsuan Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Visual Social Relationship Recognition",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01295-1",
+        "paper_authors": [
+            "Junnan Li",
+            "Yongkang Wong",
+            "Qi Zhao",
+            "Mohan S. Kankanhalli"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RGB-IR Person Re-identification by Cross-Modality Similarity Preservation",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01290-1",
+        "paper_authors": [
+            "Ancong Wu",
+            "Wei-Shi Zheng",
+            "Shaogang Gong",
+            "Jianhuang Lai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Bottom-Up Scene Text Detection with Markov Clustering Networks",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01298-y",
+        "paper_authors": [
+            "Zichuan Liu",
+            "Guosheng Lin",
+            "Wang Ling Goh"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-task Generative Adversarial Network for Detecting Small Objects in the Wild",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01301-6",
+        "paper_authors": [
+            "Yongqiang Zhang",
+            "Yancheng Bai",
+            "Mingli Ding",
+            "Bernard Ghanem"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Exploiting Semantics for Face Image Deblurring",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01288-9",
+        "paper_authors": [
+            "Ziyi Shen",
+            "Wei-Sheng Lai",
+            "Tingfa Xu",
+            "Jan Kautz",
+            "Ming-Hsuan Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Is There Anything New to Say About SIFT Matching?",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01297-z",
+        "paper_authors": [
+            "Fabio Bellavia",
+            "Carlo Colombo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Deep Image Prior",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01303-4",
+        "paper_authors": [
+            "Dmitry Ulyanov",
+            "Andrea Vedaldi",
+            "Victor S. Lempitsky"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Light Structure from Pin Motion: Geometric Point Light Source Calibration",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01312-3",
+        "paper_authors": [
+            "Hiroaki Santo",
+            "Michael Waechter",
+            "Wen-Yan Lin",
+            "Yusuke Sugano",
+            "Yasuyuki Matsushita"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MAP Inference Via \u2113 2-Sphere Linear Program Reformulation",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01313-2",
+        "paper_authors": [
+            "Baoyuan Wu",
+            "Li Shen",
+            "Tong Zhang",
+            "Bernard Ghanem"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semi-online Multi-people Tracking by Re-identification",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01314-1",
+        "paper_authors": [
+            "Long Lan",
+            "Xinchao Wang",
+            "Gang Hua",
+            "Thomas S. Huang",
+            "Dacheng Tao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "The Open Images Dataset V4",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01316-z",
+        "paper_authors": [
+            "Alina Kuznetsova",
+            "Hassan Rom",
+            "Neil Alldrin",
+            "Jasper R. R. Uijlings",
+            "Ivan Krasin",
+            "Jordi Pont-Tuset",
+            "Shahab Kamali",
+            "Stefan Popov",
+            "Matteo Malloci",
+            "Alexander Kolesnikov",
+            "Tom Duerig",
+            "Vittorio Ferrari"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Enhanced Balanced Min Cut",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01320-3",
+        "paper_authors": [
+            "Xiaojun Chen",
+            "Weijun Hong",
+            "Feiping Nie",
+            "Joshua Zhexue Huang",
+            "Li Shen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Efficient Visual Recognition",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01351-w",
+        "paper_authors": [
+            "Li Liu",
+            "Matti Pietik\u00e4inen",
+            "Jie Qin",
+            "Wanli Ouyang",
+            "Luc Van Gool"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A Survey of Deep Facial Attribute Analysis",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01308-z",
+        "paper_authors": [
+            "Xin Zheng",
+            "Yanqing Guo",
+            "Huaibo Huang",
+            "Yi Li",
+            "Ran He"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hardware-Centric AutoML for Mixed-Precision Quantization",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01339-6",
+        "paper_authors": [
+            "Kuan Wang",
+            "Zhijian Liu",
+            "Yujun Lin",
+            "Ji Lin",
+            "Song Han"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Spatially-Adaptive Filter Units for Compact and Efficient Deep Neural Networks",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01282-1",
+        "paper_authors": [
+            "Domen Tabernik",
+            "Matej Kristan",
+            "Ales Leonardis"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "HetConv: Beyond Homogeneous Convolution Kernels for Deep CNNs",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01264-3",
+        "paper_authors": [
+            "Pravendra Singh",
+            "Vinay Kumar Verma",
+            "Piyush Rai",
+            "Vinay P. Namboodiri"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning an Evolutionary Embedding via Massive Knowledge Distillation",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01286-x",
+        "paper_authors": [
+            "Xiang Wu",
+            "Ran He",
+            "Yibo Hu",
+            "Zhenan Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SSN: Learning Sparse Switchable Normalization via SparsestMax",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01269-y",
+        "paper_authors": [
+            "Wenqi Shao",
+            "Jingyu Li",
+            "Jiamin Ren",
+            "Ruimao Zhang",
+            "Xiaogang Wang",
+            "Ping Luo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rectified Wing Loss for Efficient and Robust Facial Landmark Localisation with Convolutional Neural Networks",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01275-0",
+        "paper_authors": [
+            "Zhen-Hua Feng",
+            "Josef Kittler",
+            "Muhammad Awais",
+            "Xiao-Jun Wu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multi-task Compositional Network for Visual Relationship Detection",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01353-8",
+        "paper_authors": [
+            "Yibing Zhan",
+            "Jun Yu",
+            "Ting Yu",
+            "Dacheng Tao"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Disentangled Representation Learning of Makeup Portraits in the Wild",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01267-0",
+        "paper_authors": [
+            "Yi Li",
+            "Huaibo Huang",
+            "Jie Cao",
+            "Ran He",
+            "Tieniu Tan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Fine-Grained Multi-human Parsing",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01181-5",
+        "paper_authors": [
+            "Jian Zhao",
+            "Jianshu Li",
+            "Hengzhu Liu",
+            "Shuicheng Yan",
+            "Jiashi Feng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "A General Framework for Deep Supervised Discrete Hashing",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01327-w",
+        "paper_authors": [
+            "Qi Li",
+            "Zhenan Sun",
+            "Ran He",
+            "Tieniu Tan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning Multifunctional Binary Codes for Personalized Image Retrieval",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01315-0",
+        "paper_authors": [
+            "Haomiao Liu",
+            "Ruiping Wang",
+            "Shiguang Shan",
+            "Xilin Chen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Unified Binary Generative Adversarial Network for Image Retrieval and Compression",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01305-2",
+        "paper_authors": [
+            "Jingkuan Song",
+            "Tao He",
+            "Lianli Gao",
+            "Xing Xu",
+            "Alan Hanjalic",
+            "Heng Tao Shen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Weakly-supervised Semantic Guided Hashing for Social Image Retrieval",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01331-0",
+        "paper_authors": [
+            "Zechao Li",
+            "Jinhui Tang",
+            "Liyan Zhang",
+            "Jian Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Hadamard Matrix Guided Online Hashing",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01332-z",
+        "paper_authors": [
+            "Mingbao Lin",
+            "Rongrong Ji",
+            "Hong Liu",
+            "Xiaoshuai Sun",
+            "Shen Chen",
+            "Qi Tian"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Anchor-Based Self-Ensembling for Semi-Supervised Deep Pairwise Hashing",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01299-x",
+        "paper_authors": [
+            "Xiaoshuang Shi",
+            "Zhenhua Guo",
+            "Fuyong Xing",
+            "Yun Liang",
+            "Lin Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Product Quantization Network for Fast Visual Search",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01326-x",
+        "paper_authors": [
+            "Tan Yu",
+            "Jingjing Meng",
+            "Chen Fang",
+            "Hailin Jin",
+            "Junsong Yuan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Tensorized Multi-view Subspace Representation Learning",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01307-0",
+        "paper_authors": [
+            "Changqing Zhang",
+            "Huazhu Fu",
+            "Jing Wang",
+            "Wen Li",
+            "Xiaochun Cao",
+            "Qinghua Hu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Guest Editorial: Generative Adversarial Networks for Computer Vision",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01380-5",
+        "paper_authors": [
+            "Jun-Yan Zhu",
+            "Hongsheng Li",
+            "Eli Shechtman",
+            "Ming-Yu Liu",
+            "Jan Kautz",
+            "Antonio Torralba"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Discriminative Region Proposal Adversarial Network for High-Quality Image-to-Image Translation",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01273-2",
+        "paper_authors": [
+            "Chao Wang",
+            "Wenjie Niu",
+            "Yufeng Jiang",
+            "Haiyong Zheng",
+            "Zhibin Yu",
+            "Zhaorui Gu",
+            "Bing Zheng"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Handwritten Mathematical Expression Recognition via Paired Adversarial Learning",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01291-5",
+        "paper_authors": [
+            "Jin-Wen Wu",
+            "Fei Yin",
+            "Yan-Ming Zhang",
+            "Xu-Yao Zhang",
+            "Cheng-Lin Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "DRIT++: Diverse Image-to-Image Translation via Disentangled Representations",
+        "paper_url": "https://doi.org/10.1007/s11263-019-01284-z",
+        "paper_authors": [
+            "Hsin-Ying Lee",
+            "Hung-Yu Tseng",
+            "Qi Mao",
+            "Jia-Bin Huang",
+            "Yu-Ding Lu",
+            "Maneesh Singh",
+            "Ming-Hsuan Yang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Layout2image: Image Generation from Layout",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01300-7",
+        "paper_authors": [
+            "Bo Zhao",
+            "Weidong Yin",
+            "Lili Meng",
+            "Leonid Sigal"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Discriminator Feature-Based Inference by Recycling the Discriminator of GANs",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01311-4",
+        "paper_authors": [
+            "Duhyeon Bang",
+            "Seoungyoon Kang",
+            "Hyunjung Shim"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "MimicGAN: Robust Projection onto Image Manifolds with Corruption Mimicking",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01310-5",
+        "paper_authors": [
+            "Rushil Anirudh",
+            "Jayaraman J. Thiagarajan",
+            "Bhavya Kailkhura",
+            "Peer-Timo Bremer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pix2Shape: Towards Unsupervised Learning of 3D Scenes from Images Using a View-Based Representation",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01322-1",
+        "paper_authors": [
+            "Sai Rajeswar",
+            "Fahim Mannan",
+            "Florian Golemo",
+            "J\u00e9r\u00f4me Parent-L\u00e9vesque",
+            "David V\u00e1zquez",
+            "Derek Nowrouzezahrai",
+            "Aaron C. Courville"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Adversarial Confidence Learning for Medical Image Segmentation and Synthesis",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01321-2",
+        "paper_authors": [
+            "Dong Nie",
+            "Dinggang Shen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Image-to-Video Translation: A Structure-Aware Approach via Multi-stage Generative Adversarial Networks",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01328-9",
+        "paper_authors": [
+            "Long Zhao",
+            "Xi Peng",
+            "Yu Tian",
+            "Mubbasir Kapadia",
+            "Dimitris N. Metaxas"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "3DFaceGAN: Adversarial Nets for 3D Face Representation, Generation, and Translation",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01329-8",
+        "paper_authors": [
+            "Stylianos Moschoglou",
+            "Stylianos Ploumpis",
+            "Mihalis A. Nicolaou",
+            "Athanasios Papaioannou",
+            "Stefanos Zafeiriou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "High-Quality Video Generation from Static Structural Annotations",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01334-x",
+        "paper_authors": [
+            "Lu Sheng",
+            "Junting Pan",
+            "Jiaming Guo",
+            "Jing Shao",
+            "Chen Change Loy"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Compositional GAN: Learning Image-Conditional Binary Composition",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01336-9",
+        "paper_authors": [
+            "Samaneh Azadi",
+            "Deepak Pathak",
+            "Sayna Ebrahimi",
+            "Trevor Darrell"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Train Sparsely, Generate Densely: Memory-Efficient Unsupervised Training of High-Resolution Temporal GAN",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01333-y",
+        "paper_authors": [
+            "Masaki Saito",
+            "Shunta Saito",
+            "Masanori Koyama",
+            "Sosuke Kobayashi"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Multimodal Image Synthesis with Conditional Implicit Maximum Likelihood Estimation",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01325-y",
+        "paper_authors": [
+            "Ke Li",
+            "Shichong Peng",
+            "Tianhao Zhang",
+            "Jitendra Malik"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "SliderGAN: Synthesizing Expressive Face Images by Sliding 3D Blendshape Parameters",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01338-7",
+        "paper_authors": [
+            "Evangelos Ververas",
+            "Stefanos Zafeiriou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Inferring 3D Shapes from Image Collections Using Adversarial Networks",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01335-w",
+        "paper_authors": [
+            "Matheus Gadelha",
+            "Aartika Rai",
+            "Subhransu Maji",
+            "Rui Wang"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "RoCGAN: Robust Conditional GAN",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01348-5",
+        "paper_authors": [
+            "Grigorios G. Chrysos",
+            "Jean Kossaifi",
+            "Stefanos Zafeiriou"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Semantically Tied Paired Cycle Consistency for Any-Shot Sketch-Based Image Retrieval",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01350-x",
+        "paper_authors": [
+            "Anjan Dutta",
+            "Zeynep Akata"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Densifying Supervision for Fine-Grained Visual Comparisons",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01344-9",
+        "paper_authors": [
+            "Aron Yu",
+            "Kristen Grauman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "GADE: A Generative Adversarial Approach to Density Estimation and its Applications",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01360-9",
+        "paper_authors": [
+            "M. Ehsan Abbasnejad",
+            "Javen Shi",
+            "Anton van den Hengel",
+            "Lingqiao Liu"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Towards Photo-Realistic Facial Expression Manipulation",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01361-8",
+        "paper_authors": [
+            "Zhenglin Geng",
+            "Chen Cao",
+            "Sergey Tulyakov"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "CR-Net: A Deep Classification-Regression Network for Multimodal Apparent Personality Analysis",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01309-y",
+        "paper_authors": [
+            "Yunan Li",
+            "Jun Wan",
+            "Qiguang Miao",
+            "Sergio Escalera",
+            "Huijuan Fang",
+            "Huizhou Chen",
+            "Xiangda Qi",
+            "Guodong Guo"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Necessary and Sufficient Polynomial Constraints on Compatible Triplets of Essential Matrices",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01330-1",
+        "paper_authors": [
+            "Evgeniy V. Martyushev"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning the Clustering of Longitudinal Shape Data Sets into a Mixture of Independent or Branching Trajectories",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01337-8",
+        "paper_authors": [
+            "Vianney Debavelaere",
+            "Stanley Durrleman",
+            "St\u00e9phanie Allassonni\u00e8re"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Transferrable Feature and Projection Learning with Class Hierarchy for Zero-Shot Learning",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01342-x",
+        "paper_authors": [
+            "Aoxue Li",
+            "Zhiwu Lu",
+            "Jiechao Guan",
+            "Tao Xiang",
+            "Liwei Wang",
+            "Ji-Rong Wen"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Gradient Shape Model",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01341-y",
+        "paper_authors": [
+            "Pedro Martins",
+            "Jo\u00e3o F. Henriques",
+            "Jorge Batista"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Mix and Match Networks: Cross-Modal Alignment for Zero-Pair Image-to-Image Translation",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01340-z",
+        "paper_authors": [
+            "Yaxing Wang",
+            "Luis Herranz",
+            "Joost van de Weijer"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Learning the spatiotemporal variability in longitudinal shape data sets",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01343-w",
+        "paper_authors": [
+            "Alexandre B\u00f4ne",
+            "Olivier Colliot",
+            "Stanley Durrleman"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Incorporating Side Information by Adaptive Convolution",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01345-8",
+        "paper_authors": [
+            "Di Kang",
+            "Debarun Dhar",
+            "Antoni B. Chan"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01347-6",
+        "paper_authors": [
+            "Haozhe Xie",
+            "Hongxun Yao",
+            "Shengping Zhang",
+            "Shangchen Zhou",
+            "Wenxiu Sun"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Long-Short Temporal-Spatial Clues Excited Network for Robust Person Re-identification",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01349-4",
+        "paper_authors": [
+            "Shuai Li",
+            "Wenfeng Song",
+            "Zheng Fang",
+            "Jiaying Shi",
+            "Aimin Hao",
+            "Qinping Zhao",
+            "Hong Qin"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Rooted Spanning Superpixels",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01352-9",
+        "paper_authors": [
+            "Dengfeng Chai"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Zero-Shot Object Detection: Joint Recognition and Localization of Novel Concepts",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01355-6",
+        "paper_authors": [
+            "Shafin Rahman",
+            "Salman H. Khan",
+            "Fatih Porikli"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    },
+    {
+        "paper_name": "Video Based Face Recognition by Using Discriminatively Learned Convex Models",
+        "paper_url": "https://doi.org/10.1007/s11263-020-01356-5",
+        "paper_authors": [
+            "Hakan Cevikalp",
+            "Golara Ghorban Dordinejad"
+        ],
+        "paper_abstract": "",
+        "paper_code": "#",
+        "paper_cite": -1
+    }
+]
